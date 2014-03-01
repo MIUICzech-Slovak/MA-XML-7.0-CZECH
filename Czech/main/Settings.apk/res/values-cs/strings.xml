@@ -2597,4 +2597,101 @@ můžete použít jinou síť"</string>
     <string name="xiaomi_account">Xiaomi účet</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">MiKredity</string>
+        <string name="account_add">Add</string>
+    <string name="account_autostar_label">Auto running</string>
+    <string name="account_list">All</string>
+    <string name="apply_now_button_text">Update</string>
+    <string name="cancel_download_buton_text">Cancel</string>
+    <string name="check_update">Check update</string>
+    <string name="checking_for_updates">Checking for updates…</string>
+    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
+    <string name="connect_to_internet">Connect to Internet</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="downloading_description">Downloading…</string>
+    <string name="found_new_version">Found new version</string>
+    <string name="help_url_nfc_payment"/>
+    <string name="help_url_remote_display"/>
+Try the following:
+1) Use installation tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+2) Create a directory \"mkdir\" /media/mtp
+3) Confirm user group permissions in the current fuse user group
+4) Sign in again
+5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
+6) Uninstall device fusermount -u /media/mtp
+ Note: For ubuntu 8.04 environment"</string>
+Try the following:
+"<li>"Do a search for
+Android File Transfer,
+and run the software."</li>"
+"<li>Reconnect the USB cable.</li>"
+"<li>Reinstall the driver.</li></string>
+Try reconnecting the USB cable."</string>
+Try the following:
+"<li>1) Reconnect the USB cable.</li>"
+"<li>2) Reinstall the driver.</li></string>
+    <string name="network_error">Network error.</string>
+    <string name="no_update_found">Already the latest version</string>
+    <string name="no_updates_found">"You're already running the latest version of MIUI."</string>
+    <string name="no_updates_warning">No updates were found for your tablet.</string>
+    <string name="no_updates_warning2">"Relax, we'll notify you if there's an update."</string>
+    <string name="oldman_mode_confirm_title">Reboot to enter Lite mode?</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot and enter Lite mode.</string>
+    <string name="oldman_mode_enabled_name">Lite mode</string>
+    <string name="oldman_mode_entry_name">Lite mode</string>
+    <string name="oldman_mode_entry_title">Lite mode</string>
+    <string name="oldman_mode_settings_caption">Lite mode settings</string>
+    <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
+    <string name="service_client_name">%1$s</string>
+    <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
+    <string name="status_bar_filter_item_description">To configure notifications, go to General Settings > Notifications > Manage notifications</string>
+    <string name="status_bar_filter_item_preview_image">Preview</string>
+    <string name="status_bar_key_position_custom">Custom key position</string>
+    <string name="status_bar_screen_button_key">Screen virtual keys</string>
+    <string name="status_bar_screen_key_back">Back button</string>
+    <string name="status_bar_screen_key_home">Home button</string>
+    <string name="status_bar_screen_key_menu">Menu button</string>
+    <string name="status_bar_screen_key_recent_apps">Recent apps button</string>
+    <string name="status_bar_settings_advanced">Additional settings</string>
+    <string name="status_bar_settings_all_app_display_loading">Loading…</string>
+    <string name="status_bar_settings_basic_settings">Basic settings</string>
+    <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
+    <string name="status_bar_settings_custom_notification">Manage notifications</string>
+    <string name="status_bar_settings_custom_wifi_name">Edit Wi-Fi name</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Enable on lock screen</string>
+    <string name="status_bar_settings_no_carrier">None</string>
+    <string name="status_bar_settings_notification_bar">Notification shade</string>
+    <string name="status_bar_settings_show_carrier">Show service provider</string>
+    <string name="status_bar_settings_show_carrier_summary">Only display on lock screen</string>
+    <string name="status_bar_settings_show_flow_info">Show flow details</string>
+    <string name="status_bar_settings_show_network_speed">Show connection speed</string>
+    <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
+    <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
+    <string name="status_bar_settings_show_statusBar_notification">Show in status bar</string>
+    <string name="status_bar_settings_show_wifi_name">Show Wi-Fi</string>
+    <string name="status_bar_settings_status_bar">Status bar</string>
+    <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
+    <string name="status_bar_settings_toggle_layout_style">Toggle layout style</string>
+    <string name="status_bar_settings_toggle_layout_style_applying">Changing style…</string>
+    <string name="status_bar_settings_toggle_layout_style_compact">Bar</string>
+    <string name="status_bar_settings_toggle_layout_style_single_page">Page</string>
+    <string name="status_bar_style_settings">Notifications</string>
+    <string name="status_imei">IMEI</string>
+    <string name="status_imei_sv">IMEI SV</string>
+    <string name="system_storage">Internal storage</string>
+    <string name="welcome">Welcome</string>
+    <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+    <string name="wifi_display_certification_heading">Certification</string>
+    <string name="wifi_display_listen_channel">Listen channel</string>
+    <string name="wifi_display_listen_mode">Enable listen mode</string>
+    <string name="wifi_display_operating_channel">Operating channel</string>
+    <string name="wifi_display_pause">Pause</string>
+    <string name="wifi_display_resume">Resume</string>
+    <string name="wifi_display_session_info">Session info</string>
+    <string name="wifi_display_wps_config">WPS configuration</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_setting_category">To activate your device, connect to the Internet</string>
 </resources>
