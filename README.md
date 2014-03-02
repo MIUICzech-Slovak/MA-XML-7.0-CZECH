@@ -1,12 +1,12 @@
 XML_MIUI-v6
 ===========
 
-MIUI-v6 translation for all supported devices. MIUI Translation: **kynio**
+MIUI-v6 translation for all supported devices. MIUI Translation: **Kynio**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-SLOVAK strings by miui.cz are under a 
+CZECH strings by miui.cz are under a 
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Based on a work at http://miui.com
