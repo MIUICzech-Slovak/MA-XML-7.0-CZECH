@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="account_bind_prompt">"Migrování uživatelských dat. 
-Váš účet bude dočasně zablokovaný, 
-čekejte prosím..."</string>
+    <string name="account_bind_prompt">"Migrování uživatelských dat. Čekejte prosím..."</string>
     <string name="add_task">Přidat úlohu</string>
     <string name="adding_upload_tasks">Přidávání souborů pro nahrání.</string>
     <string name="already_signin_description">Podepsat se můžete pouze jednou za den, zkuste to opět zítra.</string>
@@ -32,7 +30,6 @@ Váš účet bude dočasně zablokovaný,
     <string name="category_document">Dokum.</string>
     <string name="category_favorite">Oblíbené</string>
     <string name="category_log">Záznamy</string>
-    <string name="category_mirouter">MiRouter</string>
     <string name="category_music">Hudba</string>
     <string name="category_other">Ostatní</string>
     <string name="category_picture">Obrázky</string>
@@ -145,6 +142,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
     <string name="load_err">Načítání selhalo</string>
     <string name="loading">Načítám...</string>
+<string name="local">Lokální</string>
     <string name="local_cache_size">Velikost místní cache: %s</string>
     <string name="login_reg_content">S MiDrive můžete synchronizovat soubory mezi různými zařízeními.</string>
     <string name="login_reg_content0">MiDrive je Váš Cloud</string>
@@ -196,8 +194,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="operation_decompressing">Rozbalování...</string>
     <string name="operation_delete">Smazat</string>
     <string name="operation_delete_confirm_message">Opravdu smazat?</string>
-    <string name="operation_delete_confirm_message_folder">"Vymazáním složky smažete i soubory v ní.
-"</string>
+    <string name="operation_delete_confirm_message_folder">"Vymazáním složky smažete i soubory v ní."</string>
     <string name="operation_deleting">Odstraňování...</string>
     <string name="operation_deleting_detail">Mazání (%1$d/%2$d)</string>
     <string name="operation_download_link">Generovat odkaz ke stažení</string>
@@ -260,10 +257,12 @@ Bylo přičteno dalších %1$s"</string>
     <string name="storage_usb">USB úložiště</string>
     <string name="storage_warning">SD karta není přístupná, nebo ji nelze přečíst.</string>
     <string name="sys_size">Celková kapacita %1$s</string>
+<string name="sys_size_enable">povolit</string>
     <string name="sys_size_title">Celková kapacita úložiště</string>
     <string name="tab_category">Kategorie</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="tab_phone">Telefon</string>
+<string name="tab_sys_size">Celkové úložiště</string>
     <string name="temp_file_cleanup_indication">%s dočasné soubory</string>
     <string name="temp_file_title">Dočasné soubory</string>
     <string name="thumbnail_cleanup_indication">%s náhledů</string>
