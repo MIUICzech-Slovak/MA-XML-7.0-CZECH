@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Odinstalovat \"%1$s\" a %2$d další aplikace?</item>
+        <item quantity="one">Odinstalovat \"%s\"</item>
+        <item quantity="two">Odinstalovat \"%s\" a 1 další aplikaci?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%d aplikací je odinstalováno</item>
+        <item quantity="one">Aplikace je odinstalována</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Nelze odinstalovat \"%1$s\" a %2$d další aplikace"</item>
+        <item quantity="one">"Nelze odinstalovat"</item>
+        <item quantity="two">"Nelze odinstalovat \"%s\" a 1 další aplikaci"</item>
+    </plurals>
+</resources>
