@@ -2,6 +2,8 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string name="all_downloads">Veškerá stahování</string>
+    <string name="all_fileter">Vše</string>
+    <string name="apk_filter">APK</string>
     <string name="app_downloads">Stahování z aplikace %s</string>
     <string name="app_label">Stahování</string>
     <string name="button_sort_by_date">Seřadit podle data</string>
@@ -24,6 +26,7 @@
     <string name="dialog_queued_body">Tento soubor je již ve frontě pro stažení.</string>
     <string name="dialog_title_not_available">Stahování neúspěšné</string>
     <string name="dialog_title_queued_body">Soubor zatím není k dispozici</string>
+    <string name="doc_filter">DOKUM.</string>
     <string name="download_complete">Staženo</string>
     <string name="download_error">Neúspěšné</string>
     <string name="download_error_insufficient_space">Nedostatek místa</string>
@@ -45,11 +48,14 @@
     <string name="editmode_menu_delete">Vymazat</string>
     <string name="editmode_menu_share">Sdílet</string>
     <string name="keep_queued_download">Udržet</string>
+    <string name="media_filter">MÉDIA</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="menu_preferences">Nastavení</string>
     <string name="missing_title">Neznámý></string>
     <string name="no_downloads">Žádná stahování</string>
     <string name="open_download">Otevřít</string>
+    <string name="other_filter">OSTATNÍ</string>
+    <string name="package_filter">ARCHIVY</string>	
     <string name="pause_download">Pauza</string>
     <string name="paused_by_app">Pozastaveno</string>
     <string name="paused_queued_for_wifi">Pozastaveno, čekání na připojení Wi-Fi</string>

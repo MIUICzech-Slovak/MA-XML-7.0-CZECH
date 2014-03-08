@@ -195,7 +195,7 @@
     <string name="folder_name">Název složky</string>
     <string name="forward">Vpřed</string>
     <string name="geolocation_permissions_prompt_dont_share">Odmítnout</string>
-    <string name="geolocation_permissions_prompt_message">%s chce znát Vaši polohu</string>
+    <string name="geolocation_permissions_prompt_message">chce znát Vaši polohu</string>
     <string name="geolocation_permissions_prompt_remember">Pamatovat volbu</string>
     <string name="geolocation_permissions_prompt_share">Sdílet polohu</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši polohu. Změnit to můžete v Nastavení -> Soukromí a bezpečnost</string>
@@ -553,4 +553,28 @@ Opravdu chcete odejít z této stránky?"</string>
     <string name="webview_today">Dnes</string>
     <string name="webview_yesterday">Včera</string>
     <string name="week_picker_dialog_title">Nastavit týden</string>
+    <string name="error_detail_error_unknown">Neznámá</string>
+    <string name="error_detail_no_setup">Nenastaveno</string>
+    <string name="error_code_unknown">-1(Neznámá)</string>
+    <string name="error_code_server_lookup_failed">-2(Vyhledávání serveru se nezdařilo)</string>
+    <string name="error_code_unsupported_auth">-3(Nepodporovaný režim ověřování)</string>
+    <string name="error_code_server_auth_failed">-4(Ověřování serveru se nezdařilo)</string>
+    <string name="error_code_user_auth_failed">-5(Autentizace uživatele selhala)</string>
+    <string name="error_code_connection_error">-6(Nepodařilo se připojit k serveru)</string>
+    <string name="error_code_read_write_failed">-7(Chyba při čtení nebo zápisu na server)</string>
+    <string name="error_code_connection_timeout">-8(Vypršel časový limit připojení)</string>
+    <string name="error_code_too_many_redirects">-9(Příliš mnoho přesměrování)</string>
+    <string name="error_code_unsupported_uri">-10(Nepodporovaný schéma URI)</string>
+    <string name="error_code_ssl_handshake_failed">-11(Nepodařilo se ověření SSL metodou handshake)</string>
+    <string name="error_code_malformed_url">-12(Chybná URL)</string>
+    <string name="error_code_file_error">-13(Chyba souboru)</string>
+    <string name="error_code_file_not_found">-14(Soubor nenalezen)</string>
+    <string name="error_code_too_many_requests">-15(Příliš mnoho požadavků)</string>
+    <string name="error_suggest_check_network">Zkontrolujte nastavení sítě</string>
+    <string name="error_suggest_check_url">Zkontrolujte zadanou URL adresu</string>
+    <string name="error_suggest_refresh">Čas připojení vypršel. Zkuste obnovit stránku.</string>
+    <string name="error_ip_addr_count_zero">0</string>
+    <string name="error_ip_addr_count_one">1</string>
+    <string name="error_wifi_state_enabled">Povolena</string>
+    <string name="error_wifi_state_disable">Zakázána</string>
 </resources>
