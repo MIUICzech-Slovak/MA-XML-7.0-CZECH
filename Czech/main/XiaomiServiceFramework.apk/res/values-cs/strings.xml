@@ -6,7 +6,7 @@
     <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
     <string name="account">Účet</string>
     <string name="account_bind_settings">Propojit účet</string>
-    <string name="account_dspt">"Účet Xiaomi může synchronizovat a zálohovat Vaše zprávy, 
+    <string name="account_dspt">"Používejte jeden účet pro všechny produkty Xiaomi"</string> 
     <string name="account_dspt_provision">Používejte jeden účet pro všechny produkty Xiaomi.</string>
     <string name="account_hint_text">E-mail nebo telefonní číslo</string>
     <string name="account_name">Účet: %1$s</string>
@@ -211,7 +211,7 @@ Se zařízením můžete bez obav pokračovat v práci.</string>
     <string name="micloud_space_full_influence">Co se stane po zaplacení dalšího volného místa?</string>	
     <string name="micloud_storage_space">Úložiště MiCloud</string>	
     <string name="micloud_summary">Přihlaste se na Xiaomi účet pro synchronizaci kontaktů, fotografií a mnoho dalších funkcí.</string>
-    <string name="micloud_title_dspt" formatted="false">"Celkem %s
+    <string name="micloud_title_dspt" formatted="false">"Využito %s / Celkem %s"</string>
     <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
     <string name="micloud_title_full_dspt">Úložiště je plné!</string>
     <string name="micloud_user_base_info">Info o uživateli</string>
