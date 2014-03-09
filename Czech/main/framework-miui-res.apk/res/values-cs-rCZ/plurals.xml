@@ -54,7 +54,7 @@
         <item quantity="one">za 1 min</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d položek</item>
-        <item quantity="one">%1$d položka</item>
+        <item quantity="other">Položek" %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
     </plurals>
 </resources>

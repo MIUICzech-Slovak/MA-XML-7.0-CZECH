@@ -11,8 +11,8 @@
     </string-array>   
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuto</item>
-        <item>Vždy vypnuto</item>
         <item>Zeptat se</item>
+        <item>Vždy vypnuto</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Úvodní stránka</item>
@@ -70,8 +70,8 @@
         <item>Obrovské</item>
     </string-array>
     <string-array name="pref_ua_choices">
+        <item>Výchozí</item>
         <item>iPad</item>
         <item>Desktop</item>
-        <item>Android Pad</item>
         </string-array> 
 </resources>

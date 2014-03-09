@@ -61,17 +61,6 @@
   <string name="incoming_file_toast_msg">Potvrďte prosím příjem příchozího souboru z jiného zařízení.</string>
   <string name="insert_record">Vložit záznam</string>
   <string name="localPhoneName">Mé jméno</string>
-  <string name="map_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením %1$s vypršel.</string>
-  <string name="map_auth_notif_message">Zadejte klíč relace pro zařízení %1$s.</string>
-  <string name="map_auth_notif_ticker">Požadavek ověření Obex</string>
-  <string name="map_auth_notif_title">Klíč relace</string>
-  <string name="map_authentication_timeout_message">Časový limit zadání klíče relace pro %1$s vypršel.</string>
-  <string name="map_defaultname">Sada handsfree do auta</string>
-  <string name="map_defaultnumber">000000</string>
-  <string name="map_localPhoneName">Mé jméno</string>
-  <string name="map_session_key_dialog_header">Je požadován klíč relace Bluetooth</string>
-  <string name="map_session_key_dialog_title">Zadejte klíč relace pro zařízení %1$s.</string>
-  <string name="map_unknownName">Neznámý název</string>
   <string name="no_transfers">Historie přenosů je prázdná.</string>
   <string name="not_exist_file">Žádný soubor</string>
   <string name="not_exist_file_desc">"Soubor neexistuje. 

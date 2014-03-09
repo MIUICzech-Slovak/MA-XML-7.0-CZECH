@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string-array name="task_status">
-        <item>Zpracování</item>
-        <item>Čekání</item>
-        <item>Zrušené</item>
-        <item>Neúspěšné</item>
-        <item>Kompletní</item>
-        <item>Pozastaveno</item>
-    </string-array>
     <string-array name="garbage_size_entries">
         <item>0</item>
         <item>1</item>

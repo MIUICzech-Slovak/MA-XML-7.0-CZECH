@@ -1,18 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+    <string name="activate">Aktivovat</string>
+    <string name="activate_fail_notification_title">Znovu aktivujte synchronizaci Xiaomi</string>
     <string name="app_name">Správce účtu Xiaomi (MIUI)</string>
-  <string name="find_device">Najít telefon</string>
-  <string name="find_device_stop_noise">Klepněte na \"OK\" pro zastavení alarmu</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
-  <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
-  <string name="pref_title_sync_my_profile_title">Synch. můj profil</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
-  <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synch. MMS / SMS</string>
-  <string name="sync_item_sms_summary">Přečtené SMS budou automaticky synchronizované</string>
-  <string name="sync_item_sms_title">Synch. SMS</string>
-  <string name="find_device_noise_title">Najít telefon podle zvuku</string>
-  <string name="sync_item_calllog_title">Synch. záznamy o volání</string>
-  <string name="sync_item_calllog_summary">Synchronizovat záznamy o příchozích a odchozích hovorech</string>
+    <string name="check_phone_error_title">Otevření synchronizace selhalo</string>
+    <string name="check_phone_io_error">Chyba sítě</string>
+    <string name="error_forbidden">Váš účet má nějaké problémy. Synchronizace je vypnutá.</string>
+    <string name="error_not_acceptable">Server má problémy. Synchronizace je vypnutá.</string>
+    <string name="error_title">Chyba synchr. pro %s</string>
+    <string name="error_unauthorized">Příliš mnoho chyb u autorizace účtu. Synchronizace je vypnutá.</string>
+    <string name="find_device">Najít telefon</string>
+    <string name="find_device_noise_title">Najít telefon podle zvuku</string>
+    <string name="find_device_stop_noise">Klepněte na \"OK\" pro zastavení alarmu</string>
+    <string name="no_sim">Žádná SIM, služby jsou nedostupné</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
+    <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
+    <string name="send_sms_for_sync_notice">Systém odešle aktivační SMS, chcete pokračovat?</string>
+    <string name="send_sms_for_sync_title">Odeslat SMS pro aktivaci Synchronizace</string>
+    <string name="sim_changed_reactivate_int_notice">Současná SIM karta není aktivovaná. Je zapotřebí odeslat mezinárodní SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat nyní?</string>
+    <string name="sim_changed_reactivate_notice">Současná SIM karta není aktivovaná. Je nutné odeslat SMS zprávu pro aktivaci Xiaomi Synchronizace. Aktivovat teď?</string>
+    <string name="sim_in_airplane_mode">Vypnout mód Letadlo.</string>
+    <string name="sim_locked">SIM karta blokována</string>
+    <string name="sim_not_ready">SIM se používá, zkuste to později.</string>
+    <string name="sim_unavailable">SIM karta je nedostupná</string>
+    <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synch. MMS / SMS</string>
+    <string name="sync_item_sms_summary">Přečtené SMS budou automaticky synchronizované</string>
+    <string name="sync_item_sms_title">Synch. SMS</string>
 </resources>

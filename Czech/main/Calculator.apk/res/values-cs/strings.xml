@@ -22,11 +22,11 @@
     <string name="dot">.</string>
     <string name="equal">=</string>
     <string name="enter">↓</string>    
-  	<string name="sin">sin</string>
+    <string name="sin">sin</string>
     <string name="cos">cos</string>
     <string name="tan">tan</string>
- 	  <string name="pi">π</string>    
-  	<string name="e">e</string>
+    <string name="pi">π</string>    
+    <string name="e">e</string>
     <string name="ln">ln</string>
     <string name="lg">log</string>
     <string name="leftParen">(</string>
@@ -35,7 +35,7 @@
     <string name="power">^</string>
     <string name="factorial">!</string>
     <string name="basic">Základní funkce</string>
-	  <string name="advanced">Rozšířené funkce</string>
+    <string name="advanced">Rozšířené funkce</string>
     <string name="clear_history">Vymazat historii</string>
     <string name="text_copied_toast">Text byl zkopírován.</string>
     <string name="standard">standardní</string>
