@@ -214,6 +214,7 @@ Se zařízením můžete bez obav pokračovat v práci.</string>
     <string name="micloud_title_dspt" formatted="false">"Využito %s / Celkem %s"</string>
     <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
     <string name="micloud_title_full_dspt">Úložiště je plné!</string>
+    <string name="micloud_upgrade_space">Navýšit kapacitu</string>
     <string name="micloud_user_base_info">Info o uživateli</string>
     <string name="micloud_user_email">E-mail</string>
     <string name="micloud_user_id">Xiaomi ID</string>
