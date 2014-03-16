@@ -189,6 +189,7 @@ společně!"</string>
   <string name="facetan">Ztmavení tváře</string>
   <string name="fail_hint">Operace selhala.</string>
   <string name="fail_init_gallery_db_helper">Aplikace je zamknutá, není možno otevřít databázi galerie, paměť je plná.</string>
+  <string name="fail_to_download_n_items">Stahování %s selhalo</string>
   <string name="fail_to_pick_email">Není zvolený žádný E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba při synchronizaci se serverem. Zkontrolujte nastavení sítě.</string>
   <string name="file_not_exist_message">Soubor neexistuje</string>

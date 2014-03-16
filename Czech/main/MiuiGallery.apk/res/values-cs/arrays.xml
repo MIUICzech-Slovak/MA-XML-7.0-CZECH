@@ -8,4 +8,9 @@
         <item>1 hod.</item>
         <item>Bez limitu</item>
     </string-array>
+    <plurals name="number_of_items">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="zero">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+    </plurals>
 </resources>
