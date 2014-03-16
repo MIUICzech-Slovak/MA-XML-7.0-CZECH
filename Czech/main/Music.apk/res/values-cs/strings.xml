@@ -41,8 +41,6 @@
     <string name="find_ktv">Vyhledat KTV</string>
     <string name="fragment_more">Více</string>
     <string name="function_error">Tato funkce je momentálně nedostupná</string>
-    <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko \ "OK \" pro potvrzení, nebo klepněte na tlačítko \ "Zrušit \" k ukončení.</string>
-    <string name="impunity_declaration_title">Prohlášení</string>
     <string name="ktv_playlist">Moje KTV</string>
     <string name="like">Líbí se</string>
     <string name="lrc_search_failed">Texty nenalezeny!</string>
