@@ -118,7 +118,7 @@
     <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
     <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
     <string name="find_password_on_web_msg">Navštivte account.xiaomi.com pro obnovu hesla</string>
-    <string name="foreign_login">&lt;u&gt;Země/kód země&lt;/u&gt;</string>
+    <string name="foreign_login"><u>Země/kód země</u></string>
     <string name="forget_password"><u>Zapomenuté heslo</u></string>
     <string name="get_back_pwd">Obnovit heslo</string>
     <string name="get_verify_code">Získat kód</string>
