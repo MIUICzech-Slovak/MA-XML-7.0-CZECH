@@ -89,4 +89,6 @@
     <string name="find_music_right" />
     <string name="favourite_music_left_half">Pro přidání skladeb do tohoto playlistu stiskněte</string>
     <string name="favourite_music_right_half">Hvězdičku vpravo od názvu skladby</string>
+    <string name="blank_reminder">Nesmí být prázdné</string>
+    <string name="same_name_reminder">Nesmí se opakovat</string>
 </resources>
