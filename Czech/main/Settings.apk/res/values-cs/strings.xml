@@ -906,7 +906,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="filter_apps_cached">Načtené</string>
   <string name="filter_apps_disabled">Deaktivované</string>
   <string name="filter_apps_onsdcard">Úložiště USB</string>
-  <string name="filter_apps_running">Spuštěné</string>
+  <string name="filter_apps_running">Spušt.</string>
   <string name="filter_apps_third_party">Stažené</string>
   <string name="filter_dlg_title">Vyberte možnosti filtru</string>
   <string name="finish_application">Ukončit</string>

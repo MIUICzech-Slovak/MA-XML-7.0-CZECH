@@ -37,8 +37,8 @@
     <string name="clear_cache">Vymazat cache</string>
     <string name="clear_cache_summary">Vymazat cache náhledů videí</string>
     <string name="comment">Komentáře</string>
-    <string name="comment_count_less_tip">Minimum znaků je d%</string>
-    <string name="comment_count_much_tip">Maximální počet znaků pro komentář je d%</string>
+    <string name="comment_count_less_tip">Minimum znaků je %d</string>
+    <string name="comment_count_much_tip">Maximální počet znaků pro komentář je %d</string>
     <string name="comment_edit_blog_hint">Sdílet na sina</string>
     <string name="comment_edit_et_hint">Vložte komentář</string>
     <string name="comment_edit_start_hint">Zvolte počet hvězdiček:</string>
