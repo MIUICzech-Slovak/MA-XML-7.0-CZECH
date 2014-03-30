@@ -125,6 +125,7 @@
     <string name="system_backup_error_message">MIUI záloha nebyla nalezena, prosím zálohujte manuálně.</string>
     <string name="system_backup_helper">Aktualizace nevymaže vaše uživatelská data. Avšak doporučuje se v rámci bezpečnosti tato data zálohovat.</string>
     <string name="system_backup_ok_text">Zálohovat</string>
+    <string name="toast_update_failed_hints">Aktualizace selhala, stáhněte celou ROM!</string>
     <string name="top_secret_build">Tajná verze</string>
     <string name="update_comment_hint">(volitelné)</string>
     <string name="update_comment_title">Komentovat</string>
