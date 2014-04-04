@@ -9,4 +9,12 @@
         <item quantity="other">Skladeb: %d</item>
         <item quantity="one">Skladeb: %d</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d skladeb odstraněno z playlistu.</item>
+        <item quantity="one">1 skladba odstraněna z playlistu.</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d skladeb přidáno do playlistu</item>
+        <item quantity="one">1 skladba přidána do playlistu</item>
+    </plurals>
 </resources>

@@ -91,4 +91,8 @@
     <string name="favourite_music_right_half">Hvězdičku vpravo od názvu skladby</string>
     <string name="blank_reminder">Nesmí být prázdné</string>
     <string name="same_name_reminder">Nesmí se opakovat</string>
+    <string name="favorite_succeed">Již je mezi oblíbenými</string>
+    <string name="favorite_canceled">Odebráno z oblíbených</string>
+    <string name="playlist_deleted_message">Playlist vymazán</string>
+    <string name="playlist_renamed_message">Playlist přejmenován</string>
 </resources>
