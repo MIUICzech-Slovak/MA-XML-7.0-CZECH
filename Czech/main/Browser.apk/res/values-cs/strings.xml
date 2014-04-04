@@ -588,4 +588,8 @@ Opravdu chcete odejít z této stránky?"</string>
     <string name="delete_quicklink_warning">Vymazat \"%s\" z odkazů?</string>
     <string name="quicklink_have_deleted">Stránka byla vymazána</string>
     <string name="miui_function_menu_delete_to_quicklinks">Vymazat odkaz</string>
+    <string name="download_failed">Stahování selhalo</string>
+    <string name="download_complete">Stahování dokončeno</string>
+    <string name="app_update_install">Stahování dokončeno a připraveno na instalaci aktualizace</string>
+    <string name="app_new_version">Stahování dokončeno a poslední verze je již nainstalována</string>
 </resources>
