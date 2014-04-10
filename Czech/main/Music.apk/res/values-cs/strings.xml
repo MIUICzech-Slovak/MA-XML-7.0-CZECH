@@ -95,4 +95,6 @@
     <string name="favorite_canceled">Odebráno z oblíbených</string>
     <string name="playlist_deleted_message">Playlist vymazán</string>
     <string name="playlist_renamed_message">Playlist přejmenován</string>
+    <string name="action_item_delete">Vymazat</string>
+    <string name="dialog_delete_descript">Vymazat %s?</string>
 </resources>

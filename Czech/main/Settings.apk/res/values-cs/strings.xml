@@ -1631,6 +1631,7 @@ zkuste následující:"
   <string name="radio_info_toggle_dns_check_label">Přepnout kontrolu DNS</string>
   <string name="really_remove_account_message">Odebráním účtu smažete z zařízení také všechny zprávy, kontakty a další data tohoto účtu.</string>
   <string name="really_remove_account_title">Chcete odebrat účet?</string>
+  <string name="rebootiing_for_updates">Restartuje se...</string>
   <string name="recognizer_settings_summary">Nastavení pro poskytovatele %s</string>
   <string name="recognizer_settings_title">Hlasové vyhledávání</string>
   <string name="recognizer_title">Rozpoznávání hlasu</string>
