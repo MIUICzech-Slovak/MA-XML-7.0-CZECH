@@ -592,4 +592,12 @@ Opravdu chcete odejít z této stránky?"</string>
     <string name="download_complete">Stahování dokončeno</string>
     <string name="app_update_install">Stahování dokončeno a připraveno na instalaci aktualizace</string>
     <string name="app_new_version">Stahování dokončeno a poslední verze je již nainstalována</string>
+    <string name="sync_item_browser_title">Synchronizace prohlížeče</string>
+    <string name="sync_item_browser_summary">Synchronizujte svá data do cloudu a používejte Prohlížeč jednoduše i na ostatních zařízeních</string>
+    <string name="sub_sync_item_browser_title_history">Synchr. historii</string>
+    <string name="sub_sync_item_browser_title_history_summary">Synchronizovat historii procházení webu</string>
+    <string name="sub_sync_item_browser_title_bookmark">Synchr. záložky</string>
+    <string name="sub_sync_item_browser_title_bookmark_summary">Synchronizovat záložky</string>
+    <string name="sub_sync_item_browser_title_cloud_tab">Synchr. Karty</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchronizovat otevřené karty</string>
 </resources>
