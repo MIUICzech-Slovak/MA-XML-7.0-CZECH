@@ -502,4 +502,6 @@ společně!"</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
+  <string name="bigscreen_video_quit">Dotykem zrušíte přehrávání</string>
+  <string name="click_to_add_picture">Dotykem přidáte fotografie</string>
 </resources>

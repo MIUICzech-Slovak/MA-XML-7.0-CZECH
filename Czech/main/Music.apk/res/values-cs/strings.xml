@@ -59,7 +59,7 @@
     <string name="ok">OK</string>
     <string name="online_music">Online Hudba</string>
     <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
-    <string name="recommend_fragment_title">Doporučené</string>
+    <string name="recommend_fragment_title">Album</string>
     <string name="retry">Zkusit znovu</string>
     <string name="search_hint">Umělec, skladba, album</string>
     <string name="search_title">Hledat</string>
@@ -97,4 +97,6 @@
     <string name="playlist_renamed_message">Playlist přejmenován</string>
     <string name="action_item_delete">Vymazat</string>
     <string name="dialog_delete_descript">Vymazat %s?</string>
+    <string name="project_device">MiBox</string>
+    <string name="project_device_mobile">Mobilní zařízení</string>
 </resources>
