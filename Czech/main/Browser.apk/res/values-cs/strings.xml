@@ -285,7 +285,7 @@
     <string name="miui_bookmark_menu_moveout_group_txt">Venku</string>
     <string name="miui_bookmark_select_all">Vše</string>
     <string name="miui_bookmark_unselect_all">Odznačit</string>
-    <string name="miui_edit_mode_title_empty">Žádné vybrané</string>
+    <string name="miui_edit_mode_title_empty">Vyberte položky</string>
     <string name="miui_function_menu_add_to_bookmark">Záložka</string>
     <string name="miui_function_menu_add_to_quicklinks">Zkratka</string>
     <string name="miui_function_menu_delete_to_bookmark">Vymazat záložku</string>
@@ -602,4 +602,9 @@ Opravdu chcete odejít z této stránky?"</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchronizovat otevřené karty</string>
     <string name="loading_tips">Potáhněte dolů pro obnovení</string>
     <string name="up_to_loading_tips">Pusťte pro obnovení</string>
+    <string name="cloud_loading_tips">Potáhněte dolů pro synchr.</string>
+    <string name="cloud_up_to_loading_tips">Pusťte pro synchr.</string>
+    <string name="cloud_time_tips">Naposledy</string>
+    <string name="cloud_tab">Karta Cloudu</string>
+    <string name="cloud_no_new_data_toast">Žádná nová data</string>
 </resources>

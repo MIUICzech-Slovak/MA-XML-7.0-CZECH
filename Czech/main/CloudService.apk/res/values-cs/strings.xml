@@ -57,7 +57,7 @@
     <string name="add_weibo_account">Přidat účet</string>		
     <string name="alert_notif_title_dspt">Doporučujeme obnovit synchronizaci pro zajištění bezpečnosti vašich dat</string>
     <string name="alert_title_remove_account">Odhlásit se</string>
-    <string name="app_name">Xiaomi Service Framework</string>
+    <string name="app_name">MiCloud</string>
     <string name="available_functionality">Dostupné služby</string>
     <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
     <string name="bind_settings">Propojit</string>
