@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavení Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavení Antiviru</string>
@@ -2352,7 +2351,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_screen_key_home">Tlačítko Domů</string>
   <string name="status_bar_screen_key_menu">Tlačítko Menu</string>
   <string name="status_bar_screen_key_recent_apps">Nedávné aplikace</string>
-  <string name="status_bar_settings">Notifications</string>
+  <string name="status_bar_settings">Notifikace</string>
   <string name="status_bar_settings_advanced">Další nastavení</string>
   <string name="status_bar_settings_all_app_display_loading">Načítání...</string>
   <string name="status_bar_settings_basic_settings">Základní nastavení</string>    
