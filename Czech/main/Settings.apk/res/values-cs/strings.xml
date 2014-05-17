@@ -1840,7 +1840,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="power_settings_category_title">Styl ikony baterie</string>
   <string name="power_settings_number">Procenta</string>
   <string name="power_settings_shape">Grafický</string>
-  <string name="power_settings_title">Nastavit</string>
+  <string name="power_settings_title">Režim výkonu</string>
   <string name="power_settings_top">Linka nad lištou</string>
   <string name="power_subtitle_lowbattery">Slabá baterie: Úspora energie</string>
   <string name="power_subtitle_ontime">Plánované přepínání profilu výkonu: Aktivní</string>
@@ -3169,4 +3169,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="free_wifi_manage_summary">Zobrazit %1$s.</string>  
   <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
   <string name="button_text_reboot_now">Restartovat</string>
+  <string name="wallpaper_desktop">Domácí obrazovka</string>   
+  <string name="wallpaper_lockscreen">Zámek</string>
+  <string name="wallpaper_live">Živá tapeta</string>
+  <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
 </resources>

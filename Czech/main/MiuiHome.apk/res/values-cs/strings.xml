@@ -211,4 +211,10 @@
     <string name="widget_gadget_player">Hudba</string>
     <string name="widget_global_search">Vyhledávání</string>
     <string name="current_wallpaper">Současná</string>
+    <string name="status_pending">čeká</string>
+    <string name="status_downloading">stahuje se</string>
+    <string name="status_paused">pozastaveno</string>
+    <string name="status_downloaded">stáhnuto</string>
+    <string name="status_installing">instaluje se</string>
+    <string name="gadget_mtz_label">Mi Gadgets</string>
 </resources>

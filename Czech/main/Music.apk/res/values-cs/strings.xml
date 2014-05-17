@@ -103,4 +103,5 @@
     <string name="available_playlist_name_format">Nový playlist %d</string>
     <string name="loading_hint">Načítání...</string>
     <string name="online_playlist_is_empty">Online playlist je prázdný!</string>
+    <string name="network_failure">Chyba sítě. Zkuste to později.</string>
 </resources>
