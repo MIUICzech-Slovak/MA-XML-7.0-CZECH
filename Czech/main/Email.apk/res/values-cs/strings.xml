@@ -541,4 +541,6 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "&lt;b&gt;Synchron
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
   <string name="widget_large_unread_count">&gt;%d</string>
   <string name="yes">Ano</string>
+  <string name="accounts_heading">Účty</string>
+  <string name="from_label">Odesílatel</string>
 </resources>

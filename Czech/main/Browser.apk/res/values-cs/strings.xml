@@ -608,4 +608,7 @@ Opravdu chcete odejít z této stránky?"</string>
     <string name="cloud_time_tips">Naposledy</string>
     <string name="cloud_tab">Karta Cloudu</string>
     <string name="cloud_no_new_data_toast">Žádná nová data</string>
+    <string name="input_valid_url">Zadejte správnou URL</string>
+    <string name="miui_function_menu_desktop_ua">PC</string>
+    <string name="miui_function_menu_mobile_ua">Mobil</string>
 </resources>

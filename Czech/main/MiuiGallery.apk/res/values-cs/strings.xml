@@ -505,4 +505,6 @@ společně!"</string>
   <string name="yes">Ano</string>
   <string name="bigscreen_video_quit">Dotykem zrušíte přehrávání</string>
   <string name="click_to_add_picture">Dotykem přidáte fotografie</string>
+  <string name="local_time">(Lokální)</string>
+  <string name="sync_in_progress_message">Probíhá synchronizace...</string>
 </resources>
