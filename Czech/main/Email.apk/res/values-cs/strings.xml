@@ -543,4 +543,6 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "&lt;b&gt;Synchron
   <string name="yes">Ano</string>
   <string name="accounts_heading">Účty</string>
   <string name="from_label">Odesílatel</string>
+  <string name="account_setup_index_other_mails">Jiné</string>
+  <string name="account_setup_index_label">Přidat účet</string>
 </resources>
