@@ -51,7 +51,7 @@
     <string name="mi_effect">MiSound</string>
     <string name="music_browser_label">Hudba</string>
     <string name="music_picker_title">Vyberte skladbu</string>
-    <string name="music_settings">Nastavení</string>
+    <string name="music_settings">Hudba</string>
     <string name="my_music">Moje Hudba</string>
     <string name="my_music_empty">\"Moje Hudba\" je prázdná. Stáhněte nebo označte nějaké skladby v \"Online Hudba\"</string>
     <string name="network_error">Žádné připojení k internetu, prosím zkontrolujte nastavení internetu</string>
