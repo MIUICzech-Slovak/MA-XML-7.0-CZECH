@@ -271,4 +271,5 @@ Zkontrolujeme to do dvou pracovních dnů"</string>
     <string name="voucher_input_password_prompt">Vložte heslo</string>
     <string name="voucher_card_text">Setřete ochranu kódu</string>
     <string name="payment_actionbar_title">Potvrďte</string>
+    <string name="btn_finish">Dokončit</string>
 </resources>

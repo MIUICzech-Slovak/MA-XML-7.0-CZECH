@@ -3173,4 +3173,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wallpaper_lockscreen">Zámek</string>
   <string name="wallpaper_live">Živá tapeta</string>
   <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
+  <string name="button_text_login">Přihlásit se</string>
+  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
+  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
 </resources>
