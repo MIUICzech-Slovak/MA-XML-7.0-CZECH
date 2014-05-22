@@ -413,6 +413,7 @@ Nyní můžete kopírovat soubory"</item>
         <item>Spustit Hlasový asistent</item>
         <item>Spustit Google Now</item>
         <item>Ukončit otevřenou aplikaci</item>
+        <item>Zobrazit Menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekundy</item>
