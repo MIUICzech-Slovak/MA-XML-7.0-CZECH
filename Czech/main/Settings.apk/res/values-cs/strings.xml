@@ -3182,4 +3182,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
   <string name="ringtone_mute">Žádné</string>
   <string name="title_system_resource">Systémové zdroje</string>
+  <string name="online_resource_entry">Online zdroje</string>
+  <string name="title_local_resource">Lokální zdroje</string>
 </resources>
