@@ -3185,4 +3185,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="online_resource_entry">Online zdroje</string>
   <string name="title_local_resource">Lokální zdroje</string>
   <string name="add_auto_startup_application">Přidat aplikaci</string>
+  <string name="power_autorun_apps_empty">Žádné aplikace</string>
 </resources>
