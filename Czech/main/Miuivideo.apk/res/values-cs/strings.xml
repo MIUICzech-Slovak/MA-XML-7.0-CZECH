@@ -203,4 +203,11 @@
     <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
     <string name="xiaomi_user">Xiaomi uživatel</string>
     <string name="yesterday">"Včera "</string>
+    <string name="clarity_high">Vysoká kvalita</string>
+    <string name="clarity_standard">Standardní kvalita</string>
+    <string name="clarity_supper">Nejlepší kvalita</string>
+    <string name="clarity_unknown">Neznámá kvalita</string>
+    <string name="unknown_source">Neznámý zdroj</string>
+    <string name="vp_error_get_play_url_back_to_continue">Získávání URL selhalo.</string>
+    <string name="vp_select_source">Vybrat zdroj</string>
 </resources>

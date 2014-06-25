@@ -69,7 +69,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="accessibility_toggle_screen_magnification_preference_title">Přiblížení obrazovky</string>
   <string name="accessibility_toggle_speak_password_preference_title">Vyslovovat hesla</string>
   <string name="account_add">Přidat</string>
-  <string name="account_autostar_label">Autom. běh</string>
+  <string name="account_autostar_label">Autom. spuštění</string>
   <string name="account_list">Vše</string>
   <string name="account_settings">Účty</string>
   <string name="account_sync_settings_title">Synchronizace</string>
@@ -3186,4 +3186,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="title_local_resource">Lokální zdroje</string>
   <string name="add_auto_startup_application">Přidat aplikaci</string>
   <string name="power_autorun_apps_empty">Žádné aplikace</string>
+  <string name="lockpassword_pin_fixed_length">PIN musí obsahovat %d čísel</string>
+  <string name="status_serialno">Žádné</string>
 </resources>

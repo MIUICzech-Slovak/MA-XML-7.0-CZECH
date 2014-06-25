@@ -73,4 +73,5 @@ Deaktivujte režim Letadlo."</string>
  Zkuste to znovu za %d s."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Zařízení jste se pokusili odemknout nesprávným způsobem %d-krát. Po dalších (%d) neúspěšných pokusech se v zařízení obnoví výchozí nastavení a všechna uživatelská data budou ztracena.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Zařízení jste se pokusili odemknout nesprávným způsobem %d-krát. V zařízení se nyní obnoví výchozí nastavení.</string>
- </resources>
+    <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>
+</resources>
