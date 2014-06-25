@@ -1036,7 +1036,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="force_stop_dlg_text">Vynucené zastavení může způsobit nepředvídatelné chování aplikace.</string>
   <string name="force_stop_dlg_title">Chcete vynutit zastavení?</string>
   <string name="forget_wifi_message">Můžete vypnout automatické připojování k síti a možná budete muset při opětovném připojení znovu zadávat heslo.</string>
-  <string name="found_new_version">Nalezena nová verze</string>
+  <string name="found_new_version">"Nalezena nová verze "</string>
   <string name="free_wifi_confirm">Potvrdit</string>
   <string name="free_wifi_connect">Připojit</string>
   <string name="free_wifi_connect_dialog_summary">Tato veřejná Wi-Fi %1$s je poskytována %2$s.</string>
