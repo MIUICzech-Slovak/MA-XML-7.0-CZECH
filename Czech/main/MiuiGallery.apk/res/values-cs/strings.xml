@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="accept">Přijmout</string>
@@ -512,7 +511,6 @@ společně!"</string>
   <string name="ubifocus_data_missing">Chybí data</string>
   <string name="alert_init_merged_message">Fotografie ve vašem zařízení a v MiCloud se zobrazí na jednom místě.</string>
   <string name="alert_init_merged_title">Všechny fotografie na jednom místě.</string>
-  <string name="ubifocus_data_missing">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="ubifocus_refocus_fail_tip">Nelze přeostřit kvůli chybějícím datům</string>
   <string name="bigscreen_slide_playing">Prezentace se přehrává na: %s</string>
   <string name="confirm_delete_has_cloud_image">Vymazat obrázky (%s) v cloudu?</string>
