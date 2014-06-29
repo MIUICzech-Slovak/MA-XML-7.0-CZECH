@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="account_duplicate_dlg_message_fmt">Toto uživatelské jméno již používáte pro účet %s.</string>
   <string name="account_duplicate_dlg_title">Duplicitní účet</string>
@@ -109,6 +108,8 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Nastavení účtu</string>
   <string name="account_setup_incoming_username_label">Uživatelské jméno</string>
+  <string name="account_setup_index_label">Přidat účet</string>
+  <string name="account_setup_index_other_mails">Jiné</string>
   <string name="account_setup_names_account_name_label">Pojmenovat tento účet (nepovinné)</string>
   <string name="account_setup_names_headline">Váš účet je nastaven, e-mail je na cestě!</string>
   <string name="account_setup_names_title">Nastavení účtu</string>
@@ -152,6 +153,7 @@
   <string name="account_setup_username_uneditable_error">Uživatelské jméno účtu nemůžete změnit. Chcete-li přidat účet s jiným uživatelským jménem, dotkněte se možnosti Přidat účet.</string>
   <string name="account_sync_off">Synchronizace účtu je vypnuta</string>
   <string name="account_waiting_for_folders_msg">Načítání seznamu složek…</string>
+  <string name="accounts_heading">Účty</string>
   <string name="accounts_welcome">Účet můžete nakonfigurovat v několika snadných krocích.</string>
   <string name="actionbar_large_unread_count">Nepřečteno: %1$d+</string>
   <string name="activity_folder_selection">Výběr složky</string>
@@ -285,6 +287,7 @@
   <string name="forward_download_failed_ticker">Nepodařilo se přeposlat jednu nebo více příloh.</string>
   <string name="forward_download_failed_title">Příloha nebyla přeposlána</string>
   <string name="from_heading">"Od: "</string>
+  <string name="from_label">Odesílatel</string>
   <string name="general_preference_confirm_delete_label">Před smazáním potvrdit</string>
   <string name="general_preference_confirm_delete_summary">Zprávy</string>
   <string name="general_preference_confirm_send_label">Před odesláním potvrdit</string>
@@ -541,8 +544,4 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
   <string name="widget_large_unread_count">%d</string>
   <string name="yes">Ano</string>
-  <string name="accounts_heading">Účty</string>
-  <string name="from_label">Odesílatel</string>
-  <string name="account_setup_index_other_mails">Jiné</string>
-  <string name="account_setup_index_label">Přidat účet</string>
 </resources>

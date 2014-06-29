@@ -62,6 +62,9 @@
   <string name="incoming_file_toast_msg">Potvrďte prosím příjem příchozího souboru z jiného zařízení.</string>
   <string name="insert_record">Vložit záznam</string>
   <string name="localPhoneName">Mé jméno</string>
+  <string name="miui_transfer_history_title">Bluetooth přenos</string>
+  <string name="miui_transfer_inbound_title">Příchozí</string>
+  <string name="miui_transfer_outbound_title">Odchozí</string>
   <string name="no_transfers">Historie přenosů je prázdná.</string>
   <string name="not_exist_file">Žádný soubor</string>
   <string name="not_exist_file_desc">"Soubor neexistuje. 
@@ -122,7 +125,4 @@
   <string name="upload_succ_line5">Soubor byl odeslán</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odeslání dokončeno.</string>
-  <string name="miui_transfer_history_title">Bluetooth přenos</string>
-  <string name="miui_transfer_inbound_title">Příchozí</string>
-  <string name="miui_transfer_outbound_title">Odchozí</string>
 </resources>

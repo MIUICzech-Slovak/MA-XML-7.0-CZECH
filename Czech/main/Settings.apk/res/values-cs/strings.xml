@@ -83,17 +83,23 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apk">Balíčky</string>
+  <string name="activity_title_auto_start_manager">Správa auto. spuštění</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
   <string name="activity_title_deep_clean">Hloubkové čištění</string>
+  <string name="activity_title_default_apps_manager">Správa výchozích aplikací</string>
   <string name="activity_title_garbage_cleanup">Čistič</string>
   <string name="activity_title_large_file">Velké soubory</string>
   <string name="activity_title_license_manager">Povolení</string>
   <string name="activity_title_memory">Paměť</string>
   <string name="activity_title_networkassistants">Využití dat</string>
+  <string name="activity_title_notification_bar_manager">Správa notifikační lišty</string>
+  <string name="activity_title_perm_manager">Správa licence</string>
+  <string name="activity_title_permission_manager">Správa povolení</string>
   <string name="activity_title_power_manager">Baterie</string>
   <string name="activity_title_residual">Staré</string>
   <string name="activity_title_risk">Risk</string>
+  <string name="activity_title_root_manager">Správa root</string>
   <string name="activity_title_settings">Nastavení</string>
   <string name="activity_title_system">Systém</string>
   <string name="activity_title_trash">Cache</string>
@@ -106,6 +112,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="adb_warning_message">Ladění prostřednictvím rozhraní USB je určeno pouze pro účely vývoje. Použijte je ke kopírování dat mezi počítačem a zařízením, instalaci aplikací do zařízení bez upozornění a čtení dat protokolů.</string>
   <string name="adb_warning_title">Povolit ladění USB?</string>
   <string name="add_account_label">Přidat účet</string>
+  <string name="add_auto_startup_application">Přidat aplikaci</string>
   <string name="add_device_admin">Aktivovat</string>
   <string name="add_device_admin_msg">Aktivovat správce zařízení?</string>
   <string name="additional_system_update"/>
@@ -196,6 +203,7 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="app_sees_restricted_accounts">Tato aplikace má přístup k vašim účtům</string>
   <string name="app_special_disable_dlg_text">Pokud deaktivujete integrovanou aplikaci, mohou se ostatní aplikace chovat nestandardně. Budou také smazána vaše data.</string>
   <string name="app_special_disable_dlg_title">Vymazat data a deaktivovat aplikaci?</string>
+  <string name="app_switch_key">Nedávné</string>
   <string name="application_forbid_auto_startup">Zakázat %s spustit se na pozadí</string>
   <string name="application_info_label">Informace o aplikaci</string>
   <string name="application_item_already_permission">Povoleno</string>
@@ -216,6 +224,7 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="assisted_gps">Použít systém A-GPS</string>
   <string name="assisted_gps_disabled">Vylepšit funkčnost GPS pomocí serveru (zrušením této funkce zvýšíte výkon GPS)</string>
   <string name="assisted_gps_enabled">Vylepšit funkčnost GPS pomocí serveru (deaktivací této funkce snížíte využití sítě)</string>
+  <string name="audio_list_loading">Načítání...</string>
   <string name="audio_profile_settings_title">Zvukové profily</string>
   <string name="audio_record_proc_title">Potlačení hluku</string>
   <string name="auto_caps">Velká písmena automaticky</string>
@@ -523,7 +532,9 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="button_text_clear">Vyčistit</string>
   <string name="button_text_delete_from_white_list">Odebrat</string>
   <string name="button_text_fix">Opravit</string>
+  <string name="button_text_login">Přihlásit se</string>
   <string name="button_text_quick_clean">Optimalizovat</string>
+  <string name="button_text_reboot_now">Restartovat</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_start_optimize">Kontrola</string>
   <string name="button_text_uninstall">Odinst.</string>
@@ -831,8 +842,10 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav baterie, sítě a další údaje</string>
+  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohování a odinstalování aplikací</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen. Je nutné přeinstalovat ROM!</string>
   <string name="dialog_msg_stop_virus_scan">Chcete zastavit kontrolu?</string>
   <string name="dialog_msg_uninstall_apps">Odinstalovat tyto aplikace?</string>
   <string name="dialog_no">Ne</string>
@@ -841,6 +854,8 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dialog_title_color_calibration">Možnosti nastavení barev</string>
   <string name="dialog_title_font_size">Velikost písma</string>
   <string name="dialog_title_hdmi_color_calibration">Nastavení barev</string>
+  <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
   <string name="dialog_title_stop_virus_scan">Zastavit</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
   <string name="dialog_yes">Ano</string>
@@ -930,7 +945,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dolby_music_advance">Rozšířené nastavení Hudby</string>
   <string name="dolby_roomsize_high">Velká místnost</string>
   <string name="dolby_roomsize_low">Malá místnost</string>
-  <string name="dolby_roomsize_normal">Normální místnost</string>	
+  <string name="dolby_roomsize_normal">Normální místnost</string>
   <string name="dolby_roomsize_summary">Prostorový zvuk je dostupný pouze při připojených sluchátek</string>
   <string name="dolby_roomsize_title">Prostorový zvuk:\u0020</string>
   <string name="done_button">Hotovo</string>
@@ -954,6 +969,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="empty_list_msg">Žádné aplikace třetích stran nejsou nainstalovány.</string>
   <string name="empty_title_ad">Žádné reklamní soubory</string>
   <string name="empty_title_apk">Žádné instalační .apk soubory</string>
+  <string name="empty_title_auto_start_list">Žádné aplikace</string>
   <string name="empty_title_garbage_cache">Žádné soubory v cache</string>
   <string name="empty_title_garbage_white_list">Prázdné</string>
   <string name="empty_title_installed_apps">Žádné aplikace</string>
@@ -1050,6 +1066,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="free_wifi_connected_time">Doba připojení: %1$s</string>
   <string name="free_wifi_connecting">Připojování...</string>
   <string name="free_wifi_login_again">Přihlásit znovu</string>
+  <string name="free_wifi_manage_summary">Zobrazit %1$s.</string>
   <string name="free_wifi_speed_title">Pomalé připojení?</string>
   <string name="free_wifi_summary">Veřejná Wi-Fi，poskytována %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1077,7 +1094,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="global_change_warning">Toto nastavení ovlivní všechny uživatele tohoto zařízení.</string>
   <string name="global_font_change_title">Změna velikosti písma</string>
   <string name="global_locale_change_title">Změna jazyka</string>
-  <string name="gsm_to_wifi_connect_type_title">Mobilní -> Wi-Fi</string>
+  <string name="gsm_to_wifi_connect_type_title">Mobilní -&gt; Wi-Fi</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Paměť</string>
   <string name="handle_text_system">Systém</string>
@@ -1144,6 +1161,9 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="hints_apk_header_left">Instalační apk: %d</string>
   <string name="hints_apk_version">Verze: %s</string>
   <string name="hints_app_uninstall_residual">Vyčistit staré soubory?</string>
+  <string name="hints_auto_start_disable_title">Zakázat %d apl. auto. spuštění</string>
+  <string name="hints_auto_start_enable_title">Povolit %d apl. auto. spuštění</string>
+  <string name="hints_auto_start_warning_info">Zákaz auto. spouštění zakáže přijímání upozornění aplikace</string>
   <string name="hints_cache_header_left">Cache: %d</string>
   <string name="hints_cleanning_text">Čištění...</string>
   <string name="hints_finish_quick_cleanup">Dokončeno</string>
@@ -1371,6 +1391,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="lockpassword_password_too_short">Heslo musí obsahovat nejméně %d znaky</string>
   <string name="lockpassword_pattern_set_toast">Gesto bylo nastaveno</string>
   <string name="lockpassword_pin_contains_non_digits">Kód PIN musí obsahovat pouze číslice 0 až 9.</string>
+  <string name="lockpassword_pin_fixed_length">PIN musí obsahovat %d čísel</string>
   <string name="lockpassword_pin_recently_used">Administrátor zařízení neumožňuje používat nedávno užitý kód PIN.</string>
   <string name="lockpassword_pin_set_toast">Kód PIN byl nastaven</string>
   <string name="lockpassword_pin_too_long">PIN musí mít méně než %d číslic.</string>
@@ -1489,6 +1510,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="menu_item_shortcut_summary">Přidejte často používané aplikace na plochu</string>
   <string name="menu_item_shortcut_title">Přidat zástupce</string>
   <string name="menu_item_shortcut_uninstall">Odstranit zástupce</string>
+  <string name="menu_item_show_more">Více</string>
   <string name="menu_item_uninstall">Odinstalovat</string>
   <string name="menu_item_virus_cloud_scan_summary">Použít online databázi</string>
   <string name="menu_item_virus_cloud_scan_title">Cloudová virová databáze</string>
@@ -1544,28 +1566,29 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="msd_help_summary">"Máte problém s přístupem na úložiště telefonu přes počítač? Zvolte Váš operační systém:"</string>
   <string name="msd_help_title">Pomoc</string>
   <string name="msd_install">Instalovat ovladač</string>
+  <string name="msd_install_download_zhushou">Stáhnutý MiPhoneManager</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Dále</string>
   <string name="msd_install_retry_linux">"Pokud počítač nenašel Vaše zařízení,
 na systému Ubuntu 12.xx pokračujte podle tohoto návodu:
-<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
 
-Pozor: Ubuntu 13.04 a novější
-již obsahuje MTP ovládač. 
+Pozor: Ubuntu 13.04 a nov&amp;#283;j&amp;#353;&amp;#237;
+ji&amp;#382; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
 "</string>
   <string name="msd_install_retry_mac">"Pokud počítač nenašel Vaše zařízení,
 zkuste následující:
-"<li>"V počítači hledejte
+"&lt;li&gt;"V po&amp;#269;&amp;#237;ta&amp;#269;i hledejte
 Android File Transfer
-pro MAC"</li>"
-"<li>Odpojit zařízení z USB a znovu připojit..</li>"
-"<li>Znovu nainstalujte ovladače.</li></string>
+pro MAC"&lt;/li&gt;"
+"&lt;li&gt;Odpojit za&amp;#345;&amp;#237;zen&amp;#237; z USB a znovu p&amp;#345;ipojit..&lt;/li&gt;"
+"&lt;li&gt;Znovu nainstalujte ovlada&amp;#269;e.&lt;/li&gt;</string>
   <string name="msd_install_retry_windows_vista">"Pokud počítač nenašel Vaše zařízení,
 zkuste následující:
-"<li>Odpojit zařízení z USB a znovu připojit.</li></string>
+"&lt;li&gt;Odpojit za&amp;#345;&amp;#237;zen&amp;#237; z USB a znovu p&amp;#345;ipojit.&lt;/li&gt;</string>
   <string name="msd_install_retry_windows_xp">"Pokud počítač nenašel Vaše zařízení,
 zkuste následující:"
-"<li>Odpojit zařízení z USB a znovu připojit.</li></string>
+"&lt;li&gt;Odpojit za&amp;#345;&amp;#237;zen&amp;#237; z USB a znovu p&amp;#345;ipojit.&lt;/li&gt;</string>
   <string name="msd_install_status_done">Ovladač už je nainstalovaný</string>
   <string name="msd_install_status_undo">Instalovat ovladač</string>
   <string name="msd_install_succeed">Ovladač nainstalovaný</string>
@@ -1646,6 +1669,7 @@ zkuste následující:"
   <string name="oldman_mode_entry_title">Zjednodušený režim</string>
   <string name="oldman_mode_settings_caption">Nastavení zjedn. režimu</string>
   <string name="oldman_mode_summary">Použít zjednodušenou domovskou obrazovku a menu</string>
+  <string name="online_resource_entry">Online zdroje</string>
   <string name="only_one_home_message">Nastavení plochy budou skryta, dokud nenainstalujete další aplikaci plochy</string>
   <string name="only_when_charging">Pouze při nabíjení</string>
   <string name="onscreen_keyboard_settings_summary">Nastavení klávesnice na obrazovce</string>
@@ -1686,6 +1710,7 @@ zkuste následující:"
   <string name="pointer_speed">Rychlost kurzoru</string>
   <string name="power_20s_enter_mode">Režim %2$s za %1$d sekund</string>
   <string name="power_apply_toast">Přepnout na %s režim a uložit současný profil</string>
+  <string name="power_autorun_apps_empty">Žádné aplikace</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Vymazat</string>
   <string name="power_cell">Pohotovostní režim</string>
@@ -1940,11 +1965,11 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="profile_info_settings_title">Informace o profilu</string>
   <string name="progress_scanning">Hledání</string>
   <string name="protection_category_dangerous_title">Rizika (%d)</string>
-  <string name="protection_category_recommend_title">Doporučuje se optimalizace (%d)</string>    
+  <string name="protection_category_recommend_title">Doporučuje se optimalizace (%d)</string>
   <string name="protection_category_security_title">Vyčistit (%d)</string>
   <string name="provider_label">Zobrazit odběry</string>
   <string name="proxy_action_text">Hotovo</string>
-  <string name="proxy_clear_text">Vymazat</string>	
+  <string name="proxy_clear_text">Vymazat</string>
   <string name="proxy_defaultView_text">Obnovit výchozí nastavení</string>
   <string name="proxy_error">Upozornění</string>
   <string name="proxy_error_dismiss">OK</string>
@@ -1959,7 +1984,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="proxy_hostname_label">Název hostitele serveru proxy</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port proxy</string>
-  <string name="proxy_settings_label">Nastavení proxy serveru</string>	
+  <string name="proxy_settings_label">Nastavení proxy serveru</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url">"Adresa URL PAC: "</string>
   <string name="proxy_warning_limited_support">Server proxy protokolu HTTP může používat prohlížeč, ale nesmí jej používat další aplikace.</string>
@@ -2053,24 +2078,26 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
 
  Žádné aplikace se nesmažou."</string>
   <string name="reset_app_preferences_title">Obnovit nastavení apl.?</string>
+  <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
   <string name="restore_default_apn">Obnovování výchozích nastavení názvu přístupového bodu (APN)</string>
   <string name="restore_default_apn_completed">Obnovení výchozích nastavení názvu přístupového bodu (APN) bylo dokončeno.</string>
   <string name="restrict_background_data_dialog_summary">"Aplikace, které jsou spuštěné na pozadí, nebudou moci načítat nové zprávy. Skutečně chcete zakázat data na pozadí?"</string>
-  <string name="restrict_background_data_notification_summary">"Aplikace se nemohou připojit k internetu, pokud jsou data na pozadí omezeny"</string>    	
-  <string name="restrict_background_data_title">Omezená data na pozadí</string>	
-  <string name="restriction_bluetooth_config_summary">Povolit úpravy párování a nastavení zařízení Bluetooth</string>	
-  <string name="restriction_bluetooth_config_title">Bluetooth</string>	
-  <string name="restriction_location_enable_summary">Povolit aplikaci používat informace o vaší poloze</string>	
+  <string name="restrict_background_data_notification_summary">"Aplikace se nemohou připojit k internetu, pokud jsou data na pozadí omezeny"</string>
+  <string name="restrict_background_data_title">Omezená data na pozadí</string>
+  <string name="restriction_bluetooth_config_summary">Povolit úpravy párování a nastavení zařízení Bluetooth</string>
+  <string name="restriction_bluetooth_config_title">Bluetooth</string>
+  <string name="restriction_location_enable_summary">Povolit aplikaci používat informace o vaší poloze</string>
   <string name="restriction_location_enable_title">Poloha</string>
   <string name="restriction_menu_change_pin">Změnit PIN</string>
   <string name="restriction_menu_reset">Odebrat omezení</string>
   <string name="restriction_nfc_enable_summary">Povolit výměnu dat, pokud se zařízení dotkne jiného zařízení</string>
-  <string name="restriction_nfc_enable_title">NFC</string>  
+  <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Omezení</string>
   <string name="restriction_wifi_config_summary">Povolit úpravu nastavení sítí Wi-Fi a mobilních sítí</string>
   <string name="restriction_wifi_config_title">Sítě Wi‑Fi a mobilní sítě</string>
   <string name="retry">Zkusit znovu</string>
   <string name="ring_volume_title">Hlasitost vyzvánění</string>
+  <string name="ringtone_mute">Žádné</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Vyzváněcí tón telefonu</string>
   <string name="risk_list_header_title">Podezřelá aplikace: %d</string>
@@ -2107,13 +2134,13 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="screen_compatibility_text">Tato aplikace nejspíš není určena pro vaši obrazovku. Zde můžete nastavit, jak se aplikace obrazovce přizpůsobí.</string>
   <string name="screen_key_long_press">Dlouhý stisk tlačítek</string>
   <string name="screen_key_long_press_action">Funkce tlačítek</string>
-  <string name="screen_key_long_press_timeout">Délka stisku</string>	
-  <string name="screen_never_timeout_title">Nikdy</string>	
+  <string name="screen_key_long_press_timeout">Délka stisku</string>
+  <string name="screen_never_timeout_title">Nikdy</string>
   <string name="screen_on_proximity_sensor_summary">Zabránit náhodnému použití telefonu, když je v kapse (podle senzoru přiblížení).</string>
   <string name="screen_on_proximity_sensor_title">Zabránit náhodnému použití</string>
-  <string name="screen_saturation">Sytost barev</string>	
-  <string name="screen_timeout">Režim spánku</string>	
-  <string name="screen_timeout_summary">Doba nečinnosti: %1$s</string>	
+  <string name="screen_saturation">Sytost barev</string>
+  <string name="screen_timeout">Režim spánku</string>
+  <string name="screen_timeout_summary">Doba nečinnosti: %1$s</string>
   <string name="screen_timeout_title">Vypnutí displeje</string>
   <string name="screensaver_settings_button">Nastavení</string>
   <string name="screensaver_settings_disabled_prompt">Chcete-li nastavit, co se má stát, když se telefon ocitne v doku nebo v režimu spánku, zapněte spořič obrazovky.</string>
@@ -2188,7 +2215,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="security_enable_widgets_disabled_summary">Zakázáno administrátorem</string>
   <string name="security_enable_widgets_title">Aktivovat widgety</string>
-  <string name="security_passwords_title">Hesla</string>    
+  <string name="security_passwords_title">Hesla</string>
   <string name="security_privacy_settings_title">Zabezpečení soukromí</string>
   <string name="security_relative">Bezpečnost</string>
   <string name="security_settings_billing_desc">Tato aplikace vám může účtovat poplatky:</string>
@@ -2247,7 +2274,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="show_hw_screen_updates_summary">Zobrazení v oknech vykreslovaná s GPU blikají.</string>
   <string name="show_magnifier_when_input">Ukázat lupu</string>
   <string name="show_non_rect_clip">Ladit operace s neobdélníkovými klipy</string>
-  <string name="show_owner_info_on_lockscreen_label">Zobrazovat vlastníka na zamčené obrazovce</string>	
+  <string name="show_owner_info_on_lockscreen_label">Zobrazovat vlastníka na zamčené obrazovce</string>
   <string name="show_password">Zobrazovat hesla</string>
   <string name="show_profile_info_on_lockscreen_label">Zobrazit informace o profilu na obrazovce uzamčení</string>
   <string name="show_rounded_corners">Zobrazit zaoblené rohy</string>
@@ -2286,14 +2313,14 @@ Zřejmě jste zadali nesprávný kód PIN."</string>
   <string name="sim_pins_dont_match">Kódy PIN nejsou shodné</string>
   <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
   <string name="sim_status_title">stav SIM</string>
-  <string name="skip_label">Dále</string>    
+  <string name="skip_label">Dále</string>
   <string name="skip_step">Přeskočit tento krok</string>
   <string name="slot_status_title">IMEI</string>
   <string name="small_font">Malá</string>
   <string name="sms_application_title">Výchozí aplikace SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Chcete pro zprávy SMS místo aplikace %s používat aplikaci %s?</string>
   <string name="sms_change_default_dialog_title">Chcete změnit aplikaci SMS?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Chcete pro zprávy SMS používat aplikaci %s?</string>	
+  <string name="sms_change_default_no_previous_dialog_text">Chcete pro zprávy SMS používat aplikaci %s?</string>
   <string name="sms_delivered_sound_dialog_title">Vybrat zvuk doručenky</string>
   <string name="sms_delivered_sound_title">Zvuk doručenky</string>
   <string name="sms_over_ims_off">Vypnout zprávy SMS prostřednictvím IMS</string>
@@ -2328,7 +2355,7 @@ Chcete-li získat další informace, kontaktujte svého správce."</string>
 Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem zařízení."</string>
   <string name="status_awake_time">Doba provozu</string>
   <string name="status_bar_and_notification_bar">Notifikační roletka a lišta</string>
-  <string name="status_bar_filter_item_description">Nastavení notifikací proveďte v Nastavení > Notifikační lišta > Přizpůsobit notifikace</string>
+  <string name="status_bar_filter_item_description">Nastavení notifikací proveďte v Nastavení &gt; Notifikační lišta &gt; Přizpůsobit notifikace</string>
   <string name="status_bar_filter_item_preview_image">Náhled</string>
   <string name="status_bar_key_position_custom">Vlastní pozice tlačítek</string>
   <string name="status_bar_screen_button_key">Virtuální tlačítka</string>
@@ -2339,12 +2366,12 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings">Notifikace</string>
   <string name="status_bar_settings_advanced">Další nastavení</string>
   <string name="status_bar_settings_all_app_display_loading">Načítání...</string>
-  <string name="status_bar_settings_basic_settings">Základní nastavení</string>    
+  <string name="status_bar_settings_basic_settings">Základní nastavení</string>
   <string name="status_bar_settings_custom_carrier">Upravit název operátora</string>
   <string name="status_bar_settings_custom_notification">Správa notifikací</string>
   <string name="status_bar_settings_custom_wifi_name">Upravit název Wi-Fi</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Zapnout na zamyk. obrazovce</string>    
-  <string name="status_bar_settings_no_carrier">Žádný</string>	
+  <string name="status_bar_settings_expandable_under_keyguard">Zapnout na zamyk. obrazovce</string>
+  <string name="status_bar_settings_no_carrier">Žádný</string>
   <string name="status_bar_settings_notification_bar">Odstín notifikací</string>
   <string name="status_bar_settings_show_carrier">Zobrazit operátora</string>
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obraz.</string>
@@ -2376,6 +2403,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_prl_version">Verze PRL</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Sériové číslo</string>
+  <string name="status_serialno">Žádné</string>
   <string name="status_service_state">Stav služby</string>
   <string name="status_signal_strength">Síla signálu</string>
   <string name="status_unavailable">Nedostupný údaj</string>
@@ -2400,7 +2428,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="suffix_virus_count_top">Rizika</string>
   <string name="sum_carrier_select">Vybrat síťového operátora</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="summary_install_virus">Kontrolovat aplikace před instalací</string>	
+  <string name="summary_install_virus">Kontrolovat aplikace před instalací</string>
   <string name="summary_mms">Filtrovat nevyžádané zprávy (prodej, inzeráty, atd.),</string>
   <string name="summary_permission">Chránit mé soukromí před aplikacemi třetích stran</string>
   <string name="summary_usb">Zabránit virům přes USB připojení</string>
@@ -2415,7 +2443,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="sync_enable">Povolit auto. synchronizaci</string>
   <string name="sync_enabled">Synchronizace ZAP.</string>
   <string name="sync_error">Chyba synchronizace</string>
-  <string name="sync_failed">Synchronizace se nezdařila</string>   
+  <string name="sync_failed">Synchronizace se nezdařila</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Probíhá synchronizace...</string>
   <string name="sync_is_failing">Nastaly potíže se synchronizací. Služba bude brzy obnovena.</string>
@@ -2462,6 +2490,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="title_hdmi_color_calibration">Nastavení barev</string>
   <string name="title_install_virus_no">Kontrola instalací vypnuta</string>
   <string name="title_install_virus_yes">Kontrola instalací zapnuta</string>
+  <string name="title_local_resource">Lokální zdroje</string>
   <string name="title_miui_update_no">Nalezena aktualizace MIUI: %s</string>
   <string name="title_miui_update_yes">MIUI je aktuální</string>
   <string name="title_mms_no">Filtr zpráv vypnut</string>
@@ -2470,6 +2499,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="title_permission_yes">Sledování oprávnění zapnuto</string>
   <string name="title_show_notification_no">Zobrazení v roletce vypnuto</string>
   <string name="title_show_notification_yes">Zobrazení v roletce zapnuto</string>
+  <string name="title_system_resource">Systémové zdroje</string>
   <string name="title_usb_no">Ladění USB zapnuto</string>
   <string name="title_usb_yes">Ladění USB vypnuto</string>
   <string name="title_virus_no">Nalezen Virus</string>
@@ -2480,6 +2510,8 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="toast_app_no_residual_on_sdcard">"Aplikace nemá žádné soubory na úložišti"</string>
   <string name="toast_garbage_cleanup_success">Čištění dokončeno</string>
   <string name="toast_garbage_list_empty">Vše je pořádku!</string>
+  <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
+  <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
   <string name="toast_removed_from_white_list">Odebráno z ignorovaných</string>
   <string name="toast_shortcut_install">Zástupce je vytvořen</string>
   <string name="toast_shortcut_uninstall">Zástupce je odstraněn</string>
@@ -2812,6 +2844,9 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="vpn_username">Uživatelské jméno</string>
   <string name="wait_for_debugger">Počkat na ladicí program</string>
   <string name="wait_for_debugger_summary">Aplikace čeká na připojení ladicího programu</string>
+  <string name="wallpaper_desktop">Domácí obrazovka</string>
+  <string name="wallpaper_live">Živá tapeta</string>
+  <string name="wallpaper_lockscreen">Zámek</string>
   <string name="wallpaper_settings_fragment_title">Vybrat tapetu:</string>
   <string name="wallpaper_settings_title">Tapeta</string>
   <string name="welcome">Vítejte</string>
@@ -2914,10 +2949,10 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wifi_ip_settings_invalid_dns">Zadejte prosím platnou adresu DNS.</string>
   <string name="wifi_ip_settings_invalid_gateway">Zadejte prosím platnou adresu brány.</string>
   <string name="wifi_ip_settings_invalid_ip_address">Zadejte platnou adresu IP.</string>
-  <string name="wifi_ip_settings_invalid_network_prefix_length">Zadejte prosím délku síťové předpony v rozsahu 0 až 32.</string>    
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Zadejte prosím délku síťové předpony v rozsahu 0 až 32.</string>
   <string name="wifi_ip_settings_menu_cancel">Zrušit</string>
   <string name="wifi_ip_settings_menu_save">Uložit</string>
-  <string name="wifi_menu_advanced">Pokročilé</string>    
+  <string name="wifi_menu_advanced">Pokročilé</string>
   <string name="wifi_menu_connect">Připojit k síti</string>
   <string name="wifi_menu_forget">Odstranit záznam sítě</string>
   <string name="wifi_menu_modify">Upravit síť</string>
@@ -2929,7 +2964,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wifi_menu_wps_pin">Zadání kódu WPS PIN</string>
   <string name="wifi_more">Další</string>
   <string name="wifi_network_prefix_length">Délka síťové předpony</string>
-  <string name="wifi_network_prefix_length_hint">24</string>    
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Mimo dosah</string>
   <string name="wifi_notify_open_networks">Oznamování sítě</string>
   <string name="wifi_notify_open_networks_summary">Oznamovat dostupné nezabezpečené sítě</string>
@@ -2987,8 +3022,8 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>	
-  <string name="wifi_security_short_wpa">WPA</string>	
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
   <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
   <string name="wifi_security_wep">WEP</string>
@@ -3029,22 +3064,22 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
   <string name="wifi_setup_status_select_network">K síti se připojíte tak, že se jí dotknete</string>
   <string name="wifi_setup_status_unsecured_network">Připojit k nezabezpečené síti</string>
   <string name="wifi_setup_title">Nastavení připojení k síti Wi-Fi</string>
-  <string name="wifi_setup_title_add_network">Přidat síť</string>	
-  <string name="wifi_setup_title_connected_network">Připojeno k síti Wi-Fi %s</string>	
-  <string name="wifi_setup_title_connecting_network">Připojování k síti Wi-Fi %s…</string>	
-  <string name="wifi_setup_title_editing_network">Připojení k síti Wi-Fi %s</string>	
-  <string name="wifi_setup_wizard_title">Vybrat síť Wi-Fi</string>	
-  <string name="wifi_setup_wps">Automat. nastavení (WPS)</string>	
-  <string name="wifi_share">Sdílet chráněnou síť Wi-Fi</string>	
-  <string name="wifi_share_action_turn_off">Ukončit sdílení Wi-Fi</string>	
-  <string name="wifi_share_action_turn_on">Sdílet veřejnou Wi-Fi síť</string>	
+  <string name="wifi_setup_title_add_network">Přidat síť</string>
+  <string name="wifi_setup_title_connected_network">Připojeno k síti Wi-Fi %s</string>
+  <string name="wifi_setup_title_connecting_network">Připojování k síti Wi-Fi %s…</string>
+  <string name="wifi_setup_title_editing_network">Připojení k síti Wi-Fi %s</string>
+  <string name="wifi_setup_wizard_title">Vybrat síť Wi-Fi</string>
+  <string name="wifi_setup_wps">Automat. nastavení (WPS)</string>
+  <string name="wifi_share">Sdílet chráněnou síť Wi-Fi</string>
+  <string name="wifi_share_action_turn_off">Ukončit sdílení Wi-Fi</string>
+  <string name="wifi_share_action_turn_on">Sdílet veřejnou Wi-Fi síť</string>
   <string name="wifi_share_action_turn_on_summary">Přihlaste se svým Xiaomi účtem</string>
-  <string name="wifi_share_add">Sdílet moji veřejnou Wi-Fi síť</string>	
+  <string name="wifi_share_add">Sdílet moji veřejnou Wi-Fi síť</string>
   <string name="wifi_share_add_summary">"Když sdílíte Vaši veřejnou Wi-Fi síť,
-můžete použít jinou síť"</string>	
-  <string name="wifi_share_connect">Připojit</string>	
-  <string name="wifi_share_connected_summary">"Jste připojeni k veřejné Wi-Fi síti sdílené jiným uživatelem MIUI"</string>	
-  <string name="wifi_share_connected_title">Připojeno k Wi-Fi síti sdílené MIUI</string>	
+můžete použít jinou síť"</string>
+  <string name="wifi_share_connect">Připojit</string>
+  <string name="wifi_share_connected_summary">"Jste připojeni k veřejné Wi-Fi síti sdílené jiným uživatelem MIUI"</string>
+  <string name="wifi_share_connected_title">Připojeno k Wi-Fi síti sdílené MIUI</string>
   <string name="wifi_share_count">Sdílené sítě: %d</string>
   <string name="wifi_share_current_network">Současná síť</string>
   <string name="wifi_share_know">OK</string>
@@ -3053,7 +3088,7 @@ můžete použít jinou síť"</string>
   <string name="wifi_share_login_summary">Pokud je tato síť veřejná, můžete ji sdílet s ostatními uživateli MIUI.</string>
   <string name="wifi_share_notification_summary">MIUI Vás připojilo k zabezpečené Wi-Fi síti.</string>
   <string name="wifi_share_other_network">Ostatní sítě</string>
-  <string name="wifi_share_qrcode_finish">Dokončit</string>	
+  <string name="wifi_share_qrcode_finish">Dokončit</string>
   <string name="wifi_share_qrcode_summary">Použít fotoaparát MIUI pro snímání QR kódu</string>
   <string name="wifi_share_qrcode_title">Sdílet Wi-Fi</string>
   <string name="wifi_share_show_network">Zobrazit sítě</string>
@@ -3130,7 +3165,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_wps_failed_wep">Nastavení zabezpečení bezdrátového směrovače (WEP) není podporováno</string>
   <string name="wifi_wps_in_progress">Nastavování WPS probíhá a dokončení procesu může trvat až dvě minuty.</string>
   <string name="wifi_wps_onstart_pbc">Stiskněte na směrovači tlačítko Chráněné nastavení Wi-Fi. Může být označeno textem „WPS“ nebo tímto symbolem:</string>
-  <string name="wifi_wps_onstart_pin">Zadejte ve svém směrovači sítě Wi-Fi kód PIN %1$s. Proces nastavení může trvat až dvě minuty.</string>	
+  <string name="wifi_wps_onstart_pin">Zadejte ve svém směrovači sítě Wi-Fi kód PIN %1$s. Proces nastavení může trvat až dvě minuty.</string>
   <string name="wifi_wps_overlap_error">Zjištěna další relace zabezpečené sítě Wi-Fi. Zkuste to znovu za chvíli.</string>
   <string name="wifi_wps_setup_msg">Spouštění WPS…</string>
   <string name="wifi_wps_setup_title">Chráněné nastavení Wi-Fi</string>
@@ -3146,46 +3181,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wrong_pin_code_pukked">Zadali jste nesprávný kód PIN SIM karty. Nyní musíte za účelem odemknutí zařízení kontaktovat svého operátora.</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_money_service">MiKredity</string>	
+  <string name="xiaomi_money_service">MiKredity</string>
   <string name="yes">Ano</string>
   <string name="zone_auto">Automatické čas. pásmo</string>
   <string name="zone_auto_summaryOff">Použít časové pásmo ze sítě</string>
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="activity_title_perm_manager">Správa licence</string>
-  <string name="activity_title_auto_start_manager">Správa auto. spuštění</string>
-  <string name="activity_title_notification_bar_manager">Správa notifikační lišty</string>
-  <string name="activity_title_default_apps_manager">Správa výchozích aplikací</string>
-  <string name="activity_title_permission_manager">Správa povolení</string>
-  <string name="activity_title_root_manager">Správa root</string>
-  <string name="empty_title_auto_start_list">Žádné aplikace</string>
-  <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
-  <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen. Je nutné přeinstalovat ROM!</string>
-  <string name="hints_auto_start_warning_info">Zákaz auto. spouštění zakáže přijímání upozornění aplikace</string>
-  <string name="hints_auto_start_enable_title">Povolit %d apl. auto. spuštění</string>
-  <string name="hints_auto_start_disable_title">Zakázat %d apl. auto. spuštění</string>
-  <string name="msd_install_download_zhushou">Stáhnutý MiPhoneManager</string>
-  <string name="free_wifi_manage_summary">Zobrazit %1$s.</string>  
-  <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
-  <string name="button_text_reboot_now">Restartovat</string>
-  <string name="wallpaper_desktop">Domácí obrazovka</string>   
-  <string name="wallpaper_lockscreen">Zámek</string>
-  <string name="wallpaper_live">Živá tapeta</string>
-  <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
-  <string name="button_text_login">Přihlásit se</string>
-  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
-  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
-  <string name="app_switch_key">Nedávné</string>
-  <string name="audio_list_loading">Načítání...</string>
-  <string name="menu_item_show_more">Více</string>
-  <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
-  <string name="ringtone_mute">Žádné</string>
-  <string name="title_system_resource">Systémové zdroje</string>
-  <string name="online_resource_entry">Online zdroje</string>
-  <string name="title_local_resource">Lokální zdroje</string>
-  <string name="add_auto_startup_application">Přidat aplikaci</string>
-  <string name="power_autorun_apps_empty">Žádné aplikace</string>
-  <string name="lockpassword_pin_fixed_length">PIN musí obsahovat %d čísel</string>
-  <string name="status_serialno">Žádné</string>
 </resources>
