@@ -66,7 +66,7 @@
     <string name="btn_activate">Aktivovat</string>
     <string name="btn_return">Zpět</string>
     <string name="button_cancel">Zrušit</string>
-    <string name="button_unbind">&lt;u&gt;Odpojit&lt;/u&gt;</string>
+    <string name="button_unbind">Odpojit</string>
     <string name="captcha">Captcha</string>
     <string name="check_phone_error_title">Nelze aktivovat službu synchronizace</string>
     <string name="check_phone_io_error">Chyba sítě</string>	
