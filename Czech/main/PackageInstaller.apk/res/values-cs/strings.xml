@@ -64,7 +64,7 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="update_time">%1$s v %2$s %3$s verze %4$s</string>
   <string name="update_title">%1$s má novou verzi</string>
   <string name="virus_scan_clear">Vyčistit</string>
-  <string name="virus_scan_install">" "&lt;u&gt;Pokra&amp;#269;ovat&lt;/u&gt;" "</string>
+  <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="warn_message">Aplikace může vážně ohrozit bezpečnost vašich dat a soukromých informací</string>

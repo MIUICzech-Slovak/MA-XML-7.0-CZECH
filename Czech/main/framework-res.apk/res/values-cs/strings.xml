@@ -107,7 +107,7 @@ Chcete jej ukončit?"</string>
   <string name="bugreport_title">Vytvořit chybové hlášení</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušit</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+  <string name="candidates_style">Kandidáti</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Za účelem usnadnění přístupu k obsahu aplikací mohou být nainstalovány skripty.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Zahrnuje osobní údaje, jako jsou například čísla kreditních karet a hesla.</string>
   <string name="capability_desc_canRequestTouchExploration">Položky, na které klepnete, budou přečteny nahlas a obrazovku bude možné procházet pomocí gest.</string>
@@ -383,7 +383,7 @@ Opravdu tuto stránku chcete opustit?"</string>
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotykem zad&amp;#225;te heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotykem zadáte heslo</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
   <string name="kg_emergency_call_label">Tísňové volání</string>
   <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN.</string>
@@ -398,8 +398,8 @@ Opravdu tuto stránku chcete opustit?"</string>
   <string name="kg_invalid_sim_pin_hint">Zadejte kód PIN o délce 4–8 číslic.</string>
   <string name="kg_invalid_sim_puk_hint">Minimální délka kódu PUK je 8 číslic.</string>
   <string name="kg_login_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="kg_login_checking_password">Kontrola účtu…</string>
+Přejděte na stránku google.com/accounts/recovery"</string>
+  <string name="kg_login_checking_password">Kontrola účtu...</string>
   <string name="kg_login_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
   <string name="kg_login_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
   <string name="kg_login_password_hint">Heslo</string>
@@ -452,7 +452,7 @@ Zkuste to znovu za %d s."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon jste se pokusili nesprávným způsobem odemknout %dkrát. V telefonu se nyní obnoví výchozí tovární nastavení.</string>
   <string name="lockscreen_forgot_pattern_button_text">Zapomněli jste gesto?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Přejděte na stránku google.com/accounts/recovery</string>
   <string name="lockscreen_glogin_checking_password">Kontrola...</string>
   <string name="lockscreen_glogin_forgot_pattern">Odemčení účtu</string>
   <string name="lockscreen_glogin_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
@@ -1148,7 +1148,7 @@ pro účet %s."</string>
   <string name="permlab_writeSocialStream">zápis do sociálního streamu</string>
   <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NOV&amp;#201;: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">NOVÉ</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistent</string>
   <string name="phoneTypeCallback">Zpětné volání</string>
@@ -1327,7 +1327,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sipAddressTypeOther">Jiné</string>
   <string name="sipAddressTypeWork">Práce</string>
   <string name="skip_button_label">Přeskočit</string>
-  <string name="sms_control_message">Aplikace &lt;b&gt;%1$s&lt;/b&gt;odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
+  <string name="sms_control_message">Aplikace %1$s odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání zpráv SMS</string>
   <string name="sms_control_yes">Povolit</string>

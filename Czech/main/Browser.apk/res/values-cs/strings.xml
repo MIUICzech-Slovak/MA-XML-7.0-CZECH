@@ -235,8 +235,8 @@
   <string name="geolocation_permissions_prompt_message">chce znát Vaši polohu</string>
   <string name="geolocation_permissions_prompt_remember">Pamatovat volbu</string>
   <string name="geolocation_permissions_prompt_share">Sdílet polohu</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši polohu. Změnit to můžete v Nastavení -&gt; Soukromí a bezpečnost</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Tato stránka nemůže použít Vaši polohu. Změnit to můžete v Nastavení -&gt; Soukromí a bezpečnost</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši polohu. Změnit to můžete v Nastavení &gt; Soukromí a bezpečnost</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Tato stránka nemůže použít Vaši polohu. Změnit to můžete v Nastavení &gt; Soukromí a bezpečnost</string>
   <string name="geolocation_permissions_prompt_url">\"%s\"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Zrušit</string>
   <string name="geolocation_settings_page_dialog_message">Odebrat této stránce přístup k Vaší poloze?</string>

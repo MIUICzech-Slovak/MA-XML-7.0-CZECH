@@ -55,7 +55,7 @@
   <string name="fragment_more">Více</string>
   <string name="function_error">Tato funkce je momentálně nedostupná</string>
   <string name="go_to_add_music">Přidat skladbu~</string>
-  <string name="impunity_declaration">"Používáním Baidu online hudby souhlasíte s "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Podm&amp;#237;nkami pou&amp;#382;&amp;#237;v&amp;#225;n&amp;#237;&lt;/a&gt;.</string>
+  <string name="impunity_declaration">Online hudba, kterou se chystáte použít, je od Baidu Online Music Service. Klepněte na tlačítko Potvrdit pro potvrzení, nebo klepněte na tlačítko Zrušit k ukončení.</string>
   <string name="impunity_declaration_title">Podmínky používání</string>
   <string name="ktv_playlist">Moje KTV</string>
   <string name="like">Líbí se</string>

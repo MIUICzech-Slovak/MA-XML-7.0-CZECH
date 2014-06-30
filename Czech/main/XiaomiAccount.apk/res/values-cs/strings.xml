@@ -87,7 +87,7 @@
   <string name="dirty_mms_count">zpráv: %d</string>
   <string name="dirty_note_count">poznámek: %d</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
-  <string name="disable_micloud">&lt;u&gt;Zak&amp;#225;zat MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud">Zakázat MiCloud</string>
   <string name="email_already_be_used">E-mailová adresa je již použita s jiným účtem</string>
   <string name="enableAll">Povolit vše</string>
   <string name="enable_find_device_error">Chyba: %1$s</string>
@@ -118,8 +118,8 @@
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="find_password_on_web_msg">Navštivte account.xiaomi.com pro obnovu hesla</string>
-  <string name="foreign_login">&lt;u&gt;Zem&amp;#283;/k&amp;#243;d zem&amp;#283;&lt;/u&gt;</string>
-  <string name="forget_password">&lt;u&gt;Zapomenut&amp;#233; heslo&lt;/u&gt;</string>
+  <string name="foreign_login">Země/kód země</string>
+  <string name="forget_password">Zapomenuté heslo</string>
   <string name="get_back_pwd">Obnovit heslo</string>
   <string name="get_verify_code">Získat kód</string>
   <string name="getting_verify_code">Získávání...</string>
@@ -231,7 +231,7 @@ Se zařízením můžete bez obav pokračovat v práci.</string>
   <string name="micloud_warn_low_title">Dochází volné místo v úložišti!</string>
   <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pro ukládání a přístup k Vašim souborům</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;P&amp;#345;esko&amp;#269;it tento krok&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Přeskočit tento krok</string>
   <string name="micloud_welcome_skip_login_provision">Přeskočit</string>
   <string name="mili_center">MiKredity</string>
   <string name="my_xiaomi_account">Můj Xiaomi účet</string>
@@ -271,7 +271,7 @@ Se zařízením můžete bez obav pokračovat v práci.</string>
   <string name="sim_changed_notification_content">SIM není aktivovaná.</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Přeskočit přihlášení</string>
-  <string name="skip_login_u">&lt;u&gt;P&amp;#345;esko&amp;#269;it&lt;/u&gt;</string>
+  <string name="skip_login_u">Přeskočit</string>
   <string name="skip_register">Přeskočit</string>
   <string name="skip_setup_account_msg">Svůj účet můžete nastavit i později v nastavení telefonu.</string>
   <string name="skip_setup_account_title">Přeskočit nastavení účtu</string>
