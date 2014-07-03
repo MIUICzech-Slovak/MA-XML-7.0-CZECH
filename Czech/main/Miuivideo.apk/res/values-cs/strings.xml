@@ -209,4 +209,7 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi uživatel</string>
   <string name="yesterday">"Včera "</string>
+  <string name="vp_back">Zpět</string>
+  <string name="vp_exit">Ukončit</string>
+  <string name="vp_get_url_error">Načítání URL selhalo.</string>
 </resources>
