@@ -1489,4 +1489,23 @@ Chcete ji zavřít?"</string>
   <string name="year">rokem</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
+  <string name="edp_brightness_limited">Omezený jas</string>
+  <string name="edp_camera_flash_limited">Omezený blesk</string>
+  <string name="edp_volume_limited">Omezená hlasitost</string>
+  <string name="global_action_sleep">Spánek</string>
+  <string name="global_actions_miracast_connection_failed_status">Připojení selhalo.</string>
+  <string name="global_actions_miracast_connection_progress_status">Připojování k zařízení...</string>
+  <string name="global_actions_miracast_mode_airplane_on_status">Není dostupné v režimu Letadlo</string>
+  <string name="global_actions_miracast_mode_cancel_connection_status">Zrušit připojení</string>
+  <string name="global_actions_miracast_mode_off_status_many_paired">Připojit k naposledy připojenému zařízení</string>
+  <string name="global_actions_miracast_mode_off_status_no_paired">Připojit k zařízení</string>
+  <string name="global_actions_miracast_mode_off_status_single_paired">"Připojit k "</string>
+  <string name="global_actions_miracast_mode_on_status">Ukončit</string>
+  <string name="global_actions_miracast_mode_pc2thor_on_status">Unavailable due to PC streaming to SHIELD</string>
+  <string name="global_actions_miracast_mode_wifi_off_status">Není dostupní při vypnuté Wi-Fi</string>
+  <string name="global_actions_miracast_sink_not_found_status">Nelze najít zařízení.</string>
+  <string name="global_actions_miracast_sink_search_status">Vyhledávání...</string>
+  <string name="global_actions_toggle_miracast_mode">Miracast bezdrátový displej</string>
+  <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct připojení bude ukončeno. Chcete pokračovat?</string>
+  <string name="permdesc_nvidiaCPUPower">Povolí aplikaci změnit parametry NVIDA Tegra CPU. Může se zvýšit spotřeba baterie.</string>
 </resources>
