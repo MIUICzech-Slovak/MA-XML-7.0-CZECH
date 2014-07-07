@@ -212,7 +212,4 @@
   <string name="vp_back">Zpět</string>
   <string name="vp_exit">Ukončit</string>
   <string name="vp_get_url_error">Načítání URL selhalo.</string>
-  <string name="vp_back">Zpět</string>
-  <string name="vp_exit">Ukončit</string>
-  <string name="vp_get_url_error">Načítání URL selhalo.</string>
 </resources>
