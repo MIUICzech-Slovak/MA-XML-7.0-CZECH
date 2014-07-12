@@ -1630,7 +1630,6 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="move_app">Přesunout</string>
   <string name="move_app_app_label">Apl</string>
   <string name="move_app_data_label">Data</string>
-  <string name="move_app_failed_dlg_text">Přesunutí aplikace se nezdařilo. %1$s</string>
   <string name="move_app_failed_dlg_text">Nelze přesunout aplikaci: %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_free_on_device">%1$s volno na SHIELD</string>
