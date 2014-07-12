@@ -2589,14 +2589,13 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="title_virus_update_no">Auto-aktualizace virové databáze vypnuta</string>
   <string name="title_virus_update_yes">Auto-aktualizace virové databáze zapnuta</string>
   <string name="title_virus_yes">Žádný Virus nenalezen</string>
+  <string name="tnhwrevision_settings_list_item_summary">MiPAD popis HW</string>
+  <string name="tnhwrevision_settings_list_item_title">MiPAD HW revize</string>
   <string name="toast_add_white_list_success">Přidáno do ignorovaných, zkontrolujte nastavení</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikace nemá žádné soubory na úložišti"</string>
   <string name="toast_garbage_cleanup_success">Čištění dokončeno</string>
   <string name="toast_garbage_list_empty">Vše je pořádku!</string>
-  <string name="tnhwrevision_settings_list_item_summary">MiPAD popis HW</string>
-  <string name="tnhwrevision_settings_list_item_title">MiPAD HW revize</string>
   <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
-  <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
   <string name="toast_removed_from_white_list">Odebráno z ignorovaných</string>
   <string name="toast_shortcut_install">Zástupce je vytvořen</string>
   <string name="toast_shortcut_uninstall">Zástupce je odstraněn</string>

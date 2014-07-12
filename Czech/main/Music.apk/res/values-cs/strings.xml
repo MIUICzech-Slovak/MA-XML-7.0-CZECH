@@ -16,12 +16,10 @@
   <string name="audio_picker_title">Zvolte skladbu</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="bill_list_fragment_title">Populární</string>
-  <string name="blank_reminder">Nesmí být prázdné</string>
   <string name="buffering">Načítání...</string>
   <string name="button_add">Přidat</string>
   <string name="cancel">Zrušit</string>
   <string name="click_to_shuffle">Spustit náhodné přehrávání</string>
-  <string name="create_new_playlist">Nový</string>
   <string name="dialog_button_agree">Souhlasím</string>
   <string name="dialog_button_create_playlist">Vytvořit Playlist</string>
   <string name="dialog_button_find_music">Objevte novou hudbu</string>
@@ -31,6 +29,7 @@
   <string name="dialog_hint_music_error">Žádné skladby. Můžete...</string>
   <string name="dialog_hint_network_error">Síť je nedostupná. Připojte se k síti a zkuste to znovu.</string>
   <string name="dialog_title_add_playlist">Přidat Playlist</string>
+  <string name="dialog_title_delete_tracks">Vymazat</string>
   <string name="dialog_title_name_playlist">Název</string>
   <string name="dialog_title_remove_tracks">Odebrat skladby</string>
   <string name="dialog_title_track_picker">Vybrat skladby</string>
@@ -50,8 +49,6 @@
   <string name="file_not_found">Soubor neexistuje</string>
   <string name="find_ktv">Vyhledat KTV</string>
   <string name="find_music">Prohledat skladby~</string>
-  <string name="find_music_left"/>
-  <string name="find_music_right"/>
   <string name="fragment_more">Více</string>
   <string name="function_error">Tato funkce je momentálně nedostupná</string>
   <string name="go_to_add_music">Přidat skladbu~</string>
@@ -81,13 +78,12 @@
   <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
   <string name="playlist_deleted_message">Playlist vymazán</string>
   <string name="playlist_renamed_message">Playlist přejmenován</string>
-  <string name="project_device">MiBox</string>
   <string name="project_device_mobile">Mobilní zařízení</string>
   <string name="recommend_fragment_title">Album</string>
   <string name="retry">Zkusit znovu</string>
-  <string name="same_name_reminder">Nesmí se opakovat</string>
   <string name="search_hint">Umělec, skladba, album</string>
   <string name="search_title">Hledat</string>
+  <string name="select_device">Vyberte zařízení</string>
   <string name="send_to">Odeslat přes</string>
   <string name="send_to_title">Odeslat (%1$s)</string>
   <string name="source_from">Zdroj: %1$s</string>

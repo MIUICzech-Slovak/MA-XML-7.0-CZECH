@@ -129,6 +129,7 @@
   <string name="system_backup_ok_text">Zálohovat</string>
   <string name="toast_msg_reboot">Aktualizace je dokončena, restartujte zařízení</string>
   <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
+  <string name="toast_not_enough_free_space">Není dostatek volného místa pro OTA</string>
   <string name="toast_update_failed_hints">Aktualizace selhala, stáhněte celou ROM!</string>
   <string name="top_secret_build">Tajná verze</string>
   <string name="update_comment_hint">(volitelné)</string>
