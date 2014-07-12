@@ -2944,7 +2944,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wfd_menu_search">Vyhledat zařízení</string>
   <string name="wfd_menu_searching">Vyhledávání...</string>
   <string name="wfd_menu_teardown">Odpojit</string>
-  <string name="wfd_settings_description">Připojené k displeji přes Wi-Fi</string>
+  <string name="wfd_settings_description">Připojení k displeji přes Wi-Fi</string>
   <string name="wfd_settings_title">Nastavení Wi-Fi Displej</string>
   <string name="wfd_wps_keypad">Stlačení tlačítka</string>
   <string name="wfd_wps_pbc">Vložit PIN</string>
