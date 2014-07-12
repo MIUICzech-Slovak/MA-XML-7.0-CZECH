@@ -986,7 +986,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="enable_terminal_summary">Aktivovat terminálovou aplikaci pro místní přístup k prostředí shell</string>
   <string name="enable_terminal_title">Místní terminál</string>
   <string name="enable_text">Aktivovat</string>
-  <string name="enable_wifi_display">Povolit Wireless displej</string>
+  <string name="enable_wifi_display">Povolit Wi-Fi displej</string>
   <string name="enforce_read_external_confirm_message">"Pokud je úložiště USB chráněno, musejí aplikace před čtením dat z externího úložiště požádat o povolení.
 
 Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</string>
@@ -1543,16 +1543,16 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="menu_text_power_manager">Baterie</string>
   <string name="menu_use_uss">Použít USS (jedinečnou velikost sady)</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast je nedostupný, protože se už vysílá z PC</string>
-  <string name="miracast_add_sink_title">Přidat wireless displej</string>
-  <string name="miracast_airplane_mode_on">Pro použití Wireless displeje, musíte vypnout režim Letadlo.</string>
+  <string name="miracast_add_sink_title">Přidat Wi-Fi displej</string>
+  <string name="miracast_airplane_mode_on">Pro použití Wi-Fi displeje, musíte vypnout režim Letadlo.</string>
   <string name="miracast_authentication_error">Problém s ověřením</string>
   <string name="miracast_cancelconnect_dialog">Zrušit připojení</string>
   <string name="miracast_connection_failed_generic">Nepodařilo se připojit</string>
   <string name="miracast_dialog_title">%1$s</string>
   <string name="miracast_disconnect_dialog">Pokud se odpojíte, spojení s %1$s bude ukončeno.</string>
   <string name="miracast_display_category">Displeje</string>
-  <string name="miracast_empty_list">Hledání wireless displejů...</string>
-  <string name="miracast_error_already_streaming">Již se vysílá ne jeden displej</string>
+  <string name="miracast_empty_list">Hledání Wi-Fi displejů...</string>
+  <string name="miracast_error_already_streaming">Již se vysílá na jeden displej</string>
   <string name="miracast_error_cancelconnect">Připojení je zaneprázdněno</string>
   <string name="miracast_error_connection_in_progress">Probíhá připojení. Čekejte prosím...</string>
   <string name="miracast_error_unknown_sink">Unknown sink</string>
@@ -1562,7 +1562,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_game_mode_text_on">Zap.</string>
   <string name="miracast_game_mode_title">Herní režim</string>
   <string name="miracast_instructions">Bezdrátové streamování videa a zvuku do kompatibilního adaptéru nebo displeje, například vašeho televizoru.</string>
-  <string name="miracast_is_discoverable">Viditelné pro všechny Wireless displeje (%1$s)</string>
+  <string name="miracast_is_discoverable">Viditelné pro všechny Wi-Fi displeje (%1$s)</string>
   <string name="miracast_menu_add_sink">Přidat manuálně</string>
   <string name="miracast_menu_connect">Spustit proud</string>
   <string name="miracast_menu_disconnect">Zastavit proud</string>
@@ -1573,7 +1573,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_menu_title_refreshing">Obnovování...</string>
   <string name="miracast_nickname">Zadejte nový název:</string>
   <string name="miracast_no_sinks_found">Nebyly nalezeny žádné Wi-Fi displeje</string>
-  <string name="miracast_not_visible_to_other_devices">Není viditelný pro ostatní Wireless displeje</string>
+  <string name="miracast_not_visible_to_other_devices">Není viditelný pro ostatní Wi-Fi displeje</string>
   <string name="miracast_password">Heslo</string>
   <string name="miracast_pbc">Připojení tlačítkem WPS</string>
   <string name="miracast_pin">Připojení pomocí hesla nebo pinu</string>
@@ -1587,7 +1587,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_security_wep">WEP</string>
   <string name="miracast_service_died">ServiceDied</string>
   <string name="miracast_service_restart">ServiceRestarted</string>
-  <string name="miracast_settings">Wireless displej</string>
+  <string name="miracast_settings">Wi-Fi displej</string>
   <string name="miracast_settings_category">Wi-Fi displej</string>
   <string name="miracast_setup_cancel">Zrušit</string>
   <string name="miracast_setup_ok">OK</string>
@@ -1596,11 +1596,11 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_setup_try_again">Zkusit znovu</string>
   <string name="miracast_show_password">Zobrazit heslo</string>
   <string name="miracast_sink_busy">Zaneprázdněný</string>
-  <string name="miracast_sink_connected">Připojení</string>
+  <string name="miracast_sink_connected">Připojeno</string>
   <string name="miracast_sink_connecting">Připojování...</string>
   <string name="miracast_sink_not_available">Nedostupné</string>
   <string name="miracast_sink_ready_to_connect">Připraveno na připojení</string>
-  <string name="miracast_ssid">Display SSID</string>
+  <string name="miracast_ssid">Displej SSID</string>
   <string name="miracast_title_disconnect">Odpojit?</string>
   <string name="miracast_use_password_button">Ověření heslem</string>
   <string name="miracast_warning_desc">Upozornění</string>
