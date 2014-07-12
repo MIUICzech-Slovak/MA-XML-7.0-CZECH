@@ -1555,7 +1555,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_error_already_streaming">Již se vysílá na jeden displej</string>
   <string name="miracast_error_cancelconnect">Připojení je zaneprázdněno</string>
   <string name="miracast_error_connection_in_progress">Probíhá připojení. Čekejte prosím...</string>
-  <string name="miracast_error_unknown_sink">Unknown sink</string>
+  <string name="miracast_error_unknown_sink">Neznámý</string>
   <string name="miracast_error_wifi_is_off">Wi-fi je vypnuta</string>
   <string name="miracast_game_mode_summary">Lepší herní výkon</string>
   <string name="miracast_game_mode_text_off">Vyp.</string>
@@ -1564,8 +1564,8 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_instructions">Bezdrátové streamování videa a zvuku do kompatibilního adaptéru nebo displeje, například vašeho televizoru.</string>
   <string name="miracast_is_discoverable">Viditelné pro všechny Wi-Fi displeje (%1$s)</string>
   <string name="miracast_menu_add_sink">Přidat manuálně</string>
-  <string name="miracast_menu_connect">Spustit proud</string>
-  <string name="miracast_menu_disconnect">Zastavit proud</string>
+  <string name="miracast_menu_connect">Spustit vysílání</string>
+  <string name="miracast_menu_disconnect">Zastavit vysílání</string>
   <string name="miracast_menu_forget">Odebrat displej</string>
   <string name="miracast_menu_rename">Přejmenovat displej</string>
   <string name="miracast_menu_search">Vyhledat</string>
@@ -1608,7 +1608,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="miracast_wps_complete">"WLAN Protected Setup" dokončeno. Připojování k síti...</string>
   <string name="miracast_wps_connection_option_separator_text">nebo</string>
   <string name="miracast_wps_desc">WPS</string>
-  <string name="miracast_wps_onstart_pbc">Stiskněte "WLAN Protected Setup" tlačítko na vašem displeji nebo adaptéru. Tlačítko může být označeno \"WPS\" nebo může osahovat následující symbol:</string>
+  <string name="miracast_wps_onstart_pbc">Stiskněte "WLAN Protected Setup" tlačítko na vašem displeji nebo adaptéru. Tlačítko může být označeno \"WPS\" nebo může obsahovat následující symbol:</string>
   <string name="miracast_wps_setup_msg">Spouštím WPS...</string>
   <string name="misc_files">Různé soubory</string>
   <string name="misc_files_selected_count">vybráno: %1$d z %2$d</string>
