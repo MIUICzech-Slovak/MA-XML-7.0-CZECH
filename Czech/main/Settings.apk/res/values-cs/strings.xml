@@ -2455,7 +2455,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_custom_wifi_name">Upravit název Wi-Fi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Zapnout na zamyk. obrazovce</string>
   <string name="status_bar_settings_no_carrier">Žádný</string>
-  <string name="status_bar_settings_notification_bar">Odstín notifikací</string>
+  <string name="status_bar_settings_notification_bar">Notifikační roletka</string>
   <string name="status_bar_settings_show_carrier">Zobrazit operátora</string>
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obraz.</string>
   <string name="status_bar_settings_show_flow_info">Zobrazit info o spotřebě dat</string>
