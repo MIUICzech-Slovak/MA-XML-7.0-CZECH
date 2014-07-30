@@ -295,7 +295,7 @@
         <item>Fialová</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP nebi starší</item>
+        <item>Windows XP nebo starší</item>
         <item>Windows Vista,7,8</item>
         <item>Mac OS</item>
         <item>Linux</item>
