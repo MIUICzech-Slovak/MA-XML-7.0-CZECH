@@ -1653,7 +1653,7 @@ Zvolte Váš operační systém:"</string>
   <string name="msd_install_download_zhushou">Stáhnutý MiPhoneManager</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Dále</string>
-  <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon, zkuste následující:
+  <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon, zkuste následující:</string>
   <string name="msd_install_retry_connect">Znovu připojte USB kabel.</string>
   <string name="msd_install_retry_reinstall">Přeinstalovat ovladač.</string>
   <string name="msd_install_retry_reinstall_mac">"Vyhledejte Android File Transfer
