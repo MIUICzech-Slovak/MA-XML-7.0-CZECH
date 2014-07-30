@@ -241,4 +241,7 @@
   <string name="year_picker_description">Roky</string>
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
+  <string name="rsvp_accepted">Odpovězeno - Ano.</string>
+  <string name="rsvp_declined">Odpovězeno - Ne.</string>
+  <string name="rsvp_tentative">Odpovězeno - Možná.</string>
 </resources>
