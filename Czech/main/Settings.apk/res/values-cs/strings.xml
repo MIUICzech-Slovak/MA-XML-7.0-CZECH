@@ -3265,4 +3265,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
+  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
+  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
+  <string name="priority_storage_title">Nastavení úložiště</string>
 </resources>
