@@ -3,6 +3,7 @@
 <resources>
   <string name="app_label">Vyhledávací aplikace</string>
   <string name="application_desc">Aplikace</string>
+  <string name="search_empty">Žádná shoda</string>
   <string name="search_label">Aplikace</string>
   <string name="settings_description">Názvy instalovaných aplikací</string>
 </resources>
