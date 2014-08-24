@@ -1653,8 +1653,8 @@ Zvolte Váš operační systém:"</string>
   <string name="msd_install_download_zhushou">Stáhnutý MiPhoneManager</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Dále</string>
-  <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon, zkuste následující:</string>
   <string name="msd_install_retry_connect">Znovu připojte USB kabel.</string>
+  <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon, zkuste následující:</string>
   <string name="msd_install_retry_reinstall">Přeinstalovat ovladač.</string>
   <string name="msd_install_retry_reinstall_mac">"Vyhledejte Android File Transfer
 a spusťte jej."</string>
@@ -2011,6 +2011,10 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="print_service_security_warning_title">Chcete použít službu %1$s?</string>
   <string name="print_settings">Tisk</string>
   <string name="print_settings_title">Tiskové služby</string>
+  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
+  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
+  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
+  <string name="priority_storage_title">Nastavení úložiště</string>
   <string name="privacy_mode_enable_sum">Skrýt seznam hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
   <string name="privacy_mode_enable_title">Zapnout režim soukromí</string>
   <string name="privacy_protect_title">Ochrana soukromí</string>
@@ -3265,8 +3269,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="priority_storage_app_settings">Uživatelská data budou uložena na %1$s</string>
-  <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
-  <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
-  <string name="priority_storage_title">Nastavení úložiště</string>
 </resources>

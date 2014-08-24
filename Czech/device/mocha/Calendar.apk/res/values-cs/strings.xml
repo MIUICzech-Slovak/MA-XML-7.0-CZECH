@@ -199,6 +199,9 @@
   <string name="response_no">Ne</string>
   <string name="response_yes">Ano</string>
   <string name="rest_day_indication"/>
+  <string name="rsvp_accepted">Odpovězeno - Ano.</string>
+  <string name="rsvp_declined">Odpovězeno - Ne.</string>
+  <string name="rsvp_tentative">Odpovězeno - Možná.</string>
   <string name="save_label">Uložit</string>
   <string name="saving_event">Událost byla uložena.</string>
   <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
@@ -241,7 +244,4 @@
   <string name="year_picker_description">Roky</string>
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
-  <string name="rsvp_accepted">Odpovězeno - Ano.</string>
-  <string name="rsvp_declined">Odpovězeno - Ne.</string>
-  <string name="rsvp_tentative">Odpovězeno - Možná.</string>
 </resources>
