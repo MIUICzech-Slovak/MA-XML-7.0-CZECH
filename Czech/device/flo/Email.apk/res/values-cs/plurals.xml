@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Přesunutí %1$d konverzací</item>
+        <item quantity="one">Přesunout konverzaci</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Koncepty</item>
+        <item quantity="one">Koncept</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Smazat tyto konverzace (%1$d)?</item>
+        <item quantity="one">Smazat tuto konverzaci?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archivovat tyto konverzace (%1$d)?</item>
+        <item quantity="one">Archivovat tuto konverzaci?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Zahodit z těchto %1$d konverzací koncepty?</item>
+        <item quantity="one">Zahodit z této konverzace koncepty?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ruší se označení %1$d konverzací hvězdičkou.</item>
+        <item quantity="one">Ruší se označení %1$d konverzace hvězdičkou.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Ignorované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Ignorované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Konverzace nahlášené jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Konverzace nahlášené jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Konverzace, které nebyly nahlášeny jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Konverzace, které nebyly nahlášeny jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Počet konverzací označených jako nedůležité: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Počet konverzací označených jako nedůležité: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Konverzace nahlášené jako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Konverzace nahlášené jako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Archivované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Archivované konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Smazané konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Smazané konverzace: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Složky změněny.</item>
+        <item quantity="one">Složka změněna.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Nové zprávy: %1$d. Zobrazit.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Starší zprávy: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nepřečteno: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Tyto zprávy (celkem %1$d) budou trvale smazány.</item>
+        <item quantity="one">Tato %1$d zpráva bude trvale smazána.</item>
+    </plurals>
+   <plurals name="numSelectedFile">
+        <item quantity="other">"Vybraných: %1$d"</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Přesunout zprávy</item>
+        <item quantity="one">Přesunout zprávu</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>
