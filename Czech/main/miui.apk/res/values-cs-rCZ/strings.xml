@@ -9,8 +9,10 @@
   <string name="activate">Aktivovat</string>
   <string name="activate_fail_notification_title">Znovu aktivovat synchr.</string>
   <string name="activating">Aktivace...</string>
+  <string name="address">Adresa</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
+  <string name="birthday">Narozeniny</string>
   <string name="check_phone_error_title">Synchr. není povolena</string>
   <string name="check_phone_io_error">Chyba sítě.</string>
   <string name="close">Zavřít</string>
@@ -20,6 +22,7 @@
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Hotovo</string>
+  <string name="date_time_picker_dialog_title">Nastavte datum a čas</string>
   <string name="deselect_all">Odznačit vše</string>
   <string name="early_morning">AM</string>
   <string name="empty"/>
@@ -130,11 +133,16 @@
   <string name="month_september_shortest">Z</string>
   <string name="more">Více</string>
   <string name="morning">AM</string>
+  <string name="name">Jméno</string>
+  <string name="nickname">Přezdívka</string>
   <string name="night">PM</string>
   <string name="no_sim">Žádná SIM karta</string>
   <string name="noon">PM</string>
+  <string name="note">Poznámka</string>
+  <string name="organization">Organizace</string>
   <string name="perm_payment_dspt">Povolit aplikaci platit přes Xiaomi platby</string>
   <string name="perm_payment_lab">Xiaomi platby</string>
+  <string name="phone">Telefon</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Soukromí</string>
   <string name="saturday">Sobota</string>
@@ -151,6 +159,7 @@
   <string name="sim_locked">SIM karta je zablokována.</string>
   <string name="sim_not_ready">SIM karta se používá. Zkuste to později.</string>
   <string name="sim_unavailable">SIM karta je nedostupná.</string>
+  <string name="sip_phone">SIP</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -239,6 +248,7 @@
   <string name="tuesday_shortest">Ú</string>
   <string name="user_agreement">Souhlas</string>
   <string name="user_manual">Návod</string>
+  <string name="website">Web</string>
   <string name="wednesday">Středa</string>
   <string name="wednesday_short">Stř</string>
   <string name="wednesday_shortest">S</string>
