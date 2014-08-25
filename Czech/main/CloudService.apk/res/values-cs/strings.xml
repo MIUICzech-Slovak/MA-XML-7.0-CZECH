@@ -66,7 +66,7 @@
   <string name="micloud_proceed">Pokračovat</string>
   <string name="micloud_sec_dspt">a sdílejte s přáteli.</string>
   <string name="micloud_space_full_influence">Co se stane po zaplacení dalšího volného místa?</string>
-  <string name="micloud_title_dspt" formatted="false">"Využito %s / Celkem %s"</string>
+  <string name="micloud_title_dspt" formatted="false">"Celkem %s
 Využito %s | Zbývá %s"</string>
   <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
   <string name="micloud_title_full_dspt">Úložiště je plné!</string>
