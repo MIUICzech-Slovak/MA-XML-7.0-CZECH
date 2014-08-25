@@ -12,7 +12,7 @@
   <string name="pr_dialog_title">Dozvuk (předvolba)</string>
   <string name="pr_summary">Efekty dozvuku v místnosti</string>
   <string name="pr_title">Dozvuk:</string>
-  <string name="setup">Konfigurace</string>
+  <string name="setup">Nastavení</string>
   <string name="user">Uživatel</string>
   <string name="virtualizer_strength">Prostorový zvuk</string>
 </resources>
