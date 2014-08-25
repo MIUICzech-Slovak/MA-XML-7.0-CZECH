@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
   <string name="contact_carrier_message">V případě dalších dotazů kontaktujte Vašeho operátora.</string>
   <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>
+  <string name="delete">Vymazat</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Zkusit</string>
   <string name="experimental_validate">Schválit</string>
@@ -31,6 +33,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostní vzor byl dokončen</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostní vzor byl zahájen</string>
+  <string name="lockscreen_charging_msg">Nabíjení</string>
   <string name="lockscreen_emergency_call">Nouzový hovor</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Zařízení jste se pokusili odemknout nesprávným způsobem %d-krát. Po dalších (%d) neúspěšných pokusech se v zařízení obnoví výchozí nastavení a všechna uživatelská data budou ztracena.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d-krát jste nesprávně nakreslili svůj bezpečnostní vzor. Po dalších neúspěšných pokusech (%d), budete vyzváni k odemknutí zařízení pomocí přihlašovacích údajů služby Google.
@@ -52,6 +55,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="lockscreen_transport_play_description">Přehrávání</string>
   <string name="lockscreen_transport_prev_description">Předchozí</string>
   <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.xiaomi.com.</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s MiBand</string>
   <string name="miui_unlockscreen_password_wrong">Znovu:</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
   <string name="phone_locked_string">Zařízení je zablokováno</string>
