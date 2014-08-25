@@ -148,17 +148,17 @@
   <string name="settings_toggle_position_divider_page">%1$d přepínačů nad čarou je aktivních</string>
   <string name="settings_toggle_position_reset">Obnovit výchozí nastavení</string>
   <string name="share">Sdílet</string>
-  <string name="status_bar_date_format">"EEEE
-d. MMMM yyyy"</string>
+  <string name="status_bar_date_format">d.M E</string>
   <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_name_separator">"\n"</string>
+  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
   <string name="status_bar_notification_inspect_item_title">Informace o aplikaci</string>
   <string name="status_bar_recent_guide_all">Přetažením nahoru ukončíte, přetažením dolů uzamknete</string>
   <string name="status_bar_recent_guide_bottom">Přetažením dolů uzamknete</string>
   <string name="status_bar_recent_guide_top">Přetažením nahoru ukončíte</string>
   <string name="status_bar_recent_inspect_item_title">Info o aplikaci</string>
-  <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
+  <string name="status_bar_recent_memory_info1">"%s "</string>
+  <string name="status_bar_recent_memory_info2">" %s dostupné"</string>
   <string name="status_bar_recording_back">Stiskněte pro návrat do Záznamníku</string>
   <string name="status_bar_recording_pause">"Nahrávání bylo pozastaveno"</string>
   <string name="status_bar_settings_airplane">Letadlo</string>
@@ -178,15 +178,10 @@ d. MMMM yyyy"</string>
   <string name="status_bar_toggle_lock">Zámek</string>
   <string name="status_bar_toggle_mute">Ticho</string>
   <string name="status_bar_toggle_network_type">Režim sítě</string>
-  <string name="status_bar_toggle_power_high">Výkonný</string>
-  <string name="status_bar_toggle_power_low">Úsporný</string>
-  <string name="status_bar_toggle_power_mid">Vyvážený</string>
   <string name="status_bar_toggle_power_mode">Výkon</string>
   <string name="status_bar_toggle_privacy_mode">Návštěvník</string>
   <string name="status_bar_toggle_quiet_mode">Nerušit</string>
   <string name="status_bar_toggle_reboot">Restart</string>
-  <string name="status_bar_toggle_ring">Zvuk</string>
-  <string name="status_bar_toggle_ringtone">Tón zvonění</string>
   <string name="status_bar_toggle_rotate">Otáčení</string>
   <string name="status_bar_toggle_screen_button">Tlačítka</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>
