@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="slideshow_time_entries">
         <item>5 min.</item>
@@ -9,9 +8,4 @@
         <item>1 hod.</item>
         <item>Bez limitu</item>
     </string-array>
-    <plurals name="number_of_items">
-        <item quantity="other">Položek: %1$d</item>
-        <item quantity="zero">Položek: %1$d</item>
-        <item quantity="one">Položek: %1$d</item>
-    </plurals>
 </resources>

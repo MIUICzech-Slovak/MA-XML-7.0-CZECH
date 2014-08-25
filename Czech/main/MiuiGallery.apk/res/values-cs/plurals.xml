@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Vymazat obrázky (%s) v cloudu?</item>
+        <item quantity="one">Vymazat obrázky (%s) v cloudu?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Vymazat obrázky (%s)?</item>
+        <item quantity="one">Vymazat obrázek (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Vymazat videa (%s) v cloudu?</item>
+        <item quantity="one">Vymazat video (%s) v cloudu?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Vymazat videa (%s)?</item>
+        <item quantity="one">Vymazat video (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Vymazat obrázky (%s) v zařízení a cloudu?</item>
+        <item quantity="one">Vymazat obrázek (%s) v zařízení a cloudu?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Vymazat videa (%s) v zařízení a cloudu?</item>
+        <item quantity="one">Vymazat video (%s) v zařízení a cloudu?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Vybraných: %1$d</item>
-        <item quantity="zero">Vybraných: %1$d</item>
-        <item quantity="one">Vybraných: %1$d</item>
+        <item quantity="other">Vybráno: %1$d</item>
+        <item quantity="zero">Vybráno: %1$d</item>
+        <item quantity="one">Vybráno: %1$d</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d</item>
@@ -16,5 +39,10 @@
         <item quantity="other">%1$d</item>
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="zero">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
     </plurals>
 </resources>
