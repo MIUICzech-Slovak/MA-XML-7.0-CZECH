@@ -1,12 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="congratulation_label">Užijte si svůj nový telefon s miui.cz :)</string>
+  <string name="congratulation_next">Spustit MIUI</string>
   <string name="input_method_category">Vybrat výchozí metodu zadávání</string>
   <string name="input_method_setting">Vyberte metodu zadávání</string>
-  <string name="other_settings">Ostatní nastavení</string>
+  <string name="logo_congratulation">Hotovo!</string>
+  <string name="next">Další</string>
+  <string name="other_settings">Další nastavení</string>
   <string name="other_settings_location">Přístup k poloze</string>
   <string name="other_settings_location_summary">Povolit mapám a ostatním aplikacím používat vaši polohu GPS</string>
-  <string name="other_settings_user_experience">Sdílet uživatelské zkušenosti</string>
+  <string name="other_settings_user_experience">Zpětná vazba</string>
   <string name="other_settings_user_experience_summary">Pomožte Xiaomi zlepšovat produkty a služby odesíláním anonymních diagnostik a statistik</string>
+  <string name="other_settings_user_experience_summary1">Ochrany soukromí</string>
+  <string name="shut_down">Vypnout</string>
+  <string name="sim_card_detecting">Vyhledávání SIM karty...</string>
+  <string name="sim_card_detection">SIM karta nebyla nalezena</string>
+  <string name="sim_card_detection_info">Pro vytvoření Xiaomi účtu je vyžadována SIM karta.</string>
+  <string name="sim_dectection_next">Pokračovat</string>
+  <string name="sim_redetection">Znovu zkontrolovat SIM kartu</string>
   <string name="welcome">Vítejte</string>
 </resources>
