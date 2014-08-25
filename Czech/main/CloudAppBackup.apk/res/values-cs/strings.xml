@@ -20,7 +20,7 @@
   <string name="button_return">Zpět</string>
   <string name="check_fail">Kontrola selhala</string>
   <string name="cloud_app_backup_cancel">Zrušit zálohu</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Záloha není dokončena!
+  <string name="cloud_app_backup_cancel_prompt_message">"Záloha není dokončena!</string>
   <string name="cloud_app_backup_cancel_prompt_title">Zastavit zálohu</string>
   <string name="cloud_app_backup_date">"Zálohováno "</string>
   <string name="cloud_app_backup_pending">Čekání...</string>
@@ -120,4 +120,3 @@ Opravdu chcete ukončit obnovování?"</string>
   <string name="v5tov6_complete">Konverze dokončena</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
-

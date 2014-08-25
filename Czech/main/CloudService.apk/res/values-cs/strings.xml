@@ -43,8 +43,8 @@
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="header_data_and_synchronization">Data a synchronizace</string>
   <string name="i_know">OK</string>
-  <string name="master_alert_notif_dspt_add">"Za tuto dobu bylo přidáno %s. 
-  <string name="master_alert_notif_dspt_no">"Za tuto dobu nebylo nic přidáno. 
+  <string name="master_alert_notif_dspt_add">%s nebylo synchronizováno.</string> 
+  <string name="master_alert_notif_dspt_no">Vše je aktuální.</string> 
   <string name="master_alert_notif_title">Data nejsou synchronizovaná %s dní</string>
   <string name="micloud_dspt">Používejte MiCloud na synchronizaci dat, vyhledávání zařízení a sdílení souboru s přáteli...</string>
   <string name="micloud_dspt_provision">Používejte MiCloud na synchronizaci dat, lokalizaci ztraceného telefonu a sdílení souborů se svými přáteli.</string>
@@ -90,8 +90,8 @@ Využito %s | Zbývá %s"</string>
   <string name="pref_title_sync_my_profile_title">Synchr. můj profil</string>
   <string name="restoreSync">Obnovit</string>
   <string name="start_micloud">Start</string>
-  <string name="sub_alert_notif_dspt_add">"Nebolo synchronizovaných %s. 
-  <string name="sub_alert_notif_dspt_no">"Nebylo synchronizováno. 
+  <string name="sub_alert_notif_dspt_add">%s nebylo synchronizováno.</string> 
+  <string name="sub_alert_notif_dspt_no">Vše je aktuální.</string> 
   <string name="sub_alert_notif_title">Synchronizace není povolena</string>
   <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
   <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synch. MMS / SMS</string>

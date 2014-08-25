@@ -2,6 +2,8 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="account_bind_prompt">"Migrování uživatelských dat. 
+Váš účet bude dočasně zablokovaný, 
+čekejte prosím..."</string> 
   <string name="add_task">Přidat úlohu</string>
   <string name="adding_upload_tasks">Přidávání souborů pro nahrání.</string>
   <string name="already_signin_description">Podepsat se můžete pouze jednou za den, zkuste to opět zítra.</string>
