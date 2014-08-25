@@ -8,12 +8,16 @@
   <string name="button_start_now">Spustit</string>
   <string name="dialog_insufficient_space_on_cache">Není dostatek místa na interním úložišti</string>
   <string name="dialog_insufficient_space_on_external">Není dostatek místa na externím úložišti</string>
+  <string name="download_error">Neúšpěšné</string>
+  <string name="download_no_application_title">Nelze otevřít soubor</string>
   <string name="download_percent">%d%%</string>
+  <string name="download_queued">V pořadí</string>
+  <string name="download_remaining">Zbývá: %s</string>
+  <string name="download_running">Probíhá</string>
+  <string name="download_running_percent">Probíhá, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
   <string name="notification_download_complete">Stahování dokončeno.</string>
   <string name="notification_download_failed">Stahování bylo neúspěšné.</string>
-  <string name="notification_filename_extras">" a ještě %d"</string>
-  <string name="notification_filename_separator">", "</string>
   <string name="notification_need_wifi_for_size">Vzhledem k velikosti stahovaného souboru je vyžadováno připojení Wi-Fi.</string>
   <string name="notification_paused_in_background">Pozastaveno na pozadí.</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
@@ -30,6 +34,7 @@
   <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
   <string name="permlab_downloadWithoutNotification">stahovat soubory bez upozornění</string>
   <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
+  <string name="root_downloads">Stáhnuto</string>
   <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：
 
 %s (%s)
