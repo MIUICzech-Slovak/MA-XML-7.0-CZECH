@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="show_dev_countdown">
         <item quantity="other">Ještě %1$d klepnutí a bude z vás vývojář.</item>
@@ -30,26 +29,6 @@
         <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
         <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
-        <item quantity="one">%d aplikace může číst oznámení</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
-        <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
-        <item quantity="one">Byla nalezena %1$s tiskárna</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-        <item quantity="other">You are now %1$d steps away from entering cit.</item>
-        <item quantity="one">You are now %1$d step away from entering cit.</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-        <item quantity="other">You are now %1$d steps away from bugreporting.</item>
-        <item quantity="one">You are now %1$d step away from bugreporting.</item>
-    </plurals>
    <plurals name="power_center_battery_day">
         <item quantity="other">"%d dní "</item>
         <item quantity="one">"%d den "</item>
@@ -61,5 +40,17 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
+        <item quantity="one">%d aplikace může číst oznámení</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
+        <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
+        <item quantity="one">Byla nalezena %1$s tiskárna</item>
     </plurals>
 </resources>
