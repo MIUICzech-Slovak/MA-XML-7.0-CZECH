@@ -30,7 +30,6 @@
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">rovná se</string>
-  <string name="equal_on_history">=</string>
   <string name="error">Chyba!</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">faktoriál</string>
@@ -52,14 +51,10 @@
   <string name="powerDesc">zapínání</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">pravá závorka</string>
-  <string name="scientific">vědecká</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">odmocnina</string>
-  <string name="standard">standardní</string>
-  <string name="switch_to_scientific_pad">Přepnout na vědeckou</string>
-  <string name="switch_to_standard_pad">Přepnout na základní</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangens</string>
   <string name="text_copied_toast">Text byl zkopírován.</string>
