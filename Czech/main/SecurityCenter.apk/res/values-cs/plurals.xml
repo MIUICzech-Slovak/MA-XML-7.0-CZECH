@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%ddní "</item>
+        <item quantity="one">"%dden "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
+    </plurals>
+</resources>
