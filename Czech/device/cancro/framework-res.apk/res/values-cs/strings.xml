@@ -1207,6 +1207,8 @@ pro účet %s."</string>
   <string name="progress_unmounting">Odpojování úložiště USB...</string>
   <string name="reason_service_unavailable">Tisková služba není povolena</string>
   <string name="reason_unknown">neznámé</string>
+  <string name="reboot_confirm">Telefon se restartuje</string>
+  <string name="reboot_progress">Restartování...</string>
   <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
   <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
   <string name="recent_tasks_title">Nejnovější</string>
@@ -1436,6 +1438,11 @@ Chcete ji zavřít?"</string>
   <string name="webviewchromium_accessibility_date_picker_year">Rok</string>
   <string name="webviewchromium_accessibility_datetime_picker_date">Datum</string>
   <string name="webviewchromium_accessibility_datetime_picker_time">Čas</string>
+  <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
+  <string name="webviewchromium_accessibility_time_picker_hour">Hodina</string>
+  <string name="webviewchromium_accessibility_time_picker_milli">Milisekunda</string>
+  <string name="webviewchromium_accessibility_time_picker_minute">Minuta</string>
+  <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Sdílet</string>
   <string name="webviewchromium_actionbar_web_search">Vyhledávání</string>
   <string name="webviewchromium_color_picker_button_cancel">Zrušit</string>
