@@ -99,8 +99,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="allow_mock_location_summary">Povolit simulované polohy</string>
   <string name="always_allow_bind_appwidgets_text">Této aplikaci jste povolili vytváření widgetů a přístup k jejich datům.</string>
   <string name="android_beam_disabled_summary">Není k dispozici, protože je vypnuta funkce NFC</string>
-  <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení blízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další.
-
+  <string name="android_beam_explained">"Pokud je funkce zapnuta, můžete přenášet obsah aplikace do jiného zařízení s funkcí NFC tím, že podržíte zařízení\nblízko sebe. Můžete například přenášet stránky prohlížeče, videa YouTube, kontakty a další. Přiložte zařízení k sobě (zpravidla zadní stranou)\na dotkněte se obrazovky. Aplikace určí, jaký obsah se bude přenášet."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Vypnuto</string>
   <string name="android_beam_on_summary">Přenos obsahu aplikace prostřednictvím NFC je připraven</string>
