@@ -55,7 +55,6 @@
   <string name="battery_desc_other_apps">Celková spotřeba baterie aplikacemi</string>
   <string name="battery_desc_radio">Využití baterie jednotkou GSM</string>
   <string name="battery_desc_standby">Využití baterie v pohotovostním režimu zařízení</string>
-  <string name="battery_desc_users">Baterie spotřebovaná uživatelem</string>
   <string name="battery_desc_voice">Využití baterie hlasovými hovory</string>
   <string name="battery_desc_wifi">Využití baterie modulem Wi-Fi</string>
   <string name="battery_history_days">%1$d d %2$d h %3$d min %4$d s</string>
@@ -501,7 +500,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="pref_category_title_reference_settings">Související nastavení</string>
   <string name="pref_category_title_securitycenter_settings">Nastavení Optimalizace</string>
   <string name="pref_category_title_virus_lib_auto_update">Nastavení Virové databáze</string>
-  <string name="pref_operational_key">Senzorová tlačítka</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizováno: %s</string>
   <string name="pref_summary_cleanup_white_list">Soubory v seznamu budou ignorovány při čištění</string>
   <string name="pref_summary_expand_cache_group">Skupiny v seznamu cache budou rozbaleny</string>
