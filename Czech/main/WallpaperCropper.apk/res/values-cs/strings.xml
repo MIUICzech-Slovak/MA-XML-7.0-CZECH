@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="crop_wallpaper">Ořezat tapetu</string>
+  <string name="wallpaper_instructions">Nastavit tapetu</string>
+  <string name="wallpaper_load_fail">Nebylo možné nastavit tapetu</string>
+</resources>
