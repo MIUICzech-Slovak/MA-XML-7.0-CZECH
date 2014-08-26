@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+	<string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Mlhavo</item>
+        <item>Mlha</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Bouřka</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Déšť</item>
+        <item>Mrholení</item>
+        <item>Déšť se sněhem</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Sněžení</item>
+        <item>Bouřka</item>
+        <item>Bouřka</item>
+        <item>Bouřka</item>
+        <item>Bouřka</item>
+        <item>Bouřka</item>
+        <item>Prašnost</item>
+        <item>Mlhavo</item>
+        <item>Mrznoucí déšť</item>
+        <item>Žádná data</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízký</item>
+        <item>Mírný</item>
+        <item>Střední</item>
+        <item>Vysoký</item>
+        <item>Velmi vysoký</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Vítr S</item>
+        <item>Vítr SV</item>
+        <item>Vítr V</item>
+        <item>Vítr JV</item>
+        <item>Vítr J</item>
+        <item>Vítr JZ</item>
+        <item>Vítr Z</item>
+        <item>Vítr SZ</item>
+    </string-array>
+</resources>
