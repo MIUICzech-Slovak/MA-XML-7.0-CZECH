@@ -6,7 +6,7 @@
         <item quantity="one">Stahuje se: 1</item>
     </plurals>
     <plurals name="notif_summary_waiting">
-        <item quantity="other">Čaká na stáhnutí: %d</item>
-        <item quantity="one">Čaká na stáhnutí: 1</item>
+        <item quantity="other">Čeká na stáhnutí: %d</item>
+        <item quantity="one">Čeká na stáhnutí: 1</item>
     </plurals>
 </resources>

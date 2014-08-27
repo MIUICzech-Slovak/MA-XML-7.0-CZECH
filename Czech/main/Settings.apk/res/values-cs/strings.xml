@@ -108,7 +108,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="android_beam_witch_label">Povolit Android Beam</string>
   <string name="animator_duration_scale_title">Měřítko délky animace</string>
   <string name="anti_spam">AntiSpam</string>
-  <string name="apn_apn">Název přístupvého bodu (APN)</string>
+  <string name="apn_apn">Název přístupového bodu (APN)</string>
   <string name="apn_auth_type">Typ ověření</string>
   <string name="apn_auth_type_chap">CHAP</string>
   <string name="apn_auth_type_none">Žádné</string>
@@ -1707,7 +1707,7 @@ Zvolte Váš operační systém:"</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Omezení</string>
   <string name="restriction_wifi_config_summary">Povolit úpravu nastavení sítí Wi-Fi a mobilních sítí</string>
-  <string name="restriction_wifi_config_title">Sítě Wi‑Fi a mobilní sítě</string>
+  <string name="restriction_wifi_config_title">Sítě Wi-Fi a mobilní sítě</string>
   <string name="retry">Zkusit znovu</string>
   <string name="ring_volume_title">Hlasitost vyzvánění</string>
   <string name="ringtone_mute">Žádné</string>

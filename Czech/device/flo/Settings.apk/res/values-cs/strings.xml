@@ -149,7 +149,7 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="apk_status_install">Nainstalovaná</string>
   <string name="apk_status_installed_old">Stará verze</string>
   <string name="apk_status_uninstalled">Není nainstalována</string>
-  <string name="apn_apn">Název přístupvého bodu (APN)</string>
+  <string name="apn_apn">Název přístupového bodu (APN)</string>
   <string name="apn_auth_type">Typ ověření</string>
   <string name="apn_auth_type_chap">CHAP</string>
   <string name="apn_auth_type_none">Žádné</string>

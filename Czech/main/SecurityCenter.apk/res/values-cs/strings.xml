@@ -113,7 +113,7 @@
   <string name="cta_button_text_cancel">Zrušit</string>
   <string name="cta_checkbox_title">Znovu se neptat</string>
   <string name="cta_dialog_msg">Optimalizace vyžaduje přístup na internet pro aktualizaci databáze.</string>
-  <string name="cta_dialog_title">Podmienky používania</string>
+  <string name="cta_dialog_title">Podmínky používání</string>
   <string name="cta_settings">Povolit přístup k síti</string>
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="delete">Smazat</string>
@@ -579,8 +579,8 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="usage_type_cpu_foreground">CPU v popředí</string>
   <string name="usage_type_data_recv">Přijaté mobilní datové přenosy</string>
   <string name="usage_type_data_send">Odeslané mobilní datové přenosy</string>
-  <string name="usage_type_data_wifi_recv">Přijaté datové přenosy Wi‑Fi</string>
-  <string name="usage_type_data_wifi_send">Odeslané datové přenosy Wi‑Fi</string>
+  <string name="usage_type_data_wifi_recv">Přijaté datové přenosy Wi-Fi</string>
+  <string name="usage_type_data_wifi_send">Odeslané datové přenosy Wi-Fi</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Doba bez signálu</string>
   <string name="usage_type_on_time">Doba zapnutí</string>

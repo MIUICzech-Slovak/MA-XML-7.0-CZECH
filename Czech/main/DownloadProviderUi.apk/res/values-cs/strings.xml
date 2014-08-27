@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
+  <string name="Only_the_wifi">Efektivně pouze přes Wi-Fi</string>
   <string name="all_downloads">Veškerá stahování</string>
   <string name="all_fileter">Vše</string>
-  <string name="all_the_internet">Všetky pripojenia</string>
+  <string name="all_the_internet">Všechna připojení</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Stahování z aplikace %s</string>
   <string name="app_label">Stahování</string>
   <string name="auth_activity_title">Xunlei účet</string>
-  <string name="bind_xunlei_account">Pripojiť xunlei účet &gt;</string>
+  <string name="bind_xunlei_account">Připojit xunlei účet &gt;</string>
   <string name="button_sort_by_date">Seřadit podle data</string>
   <string name="button_sort_by_size">Seřadit podle velikosti</string>
   <string name="cancel_running_download">Zrušit</string>
-  <string name="cancle">Zrušiť</string>
+  <string name="cancle">Zrušit</string>
   <string name="choose_open_time">Vyberte čas</string>
   <string name="confirm_delete_downloads_message">Vybrané soubory budou vymazány</string>
   <string name="confirm_delete_the_download_item_message">Opravdu chcete vymazat?</string>
@@ -21,7 +21,7 @@
   <string name="delete_downloads_records">Vymazat historii</string>
   <string name="delete_the_downloaded_file">Vymazat stažené soubory</string>
   <string name="deselect_all">Zrušit výběr</string>
-  <string name="determine">Potvrdiť</string>
+  <string name="determine">Potvrdit</string>
   <string name="dialog_cannot_resume">Stahování přerušeno. Nemůže být obnoveno.</string>
   <string name="dialog_failed_body">Chcete opakovat stahování souboru později nebo odstranit z fronty?</string>
   <string name="dialog_file_already_exists">Nelze stáhnout. Soubor již existuje.</string>

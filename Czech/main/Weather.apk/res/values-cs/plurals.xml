@@ -2,15 +2,15 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">Pred %d min</item>
-        <item quantity="one">Pred %d min</item>
+        <item quantity="other">Před %d min</item>
+        <item quantity="one">Před %d min</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">Pred %d h</item>
-        <item quantity="one">Pred %d h</item>
+        <item quantity="other">Před %d h</item>
+        <item quantity="one">Před %d h</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
-        <item quantity="other">Pred %d dňami</item>
-        <item quantity="one">Pred %d dňom</item>
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
     </plurals>
 </resources>

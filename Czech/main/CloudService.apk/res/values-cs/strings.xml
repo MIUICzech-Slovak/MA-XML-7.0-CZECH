@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="access_denied">Prístup zamietnutý</string>
+  <string name="access_denied">Přístup zamítnut</string>
   <string name="account">Účet</string>
   <string name="activate">Aktivovat</string>
   <string name="activating">Aktivace...</string>
