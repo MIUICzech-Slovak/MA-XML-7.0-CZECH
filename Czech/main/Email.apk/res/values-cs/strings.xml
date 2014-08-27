@@ -686,7 +686,7 @@ přesahuje limit"</string>
   <string name="ser_resp_err_map_serclosed">Služba ukončena</string>
   <string name="ser_resp_err_map_ssl">"Zkuste vybrat 'SSL/TLS (Akceptovat všechny certifikáty)' v 'Zabezpečení'"</string>
   <string name="set_network">Nastavit síť</string>
-  <string name="settings_activity_title">Nastavení</string>
+  <string name="settings_activity_title">E-mail</string>
   <string name="sharing">Sdílet</string>
   <string name="shortcut_name_title">Zadejte název zkratky složky</string>
   <string name="show_elided">▶ Zobrazit citovaný text</string>

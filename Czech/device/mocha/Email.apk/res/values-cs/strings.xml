@@ -488,7 +488,7 @@ Kopie: %4$s
   <string name="sending">Odesílání...</string>
   <string name="sending_message">Odesílání zprávy…</string>
   <string name="sent_folder_selection_title">Vyberte složku odesl. položek %s</string>
-  <string name="settings_activity_title">Nastavení</string>
+  <string name="settings_activity_title">E-mail</string>
   <string name="shortcut_name_title">Zadejte název zkratky složky</string>
   <string name="show_elided">▶ Zobrazit citovaný text</string>
   <string name="show_images">Zobrazit obrázky</string>

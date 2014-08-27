@@ -31,7 +31,7 @@
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
-  <string name="camera_settings_label">Nastavení fotoaparátu</string>
+  <string name="camera_settings_label">Fotoaparát</string>
   <string name="can_not_play_video">Pro přehrávání videa odblokujte obrazovku</string>
   <string name="cancel">Zrušit</string>
   <string name="cannot_connect_camera_once">"Není možné připojit kameru, ukončete aplikaci"</string>
