@@ -143,7 +143,8 @@
   <string name="save_to_kuaipan">Do MiDrive</string>
   <string name="scan_2d_code">QR kód</string>
   <string name="scan_file">Soubory</string>
-  <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení je povoleno přijímání souborů"</string>
+  <string name="scan_tip">"Ujistěte se prosím, že na druhém zařízení 
+je povoleno přijímání souborů"</string>
   <string name="scan_title">Zaměřte QR kód</string>
   <string name="scanning">Vyhledávání...</string>
   <string name="sdcard_invalid">SD karta je nedostupná!</string>
@@ -180,7 +181,8 @@
   <string name="share_history">Sdílené soubory</string>
   <string name="share_item_not_found">Soubor neexistuje nebo je nedostupný</string>
   <string name="share_message">Sdílený soubor %1$s</string>
-  <string name="share_msg_model">"Sdílím s Vámi soubory. Odkaz na stáhnutí: %1$s"</string>
+  <string name="share_msg_model">"Sdílím s Vámi soubory. 
+Odkaz na stáhnutí: %1$s"</string>
   <string name="share_text">MIUIv5 podporuje přenos souborů bez potřeby mobilních dat. Uživatelé, kteří nemají MIUIv5, si musí nainstalovat: %1$s</string>
   <string name="shortmessage">Krátká zpráva</string>
   <string name="start">Start</string>
