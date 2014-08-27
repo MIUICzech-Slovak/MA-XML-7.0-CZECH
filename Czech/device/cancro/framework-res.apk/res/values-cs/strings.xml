@@ -1407,11 +1407,11 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="volume_alarm">Hlasitost budíku</string>
   <string name="volume_bluetooth_call">Hlasitost příchozích hovorů při připojení Bluetooth</string>
   <string name="volume_call">Hlasitost hovoru</string>
-  <string name="volume_icon_description_bluetooth">Hlasitost Bluetooth</string>
-  <string name="volume_icon_description_incall">Hlasitost hovoru</string>
-  <string name="volume_icon_description_media">Hlasitost médií</string>
-  <string name="volume_icon_description_notification">Hlasitost oznámení</string>
-  <string name="volume_icon_description_ringer">Hlasitost vyzvánění</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Hovor</string>
+  <string name="volume_icon_description_media">Média</string>
+  <string name="volume_icon_description_notification">Oznámení</string>
+  <string name="volume_icon_description_ringer">Vyzvánění</string>
   <string name="volume_music">Hlasitost médií</string>
   <string name="volume_music_hint_playing_through_bluetooth">Přehrávání pomocí rozhraní Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Je nastaven tichý vyzváněcí tón</string>
