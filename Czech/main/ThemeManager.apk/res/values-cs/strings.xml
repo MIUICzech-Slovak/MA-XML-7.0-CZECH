@@ -272,4 +272,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="resource_failed_to_load_list">Načítání seznamu selhalo</string>
+  <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
 </resources>

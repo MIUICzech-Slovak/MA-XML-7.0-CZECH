@@ -597,7 +597,7 @@
   <string name="set_as_homepage">Nastavit jako domovskou stránku</string>
   <string name="share_link">Sdílet odkaz</string>
   <string name="share_page">Sdílet</string>
-  <string name="share_page_text">Výborná stránka 【%1$s】, sdílím Ti ji! | %2$s"</string>
+  <string name="share_page_text">Výborná stránka 【%1$s】| %2$s"</string>
   <string name="sign_in_to" formatted="false">Přihlásit k %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nelze uložit pro offline použití."</string>
   <string name="snapshot_go_live">Aktualizovat</string>

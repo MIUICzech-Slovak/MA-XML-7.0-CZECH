@@ -10,7 +10,7 @@
   <string name="actor_colon">Hrají:</string>
   <string name="add_favorite_success">Oblíbené</string>
   <string name="add_more_addons">Přidat více doplňků</string>
-  <string name="addon"/>
+  <string name="addon">" plugins"</string>
   <string name="addon_category">Doplňky</string>
   <string name="addon_install_complete_disc">Instalace %s dokončena.</string>
   <string name="addon_update_desc">Nalezena nová verze, aktualizovat?</string>
@@ -288,4 +288,8 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi uživatel</string>
   <string name="yesterday">"Včera "</string>
+  <string name="defaults">Výchozí</string>
+  <string name="done">Hotovo</string>
+  <string name="fullscreen">Celá obrazovka</string>
+  <string name="no_longer_tips">Znovu nezobrazovat</string>
 </resources>

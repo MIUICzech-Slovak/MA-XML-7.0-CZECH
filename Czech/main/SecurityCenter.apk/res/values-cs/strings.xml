@@ -149,12 +149,12 @@
   <string name="empty_title_ad">Žádné reklamní soubory</string>
   <string name="empty_title_apk">Žádné instalační .apk soubory</string>
   <string name="empty_title_auto_start_list">Žádné aplikace</string>
-  <string name="empty_title_garbage_cache">Žádné soubory v cache</string>
+  <string name="empty_title_garbage_cache">Prázdné</string>
   <string name="empty_title_garbage_white_list">Prázdné</string>
-  <string name="empty_title_installed_apps">Žádné aplikace</string>
-  <string name="empty_title_large_files">Žádné velké soubory</string>
-  <string name="empty_title_perm_apps">Žádné aplikace</string>
-  <string name="empty_title_permission_apps_list">Žádné aplikace</string>
+  <string name="empty_title_installed_apps">Prázdné</string>
+  <string name="empty_title_large_files">Prázdné</string>
+  <string name="empty_title_perm_apps">Prázdné</string>
+  <string name="empty_title_permission_apps_list">Prázdné</string>
   <string name="empty_title_residual">Žádné soubory</string>
   <string name="empty_title_risk_list">Žádné aplikace</string>
   <string name="empty_title_root_apps">Žádné aplikace</string>
@@ -188,7 +188,7 @@
   <string name="hints_garbage_cleanup_result_risk">Riziko</string>
   <string name="hints_garbage_cleanup_result_safe">OK</string>
   <string name="hints_garbage_handle_item_content">%1$ položky, %2$s</string>
-  <string name="hints_garbage_handle_item_empty_content">Položek: 0</string>
+  <string name="hints_garbage_handle_item_empty_content">Prázdné</string>
   <string name="hints_get_root_disable_title">Zakázaná ROOT práva: %d</string>
   <string name="hints_get_root_enable_title">Povolená ROOT práva: %d</string>
   <string name="hints_handle_item_text_risk">Rizika: %d</string>
@@ -566,7 +566,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="toast_garbage_cleanup_success">Čištění dokončeno</string>
   <string name="toast_garbage_list_empty">Vše je pořádku!</string>
   <string name="toast_network_eror">Chyba sítě!</string>
-  <string name="toast_removed_from_white_list">Odebráno z ignorovaných</string>
+  <string name="toast_removed_from_white_list">" odebráno z ignorovaných"</string>
   <string name="toast_root_apply_accept">ROOT práva pro %s povoleny</string>
   <string name="toast_root_apply_reject">ROOT práva pro %s zakázány</string>
   <string name="toast_shortcut_install">Zástupce je vytvořen</string>
