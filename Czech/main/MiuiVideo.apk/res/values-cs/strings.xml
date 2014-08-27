@@ -181,8 +181,8 @@
   <string name="play_setting">Přehrávání</string>
   <string name="positive_comment">Dobré komentáře</string>
   <string name="rank">Hodnocení</string>
-  <string name="receive_mipush">Receive xiaomi push</string>
-  <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
+  <string name="receive_mipush">Přijímat xiaomi push</string>
+  <string name="receive_mipush_summary">Dostávat upozornění na nový a aktual. online obsah.</string>
   <string name="recent_play">Nedávno přehrané: Ep.%d</string>
   <string name="recentplay">Naposledy přehrané</string>
   <string name="recommend">Doporučené</string>
