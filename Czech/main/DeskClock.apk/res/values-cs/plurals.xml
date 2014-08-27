@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Odloženo o %d min.</item>
-        <item quantity="one">Odloženo o 1 minutu.</item>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">Sekund: %1$d</item>
+        <item quantity="one">Sekund: %1$d</item>
     </plurals>
-    <plurals name="snooze_duration">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">1 minuta</item>
-    </plurals>
-    <plurals name="snooze_picker_label">
-        <item quantity="other">min.</item>
-        <item quantity="one">minuta</item>
-    </plurals>
-    <plurals name="Nhours_description">
-        <item quantity="other">%d hod.</item>
-        <item quantity="one">1 hodina</item>
-    </plurals>
-    <plurals name="Nminutes_description">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">1 minuta</item>
-    </plurals>
-    <plurals name="Nseconds_description">
-        <item quantity="other">%d s</item>
-        <item quantity="one">1 sekunda</item>
-    </plurals>
-    <plurals name="timers_num">
-        <item quantity="other">%d časovačov</item>
-        <item quantity="one">1 minuta</item>
-    </plurals>
-    <plurals name="alarm_delete_confirmation">
-        <item quantity="other">Chcete vybrané budíky smazat?</item>
-        <item quantity="one">Chcete vybraný budík smazat?</item>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">Minut: %1$d</item>
+        <item quantity="one">Minut: %1$d</item>
     </plurals>
 </resources>
