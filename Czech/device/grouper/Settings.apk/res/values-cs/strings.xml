@@ -775,7 +775,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="date_time_set_date">Nastavení data</string>
   <string name="date_time_set_time">Nastavení času</string>
   <string name="date_time_set_timezone">Volba časového pásma</string>
-  <string name="date_time_settings">Datum &amp; čas</string>
+  <string name="date_time_settings">Datum a čas</string>
   <string name="debug_app">Vybrat aplikaci pro ladění</string>
   <string name="debug_app_not_set">Není nastavena žádná aplikace pro ladění</string>
   <string name="debug_app_set">Aplikace pro ladění: %1$s</string>
