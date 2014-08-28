@@ -767,11 +767,11 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="date_and_time_settings_title">Datum a čas</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastavit datum a čas</string>
   <string name="date_picker_title">Datum</string>
-  <string name="date_time_24hour">Použít 24hodinový formát</string>
-  <string name="date_time_auto">Automatický datum a čas</string>
+  <string name="date_time_24hour">24-hodinový formát</string>
+  <string name="date_time_auto">Automaticky datum a čas</string>
   <string name="date_time_auto_summaryOff">Použít čas ze sítě</string>
   <string name="date_time_auto_summaryOn">Použít čas ze sítě</string>
-  <string name="date_time_date_format">Vybrat formát data</string>
+  <string name="date_time_date_format">Formát data</string>
   <string name="date_time_set_date">Nastavení data</string>
   <string name="date_time_set_time">Nastavení času</string>
   <string name="date_time_set_timezone">Volba časového pásma</string>
