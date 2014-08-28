@@ -2746,4 +2746,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
   <string name="modem_tool_log_stop">Zastavit</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="add_auto_startup_application">Pridať aplikáciu</string>
+  <string name="button_text_login">Přihlásit se</string>
+  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
+  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
+  <string name="make_sure_cancel_update">Zrušit aktualizaci?</string>
+  <string name="power_autorun_apps_empty">Žádné aplikace</string>
+  <string name="power_autorun_empty">Žádné aplikace</string>
+  <string name="headset_calibrate">Nastavení tlačítek</string>
 </resources>
