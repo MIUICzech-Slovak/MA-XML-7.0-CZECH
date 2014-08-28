@@ -595,4 +595,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="cache_sort_type_item_name">Seřadit podle názvu</string>
+  <string name="cache_sort_type_item_size">Seřadit podle velikosti</string>
 </resources>
