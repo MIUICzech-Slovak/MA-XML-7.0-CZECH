@@ -2,11 +2,11 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">Sekund: %1$d</item>
-        <item quantity="one">Sekund: %1$d</item>
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">Minut: %1$d</item>
-        <item quantity="one">Minut: %1$d</item>
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
     </plurals>
 </resources>
