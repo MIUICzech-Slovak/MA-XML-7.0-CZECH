@@ -110,4 +110,7 @@
   <string name="xiaomi_checker">Mi kontrola</string>
   <string name="xiaomi_desc">Používáte Xiaomi Mi3</string>
   <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
+  <string name="tip_uninstall">Odinstalace</string>
+  <string name="tip_uninstall_msg">Je nutné nejdříve odinstalovat starou verzi, před instalací nové verze.</string>
+  <string name="uninstall">Odinstalovat</string>
 </resources>
