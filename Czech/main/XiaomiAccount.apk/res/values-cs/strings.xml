@@ -220,7 +220,7 @@ S telefonem můžete bez obav pokračovat v práci.</string>
   <string name="micloud_via_sms_alert">Na ověření Vašeho telefonního čísla se odešle SMS zpráva.</string>
   <string name="micloud_welcome_skip_login">Přeskočit</string>
   <string name="micloud_welcome_skip_login_provision">Přeskočit</string>
-  <string name="mili_center">MiKredity</string>
+  <string name="mili_center">" MiKreditů"</string>
   <string name="mipay_center">Účet v bance</string>
   <string name="next">Další</string>
   <string name="nobind">Nepropojené</string>
