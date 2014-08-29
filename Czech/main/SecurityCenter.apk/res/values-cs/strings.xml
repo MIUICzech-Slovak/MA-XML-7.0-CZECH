@@ -534,7 +534,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_usb">Zabránit virům přes USB připojení</string>
   <string name="summary_virus">Nalezeno virů: %2$d</string>
   <string name="summary_virus_update">Aktualizace virové databáze automaticky po připojení k Wi-Fi</string>
-  <string name="system_check_content">Nebezpečné: %1$d, Doporučené: %2$d</string>
+  <string name="system_check_content">Nebezpečné: %1$d</string>
   <string name="system_header_title">Vyčištění %1$d uvolní %2$s paměti</string>
   <string name="title_app_update_no">%d má aktualizace</string>
   <string name="title_app_update_yes">Aplikace jsou aktuální</string>
