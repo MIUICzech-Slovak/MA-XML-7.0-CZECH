@@ -187,7 +187,7 @@
   <string name="add_file_attachment">Přiložit soubor</string>
   <string name="add_label">Přidat složku</string>
   <string name="add_photo_attachment">Připojit obrázek</string>
-  <string name="add_star">Důležité</string>
+  <string name="add_star">Hvězdička</string>
   <string name="add_video_attachment">Připojit video</string>
   <string name="address_display_format">%1$s %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s %2$s přes %3$s</string>
@@ -637,7 +637,7 @@ přesahuje limit"</string>
   <string name="remove_account">Odebrat účet</string>
   <string name="remove_account_confirm">Účet \"%1$s\" bude odebrán</string>
   <string name="remove_folder">Odstranit ze složky %1$s</string>
-  <string name="remove_star">Důležité</string>
+  <string name="remove_star">Hvězdička</string>
   <string name="reply">Odpovědět</string>
   <string name="reply_all">Odpovědět všem</string>
   <string name="reply_attribution" formatted="false">Dne %s %s napsal(a):</string>
