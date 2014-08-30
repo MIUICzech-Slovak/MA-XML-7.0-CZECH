@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interní úložiště zařízení</item>
-        <item>Vyjímatelná karta SD</item>
+        <item>Vyjímatelná SD karta</item>
         <item>Automaticky vybere systém</item>
     </string-array>
     <string-array name="app_ops_categories">

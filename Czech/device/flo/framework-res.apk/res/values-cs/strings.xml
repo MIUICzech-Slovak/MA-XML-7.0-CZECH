@@ -522,9 +522,9 @@ Zkuste to znovu za %d s."</string>
   <string name="low_internal_storage_view_title">V úložišti je málo místa</string>
   <string name="low_memory">Paměť telefonu je plná. Uvolněte místo smazáním některých souborů.</string>
   <string name="me">Já</string>
-  <string name="media_bad_removal">Karta SD nebyla před odebráním odpojena.</string>
+  <string name="media_bad_removal">SD karta nebyla před odebráním odpojena.</string>
   <string name="media_checking">Probíhá kontrola úložiště USB.</string>
-  <string name="media_removed">Karta SD byla odebrána.</string>
+  <string name="media_removed">SD karta byla odebrána.</string>
   <string name="media_route_button_content_description">Výstup médií</string>
   <string name="media_route_chooser_extended_settings">Nastavení</string>
   <string name="media_route_chooser_searching">Vyhledávání zařízení…</string>
@@ -1368,7 +1368,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_internal">Interní úložiště</string>
-  <string name="storage_sd_card">Karta SD</string>
+  <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">Úložiště USB</string>
   <string name="submit">Odeslat</string>
   <string name="sync_binding_label">Synchronizace</string>
