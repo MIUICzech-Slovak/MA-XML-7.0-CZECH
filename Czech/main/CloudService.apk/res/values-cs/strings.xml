@@ -116,4 +116,33 @@ Využito %s | Zbývá %s"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="app_sync_off">Synchr. apl vypnuta</string>
+  <string name="cloud_sync_setting_summary_standard">Standard: Synchronizovat přes Wi-Fi fotografie, video, MMS, data aplikací a ostatní přes mobilní data</string>
+  <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
+  <string name="contact">Kontakty</string>
+  <string name="current">Současné</string>
+  <string name="data_syncing">Synchr. dat</string>
+  <string name="detail">Podrobnosti</string>
+  <string name="enable_cloud_service_notification">Nemáte povoleny služby Cloudu</string>
+  <string name="flight_mode">Režim Letadlo</string>
+  <string name="full_space">Úložiště je plné</string>
+  <string name="internet">Internet</string>
+  <string name="internet_disconnected">Internet odpojen</string>
+  <string name="less_flow_mode">Režim Synchr.</string>
+  <string name="micloud">MiCloud</string>
+  <string name="micloud_storage_usage" formatted="false">Využito %s / Celkem %s</string>
+  <string name="normal">Normální</string>
+  <string name="only_in_wlan">Pouze přes Wi-Fi</string>
+  <string name="photo">Fotografie</string>
+  <string name="setting">Nastavení</string>
+  <string name="sms">SMS</string>
+  <string name="space">Kapacita</string>
+  <string name="storage">Úložiště</string>
+  <string name="sync">Synchr.</string>
+  <string name="sync_setting">Nastavení synchr.</string>
+  <string name="sync_standard">Standard</string>
+  <string name="system_sync_off">Synchr. vypnuta</string>
+  <string name="wifi">Wi-Fi</string>
+  <string name="wifi_disconnected">Wi-Fi odpojena</string>
+  <string name="wifi_sync">Wi-Fi synchr.</string>
 </resources>
