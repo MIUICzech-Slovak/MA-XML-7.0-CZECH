@@ -80,5 +80,15 @@
     <string-array name="pref_volume_key_choices">
         <item>Stránka nahoru/dolů</item>
         <item>Přepnout záložku</item>
-    </string-array> 
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
+    </string-array>
 </resources>
