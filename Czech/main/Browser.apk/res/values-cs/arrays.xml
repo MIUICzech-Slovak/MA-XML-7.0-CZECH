@@ -24,7 +24,6 @@
         <item>Hnědá</item>
         <item>Zelená</item>
         <item>Modrá</item>
-        <item>Tmavá</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuto</item>
