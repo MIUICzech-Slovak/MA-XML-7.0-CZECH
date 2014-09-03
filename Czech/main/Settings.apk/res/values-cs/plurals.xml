@@ -53,4 +53,16 @@
         <item quantity="other">Počet nalezených tiskáren: %1$s</item>
         <item quantity="one">Byla nalezena %1$s tiskárna</item>
     </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Počet kroků do získání stavu zařízení: %1$d.</item>
+        <item quantity="one">Počet kroků do získání stavu zařízení: %1$d.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Počet kroků do získání stavu vývojáře: %1$d.</item>
+        <item quantity="one">Počet kroků do získání stavu vývojáře: %1$d.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Počet kroků do nahlášení chyby: %1$d.</item>
+        <item quantity="one">Počet kroků do nahlášení chyby: %1$d.</item>
+    </plurals>
 </resources>
