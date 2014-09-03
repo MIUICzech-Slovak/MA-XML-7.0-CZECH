@@ -2,12 +2,12 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Zobrazuji %d kontaktů s telefonním číslem</item>
-        <item quantity="one">Zobrazuji 1 kontakt s telefonním číslem</item>
+        <item quantity="other">Zobrazeno %d kontaktů s telefonním číslem</item>
+        <item quantity="one">Zobrazen 1 kontakt s telefonním číslem</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Zobrazuji %d kontaktů</item>
-        <item quantity="one">Zobrazuji 1 kontakt</item>
+        <item quantity="other">Zobrazeno %d kontaktů</item>
+        <item quantity="one">Zobrazen 1 kontakt</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Nalezeno %d kontaktů</item>
