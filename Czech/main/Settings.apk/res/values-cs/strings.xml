@@ -2754,4 +2754,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="power_autorun_apps_empty">Žádné aplikace</string>
   <string name="power_autorun_empty">Žádné aplikace</string>
   <string name="headset_calibrate">Nastavení tlačítek</string>
+  <string name="music_headset_button_settings">Nastavení tlačítek</string>
+  <string name="apply_update_fail">Aktualizace systému selhala</string>
+  <string name="download_current_rom">Stáhnout poslední verzi ROM</string>
+  <string name="install_whole_rom">Není stažena celá ROM nebo je soubor poškozený</string>
+  <string name="later">Později</string>
+  <string name="mione_update_success_title">Aktualizováno</string>
+  <string name="now">Teď</string>
+  <string name="view_install_log">Zobrazit záznam</string>
 </resources>
