@@ -510,7 +510,7 @@ Kopie: %4$s
   <string name="mute">Ignorovat</string>
   <string name="name_or_number_is_error">Nesprávné jméno nebo heslo</string>
   <string name="network_error">Žádné připojení</string>
-  <string name="network_not_available">Network connection is not available, please try again later</string>
+  <string name="network_not_available">Síť není dostupná, zkuste to později.</string>
   <string name="new_incoming_messages_one">Nová zpráva od %s. Zobrazit.</string>
   <string name="new_messages">Nové zprávy: %1$d</string>
   <string name="next_action">Další</string>
@@ -775,4 +775,6 @@ Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="message_type_name">Zpráva</string>
+  <string name="tryrefreshing">Zkuste obnovit...</string>
 </resources>

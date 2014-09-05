@@ -23,7 +23,7 @@
   <string name="activity_title_memory">Paměť</string>
   <string name="activity_title_networkassistants">Využití dat</string>
   <string name="activity_title_notification_bar_manager">Správa notifikační lišty</string>
-  <string name="activity_title_perm_manager">Správa licence</string>
+  <string name="activity_title_perm_manager">Oprávnění</string>
   <string name="activity_title_permission_manager">Správa povolení</string>
   <string name="activity_title_permissions_manager">Povolení</string>
   <string name="activity_title_power_manager">Baterie</string>
