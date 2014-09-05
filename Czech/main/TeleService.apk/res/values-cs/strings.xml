@@ -808,4 +808,20 @@ Může to trvat i 5 min."</string>
   <string name="select_voice_call_sim">vyberte</string>
   <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
   <string name="uplmn_list_setting_title">Preferované sítě</string>
+  <string name="call_record_off_summary">Nahrávání deaktivováno</string>
+  <string name="call_record_on_summary">Nahrávání aktivováno</string>
+  <string name="call_record_setting">Nahrávání hovorů</string>
+  <string name="call_waiting_tone_stop_summary"/>
+  <string name="cloud_antispam_title">Anti-Spam</string>
+  <string name="general_setting">Všeobecné nastavení</string>
+  <string name="preference_dial_pad_touch_tone_default">Výchozí</string>
+  <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
+  <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
+  <string name="preference_dial_pad_touch_tone_title">Tóny číselníku</string>
+  <string name="preference_telocation_summary_countrycode_off">Nepřidávat automaticky kód země</string>
+  <string name="preference_telocation_summary_countrycode_on">Automaticky přidat kód země</string>
+  <string name="preference_telocation_summary_teloc_off">Skrýt město</string>
+  <string name="preference_telocation_summary_teloc_on">Zobrazit město</string>
+  <string name="preference_telocation_title">Poloha volajícího</string>
+  <string name="telephony_setting">Telefonování</string>
 </resources>
