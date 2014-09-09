@@ -2762,4 +2762,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="mione_update_success_title">Aktualizováno</string>
   <string name="now">Teď</string>
   <string name="view_install_log">Zobrazit záznam</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povolit i mobilní data?</string>
 </resources>

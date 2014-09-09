@@ -822,4 +822,6 @@ Může to trvat i 5 min."</string>
   <string name="preference_telocation_summary_teloc_on">Zobrazit město</string>
   <string name="preference_telocation_title">Poloha volajícího</string>
   <string name="telephony_setting">Telefonování</string>
+  <string name="simContacts_title">Správa kontaktů na SIM kartě</string>
+  <string name="fdn_summary">Omezit odchozí hovory jen na čísla v tomto seznamu</string>
 </resources>

@@ -3,16 +3,22 @@
 <resources>
     <plurals name="editing_mode_title">
         <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
         <item quantity="one">Vybraných: %1$d</item>
+        <item quantity="two">Vybraných: %1$d</item>
+        <item quantity="few">Vybraných: %1$d</item>
+        <item quantity="many">Vybraných: %1$d</item>      
     </plurals>
     <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Odinstalovat \"%1$s\" a %2$d další aplikace?</item>
         <item quantity="one">Odinstalovat \"%s\"</item>
-        <item quantity="two">Odinstalovat \"%s\" a 1 další aplikaci?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$d aplikací je odinstalováno</item>
         <item quantity="one">Aplikace je odinstalována</item>
+        <item quantity="zero">%1$d aplikací je odinstalováno</item>
+        <item quantity="two">%1$d aplikací jsou odinstalovány</item>
+        <item quantity="many">%1$d aplikací je odinstalováno</item>
     </plurals>
     <plurals name="uninstall_result_failed">
         <item quantity="other">"Nelze odinstalovat \"%1$s\" a %2$d další aplikace"</item>
