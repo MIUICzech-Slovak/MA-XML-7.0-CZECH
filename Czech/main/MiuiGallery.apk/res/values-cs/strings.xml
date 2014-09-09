@@ -374,7 +374,7 @@ společně!"</string>
   <string name="photo_saved">Snímek uložen v %s albu</string>
   <string name="photo_size">Velikost</string>
   <string name="photoeditor_name">Foto studio</string>
-  <string name="photos">"Snímků"</string>
+  <string name="photos">" Snímků"</string>
   <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
   <string name="pick_too_much_tips">"Vybráno příliš mnoho položek (maximum je %d)."</string>
   <string name="picker_no_album_selected">Žádné vybrané album</string>

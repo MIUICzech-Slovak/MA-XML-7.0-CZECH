@@ -28,8 +28,8 @@
   <string name="actionbar_share">Sdílet</string>
   <string name="actionbar_web_search">Hledat</string>
   <string name="adblock_notification">Blokované reklamy: %d</string>
-  <string name="add_bookmark">Nová záložka</string>
-  <string name="add_bookmark_group">Nová skupina</string>
+  <string name="add_bookmark">Záložka</string>
+  <string name="add_bookmark_group">Skupina</string>
   <string name="add_folder">Nová složka</string>
   <string name="add_new_bookmark">Nová záložka</string>
   <string name="add_new_quicklink">Přidat odkaz</string>
