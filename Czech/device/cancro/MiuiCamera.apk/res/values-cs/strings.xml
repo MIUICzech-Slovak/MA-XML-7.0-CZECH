@@ -326,9 +326,9 @@
   <string name="pref_camera_picturesize_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP (4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Širokoúhlý 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
-  <string name="pref_camera_picturesize_title">Velikost fotografie</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Velikost fotografie</string>
+  <string name="pref_camera_picturesize_entry_standard">Standardní 4:3</string>
+  <string name="pref_camera_picturesize_title">Formát fotografie</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Formát fotografie</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Vypnuto</string>
   <string name="pref_camera_recordlocation_entry_on">Zapnuto</string>
