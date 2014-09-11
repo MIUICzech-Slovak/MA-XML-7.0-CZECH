@@ -2763,4 +2763,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="now">Teď</string>
   <string name="view_install_log">Zobrazit záznam</string>
   <string name="enable_mobile_data_when_opening_hotspot">Povolit i mobilní data?</string>
+  <string name="ringtone_slot_setting_title">Nastavení jedné SIM</string>
+  <string name="ringtone_uniform_setting_title">Nastavení duální SIM</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Upozornění se na chvíli zobrazí v horní části displeje</string>
+
 </resources>

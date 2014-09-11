@@ -145,4 +145,20 @@ Využito %s | Zbývá %s"</string>
   <string name="wifi">Wi-Fi</string>
   <string name="wifi_disconnected">Wi-Fi odpojena</string>
   <string name="wifi_sync">Wi-Fi synchr.</string>
+  <string name="finish">Dokončit</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
+  <string name="micloud_main_data_unsynced">%d nesynchr.</string>
+  <string name="micloud_main_last_sync_time">Naposledy</string>
+  <string name="micloud_main_network_error">Síť není dostupná. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
+  <string name="micloud_main_stop_sync">Ukončit synchr.</string>
+  <string name="micloud_main_suggest_sync">Vaše data nejsou synchronizovaná.</string>
+  <string name="micloud_main_sync_now">Synchronizovat</string>
+  <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
+  <string name="micloud_main_sync_stop">Ukončit synchr.</string>
+  <string name="micloud_unlogin_for_time_summary" />
+  <string name="micloud_unlogin_for_time_title">Povolit MiCloud</string>
+  <string name="remind_later">Později</string>
+  <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
+  <string name="sync_item_calllog_title">Seznam hovorů</string>
 </resources>

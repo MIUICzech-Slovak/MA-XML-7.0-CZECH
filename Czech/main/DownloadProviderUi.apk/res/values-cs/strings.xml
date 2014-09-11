@@ -4,7 +4,7 @@
   <string name="Only_the_wifi">Efektivně pouze přes Wi-Fi</string>
   <string name="all_downloads">Veškerá stahování</string>
   <string name="all_fileter">Vše</string>
-  <string name="all_the_internet">Všechna připojení</string>
+  <string name="all_the_internet">"Použít "</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Stahování z aplikace %s</string>
   <string name="app_label">Stahování</string>

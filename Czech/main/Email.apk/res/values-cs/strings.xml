@@ -109,7 +109,7 @@
   <string name="account_setup_failed_security">Nelze navázat připojení k serveru z důvodu chyby zabezpečení.</string>
   <string name="account_setup_failed_security_policies_unsupported">Server vyžaduje funkce zabezpečení, které toto zařízení Android nepodporuje, například: %s</string>
   <string name="account_setup_failed_tls_required">Služba TLS je požadována, ale není podporována na serveru.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Při smazání z Doručené pošty</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Při smazání z koše</string>
   <string name="account_setup_incoming_delete_policy_label">Mazat e-maily ze serveru</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikdy</string>
   <string name="account_setup_incoming_headline">Nastavení serveru příchozí pošty</string>
@@ -777,4 +777,5 @@ Velikost aplikace: %2$s"</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
   <string name="message_type_name">Zpráva</string>
   <string name="tryrefreshing">Zkuste obnovit...</string>
+  <string name="feedback_sent">Děkujeme za váš názor.</string>
 </resources>
