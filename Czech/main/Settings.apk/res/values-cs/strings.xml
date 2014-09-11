@@ -202,7 +202,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="automatic_brightness">Automatický jas</string>
   <string name="available_size">Volných %s</string>
   <string name="awake">Doba provozu zařízení</string>
-  <string name="back_key">Tlačítko Zpět</string>
+  <string name="back_key">Zpět</string>
   <string name="background_data">Data na pozadí</string>
   <string name="background_data_dialog_message">Deaktivace přenosu dat na pozadí šetří baterii a snižuje objem přenesených dat. Některé aplikace mohou přesto datové připojení na pozadí používat.</string>
   <string name="background_data_dialog_title">Deaktivovat data na pozadí?</string>
@@ -1012,7 +1012,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
   <string name="history_details_title">Podrobnosti historie</string>
   <string name="home_app_uninstall_button">Odinstalovat aplikaci</string>
-  <string name="home_key">Tlačítko Domů</string>
+  <string name="home_key">Domů</string>
   <string name="home_settings">Plocha</string>
   <string name="ime_security_warning">Prostřednictvím této vstupní metody zadávání dat lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla platebních karet. Metoda je poskytována aplikací %1$s. Chcete tuto metodu zadávání dat použít?</string>
   <string name="immediately_destroy_activities">Neukládat aktivity</string>
@@ -1966,9 +1966,9 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_filter_item_preview_image">Náhled</string>
   <string name="status_bar_key_position_custom">Vlastní pozice tlačítek</string>
   <string name="status_bar_screen_button_key">Virtuální tlačítka</string>
-  <string name="status_bar_screen_key_back">Tlačítko Zpět</string>
-  <string name="status_bar_screen_key_home">Tlačítko Domů</string>
-  <string name="status_bar_screen_key_menu">Tlačítko Menu</string>
+  <string name="status_bar_screen_key_back">Zpět</string>
+  <string name="status_bar_screen_key_home">Domů</string>
+  <string name="status_bar_screen_key_menu">Menu</string>
   <string name="status_bar_screen_key_recent_apps">Nedávné aplikace</string>
   <string name="status_bar_settings">Notifikace</string>
   <string name="status_bar_settings_advanced">Další nastavení</string>
