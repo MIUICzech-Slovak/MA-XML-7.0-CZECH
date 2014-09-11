@@ -63,7 +63,7 @@
   <string name="download_title">Stahování</string>
   <string name="download_title_sorted_by_date">Stažené - podle data</string>
   <string name="download_title_sorted_by_size">Stažené - podle velikosti</string>
-  <string name="download_wait_connect">Stahování čeká na připojení</string>
+  <string name="download_wait_connect">Čeká na připojení</string>
   <string name="download_when_network_connected">Wi-Fi + Mobilní data</string>
   <string name="downloads_operating">Pracuji...</string>
   <string name="dredge_xunlei_account">Registrovat Xunlei účet</string>
@@ -97,10 +97,10 @@
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pozastaveno</string>
   <string name="paused_insufficient_space">Čekání na volné místo</string>
-  <string name="paused_queued_for_wifi">Pozastaveno, čekání na připojení Wi-Fi</string>
+  <string name="paused_queued_for_wifi">Čekání na Wi-Fi</string>
   <string name="paused_unknown">Pozastaveno</string>
-  <string name="paused_waiting_for_network">Pozastaveno, čekání na připojení k síti</string>
-  <string name="paused_waiting_to_retry">Pozastaveno, čekání na obnovení</string>
+  <string name="paused_waiting_for_network">Čekání na připojení</string>
+  <string name="paused_waiting_to_retry">Čekání na obnovení</string>
   <string name="period_of_validity">"Platnost: "</string>
   <string name="pref_download_settings_title">Využití dat</string>
   <string name="pref_summary_any_bytes_popup">Stahovat pouze přes Wi-Fi</string>

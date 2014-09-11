@@ -1431,7 +1431,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="webpage_unresponsive">"Stránka nereaguje.
 
 Chcete ji zavřít?"</string>
-  <string name="websearch">Vyhledat na webu</string>
+  <string name="websearch">Vyhledat</string>
   <string name="webviewchromium_accessibility_content_view">Webové zobrazení</string>
   <string name="webviewchromium_accessibility_date_picker_month">Měsíc</string>
   <string name="webviewchromium_accessibility_date_picker_week">Týden</string>
