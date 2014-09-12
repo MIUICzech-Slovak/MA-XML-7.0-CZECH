@@ -28,7 +28,7 @@
   <string name="choose_stream_quality">Vyberte kvalitu zdroje</string>
   <string name="click_to_shuffle">Klepněte sem pro spuštění náhodného přehrávání</string>
   <string name="close_music_time">"Minut: "</string>
-  <string name="create_playlist">Vytvorit playlist</string>
+  <string name="create_playlist">Vytvořit playlist</string>
   <string name="data_usage_warning">Upozornění využití dat!</string>
   <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
   <string name="dialog_button_create_playlist">Vytvořit Playlist</string>
