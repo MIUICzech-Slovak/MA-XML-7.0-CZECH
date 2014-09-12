@@ -119,7 +119,7 @@ Využito %s | Zbývá %s"</string>
   <string name="app_sync_off">Synchr. apl vypnuta</string>
   <string name="cloud_sync_setting_summary_standard">Standard: Synchronizovat přes Wi-Fi fotografie, video, MMS, data aplikací a ostatní přes mobilní data</string>
   <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
-  <string name="contact">Kontakty</string>
+  <string name="contact">Kontaktů</string>
   <string name="current">Současné</string>
   <string name="data_syncing">Synchr. dat</string>
   <string name="detail">Podrobnosti</string>
@@ -133,7 +133,7 @@ Využito %s | Zbývá %s"</string>
   <string name="micloud_storage_usage" formatted="false">Využito %s / Celkem %s</string>
   <string name="normal">Normální</string>
   <string name="only_in_wlan">Pouze přes Wi-Fi</string>
-  <string name="photo">Fotografie</string>
+  <string name="photo">Fotografií</string>
   <string name="setting">Nastavení</string>
   <string name="sms">SMS</string>
   <string name="space">Kapacita</string>
