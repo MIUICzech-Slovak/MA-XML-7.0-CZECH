@@ -116,3 +116,5 @@ localization_Czech_table = {
     record_reach_max="Byl dosažen váš rekord!",
     new_record_born="Nový rekord!",
  }
+
+ 
