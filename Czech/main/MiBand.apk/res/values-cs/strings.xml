@@ -490,7 +490,7 @@ Nejvyšší rekord byl %5$s, prochozeno %6$s kroků."</string>
   <string name="until_hit_goals">Pokračujte za splněním cíle do %s</string>
     <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
 then tap Follow to complete sync."</string>
-    <string name="bind_weixin_new_now">Syncing w"After link with your Wechat account and follow Mi Band's Wechat service account, 
+    <string name="bind_weixin_new_now">"After link with your Wechat account and follow Mi Band's Wechat service account, 
 +you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
     <string name="weather_aqi">Kvalita ovzduší %s</string>
     <string name="weather_description_rain">Srážky</string>
