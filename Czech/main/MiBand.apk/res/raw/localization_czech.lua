@@ -90,7 +90,7 @@ localization_Czech_table = {
     week_continue_reach_goal="Za poslední týden byl každý den splněn váš cíl! Byl to skvělý týden!",
     challenge_format="Byl dosažen váš cíl pro %d dní!",
     personal_best_format="Váš nejvyšší rekord je %d dní!",
-    active_time_format_0="%dh",
+    active_time_format_0="%dmin",
     active_time_format_1="%dh",
     active_time_format_2="%dh %dmin",
     activie_run_format_0="Uběhli jste %s. Skvělé!",
@@ -103,9 +103,9 @@ localization_Czech_table = {
     activity_walk_consumed_format="Spálené %d cal %s",
 
     activity_activity_format="%s %s v pohybu %s",
-    last_night_sleeped_good_format="Minulou noc trval spánek %dh %dmin. Skvělý spánek!",
-    last_night_sleeped_normal_format="Minulou noc trval spánek %dh %dmin",
-    deep_sleep_format="Hluboká fáze spánku trvala %dh %dmin",
+    last_night_sleeped_good_format="Minulou noc trval spánek %s. Skvělý spánek!",
+    last_night_sleeped_normal_format="Minulou noc trval spánek %s",
+    deep_sleep_format="Hluboká fáze spánku trvala %s",
 
     battery_low_info="Baterie je vybitá, připojte MiBand na nabíječku.",
     battery_very_low_info="Připojte na nabíječku",
