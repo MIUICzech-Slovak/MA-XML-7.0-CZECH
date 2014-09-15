@@ -507,7 +507,7 @@ then tap Follow to complete sync."</string>
 a aktualizace se spustí automaticky po nabití MiBand"</string>
     <string name="fw_low_battery_view_help">Pomoc</string>
     <string name="in">V </string>
-    <string name="main_ui_share_tips">"Cvičil/a jsem %1$s%2$s dnes.
+    <string name="main_ui_share_tips">"Cvičil/a jsem dnes %1$s%2$s.
 %3$s"</string>
     <string name="ran">"uběhnuto "</string>
     <string name="main_ui_sleep_share_tips">"Lehký spánek %1$s%2$s
