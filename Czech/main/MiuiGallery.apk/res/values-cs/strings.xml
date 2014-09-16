@@ -294,13 +294,13 @@ společně!"</string>
   <string name="manual">Manuál</string>
   <string name="me">Já</string>
   <string name="menu_item_sort">Třídit</string>
-  <string name="menu_item_sort_date">Data</string>
+  <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_date_asc">Vzestupně podle data</string>
   <string name="menu_item_sort_date_desc">Sestupně podle data</string>
-  <string name="menu_item_sort_name">Názvu</string>
+  <string name="menu_item_sort_name">Název</string>
   <string name="menu_item_sort_name_asc">Podle jména (A-Z)</string>
   <string name="menu_item_sort_name_desc">Podle jména (Z-A)</string>
-  <string name="menu_item_sort_size">Velikosti</string>
+  <string name="menu_item_sort_size">Velikost</string>
   <string name="menu_item_sort_size_asc">Vzestupně podle velikosti</string>
   <string name="menu_item_sort_size_desc">Sestupně podle velikosti</string>
   <string name="menu_view_contact">Zobrazit kontakt</string>
