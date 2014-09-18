@@ -195,7 +195,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="go_on_download">Pokračovat</string>
   <string name="install">Instalovat</string>
   <string name="install_failed">Aktualizace selhala</string>
-  <string name="install_file_explorer">Je nutné nainstalovat Správce souborů</string>
   <string name="install_local">Vybrat ZIP z úložiště</string>
   <string name="log_share">Sdílet</string>
   <string name="menu_title_check_update">Kontrolovat nové verze pouze přes Wi-Fi</string>
@@ -220,7 +219,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="notification_update_new_version">Dostupná nová verze</string>
   <string name="notification_update_now">Aktualizovat</string>
   <string name="notification_updating">Aktualizace...</string>
-  <string name="now">Aktualizovat</string>
   <string name="on_checking">Kontrola aktualizací</string>
   <string name="pause">Zastavit</string>
   <string name="progress_title_checking">Kontrola aktualizací...</string>
