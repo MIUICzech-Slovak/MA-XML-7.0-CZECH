@@ -2766,5 +2766,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="ringtone_slot_setting_title">Nastavení jedné SIM</string>
   <string name="ringtone_uniform_setting_title">Nastavení duální SIM</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Upozornění se na chvíli zobrazí v horní části displeje</string>
-
+  <string name="sim_radio_off">Není aktivováno</string>
 </resources>

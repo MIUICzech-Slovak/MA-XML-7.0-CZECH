@@ -75,7 +75,6 @@ Váš účet bude dočasně zablokovaný,
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdná složka</string>
   <string name="dlg_error_unmount_text">"Nelze odebrat USB úložiště. Zkuste to znovu."</string>
-  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
   <string name="downloading">Stahování...</string>
@@ -263,7 +262,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložiště</string>
   <string name="storage_warning">SD karta není přístupná, nebo ji nelze přečíst.</string>
-  <string name="sys_size_enable">Povolit</string>
+  <string name="sys_size_enable">" dostup."</string>
   <string name="tab_category">Kategorie</string>
   <string name="tab_expand">Rozbalit</string>
   <string name="tab_local">Lokální</string>
@@ -310,4 +309,18 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="connect_network_setting_des">Upozornit na přístup k síti</string>
+  <string name="copy_file_to_kuaipan">Kopírovat na MiDrive</string>
+  <string name="downloading_in_3g">Stahování přes 3G...</string>
+  <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
+  <string name="image_download">Stáhnout</string>
+  <string name="image_share">Sdílet</string>
+  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k síti. Povolit?</string>
+  <string name="never_notify_network_connect">Znovu se neptat</string>
+  <string name="operate_confirm_in_3g">Použít vaše mobilní připojení pro stáhnutí tohoto velkého souboru?</string>
+  <string name="operation_agree">Povolit</string>
+  <string name="operation_save">Uložit</string>
+  <string name="system_alert">Upozornění</string>
+  <string name="tab_path">Cesta</string>
+  <string name="user_guide_summary">Stručný přehled</string>
 </resources>

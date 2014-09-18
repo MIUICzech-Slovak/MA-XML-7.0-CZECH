@@ -18,12 +18,12 @@
         <item quantity="many">" a %1$d složek?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d položek</item>
-        <item quantity="zero">%d položek</item>
-        <item quantity="one">%d položka</item>
-        <item quantity="two">%d položky</item>
-        <item quantity="few">%d položek</item>
-        <item quantity="many">%d položek</item>
+        <item quantity="other">Položek: %d</item>
+        <item quantity="zero">Položek: %d</item>
+        <item quantity="one">Položek: %d</item>
+        <item quantity="two">Položek: %d</item>
+        <item quantity="few">Položek: %d</item>
+        <item quantity="many">Položek: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d souborů zbývá stáhnout</item>

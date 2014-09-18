@@ -215,4 +215,10 @@
   <string name="unknown_artist_name">Neznámý umělec</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
+  <string name="please_download_first">Nejdříve stáhněte.</string>
+  <string name="ringtone_not_support">Formát není podporován.</string>
+  <string name="set_as_ring">Nastavit jako zvonění</string>
+  <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
+  <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
+  <string name="sleep_mode_canceled">Režim spánku zrušen</string>
 </resources>
