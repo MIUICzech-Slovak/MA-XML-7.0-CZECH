@@ -15,7 +15,7 @@
   <string name="apply_update_dialog_update_button">Aktualizace</string>
   <string name="apply_update_fail">Aktualizace systému selhala!</string>
   <string name="apply_update_timer">Restartujte</string>
-  <string name="apply_upload_info_message">Vaše zařízení se restartuje a automaticky nainstaluje novou verzi MIUI.</string>
+  <string name="apply_upload_info_message">klepnutím na Aktualizovat se automaticky telefon restartuje, aby mohla proběhnout aktualizace.</string>
   <string name="apply_upload_info_message_manually">Vypněte prosím zařízení a ručně spusťte Recovery k aplikování aktualizace %s z SD karty. Pokud si přejete zálohovat svá data, zálohujte si je a pak se vraťte k aktualizaci systému.</string>
   <string name="applying_rom_message">Použít aktualizaci</string>
   <string name="applying_update">Aktualizuji... %s</string>
