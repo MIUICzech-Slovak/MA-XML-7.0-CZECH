@@ -321,6 +321,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="operation_agree">Povolit</string>
   <string name="operation_save">Uložit</string>
   <string name="system_alert">Upozornění</string>
-  <string name="tab_path">Cesta</string>
+  <string name="tab_path">Úložiště</string>
   <string name="user_guide_summary">Stručný přehled</string>
 </resources>
