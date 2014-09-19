@@ -341,11 +341,11 @@ Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string
   <string name="share_sleep_title_daily">Spánek</string>
   <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s cal "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- spálené %3$s cal, ušetřeno %4$s litrů paliva.
+ spáleno %3$s cal, ušetřeno %4$s litrů paliva.
 (Děkujeme, že chráníte životní prostředí)
 Nejvyšší rekord je %5$s, prochozeno %6$s kroků."</string>
   <string name="share_step_description_weekly">"%1$s%2$s
-Spálené %3$s cal.
+Spáleno %3$s cal.
 Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_failed_title">Celkem</string>
   <string name="share_step_goal_failed_title_today">Celkem</string>
