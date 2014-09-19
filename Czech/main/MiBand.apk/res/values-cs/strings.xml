@@ -351,7 +351,7 @@ Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_failed_title_today">Celkem</string>
   <string name="share_step_goal_succ_title">Cíl splněn</string>
   <string name="share_step_goal_succ_title_today">Dnešní dosažené výsledky</string>
-  <string name="share_step_walk">Prochodil jsem celkem</string>
+  <string name="share_step_walk">" jsem celkem prochodil"</string>
   <string name="share_to_content">MiBand campaign sharing</string>
   <string name="share_to_content_sleep">Můj spánek</string>
   <string name="share_to_content_step">Mé sportování</string>
