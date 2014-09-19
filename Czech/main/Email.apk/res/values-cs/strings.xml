@@ -192,7 +192,7 @@
   <string name="address_display_format">%1$s %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s %2$s přes %3$s</string>
   <string name="all_folders_heading">Všechny složky</string>
-  <string name="allread">Vše přečteno</string>
+  <string name="allread">Vše přečíst</string>
   <string name="always_bcc_myself">Vždy odeslat kopii také mně</string>
   <string name="always_show_images">Obr. od tohoto odesílatele vždy zobrazit</string>
   <string name="always_show_images_toast">Obrázky od tohoto odesílatele se zobrazí automaticky.</string>
@@ -778,4 +778,5 @@ Velikost aplikace: %2$s"</string>
   <string name="message_type_name">Zpráva</string>
   <string name="tryrefreshing">Zkuste obnovit...</string>
   <string name="feedback_sent">Děkujeme za váš názor.</string>
+  <string name="no_contacts">Prázdné</string>
 </resources>
