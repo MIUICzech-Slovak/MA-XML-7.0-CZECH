@@ -183,8 +183,8 @@ Adresa: %2$s"</string>
   <string name="goals_push_ten">Splněných 100%</string>
   <string name="gram">g</string>
   <string name="green">Zelená</string>
-  <string name="half_marathon_format_0">Jako %1$s půlmaratonu</string>
-  <string name="half_marathon_format_1">Více jak %1$s půlmaratonu</string>
+  <string name="half_marathon_format_0">Jako %1$s půlmaraton</string>
+  <string name="half_marathon_format_1">Více jak %1$s půlmaraton</string>
   <string name="help">Pomoc</string>
   <string name="help_info_0">Je vyžadován Bluetooth 4.0 pro spojení s MiBand. Zkontrolujte specifikace vašeho telefonu, zda obsahuje technologii Bluetooth 4.0.</string>
   <string name="help_info_1">MiBand vyžaduje verzi Android 4.4 nebo vyšší</string>
@@ -346,7 +346,7 @@ Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string
 Nejvyšší rekord je %5$s, prochozeno %6$s kroků."</string>
   <string name="share_step_description_weekly">"%1$s%2$s
 Spáleno %3$s cal.
-Nejvyšší denní rekord je %4$s, prochozeno %5$s kroků."</string>
+Nejvyšší denní rekord byl v %4$s, prochozeno %5$s kroků."</string>
   <string name="share_step_goal_failed_title">Celkem</string>
   <string name="share_step_goal_failed_title_today">Celkem</string>
   <string name="share_step_goal_succ_title">Cíl splněn</string>
