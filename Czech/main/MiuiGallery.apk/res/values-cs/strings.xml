@@ -561,4 +561,8 @@ společně!"</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s položek nebylo odebráno z tajných: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Odebráno z tajného alba</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s položek nebylo odebráno z tajných</string>
+  <string name="free">Volno</string>
+  <string name="original">Originál</string>
+  <string name="rectangular">Obdélník</string>
+  <string name="square">Čtverec</string>
 </resources>
