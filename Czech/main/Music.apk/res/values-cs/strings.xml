@@ -223,9 +223,6 @@
   <string name="sleep_mode_canceled">Režim spánku zrušen</string>
   <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
   <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
-  <string name="artist_search_title">Umělec</string>
-  <string name="artist_view">Umělec</string>
-  <string name="audio_picker_title">Vyberte skladbu</string>
   <string name="dialog_button_agree">Souhlasím</string>
   <string name="download_auto_after_preference_summary">Automatically download music to the local once saved</string>
   <string name="download_auto_after_preference_title">Once saved then download</string>
