@@ -721,4 +721,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="show_check_security_url_check_tip_dialog_title">Bezpečnost URL</string>
   <string name="add_to_desk">Přidat na plochu</string>
   <string name="add_to_desk_success">Přidáno na plochu</string>
+  <string name="quicklink_bookmark_save">Uložit jako:</string>
 </resources>
