@@ -99,7 +99,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="no_updates_warning">Nebyly nalezeny žádné aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="no_updates_warning2">Tato aplikace Vás upozorní na nové aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="not_recommend">"Nedoporučuji"</string>
-  <string name="now">Teď</string>
+  <string name="now">Restartovat</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
   <string name="paused_queued_for_wifi">Čekání na Wi-Fi připojení</string>
   <string name="previous">Předchozí</string>
