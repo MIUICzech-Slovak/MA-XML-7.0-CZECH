@@ -136,4 +136,6 @@
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="unbind_xunlei_2_success">Xunlei účet změněn</string>
+  <string name="unbind_xunlei_success">Xunlei účet odpojen</string>
 </resources>

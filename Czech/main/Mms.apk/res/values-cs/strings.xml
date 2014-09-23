@@ -513,4 +513,6 @@ Pokus: %s."</string>
   <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
   <string name="festival_never_remind">Znovu se neptat</string>
   <string name="pref_title_festival_networking">Upozornění na připojení</string>
+  <string name="menu_more">Více</string>
+  <string name="menu_yellowpage">Zobrazit %s</string>
 </resources>
