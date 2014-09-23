@@ -175,7 +175,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="apply_title">Aktualizace (%s)</string>
   <string name="auto_update">Aktualizovat automaticky</string>
   <string name="autosetmode">Nastavení aktualizace</string>
-  <string name="button_text_check">Skrolovat</string>
+  <string name="button_text_check">Zkontrolovat</string>
   <string name="button_text_later_reboot">Později</string>
   <string name="button_text_reboot">Teď</string>
   <string name="button_text_update">Aktualizovat</string>
