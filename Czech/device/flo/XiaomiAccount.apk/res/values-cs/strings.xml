@@ -5,12 +5,12 @@
   <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
   <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="account">Účet</string>
-  <string name="account_bind_settings">Propojit účet</string>
+  <string name="account_bind_settings">Účty</string>
   <string name="account_dspt">"Používejte jeden účet pro všechny produkty Xiaomi"</string>
   <string name="account_dspt_provision">Používejte jeden účet pro všechny produkty Xiaomi.</string>
   <string name="account_hint_text">E-mail nebo telefonní číslo</string>
   <string name="account_name">Účet: %1$s</string>
-  <string name="account_sec_dspt">MiCloud, MiPhone, MIUI, MiTalk</string>
+  <string name="account_sec_dspt"/>
   <string name="activate_phone_failed_notif_title">Nastavení MiCloud selhalo</string>
   <string name="activate_phone_failed_notif_title_msim">Aktivace MiCloud pro SIM %s selhala</string>
   <string name="activate_phone_send_sms_fail">Odeslání aktivační SMS selhalo, nelze spustit synchronizaci</string>
@@ -58,7 +58,7 @@
   <string name="app_name">Xiaomi účet</string>
   <string name="available_functionality">Dostupné služby</string>
   <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
-  <string name="bind_settings">Propojit</string>
+  <string name="bind_settings">Účty</string>
   <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
   <string name="bind_weibo_description">Najít kontakty, přátele a ostatní informace přímo z Vašeho účtu</string>
   <string name="binded">Propojené</string>
