@@ -137,7 +137,7 @@
   <string name="autosetmode">Nastavení aktualizace</string>
   <string name="button_text_check">Zkontrolovat</string>
   <string name="button_text_later_reboot">Později</string>
-  <string name="button_text_reboot">Teď</string>
+  <string name="button_text_reboot">Restartovat</string>
   <string name="button_text_update">Aktualizovat</string>
   <string name="cancel_download">Zastavit stahování aktualizace?</string>
   <string name="check_new_version">Zkontrolovat</string>
