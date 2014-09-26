@@ -565,4 +565,9 @@ společně!"</string>
   <string name="original">Originál</string>
   <string name="rectangular">Obdélník</string>
   <string name="square">Čtverec</string>
+  <string name="impunity_declaration">Galerie vyžaduje připojení k internetu pro přístup ke cloudovým službám. Chcete pokračovat?</string>
+  <string name="impunity_declaration_ignore">Znovu se neptat</string>
+  <string name="impunity_declaration_settings">Upozornit na připojení</string>
+  <string name="impunity_declaration_summary">Upozornit na připojení k internetu při spuštění aplikace</string>
+  <string name="impunity_declaration_title">Připojení k síti</string>
 </resources>

@@ -2,10 +2,6 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_device">Info o telefonu</string>
-  <string name="active_xiaomi_account">Aktivovat</string>
-  <string name="active_xiaomi_account_msg">Přejděte na MIUI fórum pro aktivaci Xiaomi účtu:
-https://account.xiaomi.com/pass/serviceLogin"</string>
-  <string name="active_xiaomi_account_title">Aktivovat Xiaomi účtu</string>
   <string name="app_name">Aktualizace</string>
   <string name="apply_buddy_update_info_message">Stlačením tlačítka Aktualizovat spustíte instalaci nové verze MIUI.</string>
   <string name="apply_existing_update_md5error_title">MD5 součet nesouhlasí.</string>
@@ -20,7 +16,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="apply_upload_info_message_manually">Vypněte prosím zařízení a ručně spusťte Recovery k aplikování aktualizace %s z SD karty. Pokud si přejete zálohovat svá data, zálohujte si je a pak se vraťte k aktualizaci systému.</string>
   <string name="applying_rom_message">Použít aktualizaci</string>
   <string name="applying_update">Aktualizuji... %s</string>
-  <string name="best_update">Nejlepší aktualizace</string>
   <string name="boot_recovery">Restartovat do recovery</string>
   <string name="cancel_download_buton_text">Zrušit</string>
   <string name="check_update">Vyhledat aktualizace</string>
@@ -28,13 +23,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="check_update_when_wifi_available">Kontrolovat aktualizace pouze při Wi-Fi připojení</string>
   <string name="checking_for_updates">Kontrola aktualizací...</string>
   <string name="choose_recommend">Prosím zvolte, doporučte, nebo ne</string>
-  <string name="comment_invalid">Zvolte počet hvězdiček</string>
-  <string name="comment_publish">Odeslat</string>
-  <string name="comment_sending">Odesílání...</string>
-  <string name="comment_upload_failed">Odeslání selhalo</string>
-  <string name="comment_upload_hint">Děkujeme!</string>
-  <string name="comment_upload_not_logined">Nejprve se přihlaste</string>
-  <string name="comment_upload_success">Odesláno!</string>
   <string name="confirm_download_cancelation_dialog_message">Zrušit stahování aktualizace?</string>
   <string name="copy_install_log">Kopírovat instalační log</string>
   <string name="current_version_text">Současná verze\u0020</string>
@@ -47,20 +35,11 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="download_ota_rom">Stáhnout (%s)</string>
   <string name="download_whole_rom">Stáhnout celou ROM (%s)</string>
   <string name="downloading_description">Stahuji...</string>
-  <string name="edit_comment">Komentovat</string>
-  <string name="edit_comment_title">Upravit</string>
-  <string name="edit_text_default">Napište svůj komentář</string>
   <string name="emegency_build">Sestavení:</string>
   <string name="exception_while_downloading">Chyba při stahování aktualizací</string>
-  <string name="expect">4. očekávané</string>
   <string name="experimental_build">Experimentální verze</string>
   <string name="file_not_found_error_message">Soubor nebyl na serveru nalezen</string>
-  <string name="finish">Dokončit</string>
   <string name="finish_download">Stahování dokončeno</string>
-  <string name="fourgrid_hint_text">Děkujeme za používání MIUI ROM. Dejte nám prosím vědět, co si o ní myslíte, a pomozte nám ji ještě více vylepšit.</string>
-  <string name="fourgrid_no_notificaiont">"Nezobrazovat v notif. liště"</string>
-  <string name="fourgrid_notificaiont">Zobrazit v notif. liště</string>
-  <string name="get_update_error">Nelze získat informace o aktualizaci</string>
   <string name="install_email">Nastavte si prosím e-mail</string>
   <string name="install_file_explorer">Nainstalujte si správce souborů prosím</string>
   <string name="install_qq">Instalovat aplikaci QQ</string>
@@ -80,11 +59,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="move_data_to_sdcard_title">Přesunout data na SD kartu</string>
   <string name="moving_data_to_sdcard_message">"Data se přesouvají na SD kartu. Prosím neodpojujte USB připojení nebo nevyjímejte SD kartu."</string>
   <string name="moving_data_to_sdcard_progress_format">Přesunuto %1$dKB z %2$dKB</string>
-  <string name="my_best_update">Nejlepší update</string>
-  <string name="my_expect_update">Očekávané</string>
   <string name="my_rank">Hodnocení:</string>
-  <string name="my_update_feel">Mé pocity</string>
-  <string name="my_worst_update">Nejhorší update</string>
   <string name="network_error">Připojení nelze navázat, prosím zkuste znovu</string>
   <string name="new_update_content_notification_shade"/>
   <string name="new_update_content_title">"Verze: "</string>
@@ -92,7 +67,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="new_update_downloading_body">Stahuji novou verzi: %s</string>
   <string name="new_updates_found_notification_title">Byla nalezena nová aktualizace!</string>
   <string name="new_updates_found_title">Nalezena aktualizace</string>
-  <string name="next">Další</string>
   <string name="no_proper_updates">Aktualizace nebyla nalezena. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="no_updatecheck_executed">Kontrola aktualizace nebyla provedena. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="no_updates_found">Již máte nejnovější verzi. Zkontrolujte verzi na miuios.cz/rom</string>
@@ -102,7 +76,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="now">Restartovat</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
   <string name="paused_queued_for_wifi">Čekání na Wi-Fi připojení</string>
-  <string name="previous">Předchozí</string>
   <string name="reboot_later">Později</string>
   <string name="reboot_now">Restartovat</string>
   <string name="reboot_to_new_system">Restartovat systém</string>
@@ -134,10 +107,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="sina_token_invalid_warning">Weibo účet je chybný, prosím připojte se znovu.</string>
   <string name="stable_build">Stabilní verze</string>
   <string name="start_update">Aktualizovat</string>
-  <string name="submit">Odeslat</string>
-  <string name="submit_fail">Odesílání selhalo</string>
-  <string name="submit_progress">Odesílání...</string>
-  <string name="submit_success">Úspěšně odesláno, děkujeme!</string>
   <string name="system_backup_apply_helper">"Telefon se automaticky restartuje pro aplikování aktualizace. "</string>
   <string name="system_backup_ask">Zeptat se znovu</string>
   <string name="system_backup_button_text">Vytvoření zálohy systému</string>
@@ -148,15 +117,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="system_backup_ok_text">Zálohovat</string>
   <string name="top_secret_build">Tajná verze</string>
   <string name="unstable_build">Stabilní verze</string>
-  <string name="update_comment_hint">(volitelné)</string>
-  <string name="update_comment_title">Komentovat</string>
-  <string name="update_feedback">Hodnocení aktualizace</string>
-  <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!\nVyplňte jej prosím následující úterý"</string>
-  <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
-  <string name="update_general">Není špatná</string>
-  <string name="update_happy">Výborná</string>
   <string name="update_monthly_build_only">Aktualizovat pouze měsíční sestavení</string>
-  <string name="update_sad">Nic moc</string>
   <string name="update_success">Aktualizace proběhla úspěšně</string>
   <string name="update_success_body">na verzi %s</string>
   <string name="update_success_title">MIUI byla aktualizována</string>
@@ -171,7 +132,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="weekly_build">Týdenní verze</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
-  <string name="worst_update">Nejhorší aktualizace</string>
   <string name="apply_title">Aktualizace (%s)</string>
   <string name="auto_update">Aktualizovat automaticky</string>
   <string name="autosetmode">Nastavení aktualizace</string>
@@ -242,4 +202,48 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="user_intertup_download_title">Stahování aktualizace pozastaveno</string>
   <string name="validate_pkg_failed_msg">Stáhnutá verze není správná nebo je poškozena. Navštivte miuios.cz/rom pro více informací.</string>
   <string name="validate_pkg_failed_title">Nelze aktualizovat</string>
+  <string name="active_xiaomi_account">Aktivovat</string>
+  <string name="active_xiaomi_account_msg">Pro aktivaci vašeho Xiaomi účtu navštivte http://account.mi.com/</string>
+  <string name="active_xiaomi_account_title">Aktivovat Xiaomi účtu</string>
+  <string name="auto_update_sum">Automaticky zvolit nejlepší aktualizaci</string>
+  <string name="best_update">Skvélá aktualizace</string>
+  <string name="check_update_when_wifi_available_sum">Použít pouze Wi-Fi pro kontrolu aktualizace</string>
+  <string name="comment_invalid">Ohodnoťte hvězdičkami aktualizaci</string>
+  <string name="comment_publish">Odeslat</string>
+  <string name="comment_sending">Odesílání...</string>
+  <string name="comment_upload_failed">Odeslání selhalo</string>
+  <string name="comment_upload_hint">Děkujeme!</string>
+  <string name="comment_upload_not_logined">Nejprve se přihlaste</string>
+  <string name="comment_upload_success">Odesláno!</string>
+  <string name="edit_comment">Komentovat</string>
+  <string name="edit_comment_title">Upravit</string>
+  <string name="edit_text_default">Napište svůj komentář</string>
+  <string name="expect">Očekávání</string>
+  <string name="finish">Dokončit</string>
+  <string name="fourgrid_hint_text">Děkujeme za používání naší verze MIUI. Podělte se s námí o váš názor na tuto verzi MIUI.</string>
+  <string name="fourgrid_no_notificaiont">Nezobrazovat v notif. liště</string>
+  <string name="fourgrid_notificaiont">Zobrazit v notif. liště</string>
+  <string name="get_update_error">Nelze získat informace o aktualizaci</string>
+  <string name="my_best_update">Skvělá aktualizace</string>
+  <string name="my_expect_update">Očekávané</string>
+  <string name="my_update_feel">Mé pocity</string>
+  <string name="my_worst_update">Nejhorší update</string>
+  <string name="next">Další</string>
+  <string name="previous">Zpět</string>
+  <string name="submit">Odeslat</string>
+  <string name="submit_fail">Odesílání selhalo</string>
+  <string name="submit_progress">Odesílání...</string>
+  <string name="submit_success">Úspěšně odesláno, děkujeme!</string>
+  <string name="update_comment_hint"/>
+  <string name="update_comment_title">Komentovat</string>
+  <string name="update_feedback">Hodnocení aktualizace</string>
+  <string name="update_feedback_end">Zmeškali jste hodnocení aktuální verze</string>
+  <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé úterý.</string>
+  <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!
+Vyplňte jej prosím následující úterý"</string>
+  <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
+  <string name="update_general">Není špatná</string>
+  <string name="update_happy">Výborná</string>
+  <string name="update_sad">Nic moc</string>
+  <string name="worst_update">Nejhorší aktualizace</string>
 </resources>

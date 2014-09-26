@@ -847,4 +847,5 @@ Může to trvat i 5 min."</string>
   <string name="preference_telocation_title">Poloha volajícího</string>
   <string name="preference_auto_ip_summary_disable">Deaktivováno</string>
   <string name="msim_set_icc_card_error">Chyba ICC karty</string>
+  <string name="cfnrc_title_cta">Přesměrovat, když jsem nedostupný</string>
 </resources>

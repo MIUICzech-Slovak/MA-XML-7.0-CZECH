@@ -2,6 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_name">Aktivace Xiaomi Účtu</string>
+  <string name="activate">Aktivovat</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty jsou změněny. Budou odeslány 2 mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty jsou změněny. Budou odeslány 2 SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
   <string name="activate_popup_desc_new_intl_sim_card">Vaše SIM karta je změněna. Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
@@ -13,13 +14,13 @@
   <string name="activate_popup_desc_register_account_intl">Bude odeslána mezinárodní SMS pro aktivaci vašeho Xiaomi účtu</string>
   <string name="activate_popup_desc_sim_card">SMS bude odeslána pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
   <string name="activate_popup_desc_sim_card_downlink">Zadejte číslo vaší SIM karty pro aktivaci těchto funkcí: %s</string>
-  <string name="activate_popup_title_failed_phone_error">Aktivace selhala</string>
-  <string name="activate_popup_title_failed_query_info">Aktivace selhala</string>
-  <string name="activate_popup_title_failed_receive_sms">Aktivace selhala</string>
-  <string name="activate_popup_title_failed_send_sms">Aktivace selhala</string>
-  <string name="activate_popup_title_failed_server">Aktivace selhala</string>
-  <string name="activate_popup_title_manual">Aktivace SIM karty</string>
-  <string name="activate_popup_title_new_sim_card">Nová aktivace SIM karty</string>
+  <string name="activate_popup_title_failed_phone_error">Nesprávné tel. číslo</string>
+  <string name="activate_popup_title_failed_query_info">Tel. číslo nebylo nalezeno</string>
+  <string name="activate_popup_title_failed_receive_sms">Bez odpovědi</string>
+  <string name="activate_popup_title_failed_send_sms">Nelze odeslat SMS</string>
+  <string name="activate_popup_title_failed_server">Chyba serveru</string>
+  <string name="activate_popup_title_manual">Aktivovat %s</string>
+  <string name="activate_popup_title_new_sim_card">Znovu aktivovat %s</string>
   <string name="activate_popup_title_register_account">Registrovat účet</string>
   <string name="activate_status_desc_acquire_phone_number">Načítání čísla telefonu ze serveru</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Chyba serveru při načítání čísla telefonu.</string>
