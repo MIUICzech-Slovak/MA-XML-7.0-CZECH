@@ -632,4 +632,8 @@ Postupujte dle pokynů"</item>
         <item>Manuálně připojit</item>
         <item>Vždy se zeptat</item>
     </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Zobrazit naposledy spuštěné apl.</item>
+        <item>Zobrazit Menu</item>
+    </string-array>
 </resources>
