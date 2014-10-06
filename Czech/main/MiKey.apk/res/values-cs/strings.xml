@@ -197,9 +197,6 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="enable_mikey_sprite">Povolit MiKey wizard</string>
   <string name="dialog_title_disable_mikey_sprite">Vypnout MiKey wizard?</string>
   <string name="disable_mikey_sprite">Vypnout MiKey wizard</string>
-  <string name="action_baidusearch">Baidu vyhledávání</string>
-  <string name="select_baidusearch">Baidu vyhledávání</string>
-  <string name="select_baiduvoicesearch">Baidu hlasové vyhledávání</string>
   <string name="action_key_back">Zpět</string>
   <string name="action_key_back_long">Zpět (Dlouhý stisk)</string>
   <string name="action_key_call">Přijetí hovoru</string>
