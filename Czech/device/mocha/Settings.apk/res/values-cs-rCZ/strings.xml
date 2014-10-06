@@ -203,7 +203,7 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="app_sees_restricted_accounts">Tato aplikace má přístup k vašim účtům</string>
   <string name="app_special_disable_dlg_text">Pokud deaktivujete integrovanou aplikaci, mohou se ostatní aplikace chovat nestandardně. Budou také smazána vaše data.</string>
   <string name="app_special_disable_dlg_title">Vymazat data a deaktivovat aplikaci?</string>
-  <string name="app_switch_key">Nedávné</string>
+  <string name="app_switch_key">Levé tlačítko</string>
   <string name="application_forbid_auto_startup">Zakázat %s spustit se na pozadí</string>
   <string name="application_info_label">Informace o aplikaci</string>
   <string name="application_item_already_permission">Povoleno</string>
