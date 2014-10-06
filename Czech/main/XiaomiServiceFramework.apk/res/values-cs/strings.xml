@@ -67,4 +67,6 @@
   <string name="activate_popup_confirm_failed_receive_sms">Znovu</string>
   <string name="activate_popup_confirm_failed_send_sms">Znovu</string>
   <string name="activate_popup_confirm_failed_server">Znovu</string>
+  <string name="error_device_id_message">Některé služby budou nedostupné</string>
+  <string name="error_device_id_title">Nelze získat číslo IMEI</string>
 </resources>
