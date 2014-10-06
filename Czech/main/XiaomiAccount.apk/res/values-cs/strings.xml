@@ -308,4 +308,7 @@ s "</string>
   <string name="activate_status_title_activating">Aktivace Vaší SIM karty</string>
   <string name="activate_status_title_activating_msim">Aktivace Vaší SIM karty %s</string>
   <string name="loading_mili_center">Načítání MiKreditu</string>
+  <string name="mibi_balance">MiKreditů: %s</string>
+  <string name="hide_mibi_info">Suma MiKreditů je skryta</string>
+  <string name="failed_get_mibi_info">Zjištění stavu MiKreditů selhalo</string>
 </resources>
