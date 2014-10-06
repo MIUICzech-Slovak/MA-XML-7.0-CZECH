@@ -2772,4 +2772,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="free_wifi_user_agreement_allow">OK</string>
   <string name="free_wifi_user_agreement_title">Podmínky používání</string>
   <string name="translation_contributors_summary"/>
+  <string name="screen_key_press">Stlačte navigačné tlačidlá</string>
+  <string name="screen_key_press_action">Spustit funkci</string>
+  <string name="status_sim">Stav SIM</string>
+  <string name="status_sim_1">SIM1</string>
+  <string name="status_sim_2">SIM2</string>
+  <string name="status_summary">Dotykem zobrazíte podrobnosti</string>
+  <string name="wifi_subnet_mask">Subnet mask</string>
 </resources>
