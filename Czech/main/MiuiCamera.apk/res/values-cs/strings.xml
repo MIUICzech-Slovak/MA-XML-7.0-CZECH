@@ -403,7 +403,7 @@
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
   <string name="pref_grp_picture_settings">Nastavení Fotografie</string>
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
-  <string name="pref_manual_exposure_title">Manuální expozice</string>
+  <string name="pref_manual_exposure_title">Expozice</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuto</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuto</string>
   <string name="pref_scan_qrcode_title">Skenovat QR kód</string>
@@ -549,4 +549,8 @@
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="simple_mode_button_text_ubifocus">Ukončit</string>
   <string name="accessibility_panorama_review_cancel">Zrušit</string>
+  <string name="pref_camera_manual_mode_title">Manuální režim</string>
+  <string name="pref_qc_focus_position_title">Ostření</string>
+  <string name="simple_mode_button_text_manual">Ukončit</string>
+  <string name="simple_mode_button_text_manual_mode">Ukončit</string>
 </resources>
