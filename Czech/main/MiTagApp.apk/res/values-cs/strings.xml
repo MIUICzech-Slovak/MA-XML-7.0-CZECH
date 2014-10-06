@@ -203,4 +203,5 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="erase_pon_pon_tile">Vymazat štítek</string>
 </resources>
