@@ -246,4 +246,7 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="update_happy">Výborná</string>
   <string name="update_sad">Nic moc</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="button_text_reboot_hm">Po restartu</string>
+  <string name="update_downfull_no_info_sum">Nelze stáhnout, navštivte miuios.cz/rom</string>
+  <string name="update_downfull_no_info_title">Nelze stáhnout</string>
 </resources>
