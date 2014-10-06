@@ -260,4 +260,8 @@
   <string name="sim_not_ready">SIM karta není připravena</string>
   <string name="st_title_not_sim">Prázdné</string>
   <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+  <string name="dlg_antispam_mode_delete_message">Nelze obnovit vlastní profil po jeho vymazání.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazání vlastního profilu</string>
+  <string name="dlg_antispam_using_mode_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
 </resources>
