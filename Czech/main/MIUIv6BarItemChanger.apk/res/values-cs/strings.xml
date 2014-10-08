@@ -17,8 +17,8 @@
     <string name="data_mobile">Data</string>
     <string name="data_rotate">Otáčení</string>
     <string name="data_screenshot">Screenshot</string>
-    <string name="data_silent">Ticho</string>
-    <string name="data_sound">Nerušit</string>
+    <string name="data_silent">Nerušit</string>
+    <string name="data_sound">Ticho</string>
     <string name="data_speed">Výkon</string>
     <string name="data_sync">Synchro.</string>
     <string name="data_vibration">Vibrace</string>
