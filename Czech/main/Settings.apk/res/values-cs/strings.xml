@@ -2779,4 +2779,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_sim_2">SIM2</string>
   <string name="status_summary">Dotykem zobrazíte podrobnosti</string>
   <string name="wifi_subnet_mask">Subnet mask</string>
+  <string name="status_bar_toggle_arrangement">Rozložení přepínačů</string>
 </resources>
