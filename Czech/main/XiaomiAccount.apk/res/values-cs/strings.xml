@@ -311,4 +311,6 @@ s "</string>
   <string name="mibi_balance">MiKreditů: %s</string>
   <string name="hide_mibi_info">Suma MiKreditů je skryta</string>
   <string name="failed_get_mibi_info">Zjištění stavu MiKreditů selhalo</string>
+  <string name="choose_which_one_sim">Vyberte telefonní číslo</string>
+  <string name="sim_index_info">SIM karta %1$d - %2$s</string>
 </resources>
