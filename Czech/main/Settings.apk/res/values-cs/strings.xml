@@ -2780,4 +2780,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_summary">Dotykem zobrazíte podrobnosti</string>
   <string name="wifi_subnet_mask">Subnet mask</string>
   <string name="status_bar_toggle_arrangement">Rozložení přepínačů</string>
+  <string name="cmcc_dm_settings_disable_summary">Zakázat auto-start</string>
+  <string name="cmcc_dm_settings_enable_summary">Povolit auto-start</string>
+  <string name="cmcc_dm_settings_title">Správa povolení zařízení</string>
 </resources>

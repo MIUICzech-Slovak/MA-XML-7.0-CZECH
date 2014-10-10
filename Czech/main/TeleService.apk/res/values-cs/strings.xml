@@ -848,4 +848,6 @@ Může to trvat i 5 min."</string>
   <string name="preference_auto_ip_summary_disable">Deaktivováno</string>
   <string name="msim_set_icc_card_error">Chyba ICC karty</string>
   <string name="cfnrc_title_cta">Přesměrovat, když jsem nedostupný</string>
+  <string name="msim_select_default_time_left">(%ds)</string>
+  <string name="msim_switch_data_conn_toast">Ujistěte se, že máte přístup k datovému připojení. Režim sítě byl změněn na preferování 4G sítí (nebo 3G sítí).</string>
 </resources>
