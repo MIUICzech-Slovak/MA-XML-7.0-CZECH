@@ -233,4 +233,5 @@
   <string name="user_guide_for_toggle_list">Upravit přepínače</string>
   <string name="accessibility_data_four_bars">Data čtyři čárky.</string>
   <string name="accessibility_phone_four_bars">Signál čtyři čárky.</string>
+  <string name="hint_for_long_press_app_switch_key">Dlouhým podržením zobrazíte Menu</string>
 </resources>
