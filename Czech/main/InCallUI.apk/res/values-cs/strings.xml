@@ -81,7 +81,7 @@
   <string name="call_title_redialing_with_times_miui">Volám zpět %d krát</string>
   <string name="caller_manage_header">Konferenční hovor %s</string>
   <string name="calling_via_template">Volání prostřednictvím %s</string>
-  <string name="card_title_call_ended">Hovor ukončen</string>
+  <string name="card_title_call_ended">"Hovor ukončen "</string>
   <string name="card_title_conf_call">Konferenční hovor</string>
   <string name="card_title_dialing">Vytáčení</string>
   <string name="card_title_hanging_up">Ukončení hovoru</string>
