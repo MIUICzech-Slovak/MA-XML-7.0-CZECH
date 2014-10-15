@@ -33,4 +33,9 @@
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="altitude_unit">m</string>
+  <string name="location_enable">Povolit</string>
+  <string name="location_enable_later">Později</string>
+  <string name="location_enabled">Zjišťování polohy je povoleno. Můžete to kdykoliv změnit v nastavení polohy.</string>
+  <string name="location_not_enabled_summary">Je nutný přístup k aktuální poloze pro správné fungování.</string>
+  <string name="location_not_enabled_title">Povolit zjišťování polohy</string>
 </resources>

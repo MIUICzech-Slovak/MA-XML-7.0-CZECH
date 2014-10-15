@@ -231,4 +231,5 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="priority_storage">Ukládat na externí SD kartu</string>
   <string name="priority_storage_summary">Automaticky stahovat na externí SD kartu</string>
+  <string name="headset_settings">Nastavení sluchátek</string>
 </resources>

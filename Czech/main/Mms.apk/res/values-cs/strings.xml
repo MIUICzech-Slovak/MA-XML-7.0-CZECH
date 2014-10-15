@@ -517,4 +517,8 @@ Pokus: %s."</string>
   <string name="menu_yellowpage">Zobrazit %s</string>
   <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
   <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
+  <string name="menu_add_black">Blokovat</string>
+  <string name="menu_add_contact">Kontakt</string>
+  <string name="menu_mark">Označit</string>
+  <string name="menu_new_contact">Nový kontakt</string>
 </resources>
