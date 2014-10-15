@@ -42,7 +42,8 @@
   <string name="confirm_change_mode_title">Přepnout režim</string>
   <string name="confirm_change_to_expert_mode_message">Přepnout na rozšířený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Přepnout na základní režim?</string>
-  <string name="confirm_location_message">Fotoaparát umí zaznamenat Vaši polohu ve fotografii. Chcete Vaši polohu ukládat?</string>
+  <string name="confirm_location_message">Fotoaparát umí ukládat Vaši polohu
+ve fotografii. Chcete polohu ukládat?</string>
   <string name="confirm_restore_message">Chcete obnovit tovární nastavení?</string>
   <string name="confirm_restore_title">Obnovit tovární nastavení</string>
   <string name="connect_wifi">Připojit k této Wi-Fi</string>
@@ -455,7 +456,7 @@
   <string name="review_cancel">Zrušit</string>
   <string name="rotate_left">Otočit doleva</string>
   <string name="rotate_right">Otočit doprava</string>
-  <string name="save">Uložit</string>
+  <string name="save">Ukládat</string>
   <string name="scan_qrcode">QR kód</string>
   <string name="secure_access_web_url">Otevřít internetový prohlížeč</string>
   <string name="see_app_details">Podrobnosti aplikace</string>
