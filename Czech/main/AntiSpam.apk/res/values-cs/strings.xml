@@ -68,6 +68,10 @@
   <string name="dlg_add_keyword">Klíčová slova</string>
   <string name="dlg_add_manual_hint">Zadejte telefonní číslo</string>
   <string name="dlg_add_manual_ok">Přidat</string>
+  <string name="dlg_antispam_mode_delete_message">Nelze obnovit vlastní profil po jeho vymazání.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazání vlastního profilu</string>
+  <string name="dlg_antispam_using_mode_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
   <string name="dlg_bl_add_manual">Zadat telefonní číslo manuálně</string>
   <string name="dlg_black_address_antispam_message">Přidat tuto předvolbu do Černé listiny a blokovat ji?</string>
   <string name="dlg_black_antispam_hint">AntiSpam</string>
@@ -103,6 +107,7 @@
   <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
   <string name="fw_blocked_count_call">Hovory (%d)</string>
   <string name="fw_blocked_count_sms">SMS (%d)</string>
+  <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastní režim</string>
   <string name="info_antispam_phone">Blokovat Hovory</string>
   <string name="info_antispam_phone_sms">Blokovat SMS a Hovory</string>
@@ -143,6 +148,7 @@
   <string name="note_sms_none">Prázdné</string>
   <string name="one_address_choose_hint">%s 1 region</string>
   <string name="open_callwait">Povolit</string>
+  <string name="sim_not_ready">SIM karta není připravena</string>
   <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
   <string name="st_advanced_setting_group">Rozšířené</string>
   <string name="st_antispam_black_adress_add">Blokovaný region (Pouze Čína)</string>
@@ -238,9 +244,11 @@
   <string name="st_title_man_head_addblacklist">Přidat předvolbu na Černou listinu</string>
   <string name="st_title_man_head_addwhitelist">Přidat předvolbu do výjimek</string>
   <string name="st_title_mode_choose_group">Výběr režimu blokování</string>
+  <string name="st_title_not_sim">Prázdné</string>
   <string name="st_title_open_antispam">AntiSpam</string>
   <string name="st_title_settings_other_group">Ostatní nastavení</string>
   <string name="st_title_show_antispamnotification">Zobrazit upozornění</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Povolená čísla</string>
   <string name="sure">OK</string>
   <string name="tab_blacklist">Černá listina</string>
@@ -256,12 +264,21 @@
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
-  <string name="fw_blocked_join">" a "</string>
-  <string name="sim_not_ready">SIM karta není připravena</string>
-  <string name="st_title_not_sim">Prázdné</string>
-  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
-  <string name="dlg_antispam_mode_delete_message">Nelze obnovit vlastní profil po jeho vymazání.</string>
-  <string name="dlg_antispam_mode_delete_title">Vymazání vlastního profilu</string>
-  <string name="dlg_antispam_using_mode_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">Vymazat vlastní profil a přepnout na výchozí? Tuto akci nelze vrátit zpět!</string>
+  <string name="STRANGER_BLOCK">Černá listina</string>
+  <string name="button_to_setting">Nastavení</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte povolit \"Rozpoznávání neznámých čísel\" v nastavení telefonu.</string>
+  <string name="dlg_title_not_open_stranger_identify">Povolte rozpoznání neznámých čísel</string>
+  <string name="mark_agent">Prodejce</string>
+  <string name="mark_agent_block">Označeno jako prodejce</string>
+  <string name="mark_express">Kurýr</string>
+  <string name="mark_express_block">Označeno jako kurýr</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označeno jako podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označeno jako donáška</string>
+  <string name="mark_number_info">"
+Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla, která opravdu blokovat chcete."</string>
+  <string name="mark_sell">Prodejce</string>
+  <string name="mark_sell_block">Označeno jako Prodejce</string>
+  <string name="st_title_markednumber_group">Označená čísla</string>
 </resources>
