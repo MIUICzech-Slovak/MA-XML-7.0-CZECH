@@ -521,4 +521,6 @@ Pokus: %s."</string>
   <string name="menu_add_contact">Kontakt</string>
   <string name="menu_mark">Označit</string>
   <string name="menu_new_contact">Nový kontakt</string>
+  <string name="hms_add_image_progress_message">Spracovávání...</string>
+  <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
 </resources>

@@ -546,7 +546,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_front_fb_title">Vylepšit barvu pleti</string>
   <string name="pref_priority_storage_title">Uložit na SD kartu</string>
   <string name="cannot_move_warning_message">Zpracovávání fotografie, nehýbejte se zařízením.</string>
-  <string name="object_track_enable_toast">Posuňte prstem po displeji pro sledování objektu.</string>
+  <string name="object_track_enable_toast">Současným dotykem na oba kraje objektu, aktivujete jeho sledování.</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="simple_mode_button_text_ubifocus">Ukončit</string>
   <string name="accessibility_panorama_review_cancel">Zrušit</string>
@@ -554,4 +554,10 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_qc_focus_position_title">Ostření</string>
   <string name="simple_mode_button_text_manual">Ukončit</string>
   <string name="simple_mode_button_text_manual_mode">Ukončit</string>
+  <string name="confirm_location_title">Ukládání polohy</string>
+  <string name="burst_shoot_exit_button_text">Ukončit</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Vyp</string>
+  <string name="pref_front_mirror_entry_on">Zap</string>
 </resources>

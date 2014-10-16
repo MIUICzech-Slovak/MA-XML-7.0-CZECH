@@ -5,7 +5,7 @@
   <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
   <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="account">Účet</string>
-  <string name="account_bind_devices">Aktivní zařízení</string>
+  <string name="account_bind_devices">Zařízení</string>
   <string name="account_bind_settings">E-mail (.com) nebo tel. číslo</string>
   <string name="account_dspt">Účet Xiaomi může synchronizovat a zálohovat vaše zprávy, kontakty, fotky, atd</string>
 <string name="account_dspt_provision">Použijte svůj Xiaomi účet na přihlášení se k MiCloud, Obchodu s těmaty a mnoho dalších služeb Xiaomi.</string>
