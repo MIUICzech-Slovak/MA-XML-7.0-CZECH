@@ -592,14 +592,14 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="wrong_system_time">Váš systémový čas není správný a ovlivní to fungování MiBand.</string>
   <string name="stat_step_walk_calorie">Spáleno chůlzí</string>
   <string name="stat_step_walk_calories_average">Prům. spáleno</string>
-  <string name="stat_step_walk_distance">Vzdálenost</string>
+  <string name="stat_step_walk_distance">Prochozeno</string>
   <string name="stat_step_walk_distance_average">Prům. prochozeno</string>
   <string name="stat_step_walk_duration">Chůze</string>
   <string name="stat_step_walk_duration_average">Prům. chůze</string>
   <string name="stat_step_piece">Kroků</string>
-  <string name="stat_step_run_calorie">Běh</string>
+  <string name="stat_step_run_calorie">Spáleno běháním</string>
   <string name="stat_step_run_calories_average">Prům. spáleno</string>
-  <string name="stat_step_run_distance">Vzdálenost</string>
+  <string name="stat_step_run_distance">Uběhnuto</string>
   <string name="stat_step_run_distance_average">Prům. prochozeno</string>
   <string name="stat_step_run_duration">Běh</string>
   <string name="stat_step_run_duration_average">Prům. běh</string>
