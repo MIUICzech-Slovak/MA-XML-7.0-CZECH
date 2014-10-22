@@ -104,6 +104,7 @@
   <string name="button_text_view_power">Zobrazit výkon</string>
   <string name="cache_check_content">Apl.: %1$d, Cache: %2$s</string>
   <string name="cache_header_title">Vyčištění %1$d souborů v cache uvolní %2$s</string>
+  <string name="cache_sort_type_item_name">Podle názvu</string>
   <string name="cache_sort_type_item_size">Podle velikosti</string>
   <string name="cache_title_empty_folder">Prázdná složka (%d)</string>
   <string name="cache_title_empty_folder2">Prázdná složka</string>
@@ -398,9 +399,8 @@
   <string name="power_dialog_cpu_state_save_desc">Úspora baterie na úkor výkonu procesoru</string>
   <string name="power_dialog_cpu_state_title">Výkon CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Nelze smazat: tento profil je aktivní."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">"Can't delete: Your device is set to switch to this configuration, 
- You need to change your battery settings before you can delete this configuration."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nelze smazat: Zařízení je nastaveno pro přepnutí na tento profil, pokud je nízká kapacita baterie. 
+  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Nelze vymazat: Vaše zařízení je nastaveno na přepnutí do tohoto profilu. Musíte nejdříve změnit toto nastavení</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nelze vymazat: Vaše zařízení je nastaveno na přepnutí do tohoto profilu při slabé baterii. 
 Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Nelze vymazat.
 Vaše zařízení se přepne po obnově baterie do tohoto režimu. Před vymazáním je nutné změnit nastavení baterie."</string>
@@ -595,7 +595,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="cache_sort_type_item_name">Podle názvu</string>
   <string name="settings_title_permission">Nastavení oprávněni</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Aplikace se vás nebudou ptát na povolení přístupu ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu. Toto nastavení můžete opět aktivovat v nastavení oprávnění.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Správce oprávnění je vypnut</string>
@@ -603,4 +602,16 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="permission_close_permission_control_dialog_title">Deaktivovat správce oprávnění?</string>
   <string name="menu_item_app_permissions_control">Správce oprávnění</string>
   <string name="menu_item_control_app_permissions">Požadovat vaše povolení pro přístup ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu.</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
+  <string name="header_antivirus">Používáním této funkce souhlasíte s Podmínkami používání Tencent.</string>
+  <string name="header_optimizer">Používáním této funkce souhlasíte s Podmínkami používání Clean Master.</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Použít online databázi</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="summary_antivirus">Odeslat a zkontrolovat neznámé názvy souborů s online virovou databází</string>
+  <string name="summary_optimizer">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
+  <string name="text_antivirus">Použít online virovou databází</string>
+  <string name="text_optimizer">Použít online databází</string>
+  <string name="title_antivirus">AntiVirus</string>
+  <string name="title_optimizer">Čistič</string>
 </resources>
