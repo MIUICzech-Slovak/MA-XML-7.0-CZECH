@@ -30,7 +30,7 @@
   <string name="error_note_not_exist">Poznámka neexistuje</string>
   <string name="error_unsupport_content">Tato poznámka obsahuje nepodporovaný obsah, dotkněte se zde pro potřebnou aplikaci</string>
   <string name="error_widget_exist_for_send_to_desktop">Tato poznámka již na ploše existuje</string>
-  <string name="folder_exist">Složka %1$s již existuje, zvolte prosím jiný název</string>
+  <string name="folder_exist">Složka již existuje, zvolte prosím jiný název</string>
   <string name="format_move_notes_to_folder">Přesunuty %1$d poznámky do složky %2$s</string>
   <string name="hint_foler_name">Vstupní jméno</string>
   <string name="info_note_enter_desktop">Poznámka byla přidána na plochu</string>

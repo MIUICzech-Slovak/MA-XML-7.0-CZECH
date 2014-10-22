@@ -316,7 +316,7 @@
   <string name="default_setup">VÝCHOZÍ NASTAVENÍ</string>
   <string name="default_signature">Odesláno z MIUI</string>
   <string name="delete">Smazat</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s vymazáno</string>
+  <string name="delete_conversation_hint_message">Vymazáno %2$s (%1$d)</string>
   <string name="deleted">Smazáno</string>
   <string name="device_activity_btn_str">Návrat k aktivaci</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>

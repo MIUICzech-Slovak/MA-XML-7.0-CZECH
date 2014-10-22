@@ -51,7 +51,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="copy_failed">Kopírování selhalo</string>
   <string name="create_kuaipan_shortcut_pref">Vytvořit ikonu na ploše</string>
   <string name="create_new_folder_desctiption">Vytváření nové složky...</string>
-  <string name="create_new_folder_failed">Nelze vytvořit složku %1$s</string>
+  <string name="create_new_folder_failed">Nelze vytvořit složku</string>
   <string name="create_share_link_description">Vytváření odkazu pro sdílení...</string>
   <string name="cution">Tipy</string>
   <string name="data_capacity">Kapacita: %1$s</string>
@@ -64,7 +64,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="delete_failed">Mazání selhalo</string>
   <string name="delete_file">Smazat?</string>
   <string name="delete_files">Opravdu chcete smazat tyto soubory(%1$d)?</string>
-  <string name="delete_folder">Opravdu chcete vymazat tuto složku?</string>
+  <string name="delete_folder">Opravdu chcete vymazat složku (%1$d)?</string>
   <string name="delete_folders">Opravdu chcete vymazat tyto složky?</string>
   <string name="des_running_trans">Ještě %1$d souborů je zapotřebí přenést</string>
   <string name="dialog_select_type">Zvolte typ souboru</string>

@@ -631,7 +631,6 @@
   <string name="voicemail_default">Můj operátor</string>
   <string name="voicemail_notification_ringtone_title">Vyzvánění</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrovat</string>
-  <string name="voicemail_notification_vibrate_when_default">nikdy</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrovat</string>
   <string name="voicemail_number_not_set">nenastaveno</string>
   <string name="voicemail_provider">Služba hlasové schránky</string>

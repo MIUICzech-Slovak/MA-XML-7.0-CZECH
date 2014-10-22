@@ -33,7 +33,7 @@
   <string name="album_share_subtitle_invited">Sdílení %1$s, Přijmout/Odmítnout?</string>
   <string name="album_share_subtitle_normal">Sdílené %1$s</string>
   <string name="album_share_subtitle_not_ready">Informace o albu nejsou dostupné. Klepněte pro jejich stáhnutí.</string>
-  <string name="album_share_subtitle_quitting">Zrušení pozvání od %1$s...</string>
+  <string name="album_share_subtitle_quitting">Zrušení pozvání...</string>
   <string name="album_share_subtitle_requesting">Stahování informací o albu...</string>
   <string name="album_share_title_new_album">Nové sdílené album</string>
   <string name="albums">Alb</string>
