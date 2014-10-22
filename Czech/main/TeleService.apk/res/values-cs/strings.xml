@@ -850,4 +850,5 @@ Může to trvat i 5 min."</string>
   <string name="cfnrc_title_cta">Přesměrovat, když jsem nedostupný</string>
   <string name="msim_select_default_time_left">(%ds)</string>
   <string name="msim_switch_data_conn_toast">Ujistěte se, že máte přístup k datovému připojení. Režim sítě byl změněn na preferování 4G sítí (nebo 3G sítí).</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G(CDMA) preferována</string>
 </resources>

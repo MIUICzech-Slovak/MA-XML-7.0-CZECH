@@ -336,4 +336,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
   <string name="input_used_max_hint">Zadejte spotřebovaná data (méně než %s)</string>
+  <string name="privacy_declare_dialog_message">Používáním této služby souhlasíte s Opera &lt;a href=http://max.oupeng.com/eula.html&gt; Podmínkami používání&lt;/a&gt;.</string>
+  <string name="privacy_declare_dialog_title">Podmínky používání</string>
 </resources>

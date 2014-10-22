@@ -281,4 +281,6 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="mark_sell">Prodejce</string>
   <string name="mark_sell_block">Označeno jako Prodejce</string>
   <string name="st_title_markednumber_group">Označená čísla</string>
+  <string name="SMS_SERVICE">Blokování služeb</string>
+  <string name="st_antispam_title_service_sms">Upozornění služeb</string>
 </resources>

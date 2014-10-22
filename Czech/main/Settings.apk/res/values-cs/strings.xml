@@ -2783,4 +2783,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="cmcc_dm_settings_disable_summary">Zakázat auto-start</string>
   <string name="cmcc_dm_settings_enable_summary">Povolit auto-start</string>
   <string name="cmcc_dm_settings_title">Správa povolení zařízení</string>
+  <string name="lock_settings">Zámek displeje</string>
+  <string name="other_advanced_settings">Další nastavení</string>
+  <string name="other_personal_settings">Další nastavení</string>
+  <string name="wireless_off">Vyp</string>
+  <string name="wireless_on">Zap</string>
 </resources>
