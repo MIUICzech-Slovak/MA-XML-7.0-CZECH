@@ -162,7 +162,7 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">"Opravdu chcete vymazat všechny záznamy kontaktu %s?"</string>
+  <string name="confirm_delete_contact_all_call_logs">"Opravdu chcete vymazat všechny záznamy?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Opravdu chcete vymazat všechny záznamy o hovorech tohoto kontaktu?"</string>
   <string name="confirm_delete_sim_entry_miui">Potvrďte vymazání %d vybraných kontaktů na SIM kartě.</string>
   <string name="confirm_export_message">Opravdu chcete exportovat seznam kontaktů do souboru %s?</string>
@@ -188,7 +188,7 @@
   <string name="contact_is_readOnly">Kontakt nelze upravit</string>
   <string name="contact_list_loading">Načítání...</string>
   <string name="contact_pick_photo">Fotka</string>
-  <string name="contact_read_only">Kontaktní informace ze zdroje %1$s není možné na tomto zařízení upravit.</string>
+  <string name="contact_read_only">Nelze upravit na tomto zařízení.</string>
   <string name="contact_status_update_attribution">přes %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
   <string name="contact_unfavorite_toast">Kontakt byl odebrán z oblíbených</string>
@@ -368,7 +368,7 @@ Chyba: \"%s\""</string>
   <string name="exporting_vcard_finished_title">Export %s dokončen</string>
   <string name="external_profile_title">Můj profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">Nelze spustit exportní program: \"%s\"</string>
-  <string name="fail_reason_could_not_open_file">Soubor \"%s\" nelze otevřít</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Nelze otevřít \"%s\": %s."</string>
   <string name="fail_reason_error_occurred_during_export">Při exportu došlo k chybě: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Není možné načíst vizitku."</string>
   <string name="fail_reason_failed_to_read_files">"Jeden nebo více souborů nebylo možné importovat (%s)."</string>
@@ -449,7 +449,7 @@ Chyba: \"%s\""</string>
   <string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
   <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: zrušeno uživatelem</string>
   <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
-  <string name="import_weibo_notification_title_done">Import kompletní</string>
+  <string name="import_weibo_notification_title_done">Import kompletní (%s)</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importování kontaktů ze SIM...</string>
@@ -554,7 +554,7 @@ Chyba: \"%s\""</string>
   <string name="menu_splitAggregate">Rozdělit</string>
   <string name="menu_sync_remove">Zrušit synchronizaci skupiny</string>
   <string name="menu_viewContact">Zobrazit kontakt</string>
-  <string name="merge_contact_message" formatted="false">%1$d kontaktů s částečně duplicitními daty, %2$d vybráno</string>
+  <string name="merge_contact_message">Kontakty (%1$d) s podobnými informacemi</string>
   <string name="messageShortcutActivityTitle">Výběr čísla pro zprávu</string>
   <string name="missing_name">Skupiny</string>
   <string name="move_and_resize">Posuň měřítko</string>
@@ -881,14 +881,14 @@ Synchronizujte je nyní."</string>
   <string name="resource_import_successful">Stahování dokončeno.</string>
   <string name="resource_importing">Importování</string>
   <string name="resource_list_title">Poslední zvolené</string>
-  <string name="resource_local">Lokální</string>
+  <string name="resource_local">Lokální %1$s</string>
   <string name="resource_menu_refresh">Obnovit</string>
   <string name="resource_mute">Žádné</string>
   <string name="resource_my">Lokální</string>
   <string name="resource_no_result">Nenalezeno</string>
   <string name="resource_notification_default">Upozornění</string>
   <string name="resource_on_trial">Zkoušíte: %1$s</string>
-  <string name="resource_online">Online</string>
+  <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě. Pokračovat?</string>
   <string name="resource_pack_discount_info">O %1$s méně!</string>
   <string name="resource_pack_price_info">Sleva z %1$s</string>

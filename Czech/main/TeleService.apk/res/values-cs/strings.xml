@@ -284,7 +284,7 @@
   <string name="enterName">Vložte jméno:</string>
   <string name="enterNumber">Vložte číslo telefonu:</string>
   <string name="enter_callbarring_password">Zadejte heslo blokování hovorů (4 čísla)</string>
-  <string name="enter_input">Musíte něco zadat, zkuste to znovu!</string>
+  <string name="enter_input" formatted="false">USSD zpráva musí být mezi %d a %d místy.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">Kód PIN karty SIM:</string>
   <string name="entertainment_news_settings">Zprávy z kultury</string>

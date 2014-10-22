@@ -1508,7 +1508,7 @@ Zvolte Váš operační systém:"</string>
   <string name="preferred_application_warning_message">Nahrazením výchozí aplikace %1$s se může zvýšit spotřeba baterie, zpomalit chod systému a ohrozit obsah zařízení. Doporučuje se ponechat aplikaci "%2$s".</string>
   <string name="preferred_application_warning_replace">Nahradit</string>
   <string name="preferred_application_warning_title">Nahradit výchozí %s</string>
-  <string name="preferred_application_warning_use_system">Ponechat výchozí</string>
+  <string name="preferred_application_warning_use_system">Použít %s</string>
   <string name="preferred_launcher_title">Preferovaný Launcher</string>
   <string name="preferred_media_app_summary">Vybrat hudební přehrávač</string>
   <string name="preferred_sms_settings">Tato aplikace bude nastavena jako výchozí pro příjem a odesílání SMS zpráv.</string>
