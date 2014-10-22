@@ -234,4 +234,7 @@
   <string name="accessibility_data_four_bars">Data čtyři čárky.</string>
   <string name="accessibility_phone_four_bars">Signál čtyři čárky.</string>
   <string name="hint_for_long_press_app_switch_key">Dlouhým podržením zobrazíte Menu</string>
+  <string name="audio_effect_custom">Nastavit</string>
+  <string name="audio_effect_info">Optimalizovat zvuk</string>
+  <string name="audio_effect_settings">Nastavit typ sluchátek</string>
 </resources>

@@ -2788,4 +2788,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="other_personal_settings">Další nastavení</string>
   <string name="wireless_off">Vyp</string>
   <string name="wireless_on">Zap</string>
+  <string name="status_bar_settings_show_notification_icon">Zobrazit ikony upozornění</string>
 </resources>
