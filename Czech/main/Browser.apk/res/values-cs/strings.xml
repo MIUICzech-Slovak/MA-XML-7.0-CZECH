@@ -726,6 +726,4 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="block_ads_choice_continue">Pokračovat</string>
   <string name="block_ads_message">Chcete zablokovat toto okno z této stránky?</string>
   <string name="block_ads_title">Může obsahovat reklamu</string>
-  <string name="bookmark_url_already_exisit">Tato stránka již je v záložkách</string>
-  <string name="quicklink_bookmark_save">Uložit jako</string>
 </resources>
