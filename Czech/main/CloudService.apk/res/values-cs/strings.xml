@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="access_denied">Přístup zamítnut</string>
   <string name="account">Účet</string>
@@ -7,13 +7,34 @@
   <string name="activating">Aktivace...</string>
   <string name="alert_notif_title_dspt">Doporučujeme obnovit synchronizaci pro zajištění bezpečnosti vašich dat</string>
   <string name="app_name">MiCloud</string>
+  <string name="app_sync_off">Synchr. apl vypnuta</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Okolo RMB 72 / rok</string>
   <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
   <string name="btn_return">Zpět</string>
   <string name="button_cancel">Zrušit</string>
+  <string name="buy_space_sulotion_auto_renew">Automaticky prodloužit platnost</string>
+  <string name="buy_space_sulotion_message">Zakoupíte %sGB prostoru</string>
+  <string name="buy_space_sulotion_not_auto_renew">Neprodlužovat autom.</string>
+  <string name="buy_space_sulotion_renew_message">Platné %s</string>
+  <string name="buy_space_sulotion_renew_title">Vyberte způsob prodloužení platnosti</string>
+  <string name="buy_space_sulotion_title">Cloudové úložiště</string>
   <string name="cloud_find_device">Najít zařízení</string>
+  <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
+  <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
+  <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
+  <string name="cloud_sync_setting_summary_standard">Standard: Synchronizovat přes Wi-Fi fotografie, video, MMS, data aplikací a ostatní přes mobilní data</string>
+  <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
+  <string name="contact">Kontaktů</string>
+  <string name="current">Současné</string>
+  <string name="data_syncing">Synchr. dat</string>
+  <string name="detail">Podrobnosti</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
   <string name="enableAll">Povolit vše</string>
+  <string name="enable_cloud_service_notification">Nemáte povoleny služby Cloudu</string>
   <string name="enable_find_device_error">Chyba: %1$s</string>
   <string name="enable_micloud">Registrovat nebo přihlásit</string>
   <string name="enable_sync">Povolit synchr.</string>
@@ -32,6 +53,11 @@
   <string name="find_device_disabled_title">Zjišťování polohy zařízení je vypnuté</string>
   <string name="find_device_disabling">Vypínání...</string>
   <string name="find_device_dspt">Zablokovat nebo vymazat toto zařízení na dálku.</string>
+  <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, jděte na "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" pro vyhledání, uzamknutí nebo jeho vymazání.
+
+Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="find_device_enabling">Zapínání...</string>
   <string name="find_device_error_network">Síť je nedostupná</string>
   <string name="find_device_error_server">Chyba serveru</string>
@@ -39,15 +65,36 @@
   <string name="find_device_notice_p1">Navštivte</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
+  <string name="find_device_send_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="find_device_stop_noise">Zavřít</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
+  <string name="finish">Dokončit</string>
+  <string name="flight_mode">Režim Letadlo</string>
+  <string name="free_space_has_received">Tento měsíc již byla navýšena kapacita</string>
+  <string name="free_space_receive_fail">Nelze navýšit</string>
+  <string name="full_space">Úložiště je plné</string>
+  <string name="get_first_month_gb">Získejte %s prostoru</string>
+  <string name="get_this_month_gb">Získejte %s prostoru</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Okolo RMB 143 / rok</string>
   <string name="header_data_and_synchronization">Data a synchronizace</string>
+  <string name="header_other_settings">Ostatní</string>
   <string name="i_know">OK</string>
-  <string name="master_alert_notif_dspt_add">%s nebylo synchronizováno.</string> 
-  <string name="master_alert_notif_dspt_no">Vše je aktuální.</string> 
+  <string name="internet">Internet</string>
+  <string name="internet_disconnected">Internet odpojen</string>
+  <string name="less_flow_mode">Režim Synchr.</string>
+  <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
+  <string name="loading">Načítání...</string>
+  <string name="master_alert_notif_dspt_add">%s nebylo synchronizováno.</string>
+  <string name="master_alert_notif_dspt_no">Vše je aktuální.</string>
   <string name="master_alert_notif_title">Data nejsou synchronizovaná %s dní</string>
+  <string name="micloud">MiCloud</string>
   <string name="micloud_dspt">Používejte MiCloud na synchronizaci dat, vyhledávání zařízení a sdílení souboru s přáteli...</string>
   <string name="micloud_dspt_provision">Používejte MiCloud na synchronizaci dat, lokalizaci ztraceného telefonu a sdílení souborů se svými přáteli.</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Všechny fotografie, videa, poznámky a aplikace budou zálohovány do MiCloud.
  
  Pokud ztratíte telefon nebo se poškodí, Vaše data budou stále v bezpečí.
@@ -62,14 +109,26 @@
   <string name="micloud_intro_02_part_02">Synchronizovat kontakty, zprávy, fotografie a ostatní data mezi různými zařízeními.</string>
   <string name="micloud_intro_03_part_01">Na dálku zabezpečit svá data v zařízení</string>
   <string name="micloud_intro_03_part_02">Také můžete najít, zablokovat a vymazat své zařízení na i.mi.com</string>
+  <string name="micloud_main_data_unsynced">%d nesynchr.</string>
+  <string name="micloud_main_last_sync_time">Naposledy</string>
+  <string name="micloud_main_network_error">Síť není dostupná. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
+  <string name="micloud_main_stop_sync">Ukončit synchr.</string>
+  <string name="micloud_main_suggest_sync">Vaše data nejsou synchronizovaná.</string>
+  <string name="micloud_main_sync_now">Synchronizovat</string>
+  <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
+  <string name="micloud_main_sync_stop">Ukončit synchr.</string>
   <string name="micloud_more">Zjistit více</string>
+  <string name="micloud_other_product_price">Cena ostatních produktů:</string>
   <string name="micloud_proceed">Pokračovat</string>
   <string name="micloud_sec_dspt">a sdílejte s přáteli.</string>
   <string name="micloud_space_full_influence">Co se stane po zaplacení dalšího volného místa?</string>
+  <string name="micloud_storage_usage" formatted="false">Využito %s / Celkem %s</string>
   <string name="micloud_title_dspt" formatted="false">"Celkem %s
 Využito %s | Zbývá %s"</string>
   <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
   <string name="micloud_title_full_dspt">Úložiště je plné!</string>
+  <string name="micloud_unlogin_for_time_summary"/>
+  <string name="micloud_unlogin_for_time_title">Povolit MiCloud</string>
   <string name="micloud_upgrade_space">Navýšit kapacitu</string>
   <string name="micloud_user_space_title">Kapacita úložiště</string>
   <string name="micloud_user_space_usage">Využito</string>
@@ -79,27 +138,57 @@ Využito %s | Zbývá %s"</string>
   <string name="micloud_warn_low_title">Dochází volné místo v úložišti!</string>
   <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pro ukládání a přístup k Vašim souborům</string>
+  <string name="microsoft_cloud">Microsoft Cloud</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
+  <string name="more_activity_in_upgrade_space">Více na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
+  <string name="mx_dspt">Cloud zprávy</string>
+  <string name="mx_dspt_provision">"Cloudové zprávy můžete posílat zdarma mezi uživateli MIUI.
+
+Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
+  <string name="mx_sub_dspt_provision">Cloud zprávy</string>
   <string name="next">Další</string>
   <string name="noRemind">Nepřipomínat</string>
   <string name="no_sim">Žádná SIM karta</string>
+  <string name="normal">Normální</string>
+  <string name="only_in_wlan">Pouze přes Wi-Fi</string>
   <string name="other_settings">Další nastavení</string>
   <string name="password">Heslo</string>
+  <string name="photo">Fotografií</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
   <string name="pref_title_sync_my_profile_title">Synchr. můj profil</string>
+  <string name="privacy_policy">Podmínky soukromí</string>
+  <string name="remind_later">Později</string>
   <string name="restoreSync">Obnovit</string>
+  <string name="setting">Nastavení</string>
+  <string name="sms">SMS</string>
+  <string name="space">Kapacita</string>
   <string name="start_micloud">Start</string>
-  <string name="sub_alert_notif_dspt_add">%s nebylo synchronizováno.</string> 
-  <string name="sub_alert_notif_dspt_no">Vše je aktuální.</string> 
+  <string name="storage">Úložiště</string>
+  <string name="sub_alert_notif_dspt_add">%s nebylo synchronizováno.</string>
+  <string name="sub_alert_notif_dspt_no">Vše je aktuální.</string>
   <string name="sub_alert_notif_title">Synchronizace není povolena</string>
   <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
   <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synch. MMS / SMS</string>
+  <string name="success_upgraded_space">%s přidáno</string>
+  <string name="sync">Synchr.</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
+  <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a mnohem více. Vaše zálohovaná data můžete zobrazit i na "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+Tuto službu můžete aktivovat nebo zakázat v Nastavení.
+"</string>
+  <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
+  <string name="sync_item_calllog_title">Seznam hovorů</string>
   <string name="sync_item_sms_summary">Přečtené SMS budou automaticky synchronizované</string>
   <string name="sync_item_sms_title">Synch. SMS</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
+  <string name="sync_setting">Nastavení synchr.</string>
+  <string name="sync_standard">Standard</string>
   <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty</string>
   <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci vaší SIM karty</string>
   <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
@@ -108,117 +197,28 @@ Využito %s | Zbývá %s"</string>
   <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
   <string name="sync_sub_dspt_provision">Zobrazte a spravujte vaše data kdekoliv</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
-  <string name="title_reg">Zaregistrujte Xiaomi účet</string>
-  <string name="unactivated_user">Není aktivován</string>
-  <string name="vcode">Ověřovací kód</string>
-  <string name="verify">Ověřit</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xmpp_server_addr"/>
-  <string name="app_sync_off">Synchr. apl vypnuta</string>
-  <string name="cloud_sync_setting_summary_standard">Standard: Synchronizovat přes Wi-Fi fotografie, video, MMS, data aplikací a ostatní přes mobilní data</string>
-  <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
-  <string name="contact">Kontaktů</string>
-  <string name="current">Současné</string>
-  <string name="data_syncing">Synchr. dat</string>
-  <string name="detail">Podrobnosti</string>
-  <string name="enable_cloud_service_notification">Nemáte povoleny služby Cloudu</string>
-  <string name="flight_mode">Režim Letadlo</string>
-  <string name="full_space">Úložiště je plné</string>
-  <string name="internet">Internet</string>
-  <string name="internet_disconnected">Internet odpojen</string>
-  <string name="less_flow_mode">Režim Synchr.</string>
-  <string name="micloud">MiCloud</string>
-  <string name="micloud_storage_usage" formatted="false">Využito %s / Celkem %s</string>
-  <string name="normal">Normální</string>
-  <string name="only_in_wlan">Pouze přes Wi-Fi</string>
-  <string name="photo">Fotografií</string>
-  <string name="setting">Nastavení</string>
-  <string name="sms">SMS</string>
-  <string name="space">Kapacita</string>
-  <string name="storage">Úložiště</string>
-  <string name="sync">Synchr.</string>
-  <string name="sync_setting">Nastavení synchr.</string>
-  <string name="sync_standard">Standard</string>
   <string name="system_sync_off">Synchr. vypnuta</string>
-  <string name="wifi">Wi-Fi</string>
-  <string name="wifi_disconnected">Wi-Fi odpojena</string>
-  <string name="wifi_sync">Wi-Fi synchr.</string>
-  <string name="finish">Dokončit</string>
-  <string name="micloud_first_login_summary"/>
-  <string name="micloud_first_login_title"/>
-  <string name="micloud_main_data_unsynced">%d nesynchr.</string>
-  <string name="micloud_main_last_sync_time">Naposledy</string>
-  <string name="micloud_main_network_error">Síť není dostupná. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
-  <string name="micloud_main_stop_sync">Ukončit synchr.</string>
-  <string name="micloud_main_suggest_sync">Vaše data nejsou synchronizovaná.</string>
-  <string name="micloud_main_sync_now">Synchronizovat</string>
-  <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
-  <string name="micloud_main_sync_stop">Ukončit synchr.</string>
-  <string name="micloud_unlogin_for_time_summary" />
-  <string name="micloud_unlogin_for_time_title">Povolit MiCloud</string>
-  <string name="remind_later">Později</string>
-  <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
-  <string name="sync_item_calllog_title">Seznam hovorů</string>
-  <string name="header_other_settings">Ostatní</string>
-  <string name="user_agreement">Podmínky používání</string>
-  <string name="user_agreement_p6">"Souhlas s "</string>
-  <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
-  <string name="user_agreement_p8">.</string>
-  <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a mnohem více. Vaše zálohovaná data můžete zobrazit i na "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision3">".
-
-Tuto službu můžete aktivovat nebo zakázat v Nastavení.
-"</string>
-  <string name="privacy_policy">Podmínky soukromí</string>
-  <string name="mx_dspt">Cloud zprávy</string>
-  <string name="mx_dspt_provision">"Cloudové zprávy můžete posílat zdarma mezi uživateli MIUI.
-
-Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
-  <string name="mx_sub_dspt_provision">Cloud zprávy</string>
-  <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
-  <string name="loading">Načítání...</string>
-  <string name="find_device_send_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
-  <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, jděte na "</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_3">" pro vyhledání, uzamknutí nebo jeho vymazání.
-
-Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
-<string name="view_storage_title">Kapacita cloudu</string>
-<string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Apple Cloud</string>
-  <string name="apple_cloud_eng">iCloud</string>
-  <string name="apple_cloud_price">Okolo RMB 72 / rok</string>
-  <string name="buy_space_sulotion_auto_renew">Automaticky prodloužit platnost</string>
-  <string name="buy_space_sulotion_message">Zakoupíte %sGB prostoru</string>
-  <string name="buy_space_sulotion_not_auto_renew">Neprodlužovat autom.</string>
-  <string name="buy_space_sulotion_renew_message">Platné %s</string>
-  <string name="buy_space_sulotion_renew_title">Vyberte způsob prodloužení platnosti</string>
-  <string name="buy_space_sulotion_title">Cloudové úložiště</string>
-  <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
-  <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
-  <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
-  <string name="free_space_has_received">Tento měsíc již byla navýšena kapacita</string>
-  <string name="free_space_receive_fail">Nelze navýšit</string>
-  <string name="get_first_month_gb">Získejte %s prostoru</string>
-  <string name="get_this_month_gb">Získejte %s prostoru</string>
-  <string name="google_100gb">100GB</string>
-  <string name="google_cloud">Google Drive</string>
-  <string name="google_cloud_eng">Google Drive</string>
-  <string name="google_cloud_price">Okolo RMB 143 / rok</string>
-  <string name="micloud_other_product_price">Cena ostatních produktů:</string>
-  <string name="microsoft_cloud">Microsoft Cloud</string>
-  <string name="microsoft_cloud_eng">One Drive</string>
-  <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
-  <string name="more_activity_in_upgrade_space">Více na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
-  <string name="success_upgraded_space">%s přidáno</string>
+  <string name="title_reg">Zaregistrujte Xiaomi účet</string>
   <string name="total_space_upgraded_to">Celkem: %s</string>
+  <string name="unactivated_user">Není aktivován</string>
   <string name="upgrade_space">Přidat kapacitu</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s MiKreditů na rok</string>
   <string name="upgrade_space_successful">Úspěšně navýšeno o %sGB</string>
   <string name="upgrade_space_successful_total">Celkem %sGB</string>
   <string name="upgrade_space_tb">TB</string>
+  <string name="user_agreement">Podmínky používání</string>
+  <string name="user_agreement_p6">"Souhlas s "</string>
+  <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
+  <string name="user_agreement_p8">.</string>
+  <string name="vcode">Ověřovací kód</string>
+  <string name="verify">Ověřit</string>
+  <string name="view_storage_title">Kapacita cloudu</string>
+  <string name="wifi">Wi-Fi</string>
+  <string name="wifi_disconnected">Wi-Fi odpojena</string>
+  <string name="wifi_sync">Wi-Fi synchr.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xmpp_server_addr"/>
 </resources>

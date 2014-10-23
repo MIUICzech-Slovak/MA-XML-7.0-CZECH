@@ -2,6 +2,9 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Only_the_wifi">Efektivně pouze přes Wi-Fi</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
   <string name="all_downloads">Veškerá stahování</string>
   <string name="all_fileter">Vše</string>
   <string name="all_the_internet">Všechny sítě</string>
@@ -34,6 +37,7 @@
   <string name="dialog_title_not_available">Stahování neúspěšné</string>
   <string name="dialog_title_queued_body">Soubor zatím není k dispozici</string>
   <string name="disable">Deaktivovat</string>
+  <string name="display_expire_netiv1">Měsíčně</string>
   <string name="doc_filter">DOKUM.</string>
   <string name="download_complete">Staženo</string>
   <string name="download_error">Neúspěšné</string>
@@ -84,6 +88,9 @@
   <string name="menu_all_task_start">Spustit vše</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Nastavení</string>
+  <string name="menu_title_pause_all">Zastavit vše</string>
+  <string name="menu_title_resume_all">Spustit vše</string>
+  <string name="menu_title_settings">Nastavení</string>
   <string name="mi_money">MiKredity</string>
   <string name="mi_money_">mi_money)</string>
   <string name="missing_title">Neznámý&gt;</string>
@@ -129,11 +136,4 @@
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="display_expire_netiv1">Měsíčně</string>
-  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
-  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
-  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
-  <string name="menu_title_pause_all">Zastavit vše</string>
-  <string name="menu_title_resume_all">Spustit vše</string>
-  <string name="menu_title_settings">Nastavení</string>
 </resources>

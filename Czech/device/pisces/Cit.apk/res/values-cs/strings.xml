@@ -63,6 +63,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_button_light_on">Zapnout podsvícení tlačítek</string>
   <string name="cit_calibration_fail">Kalibrace selhala</string>
   <string name="cit_calibration_pass">Kalibrace úspěšná</string>
+  <string name="cit_camera_calibration_summary">"Test instructions:
+
+1.Tap the calibration button below to enter Camera interface
+2.Press Back button to exit the camera interface
+3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
   <string name="cit_camera_sdcard_error">SD karta je plná. Nelze uložit obrázky.</string>
   <string name="cit_charger_plugin_check_summary">Zkontrolovat stav nabíjení</string>
   <string name="cit_charger_plugin_check_title">Test Připojení nabíječky</string>
@@ -217,6 +222,7 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
   <string name="cit_tool_bluetooth_on">Zapnout Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
+  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
   <string name="cit_tool_log">Záznamy</string>
   <string name="cit_tool_log_bugreport">Záznam o chybě</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -316,6 +322,7 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
   <string name="cit_usb_charger_out">USB nabíječka je odpojena</string>
   <string name="cit_version_check_summary">Byly nalezeny tyto verze hardwaru a softwaru</string>
   <string name="cit_version_check_title">Verze testu</string>
+  <string name="cit_vga_camera_calibration">Kalibrace</string>
   <string name="cit_vga_camera_capture">Pořídit snímek</string>
   <string name="cit_vga_camera_capture_fail">Nepodařilo se pořídit snímek</string>
   <string name="cit_vga_camera_delete">Vymazat snímek</string>
@@ -339,11 +346,4 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
   <string name="cit_wifi_ap_scanning">Vyhledávání Wi-Fi sítě...</string>
   <string name="cit_wifi_fail_to_scan">Není možné najít žádnou síť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnovit</string>
-  <string name="cit_vga_camera_calibration">Kalibrace</string>
-  <string name="cit_camera_calibration_summary">"Test instructions:
-
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
 </resources>

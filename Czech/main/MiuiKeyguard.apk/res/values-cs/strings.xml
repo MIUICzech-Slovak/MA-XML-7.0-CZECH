@@ -28,6 +28,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="input_pin_code_to_unlock">Zadejte PIN pro odemknutí</string>
   <string name="input_puk_code">Zadejte PUK</string>
   <string name="input_puk_code_to_unlock">Zadejte PUK kód pro odblokování zařízení</string>
+  <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
   <string name="lock_screen_date">EE d. MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
@@ -55,6 +56,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="lockscreen_transport_play_description">Přehrávání</string>
   <string name="lockscreen_transport_prev_description">Předchozí</string>
   <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.xiaomi.com.</string>
+  <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s MiBand</string>
   <string name="miui_unlockscreen_password_wrong">Znovu:</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
@@ -77,7 +79,5 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_low_battery">Připojte nabíječku</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
-  <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="wrong_password">Nesprávné heslo</string>
-   <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
 </resources>

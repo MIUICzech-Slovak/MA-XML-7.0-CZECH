@@ -2,6 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="altitude_title">Nadm. výška</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibrace</string>
   <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
@@ -23,7 +24,12 @@
   <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
+  <string name="location_enable">Povolit</string>
+  <string name="location_enable_later">Později</string>
+  <string name="location_enabled">Zjišťování polohy je povoleno. Můžete to kdykoliv změnit v nastavení polohy.</string>
   <string name="location_north">N</string>
+  <string name="location_not_enabled_summary">Je nutný přístup k aktuální poloze pro správné fungování.</string>
+  <string name="location_not_enabled_title">Povolit zjišťování polohy</string>
   <string name="location_south">S</string>
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
@@ -32,10 +38,4 @@
   <string name="mobiledata_alert_dialog_title">Upozornění</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="altitude_unit">m</string>
-  <string name="location_enable">Povolit</string>
-  <string name="location_enable_later">Později</string>
-  <string name="location_enabled">Zjišťování polohy je povoleno. Můžete to kdykoliv změnit v nastavení polohy.</string>
-  <string name="location_not_enabled_summary">Je nutný přístup k aktuální poloze pro správné fungování.</string>
-  <string name="location_not_enabled_title">Povolit zjišťování polohy</string>
 </resources>

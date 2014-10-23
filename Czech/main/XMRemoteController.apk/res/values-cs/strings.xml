@@ -24,9 +24,12 @@
   <string name="app_manager_no_data">Žádná nová data</string>
   <string name="app_name">Ovladač</string>
   <string name="app_open">Spustit</string>
+  <string name="app_open_inbox">Otevřít v BOXE</string>
+  <string name="app_open_intv">Otevřít v TV</string>
   <string name="app_size">Velikost: %1$s</string>
   <string name="app_uninstall">Odinstalovat</string>
   <string name="app_update">Aktualizovat</string>
+  <string name="app_user_used">Používáno %1$s lidmi</string>
   <string name="app_version">Verze: V%1$s</string>
   <string name="brand_search_box_hint">Vyberte zařízení, které chcete přidat</string>
   <string name="brand_title_all">Všechny</string>
@@ -39,6 +42,7 @@
   <string name="carrier_data">Operátor</string>
   <string name="circlepad_slide_tips">Kruhem nastavíte hlasitost</string>
   <string name="confirm">Povolit</string>
+  <string name="connected">Připojeno</string>
   <string name="continue_to_add_other_rc">Přidat další zařízení</string>
   <string name="di"/>
   <string name="fail_add_controller_photo">Obrázek dálkového ovládání</string>
@@ -57,6 +61,8 @@
   <string name="history_title">Historie</string>
   <string name="hot_apps">Aplikace</string>
   <string name="hot_videos">Novinky</string>
+  <string name="input_complete">Hotovo</string>
+  <string name="input_speech_button">Stiskněte a podržte</string>
   <string name="ir_device_add">Přidat</string>
   <string name="ir_device_air_cleaner">Čistička vzduchu</string>
   <string name="ir_device_air_condition">Klimatizace</string>
@@ -74,6 +80,10 @@
   <string name="loading_get">Načítání...</string>
   <string name="loading_hint">Načítání...</string>
   <string name="loading_ir_data">Načítání...</string>
+  <string name="management_app_management">Správa aplikací</string>
+  <string name="management_settings">Nastavit</string>
+  <string name="management_video_favor">Historie</string>
+  <string name="management_video_recent_watch">Nedávné</string>
   <string name="match_brand_selection_des">Běžné značky: %1$s</string>
   <string name="match_data">Kontrola dat</string>
   <string name="match_fail_model_hint">Zadejte model dálkového ovládání</string>
@@ -88,8 +98,14 @@
   <string name="mi_rc">Xiaomi ovládání</string>
   <string name="mibox">MiBox</string>
   <string name="mitv">MiTV</string>
+  <string name="mitv_assistant_setting_version">Verze V%1$s</string>
   <string name="no_data">Žádná data</string>
   <string name="not_respond">Neodpovídá</string>
+  <string name="privacy_agree">OK</string>
+  <string name="privacy_content">Chystáte se využívat naše služby. Potvrzením souhlasíte s Podmínkami používání a soukromí.</string>
+  <string name="privacy_disagree">Nesouhlasím</string>
+  <string name="privacy_nohit">Znovu nezobrazovat</string>
+  <string name="privacy_title">Podmínky používání</string>
   <string name="projection_failed_for_disconnect">Nepřipojeno</string>
   <string name="rc">Dálkové ovládání</string>
   <string name="respond">Odpovídá</string>
@@ -131,6 +147,7 @@
   <string name="share_title_to_mitalk_ellipsis">MiTalk</string>
   <string name="share_title_to_sina_weibo">Weibo</string>
   <string name="sorry">Promiňte :(</string>
+  <string name="speech_init_failed">Nebyla nalezena aplikace iFlytek, chcete ji nainstalovat?</string>
   <string name="splash_add_device_des">Přidejte vaše domácí zařízení</string>
   <string name="splash_desc">Xiaomi telefon může nahradit vaše dálkové ovládání v domácnosti.</string>
   <string name="stb">STB</string>
@@ -156,21 +173,4 @@
   <string name="video_name_recommend">Doporučit</string>
   <string name="video_name_score">Hodnocení</string>
   <string name="video_play_count_label">Přehráno:</string>
-  <string name="management_video_recent_watch">Nedávné</string>
-  <string name="management_video_favor">Historie</string>
-  <string name="management_app_management">Správa aplikací</string>
-  <string name="management_settings">Nastavit</string>
-  <string name="connected">Připojeno</string>
-  <string name="privacy_title">Podmínky používání</string>
-  <string name="privacy_content">Chystáte se využívat naše služby. Potvrzením souhlasíte s Podmínkami používání a soukromí.</string>
-  <string name="privacy_nohit">Znovu nezobrazovat</string>
-  <string name="privacy_agree">OK</string>
-  <string name="privacy_disagree">Nesouhlasím</string>
-  <string name="mitv_assistant_setting_version">Verze V%1$s</string>
-  <string name="input_complete">Hotovo</string>
-  <string name="input_speech_button">Stiskněte a podržte</string>
-  <string name="app_user_used">Používáno %1$s lidmi</string>
-  <string name="app_open_intv">Otevřít v TV</string>
-  <string name="app_open_inbox">Otevřít v BOXE</string>
-  <string name="speech_init_failed">Nebyla nalezena aplikace iFlytek, chcete ji nainstalovat?</string>
 </resources>

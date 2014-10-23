@@ -84,6 +84,7 @@
   <string name="enable_encrypt_summery2">"Nové zálohy budou šifrovány. Musíte se přihlásit do svého účtu Xiaomi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
   <string name="enable_encrypt_title">Zapnout šifrování</string>
   <string name="enable_encrypt_xiaomi_account">Tato záloha byla vytvořena účtem %1$s. Odstraňte prosím současný účet a přihlaste se na %2$s pro obnovení Vašich dat.</string>
+  <string name="every_day">Každý den</string>
   <string name="exchange_account">Exchange účet</string>
   <string name="fail">Nedokončeno</string>
   <string name="findlost_contact">Obnovit kontakty</string>
@@ -106,6 +107,7 @@
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
   <string name="mms_title">Multimediální zprávy</string>
   <string name="multi_select_title">Vybrané položky: %1$s</string>
+  <string name="never">Nikdy</string>
   <string name="no_encrypt_password">Šifrování bez hesla</string>
   <string name="no_network">Připojení k síti není k dispozici\nOvěřte prosím připojení a zkuste to znovu</string>
   <string name="note_title">Poznámky</string>
@@ -188,6 +190,4 @@
   <string name="unknown_hint">Neznámý</string>
   <string name="wifi_title">Wi-Fi nastavení</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="never">Nikdy</string>
-  <string name="every_day">Každý den</string>
 </resources>

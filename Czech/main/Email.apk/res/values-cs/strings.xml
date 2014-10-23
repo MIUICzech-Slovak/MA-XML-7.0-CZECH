@@ -367,6 +367,7 @@
   <string name="failed">Fotografii nelze načíst</string>
   <string name="feedback">Odeslat názor</string>
   <string name="feedback_body">Informace o zpětné vazbě</string>
+  <string name="feedback_sent">Děkujeme za váš názor.</string>
   <string name="fetching_attachment">Načítání přílohy</string>
   <string name="file_deleted_success">Soubor vymazán!</string>
   <string name="file_not_found">Soubor nebyl na serveru nalezen!</string>
@@ -500,6 +501,7 @@ Kopie: %4$s
   <string name="message_invite_tentative">Možná</string>
   <string name="message_invite_title">Pozvánka v kalendáři</string>
   <string name="message_saved">Zpráva byla uložena jako koncept.</string>
+  <string name="message_type_name">Zpráva</string>
   <string name="message_view_attachment_background_load">Jedna či více příloh v přeposílané zprávě bude před odesláním stažena.</string>
   <string name="more_atts_total">Přílohy: %1$d</string>
   <string name="more_info_attachment">Informace</string>
@@ -516,6 +518,7 @@ Kopie: %4$s
   <string name="next_action">Další</string>
   <string name="no">Ne</string>
   <string name="no_application_found">Tuto přílohu nelze zobrazit v žádné dostupné aplikaci.</string>
+  <string name="no_contacts">Prázdné</string>
   <string name="no_conversations">Žádné zprávy</string>
   <string name="no_mails">Žádné zprávy</string>
   <string name="no_matched_attachment">Žádné přílohy nebyly nalezeny!</string>
@@ -733,6 +736,7 @@ přesahuje limit"</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="tryrefreshing">Zkuste obnovit...</string>
   <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci E-mail), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnout automatickou synchronizaci?</string>
@@ -775,8 +779,4 @@ Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="message_type_name">Zpráva</string>
-  <string name="tryrefreshing">Zkuste obnovit...</string>
-  <string name="feedback_sent">Děkujeme za váš názor.</string>
-  <string name="no_contacts">Prázdné</string>
 </resources>

@@ -64,6 +64,7 @@ se dotknete štítku telefonem"</string>
   <string name="email_to">Pro</string>
   <string name="empty_tag">Tento štítek je prázdný</string>
   <string name="enable_wifi">Wi-Fi</string>
+  <string name="erase_pon_pon_tile">Vymazat štítek</string>
   <string name="erase_success">Vymazáno</string>
   <string name="erasing">Mazání...</string>
   <string name="err_fail_to_erase">Vymazání štítku selhalo</string>
@@ -203,5 +204,4 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
-  <string name="erase_pon_pon_tile">Vymazat štítek</string>
 </resources>

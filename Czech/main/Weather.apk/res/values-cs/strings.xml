@@ -23,6 +23,7 @@
   <string name="activity_main_update_time_right_now">Nyní</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Získávání polohy...</string>
+  <string name="activity_weathermain_locationg_error">Zjištění polohy selhalo</string>
   <string name="add_city">Přidat město</string>
   <string name="app_label">Poskytovatel počasí</string>
   <string name="app_name">Počasí</string>
@@ -65,9 +66,8 @@
   <string name="view_indexes_title_visibility">Viditelnost (km)</string>
   <string name="view_indexes_title_wind">Vítr</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="view_sun_titile">Východ a západ Slunce</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="activity_weathermain_locationg_error">Zjištění polohy selhalo</string>
-  <string name="view_sun_titile">Východ a západ Slunce</string>
 </resources>

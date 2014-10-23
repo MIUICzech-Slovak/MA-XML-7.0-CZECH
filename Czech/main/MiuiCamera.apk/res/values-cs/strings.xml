@@ -14,6 +14,7 @@
   <string name="accessibility_more_ptions_closed">Více nastavení deaktivováno</string>
   <string name="accessibility_more_ptions_opened">Více nastavení povoleno</string>
   <string name="accessibility_open_more_ptions">Povolit více nastavení</string>
+  <string name="accessibility_panorama_review_cancel">Zrušit</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
   <string name="accessibility_show_setting_panel_button">Nastavení</string>
@@ -28,6 +29,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasměrujte svůj telefon dolů, 
   opusťte na chvíli náhled"</string>
+  <string name="burst_shoot_exit_button_text">Ukončit</string>
   <string name="camera_disabled">Fotoaparát byl deaktivován z bezpečnostních důvodů.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
@@ -36,6 +38,7 @@
   <string name="cancel">Zrušit</string>
   <string name="cannot_connect_camera_once">"Není možné připojit kameru, ukončete aplikaci"</string>
   <string name="cannot_connect_camera_twice">"Není možné připojit kameru, restartujte telefon"</string>
+  <string name="cannot_move_warning_message">Zpracovávání fotografie, nehýbejte se zařízením.</string>
   <string name="clear_effects">Vymazat efekty</string>
   <string name="close">Zavřít</string>
   <string name="cloud_album_details">Cloud album:</string>
@@ -44,6 +47,7 @@
   <string name="confirm_change_to_simple_mode_message">Přepnout na základní režim?</string>
   <string name="confirm_location_message">Fotoaparát umí ukládat Vaši polohu
 ve fotografii. Chcete polohu ukládat?</string>
+  <string name="confirm_location_title">Ukládání polohy</string>
   <string name="confirm_restore_message">Chcete obnovit tovární nastavení?</string>
   <string name="confirm_restore_title">Obnovit tovární nastavení</string>
   <string name="connect_wifi">Připojit k této Wi-Fi</string>
@@ -167,6 +171,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="no_thumbnail">Žádný náhled</string>
   <string name="not_enough_space">Vaše SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
+  <string name="object_track_enable_toast">Současným dotykem na oba kraje objektu, aktivujete jeho sledování.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientace</string>
   <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
@@ -186,6 +191,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_advanced_settings">Rozšířené</string>
   <string name="pref_audio_indicator_entry_off">Zvyk vyp.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk zap.</string>
+  <string name="pref_burst_shoot_title">Dávkové snímání</string>
   <string name="pref_camcorder_settings">Nastavení kamery</string>
   <string name="pref_camcorder_settings_category">Nastavení kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -196,6 +202,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_antibanding_title">Redukce pruhů na displeji</string>
   <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
   <string name="pref_camera_auto_capture_when_stable_title">Autom. zachytit v klidovém stavu</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuto</string>
   <string name="pref_camera_auto_focus_title_entry_on">Zapnuto</string>
   <string name="pref_camera_auto_opti_zoom_title">Autom. optický zoom, když je poměr větší jak 2</string>
@@ -259,6 +266,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_focusmode_entry_manual">Manuálně</string>
   <string name="pref_camera_focusmode_entry_normal">Normální</string>
   <string name="pref_camera_focusmode_title">Režim ostření</string>
+  <string name="pref_camera_front_fb_title">Vylepšit barvu pleti</string>
   <string name="pref_camera_hand_night_title">Noční režim</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
@@ -288,6 +296,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostřit</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové snímání</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Podržení spouště</string>
+  <string name="pref_camera_manual_mode_title">Manuální režim</string>
   <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
   <string name="pref_camera_multilevel_entry_high">Vysoké</string>
   <string name="pref_camera_multilevel_entry_higher">Vyšší</string>
@@ -373,6 +382,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_touchafaec_entry_off">Vypnuto</string>
   <string name="pref_camera_touchafaec_entry_on">Zapnuto</string>
   <string name="pref_camera_touchafaec_title">Ostření dotykem</string>
+  <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_video_duration_entry_10">10 minut</string>
   <string name="pref_camera_video_duration_entry_120">2 hodiny</string>
   <string name="pref_camera_video_duration_entry_30">30 minut</string>
@@ -399,12 +409,17 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_capture_settings">Nastavení fotoaparátu</string>
   <string name="pref_exposure_title">Expozice</string>
   <string name="pref_face_beauty_title">Tón pleti</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Vyp</string>
+  <string name="pref_front_mirror_entry_on">Zap</string>
   <string name="pref_front_mirror_title">Zrcadlit přední kameru</string>
   <string name="pref_grp_advanced_settings">Rozšířené Nastavení</string>
   <string name="pref_grp_capture_settings">Nastavení Záznamu</string>
   <string name="pref_grp_picture_settings">Nastavení Fotografie</string>
   <string name="pref_grp_restore_settings">Obnovit Nastavení</string>
   <string name="pref_manual_exposure_title">Expozice</string>
+  <string name="pref_priority_storage_title">Uložit na SD kartu</string>
+  <string name="pref_qc_focus_position_title">Ostření</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuto</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuto</string>
   <string name="pref_scan_qrcode_title">Skenovat QR kód</string>
@@ -486,10 +501,13 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="simple_mode_button_text_fast_video">Ukončiť zrychlené natáčení</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
+  <string name="simple_mode_button_text_manual">Ukončit</string>
+  <string name="simple_mode_button_text_manual_mode">Ukončit</string>
   <string name="simple_mode_button_text_opti_zoom">Ukončit</string>
   <string name="simple_mode_button_text_panorama">Ukončit</string>
   <string name="simple_mode_button_text_slow_video">Ukončit</string>
   <string name="simple_mode_button_text_ubi_focus">Ukončit</string>
+  <string name="simple_mode_button_text_ubifocus">Ukončit</string>
   <string name="simple_mode_title">Základní režim</string>
   <string name="slideshow">Prezentace</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
@@ -542,22 +560,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
-  <string name="pref_camera_front_fb_title">Vylepšit barvu pleti</string>
-  <string name="pref_priority_storage_title">Uložit na SD kartu</string>
-  <string name="cannot_move_warning_message">Zpracovávání fotografie, nehýbejte se zařízením.</string>
-  <string name="object_track_enable_toast">Současným dotykem na oba kraje objektu, aktivujete jeho sledování.</string>
-  <string name="pref_camera_ubifocus_title">Refocus</string>
-  <string name="simple_mode_button_text_ubifocus">Ukončit</string>
-  <string name="accessibility_panorama_review_cancel">Zrušit</string>
-  <string name="pref_camera_manual_mode_title">Manuální režim</string>
-  <string name="pref_qc_focus_position_title">Ostření</string>
-  <string name="simple_mode_button_text_manual">Ukončit</string>
-  <string name="simple_mode_button_text_manual_mode">Ukončit</string>
-  <string name="confirm_location_title">Ukládání polohy</string>
-  <string name="burst_shoot_exit_button_text">Ukončit</string>
-  <string name="pref_burst_shoot_title">Dávkové snímání</string>
-  <string name="pref_front_mirror_entry_auto">Auto</string>
-  <string name="pref_front_mirror_entry_off">Vyp</string>
-  <string name="pref_front_mirror_entry_on">Zap</string>
 </resources>

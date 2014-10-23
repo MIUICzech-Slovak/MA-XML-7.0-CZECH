@@ -149,6 +149,9 @@
   <string name="feedback_description_hint">Napište Váš názor (povinně v Angličtině)</string>
   <string name="feedback_submit">Odeslat</string>
   <string name="festival">Doporučené</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
+  <string name="festival_never_remind">Znovu se neptat</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítám...</string>
   <string name="fetion_prefix">[Otevřít]</string>
@@ -173,6 +176,7 @@
   <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
   <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
   <string name="hint_search_sms">%d SMS</string>
+  <string name="hms_add_image_progress_message">Spracovávání...</string>
   <string name="hms_first_use_tips">Pro přijímání zpráv služeb je nutné připojení k Wi-Fi.</string>
   <string name="importing_progress_private_message">Importování zpráv do soukromé schránky</string>
   <string name="in_sms">Zpráva</string>
@@ -188,6 +192,8 @@
   <string name="loading_mms">Načítání MMS...</string>
   <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="me">Já</string>
+  <string name="menu_add_black">Blokovat</string>
+  <string name="menu_add_contact">Kontakt</string>
   <string name="menu_call">Hovor</string>
   <string name="menu_compose_new">Napsat</string>
   <string name="menu_contact">Kontakt</string>
@@ -195,11 +201,15 @@
   <string name="menu_edit">Upravit</string>
   <string name="menu_forward">Předat dál</string>
   <string name="menu_lock">Zamknout</string>
+  <string name="menu_mark">Označit</string>
+  <string name="menu_more">Více</string>
+  <string name="menu_new_contact">Nový kontakt</string>
   <string name="menu_new_manual">Vložit číslo manuálně</string>
   <string name="menu_pick_from_contact">Vybrat z kontaktů</string>
   <string name="menu_preferences">Nastavení</string>
   <string name="menu_unlock">Odemknout</string>
   <string name="menu_view_contact">Zobrazit kontakt</string>
+  <string name="menu_yellowpage">Zobrazit %s</string>
   <string name="message_class_label">"Třída zprávy: "</string>
   <string name="message_details_title">Podrobnosti o zprávě</string>
   <string name="message_download_failed_title">Zpráva nebyla stažena</string>
@@ -258,6 +268,8 @@
   <string name="mx_int_warning_notice">Pro aktivací Cloud zpráv se odešle mezinárodní SMS zpráva, která bude zpoplatněná Vašim operátorem</string>
   <string name="mx_msg">Cloudová zpráva</string>
   <string name="mx_offline">Offline</string>
+  <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
+  <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
   <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
@@ -319,6 +331,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_title_allow_si_sl_push">Povolit WAP push</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
+  <string name="pref_title_festival_networking">Upozornění na připojení</string>
   <string name="pref_title_fwd_sender_info">Kdo přeposlal</string>
   <string name="pref_title_hide_festival">Skrýt záložku Doporučené</string>
   <string name="pref_title_manage_sim_messages">Správa zpráv na kartě SIM</string>
@@ -504,23 +517,10 @@ Pokus: %s."</string>
   <string name="user_agreement5">Tlačítkem OK souhlasíte s těmito podmínkami.</string>
   <string name="view">Zobrazit</string>
   <string name="view_bookmark">Zobrazit původní zprávu</string>
+  <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
-  <string name="festival_never_remind">Znovu se neptat</string>
-  <string name="pref_title_festival_networking">Upozornění na připojení</string>
-  <string name="menu_more">Více</string>
-  <string name="menu_yellowpage">Zobrazit %s</string>
-  <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
-  <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
-  <string name="menu_add_black">Blokovat</string>
-  <string name="menu_add_contact">Kontakt</string>
-  <string name="menu_mark">Označit</string>
-  <string name="menu_new_contact">Nový kontakt</string>
-  <string name="hms_add_image_progress_message">Spracovávání...</string>
-  <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
 </resources>

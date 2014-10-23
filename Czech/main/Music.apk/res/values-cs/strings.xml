@@ -13,6 +13,8 @@
   <string name="album_search_title">Album</string>
   <string name="all_tracks">Veškerá hudba</string>
   <string name="all_tracks_short">Vše</string>
+  <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
+  <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
   <string name="artist_search_title">Umělec</string>
   <string name="artist_view">Umělec</string>
   <string name="audio_picker_title">Zvolte skladbu</string>
@@ -31,6 +33,7 @@
   <string name="create_playlist">Vytvořit playlist</string>
   <string name="data_usage_warning">Upozornění využití dat!</string>
   <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
+  <string name="dialog_button_agree">Souhlasím</string>
   <string name="dialog_button_create_playlist">Vytvořit Playlist</string>
   <string name="dialog_button_editor_choice">Výběr</string>
   <string name="dialog_button_find_music">Objevte novou hudbu</string>
@@ -50,6 +53,8 @@
   <string name="download">Stáhnout</string>
   <string name="download_auto_after_favorite_summary">Automaticky stáhnout skladbu, kterou označíte jako oblíbenou</string>
   <string name="download_auto_after_favorite_title">Stáhnout oblíbené</string>
+  <string name="download_auto_after_preference_summary">Automatically download music to the local once saved</string>
+  <string name="download_auto_after_preference_title">Once saved then download</string>
   <string name="download_auto_cancel">Stahování oblíbených je vypnuto</string>
   <string name="download_auto_default_quality">Kvalita hudby</string>
   <string name="download_auto_message">Skladby, které označíte jako oblíbené, budou automaticky stáhnuty po připojení k Wi-Fi síti.</string>
@@ -114,6 +119,7 @@
   <string name="fragment_title_recommend">Doporučeno</string>
   <string name="function_error">Tato funkce je momentálně nedostupná</string>
   <string name="go_to_add_music">Přidat skladbu~</string>
+  <string name="headset_settings">Nastavení sluchátek</string>
   <string name="high_quality">Vysoká kvalita</string>
   <string name="higher_quality_music">Vysoká kvalita hudby</string>
   <string name="higher_quality_music_summary">Poslouchejte a stahujte hudbu vysoké kvality</string>
@@ -173,10 +179,16 @@
   <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
   <string name="playlist_deleted_message">Playlist vymazán</string>
   <string name="playlist_renamed_message">Playlist přejmenován</string>
+  <string name="please_download_first">Nejdříve stáhněte.</string>
   <string name="presonal_center">Nastavení účtu</string>
+  <string name="priority_storage">Ukládat na externí SD kartu</string>
+  <string name="priority_storage_summary">Automaticky stahovat na externí SD kartu</string>
   <string name="project_device">Telefon</string>
+  <string name="project_device_mobile">Mobilní zařízení</string>
   <string name="quit_warining">Přehrávač zastaví přehrávání za %d minut(y)</string>
+  <string name="recommend_fragment_title">Topic</string>
   <string name="retry">Zkusit znovu</string>
+  <string name="ringtone_not_support">Formát není podporován.</string>
   <string name="search_hint">Umělec, skladba, album</string>
   <string name="search_title">Hledat</string>
   <string name="search_title_album">Album</string>
@@ -185,7 +197,11 @@
   <string name="select_device">Vyberte zařízení</string>
   <string name="send_to">Odeslat přes</string>
   <string name="send_to_title">Odeslat (%1$s)</string>
+  <string name="set_as_ring">Nastavit jako zvonění</string>
+  <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
+  <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
   <string name="sleep_mode">Časovač</string>
+  <string name="sleep_mode_canceled">Režim spánku zrušen</string>
   <string name="sleep_mode_summary">Posuvníkem nastavte čas</string>
   <string name="sleep_mode_title">Zastavit přehrávání po uplynutí času</string>
   <string name="song_not_find">Síť je odpojena nebo se skladba nenachází na serveru.</string>
@@ -213,23 +229,7 @@
   <string name="ultra_high_quality">Nejvyšší kvalita</string>
   <string name="unknown_album_name">Neznámé album</string>
   <string name="unknown_artist_name">Neznámý umělec</string>
+  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
-  <string name="please_download_first">Nejdříve stáhněte.</string>
-  <string name="ringtone_not_support">Formát není podporován.</string>
-  <string name="set_as_ring">Nastavit jako zvonění</string>
-  <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
-  <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
-  <string name="sleep_mode_canceled">Režim spánku zrušen</string>
-  <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
-  <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
-  <string name="dialog_button_agree">Souhlasím</string>
-  <string name="download_auto_after_preference_summary">Automatically download music to the local once saved</string>
-  <string name="download_auto_after_preference_title">Once saved then download</string>
-  <string name="project_device_mobile">Mobilní zařízení</string>
-  <string name="recommend_fragment_title">Topic</string>
-  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
-  <string name="priority_storage">Ukládat na externí SD kartu</string>
-  <string name="priority_storage_summary">Automaticky stahovat na externí SD kartu</string>
-  <string name="headset_settings">Nastavení sluchátek</string>
 </resources>

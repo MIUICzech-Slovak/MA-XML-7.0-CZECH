@@ -3,7 +3,7 @@
 <resources>
   <string name="account_bind_prompt">"Migrování uživatelských dat. 
 Váš účet bude dočasně zablokovaný, 
-čekejte prosím..."</string> 
+čekejte prosím..."</string>
   <string name="add_task">Přidat úlohu</string>
   <string name="adding_upload_tasks">Přidávání souborů pro nahrání.</string>
   <string name="already_signin_description">Podepsat se můžete pouze jednou za den, zkuste to opět zítra.</string>
@@ -48,7 +48,9 @@ Váš účet bude dočasně zablokovaný,
   <string name="compress_title">Zabalit</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Upozornit na přístup k síti</string>
   <string name="copy_failed">Kopírování selhalo</string>
+  <string name="copy_file_to_kuaipan">Kopírovat na MiDrive</string>
   <string name="create_kuaipan_shortcut_pref">Vytvořit ikonu na ploše</string>
   <string name="create_new_folder_desctiption">Vytváření nové složky...</string>
   <string name="create_new_folder_failed">Nelze vytvořit složku</string>
@@ -78,6 +80,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
   <string name="downloading">Stahování...</string>
+  <string name="downloading_in_3g">Stahování přes 3G...</string>
   <string name="enable_sd_card">Povolit SD kartu</string>
   <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
   <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
@@ -88,6 +91,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="favorite_photo">Fotografie</string>
   <string name="favorite_ringtone">Vyzvánění</string>
   <string name="favorite_screen_cap">Screenshot MIUI</string>
+  <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
   <string name="file_info_canread">Čtení:</string>
   <string name="file_info_canwrite">Zápis:</string>
   <string name="file_info_ishidden">Skrytý:</string>
@@ -112,6 +116,8 @@ Váš účet bude dočasně zablokovaný,
   <string name="gbk_summary">Výchozí kódování pro Windows s tradiční čínštinou</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
+  <string name="image_download">Stáhnout</string>
+  <string name="image_share">Sdílet</string>
   <string name="instruction">Zadejte do adresního řádku prohlížeče v PC:</string>
   <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí FTP protokolu.</string>
   <string name="kilobyteShort">KB</string>
@@ -173,6 +179,8 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="name_illegal">Název souboru nesmí být prázdný</string>
   <string name="net_lose_connected">Síť není dostupná, nelze získat velikost</string>
   <string name="networkView_notConnected">Žádná síť k dispozici</string>
+  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k síti. Povolit?</string>
+  <string name="never_notify_network_connect">Znovu se neptat</string>
   <string name="new_folder_name">Nová složka</string>
   <string name="no">Ne</string>
   <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Vymažte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
@@ -189,7 +197,9 @@ Server je momentálně nedostupný, zkuste to znovu později
 2. Nahrát (aktualizovat soubor v Cloudu)"</string>
   <string name="open_changed_file_title">Soubor je změněný</string>
   <string name="open_file_failed">Otevírání selhalo</string>
+  <string name="operate_confirm_in_3g">Použít vaše mobilní připojení pro stáhnutí tohoto velkého souboru?</string>
   <string name="operating">Pracuji...</string>
+  <string name="operation_agree">Povolit</string>
   <string name="operation_cancel">Zrušit</string>
   <string name="operation_compress">Zabalit</string>
   <string name="operation_compressing">Komprimuji...</string>
@@ -220,6 +230,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="operation_rename_message">Vložte nové jméno</string>
   <string name="operation_resume">Obnovit</string>
   <string name="operation_resume_all">Obnovit vše</string>
+  <string name="operation_save">Uložit</string>
   <string name="operation_send">Odeslat</string>
   <string name="operation_show_sys">Zobrazit systémové soubory</string>
   <string name="operation_unfavorite">Odebrat z oblíbených</string>
@@ -263,10 +274,12 @@ Bylo přičteno dalších %1$s"</string>
   <string name="storage_usb">USB úložiště</string>
   <string name="storage_warning">SD karta není přístupná, nebo ji nelze přečíst.</string>
   <string name="sys_size_enable">" dostup."</string>
+  <string name="system_alert">Upozornění</string>
   <string name="tab_category">Kategorie</string>
   <string name="tab_expand">Rozbalit</string>
   <string name="tab_local">Lokální</string>
   <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_path">Úložiště</string>
   <string name="tab_phone">Telefon</string>
   <string name="tab_sys_size">Celkem</string>
   <string name="terabyteShort">TB</string>
@@ -298,6 +311,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="user_guide_kuaipan_lable">MiDrive pro vás</string>
   <string name="user_guide_other_version"/>
   <string name="user_guide_save_file">Ukládání vašich souborů na MiDrive.</string>
+  <string name="user_guide_summary">Stručný přehled</string>
   <string name="user_guide_upload_to_kuaipan"/>
   <string name="utf8_summary">Předvolené kódování FTP</string>
   <string name="version_text">Verze %1$s</string>
@@ -309,18 +323,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
-  <string name="connect_network_setting_des">Upozornit na přístup k síti</string>
-  <string name="copy_file_to_kuaipan">Kopírovat na MiDrive</string>
-  <string name="downloading_in_3g">Stahování přes 3G...</string>
-  <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
-  <string name="image_download">Stáhnout</string>
-  <string name="image_share">Sdílet</string>
-  <string name="network_connect_confirm_des">Používání MiDrive vyžaduje přístup k síti. Povolit?</string>
-  <string name="never_notify_network_connect">Znovu se neptat</string>
-  <string name="operate_confirm_in_3g">Použít vaše mobilní připojení pro stáhnutí tohoto velkého souboru?</string>
-  <string name="operation_agree">Povolit</string>
-  <string name="operation_save">Uložit</string>
-  <string name="system_alert">Upozornění</string>
-  <string name="tab_path">Úložiště</string>
-  <string name="user_guide_summary">Stručný přehled</string>
 </resources>

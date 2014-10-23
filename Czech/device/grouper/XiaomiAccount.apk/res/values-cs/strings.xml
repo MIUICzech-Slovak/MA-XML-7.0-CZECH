@@ -134,6 +134,7 @@
   <string name="int_phone_user_notice">Pokud se registrujete s číslem mimo Čínu, zadejte ho prosím v mezinárodním formátu +420xxxxxxxxx</string>
   <string name="internet_comm">Zprávy</string>
   <string name="internet_message">MiCloud zprávy</string>
+  <string name="loading_micloud_sync_data">Načítání...</string>
   <string name="login">Přihlásit se</string>
   <string name="login_failed">Přihlášení se nezdařilo</string>
   <string name="login_instead_reg">Přihlásit se za pomocí telefonního čísla</string>
@@ -314,5 +315,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="loading_micloud_sync_data">Načítání...</string>
 </resources>

@@ -15,6 +15,7 @@
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_edge">EDGE</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
+  <string name="accessibility_data_four_bars">Data čtyři čárky.</string>
   <string name="accessibility_data_one_bar">Data jedna čárka.</string>
   <string name="accessibility_data_signal_full">Data plný signál.</string>
   <string name="accessibility_data_three_bars">Data tři čárky.</string>
@@ -25,6 +26,7 @@
   <string name="accessibility_no_phone">Žádný signál.</string>
   <string name="accessibility_no_wifi">Žádné Wi-Fi připojení</string>
   <string name="accessibility_no_wimax">Žádné WiMAX připojení</string>
+  <string name="accessibility_phone_four_bars">Signál čtyři čárky.</string>
   <string name="accessibility_phone_one_bar">Signál jedna čárka.</string>
   <string name="accessibility_phone_signal_full">Signál plný.</string>
   <string name="accessibility_phone_three_bars">Signál tři čárky.</string>
@@ -103,6 +105,7 @@
   <string name="headset_custom">Přizpůsobit</string>
   <string name="headset_info">Upravit funkci tlačítek</string>
   <string name="headset_settings">Sluchátka připojena</string>
+  <string name="hint_for_long_press_app_switch_key">Dlouhým podržením zobrazíte Menu</string>
   <string name="invalid_charger">"Nabíjení z USB není podporováno. Použijte síťovou nabíječku."</string>
   <string name="label_view">Zobrazit</string>
   <string name="lockscreen_carrier_default">Bez signálu</string>
@@ -231,7 +234,4 @@
   <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
   <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
   <string name="user_guide_for_toggle_list">Upravit přepínače</string>
-  <string name="accessibility_data_four_bars">Data čtyři čárky.</string>
-  <string name="accessibility_phone_four_bars">Signál čtyři čárky.</string>
-  <string name="hint_for_long_press_app_switch_key">Dlouhým podržením zobrazíte Menu</string>
 </resources>
