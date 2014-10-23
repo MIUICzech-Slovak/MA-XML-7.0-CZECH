@@ -245,4 +245,6 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="search_taobao_text">TaoBao</string>
   <string name="search_iciba_text">Iciba</string>
   <string name="search_select_title">Hledat text</string>
+  <string name="setting_proximity_desc">Zabránit náhodnému použití MiKey v kapse.</string>
+  <string name="setting_proximity_text">Použít senzor přiblížení</string>
 </resources>
