@@ -312,4 +312,16 @@
   <string name="vp_support_by">Podporované %1$s</string>
   <string name="vp_unknown_source">Neznámý zdroj</string>
   <string name="ad_countdown">Reklama: %ss</string>
+  <string name="vp_datastream_alert_hint">Upozornění můžete deaktivovat v Nastavení - Systémové aplikace - Video</string>
+  <string name="vp_datastream_alert_play">Stahování videa na datovém připojení může navýšit vaše měsíční poplatky</string>
+  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
+  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
+  <string name="priority_storage">Ukládat na externí SD kartu</string>
+  <string name="priority_storage_summary">Automaticky ukládat na externí SD kartu</string>
+  <string name="declaration_allow">Souhlasím</string>
+  <string name="datastream_alert_download">Stahování videa na datovém připojení může navýšit vaše měsíční poplatky</string>
+  <string name="datastream_alert_hint">Upozornění můžete deaktivovat v Nastavení - Systémové aplikace - Video</string>
+  <string name="datastream_alert_negative_button">Zrušit</string>
+  <string name="datastream_alert_positive_button">Pokračovat</string>
+  <string name="datastream_alert_title">Spotřeba dat</string>
 </resources>
