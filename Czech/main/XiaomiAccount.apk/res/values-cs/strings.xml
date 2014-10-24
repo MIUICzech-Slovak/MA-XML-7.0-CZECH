@@ -319,4 +319,6 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
+  <string name="email_or_id_hint_text">Email nebo Xiaomi ID</string>
+  <string name="login_with_email_or_id">Přihlásit se s jiným účtem</string>
 </resources>

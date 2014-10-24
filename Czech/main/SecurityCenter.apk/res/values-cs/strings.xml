@@ -614,4 +614,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="legal_workday_invalidate">Platnost dat vypršela (Zvonit bude Po-Pá)</string>
+  <string name="legal_workday_invalidate_message">(Platnost dat vypršela, je nutné je aktualizovat)</string>
+  <string name="legal_workday_message">(Přeskočit svátky)</string>  
 </resources>
