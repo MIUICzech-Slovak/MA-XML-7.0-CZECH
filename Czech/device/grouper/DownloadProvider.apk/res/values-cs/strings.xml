@@ -10,12 +10,12 @@
   <string name="dialog_insufficient_space_on_external">Není dostatek místa na externím úložišti</string>
   <string name="download_percent">%d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
-  <string name="notification_download_complete">Stahování dokončeno.</string>
-  <string name="notification_download_failed">Stahování bylo neúspěšné.</string>
+  <string name="notification_download_complete">Stahování dokončeno</string>
+  <string name="notification_download_failed">Stahování bylo neúspěšné</string>
   <string name="notification_filename_extras">" a ještě %d"</string>
   <string name="notification_filename_separator">", "</string>
-  <string name="notification_need_wifi_for_size">Vzhledem k velikosti stahovaného souboru je vyžadováno připojení Wi-Fi.</string>
-  <string name="notification_paused_in_background">Pozastaveno na pozadí.</string>
+  <string name="notification_need_wifi_for_size">Čekání na Wi-Fi připojení</string>
+  <string name="notification_paused_in_background">Pozastaveno na pozadí</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikaci stahovat soubory do mezipaměti stahování, kterou nelze automaticky vymazat, pokud správce stahování potřebuje více místa.</string>
   <string name="permdesc_downloadCompletedIntent">Umožňuje aplikaci odesílat oznámení o dokončení stahování. Škodlivé aplikace mohou pomocí těchto oprávnění zmást jiné aplikace, které stahují soubory.</string>
@@ -25,9 +25,9 @@
   <string name="permdesc_seeAllExternal">Umožňuje aplikaci zobrazit všechny soubory stažené na kartu SD bez ohledu na aplikaci, pomocí které byly staženy.</string>
   <string name="permlab_accessAllDownloads">Přístup ke všem systémovým stahováním</string>
   <string name="permlab_downloadCacheNonPurgeable">Rezervovat místo v mezipaměti stahování</string>
-  <string name="permlab_downloadCompletedIntent">Odeslat oznámení o stahování.</string>
-  <string name="permlab_downloadManager">Získat přístup ke správci stahování.</string>
-  <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
+  <string name="permlab_downloadCompletedIntent">Odeslat oznámení o stahování</string>
+  <string name="permlab_downloadManager">Získat přístup ke správci stahování</string>
+  <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování</string>
   <string name="permlab_downloadWithoutNotification">stahovat soubory bez upozornění</string>
   <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
   <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：

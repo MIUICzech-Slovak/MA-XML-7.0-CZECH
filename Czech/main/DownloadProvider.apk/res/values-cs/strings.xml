@@ -16,10 +16,10 @@
   <string name="download_running">Probíhá</string>
   <string name="download_running_percent">Probíhá, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
-  <string name="notification_download_complete">Stahování dokončeno.</string>
-  <string name="notification_download_failed">Stahování bylo neúspěšné.</string>
-  <string name="notification_need_wifi_for_size">Vzhledem k velikosti stahovaného souboru je vyžadováno připojení Wi-Fi.</string>
-  <string name="notification_paused_in_background">Pozastaveno na pozadí.</string>
+  <string name="notification_download_complete">Stahování dokončeno</string>
+  <string name="notification_download_failed">Stahování bylo neúspěšné</string>
+  <string name="notification_need_wifi_for_size">Čekání na Wi-Fi připojení</string>
+  <string name="notification_paused_in_background">Pozastaveno na pozadí</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikaci stahovat soubory do mezipaměti stahování, kterou nelze automaticky vymazat, pokud správce stahování potřebuje více místa.</string>
   <string name="permdesc_downloadCompletedIntent">Umožňuje aplikaci odesílat oznámení o dokončení stahování. Škodlivé aplikace mohou pomocí těchto oprávnění zmást jiné aplikace, které stahují soubory.</string>
@@ -34,12 +34,12 @@
   <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
   <string name="permlab_downloadWithoutNotification">stahovat soubory bez upozornění</string>
   <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
-  <string name="root_downloads">Stáhnuto</string>
+  <string name="root_downloads">Staženo</string>
   <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：
 
 %s (%s)
 
-Stáhnutí tohoto souboru může výrazně zvýšit poplatky za mobilní internet"</string>
+Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet"</string>
   <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
   <string name="wifi_required_body" formatted="false">"K dokončení tohoto stahování o velikosti %s je třeba připojení Wi-Fi.
     
