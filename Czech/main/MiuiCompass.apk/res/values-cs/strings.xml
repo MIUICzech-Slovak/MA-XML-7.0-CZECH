@@ -38,4 +38,9 @@
   <string name="mobiledata_alert_dialog_title">Upozornění</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
+  <string name="using_camera_confirm_cancel">Ukončit</string>
+  <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
+  <string name="using_camera_confirm_ok">OK</string>
+  <string name="using_camera_confirm_title">Podmínky používání</string>
 </resources>

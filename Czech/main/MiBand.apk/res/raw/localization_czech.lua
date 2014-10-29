@@ -177,7 +177,7 @@ localization_Czech_table = {
     hour_minute_format='%dh %dm',
     hour_format='%d h',
 
-    welcome_use="Vítejte, já jsem váš MiBand.",
+    welcome_use="Vítejte :)",
     last_week_walked_format='Minulý týden jste ušli %d kroků',
     last_week_walked_info_format='Ušli jste %d km a spálili %d kcal',
     last_month_walked_format='Minulý měsíc jste ušli %d kroků',
@@ -207,6 +207,12 @@ localization_Czech_table = {
     activie_run_format_1="Uběhli jste %s. Jen tak dál!",
     activie_run_format_2="Uběhli jste %s, Neskutečné!",
     activie_run_consumed="Spálili jste %d kcal. %s",
+    continue_with_skips_title="Včera nebyl dosažen váš cíl. Celkem lenivý den ;)",
+    personal_best_with_skips_format="%d day streak! You have %d Lazy Days left ;)",
+    continue_used_n_skips_format="You've hit your goal for %d days in a row! You still have %d Lazy Days ;)",
+    continue_used_0_skips_format="You've hit your goal for %d days in a row! You have no Lazy Days left.",
+    personal_best_on_skip_day_title="%d day streak! You've earned a Lazy Day!",
+    personal_best_on_skip_day_info="After every 7-day streak you earn a Lazy Day. They will cover up missed goals automatically.",
 
     get_distance_format="celkem %dm",
     activity_walk_format="%s Chůze %d kroků %s",

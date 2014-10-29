@@ -851,4 +851,5 @@ Může to trvat i 5 min."</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 podporuje pouze GSM sítě. Preferovaný režim sítě byl změněn na 2G.</string>
 </resources>

@@ -80,7 +80,7 @@
   <string name="fourgrid_hint_text">Děkujeme za používání naší verze MIUI. Podělte se s námí o váš názor na tuto verzi MIUI.</string>
   <string name="fourgrid_no_notificaiont">Nezobrazovat v notif. liště</string>
   <string name="fourgrid_notificaiont">Zobrazit v notif. liště</string>
-  <string name="get_auto">Automatický režim</string>
+  <string name="get_auto">Použít 3G a Wi-Fi</string>
   <string name="get_current">Převzít nejnovější</string>
   <string name="get_update_error">Nelze získat informace o aktualizaci</string>
   <string name="go_on_download">Pokračovat</string>
@@ -249,4 +249,11 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="notification_load_body_alpha">Přihlásit se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
+  <string name="notification_load_body_dev">Přihlásit se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
+  <string name="notification_load_title_alpha">Přihlásit se do Xiaomi účtu</string>
+  <string name="notification_load_title_dev">Přihlásit se do Xiaomi účtu</string>
+  <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
+  <string name="updater_nolog">Seznam změn není dostupný</string>
+  <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
 </resources>
