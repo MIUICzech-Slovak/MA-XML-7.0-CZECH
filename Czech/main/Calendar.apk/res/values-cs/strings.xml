@@ -39,14 +39,14 @@
   <string name="app_label">Kalendář</string>
   <string name="attendees_label">Hosté</string>
   <string name="birthday_calendar_display_name">Připomenutí narozenin</string>
-  <string name="birthday_event_description">"Dnes má %1$s narozeniny!"</string>
+  <string name="birthday_event_description">Dnes má %4$s %1$s!</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">Zbývají 3 dny do narozenin (%3$s)</string>
+  <string name="birthday_notification_text_three_days_later">Za 3 dny má %4$s (%3$s)!</string>
   <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
-  <string name="birthday_notification_title_three_days_later">%1$s bude mít narozeniny</string>
-  <string name="birthday_notification_title_today">%1$s má narozeniny</string>
+  <string name="birthday_notification_title_three_days_later">%1$s bude mít %2$s</string>
+  <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
@@ -277,4 +277,8 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="anniversary_metric"/>
+  <string name="anniversary_term">výročí</string>
+  <string name="birthday_metric"/>
+  <string name="birthday_term">narozeniny</string>
 </resources>
