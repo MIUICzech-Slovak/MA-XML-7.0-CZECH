@@ -1044,4 +1044,5 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Neznámá chyba</string>
   <string name="yellowpage_navigation_search_select_city">Zvolte město</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-</resources>
+  <string name="share_over_limit">Nad limit, nelze sdílet</string>
+  </resources>
