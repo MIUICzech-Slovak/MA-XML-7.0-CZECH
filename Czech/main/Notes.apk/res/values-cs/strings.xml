@@ -100,4 +100,7 @@
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
+  <string name="sns_choose_quality_low">Nízká</string>
+  <string name="sns_choose_quality_title">Zvolte kvalitu obrázků</string>
 </resources>
