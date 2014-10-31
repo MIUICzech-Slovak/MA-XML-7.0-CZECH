@@ -221,4 +221,7 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení.
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="buy_space_expire">Zakoupená kapacita je platná do %s</string>
+  <string name="buy_space_expire_concat">%1$s do %2$s</string>
+  <string name="loading_hint">Načítání...</string>
 </resources>
