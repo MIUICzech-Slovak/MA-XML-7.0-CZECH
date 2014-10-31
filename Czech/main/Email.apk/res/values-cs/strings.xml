@@ -371,7 +371,7 @@
   <string name="fetching_attachment">Načítání přílohy</string>
   <string name="file_deleted_success">Soubor vymazán!</string>
   <string name="file_not_found">Soubor nebyl na serveru nalezen!</string>
-  <string name="file_not_found_reDownload">Soubor nenalezen, zkuste to znovu!</string>
+  <string name="file_not_found_redownload">Soubor nenalezen, zkuste to znovu!</string>
   <string name="file_rar_not_support">Šifrované .rar soubory nejsou podporovány!</string>
   <string name="file_size">Velikost</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
@@ -788,4 +788,15 @@ Velikost aplikace: %2$s"</string>
   <string name="prefetched_got_it">OK</string>
   <string name="remote_search">Všechny zprávy na serveru</string>
   <string name="remote_search_result">Nalezených zpráv na serveru: %s</string>
+  <string name="att_file_not_exists">Soubor %s nebyl nalezen!</string>
+  <string name="attachment_canceling">Probíhá rušení, čekejte prosím!</string>
+  <string name="attachment_decoding">Příloha je stažena a probíhá její kontrola. Čekejte prosím...</string>
+  <string name="attachment_not_exists">Příloha není dostupná!</string>
+  <string name="merged_mailbox_compose_select_account">Zvolte účet</string>
+  <string name="outbox_alert_duplicate_click">Čekejte, probíhá synchronizace</string>
+  <string name="outbox_alert_edit_resend">Upravit a odeslat</string>
+  <string name="outbox_alert_failed_edit_resend">Odesílání selhalo, upravte a odešlete znovu</string>
+  <string name="outbox_alert_select_operation">Vyberte akci</string>
+  <string name="recipient_null_dialog_title">Upozornění</string>
+  <string name="unread_from_someone">Od [%s]</string>
 </resources>
