@@ -757,8 +757,8 @@ Synchronizujte je nyní."</string>
   <string name="profile_display_name">Nastavit můj profil</string>
   <string name="profile_name">Můj profil</string>
   <string name="profile_name_photo">Já</string>
-  <string name="qr_card_card">Můj QR kód</string>
-  <string name="qrcode_card_title">QR kód vizitka</string>
+  <string name="qr_card_card">QR kód kontaktu</string>
+  <string name="qrcode_card_title">QR kód kontaktu</string>
   <string name="quickcontact_missing_app">Aplikace potřebná na tuto akci nebyla nalezena</string>
   <string name="quit_dialog_confirm_title">Chcete ukončit slučování kontaktů?</string>
   <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informace z několika účtů. Informace z účtu jen ke čtení budou v seznamech kontaktů skryté, ale nebudou vymazané.</string>
@@ -955,7 +955,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
   <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
   <string name="scan_qrcode_card_hint1">Načtěte QR kód</string>
-  <string name="scan_qrcode_card_hint2">Přidejte si mne do svých kontaktů</string>
+  <string name="scan_qrcode_card_hint2">pro uložení kontaktů</string>
   <string name="scanning">Kontrola...</string>
   <string name="scanning_sdcard_failed_message">"Vyhledávání na kartě SD se nepodařilo. (Důvod: \"%s\")</string>
   <string name="scanning_sdcard_failed_title">Vyhledávání na kartě SD se nepodařilo</string>
