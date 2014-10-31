@@ -92,7 +92,7 @@
   <string name="screen_button_notification_text">"Stiskněte 'Domů'+'Zapnutí' pro aktivaci"</string>
   <string name="screen_button_notification_title">Tlačítka pod displejem jsou deaktivované</string>
   <string name="screen_on_proximity_sensor_hint">"Vynucené ukončení: Stiskněte 'Zpět'+'Hlasitost nahoru'"</string>
-  <string name="screen_on_proximity_sensor_summary">"Funkce zařízení jsou nedostupné"</string>
+  <string name="screen_on_proximity_sensor_summary">Odkryjte senzor přiblížení!</string>
   <string name="screen_on_proximity_sensor_title">Odkryjte senzor přiblížení!</string>
   <string name="select">Vybrat</string>
   <string name="select_all">Vše</string>
