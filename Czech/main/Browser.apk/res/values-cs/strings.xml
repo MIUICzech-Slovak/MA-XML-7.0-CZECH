@@ -730,4 +730,6 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="enter_developer_mode">Vývojářský režim</string>
   <string name="webapp_bottom_bar_addtodesk">Přidat na plochu</string>
   <string name="webapp_splashview_loading">Načítání...</string>
+  <string name="action_menu_text_snapshot">Uložit stránku</string>
+  <string name="empty_snapshot_hint">Prázdné</string>
 </resources>
