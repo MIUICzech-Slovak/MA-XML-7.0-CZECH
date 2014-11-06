@@ -626,10 +626,10 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="examination_score_100_with_recommend">Může být optimalizováno: %d</string>
   <string name="examination_score_80_100_with_recommend">Může být optimalizováno: %d</string>
   <string name="hints_scanning_text">Kontrola...</string>
-  <string name="hints_storage_free_size">Volná paměť</string>
+  <string name="hints_storage_free_size">%s dostupné</string>
   <string name="manual_handle_title">Optimalizovat manuálně</string>
   <string name="manual_item_white_list_summary">Spravovat výjimky manuálně</string>
-  <string name="manual_item_white_list_title">Některé apl. mohou být optimalizovány</string>
+  <string name="manual_item_white_list_title">Výjimky</string>
   <string name="manual_white_list_header">Výjimky: %d</string>
   <string name="scanning_bar_cache_title">Kontrola odpadu...</string>
   <string name="scanning_bar_memory_title">Kontrola cache...</string>
@@ -647,10 +647,10 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_garbage_lib">Pro lepší ochranu proti spyware, adware, a ostatními škodlivými aplikacemi povolte autom. aktualizaci Čističe.</string>
   <string name="summary_miui_update">Dostupná aktualizace pro %s.</string>
   <string name="summary_permission_root">V případě povoleného ROOT jsou vaše aplikace ve větším nebezpečí.</string>
-  <string name="summary_power_optimizer">Pro zlepšení výdrže baterie omezí "Úspora baterie" výkon, když je slabá baterie.</string>
+  <string name="summary_power_optimizer">Úspora baterie omezí výkon, když je slabá baterie.</string>
   <string name="summary_saving_switch">Úspora mobilních dat může snížit objem přenesených dat aplikacemi.</string>
   <string name="summary_show_notification">Zobrazit ovládání pro Optimalizaci v notif. roletce.</string>
-  <string name="summary_telecom_operator">Objem naměřených dat se může lišit od objemu naměřených dat vaším operátorem.</string>
+  <string name="summary_telecom_operator">Zkontrolujte objem přenesených dat naměřený vašim operátorem.</string>
   <string name="summary_virus_cloudscan">Odeslat a porovnat neznámé názvy souborů s online databází</string>
   <string name="title_app_update">Dostupné aktualizace</string>
   <string name="title_cleaner_cloudscan">Použít online databázi Čističe</string>

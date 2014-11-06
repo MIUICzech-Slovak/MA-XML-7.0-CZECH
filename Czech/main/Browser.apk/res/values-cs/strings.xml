@@ -732,4 +732,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webapp_splashview_loading">Načítání...</string>
   <string name="action_menu_text_snapshot">Uložit stránku</string>
   <string name="empty_snapshot_hint">Prázdné</string>
+  <string name="tab_hotpage">Trendy</string>
 </resources>

@@ -801,7 +801,7 @@ Může to trvat i 5 min."</string>
   <string name="telocation_number_type_mob">Mobilní telefon</string>
   <string name="telocation_number_type_tel">Pevná linka</string>
   <string name="telocation_setting">Nastavení lokality</string>
-  <string name="telocation_show_settings">Nastavení displeje</string>
+  <string name="telocation_show_settings">Nastavení zobrazení</string>
   <string name="third_party_account_summary">Tento účet je právě používán aplikací %s</string>
   <string name="throttle_current_usage">Data využitá v aktuálním období</string>
   <string name="throttle_help">Další informace</string>
