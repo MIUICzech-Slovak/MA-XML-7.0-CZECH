@@ -646,7 +646,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_flow_verify">Vaše spotřeba dat nebyla synchronizována s operátorem %d dní. Objem naměřených dat se může lišit od objemu naměřených dat vaším operátorem.</string>
   <string name="summary_garbage_lib">Pro lepší ochranu proti spyware, adware, a ostatními škodlivými aplikacemi povolte autom. aktualizaci Čističe.</string>
   <string name="summary_miui_update">Dostupná aktualizace pro %s.</string>
-  <string name="summary_permission_root">V případě povoleného ROOT jsou vaše aplikace v nebezpečí.</string>
+  <string name="summary_permission_root">V případě povoleného ROOT jsou vaše aplikace ve větším nebezpečí.</string>
   <string name="summary_power_optimizer">Pro zlepšení výdrže baterie omezí "Úspora baterie" výkon, když je slabá baterie.</string>
   <string name="summary_saving_switch">Úspora mobilních dat může snížit objem přenesených dat aplikacemi.</string>
   <string name="summary_show_notification">Zobrazit ovládání pro Optimalizaci v notif. roletce.</string>
@@ -659,7 +659,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="title_data_flow">Nastavit upozornění na spotřebu dat</string>
   <string name="title_flow_notification">Info o spotřebě dat je skryté</string>
   <string name="title_flow_purchase">Čas pro navýšení!</string>
-  <string name="title_flow_verify">Získat info o spotřebě dat od operátora</string>
+  <string name="title_flow_verify">Info o spotřebě dat od operátora</string>
   <string name="title_garbage_lib">Automatická aktualizace je vypnuta</string>
   <string name="title_miui_update">Dostupná aktualizace</string>
   <string name="title_permission_root">Upozornění na ROOT práva</string>
