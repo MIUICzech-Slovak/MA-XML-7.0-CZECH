@@ -164,7 +164,7 @@
   <string name="HIPS_Perm_SMS_Desc">Přístup k SMS zprávám</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s aplikace mají povolení pro přístup k SMS zprávám</string>
   <string name="HIPS_Perm_SendMMS">Odeslat MMS</string>
-  <string name="HIPS_Perm_SendMMS_Desc">Odeslat MMS</string>
+  <string name="HIPS_Perm_SendMMS_Desc">Odeslat MMS přímo</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s může odeslat MMS</string>
   <string name="HIPS_Perm_SendSMS">Poslat SMS</string>
   <string name="HIPS_Perm_SendSMS_Content">Obsah:</string>

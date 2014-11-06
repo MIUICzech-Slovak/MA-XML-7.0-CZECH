@@ -174,7 +174,7 @@
   <string name="task_progress">Průběh</string>
   <string name="task_restore_cancel_dialog">Obnovení ještě nebylo dokončeno!\nPřerušení může vést k poškození dat!</string>
   <string name="task_restore_cancel_progress">Zastavuji...</string>
-  <string name="task_restore_finished_local">Obnovení dokončeno</string>
+  <string name="task_restore_finished_local">"Obnovení dokončeno "</string>
   <string name="task_restore_none">Obnovení není třeba</string>
   <string name="task_running_backup_dialog">Záloha probíhá na pozadí, stiskněte OK pro její zobrazení.</string>
   <string name="task_running_backup_hint">Záloha probíhá na pozadí, zkuste to později!</string>
