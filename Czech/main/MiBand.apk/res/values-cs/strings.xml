@@ -463,16 +463,16 @@ Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string
   <string name="share_sleep_title_average">Průměrný spánek</string>
   <string name="share_sleep_title_daily">Spánek</string>
   <string name="share_step_description">"Prochozené %1$s, spálené kalorie %2$s kcal "</string>
-  <string name="share_step_description_monthly">"%1$s%2$s
+  <string name="share_step_description_monthly">"%1$s %2$s
  spáleno %3$s kcal, ušetřeno %4$s litrů paliva.
 Nejvyšší rekord byl %6$s kroků, dne %5$s."</string>
   <string name="share_step_description_monthly_run">"%1$s, uběhnuto %2$s
  %3$s, a ušetřili jste %4$s litrů paliva.
 Nejvyšší rekord byl %6$s kroků, dne %5$s."</string>
   <string name="share_step_description_run">"Prochozeno %1$s, Uběhnuto %2$s
-Spáleno %3$scal.
+Spáleno %3$s kcal.
 "</string>
-  <string name="share_step_description_weekly">"%1$s%2$s
+  <string name="share_step_description_weekly">"%1$s %2$s
 Spáleno %3$s kcal.
 Nejvyšší denní rekord byl %5$s, dne %4$s"</string>
   <string name="share_step_description_weekly_run">"Celkem %1$s, uběhnuto %2$s.%3$s
