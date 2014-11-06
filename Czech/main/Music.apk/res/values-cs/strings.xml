@@ -234,4 +234,16 @@
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="my_music_empty_goto_online">Váš seznam skladeb je prázdný.</string>
   <string name="no_local_source_find">Lokální soubory nalezeny, odesílání selhalo!</string>
+  <string name="music_filter">Filtrovat audio soubory</string>
+  <string name="filter_by_duration">Filtrovat podle délky</string>
+  <string name="filter_by_duration_format">%2$dmin%5$2ds</string>
+  <string name="filter_by_duration_max">5 min</string>
+  <string name="filter_by_duration_min">0 s</string>
+  <string name="filter_by_duration_prefix">"Minimální délka: "</string>
+  <string name="filter_by_duration_summary">Nezobrazovat krátké audio soubory</string>
+  <string name="filter_by_size">Filtrovat podle velikosti</string>
+  <string name="filter_by_size_max">2MB</string>
+  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_prefix">"Minimální velikost: "</string>
+  <string name="filter_by_size_summary">Nezobrazovat malé audio soubory</string>
 </resources>

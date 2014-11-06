@@ -12,4 +12,8 @@
         <item quantity="other">"%dmin "</item>
         <item quantity="one">"%dmin "</item>
     </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Dostupné aktualizace pro %d apl.</item>
+        <item quantity="one">Dostupná aktualizace pro %d apl.</item>
+    </plurals>
 </resources>
