@@ -799,4 +799,21 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_select_operation">Vyberte akci</string>
   <string name="recipient_null_dialog_title">Upozornění</string>
   <string name="unread_from_someone">Od [%s]</string>
+  <string name="attachment_download_all">Stáhnout vše</string>
+  <string name="click_download_all_content">[ Dotykem načtete zprávu ]</string>
+  <string name="flow_saved_dlg_do_not_show">Znovu nezobrazovat</string>
+  <string name="flow_saved_dlg_i_know">OK</string>
+  <string name="flow_saved_dlg_message">Nové zprávy: %1$d. Ušetřeno %2$s dat.</string>
+  <string name="flow_saved_dlg_title">Snížená spotřeba dat</string>
+  <string name="flow_saved_preference_total">Uloženo %1$s.</string>
+  <string name="hide_atts_remaining">Skrýt přílohy: %1$d</string>
+  <string name="mail_header_downloading_message_body">Stahování...</string>
+  <string name="mail_header_message_body_auto_download_complete">Stáhnout obsah zprávy jen na Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">Obsah zprávy bude stažen jen na Wi-Fi síti.</string>
+  <string name="mail_header_message_body_download_failed">Spojení vypršelo</string>
+  <string name="mail_header_network_not_available">Chybí připojení k internetu</string>
+  <string name="message_body_loading">[ Načítání... ]</string>
+  <string name="more_atts_remaining">Zbývá: %1$d</string>
+  <string name="preference_head_load_description">Stáhnout jen hlavičky zpráv přes mobilní data.</string>
+  <string name="preference_head_load_title">Snížit spotřebu dat</string>
 </resources>

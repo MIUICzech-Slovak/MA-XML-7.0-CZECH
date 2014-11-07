@@ -666,7 +666,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="title_power_optimizer">Úspora baterie je vypnuta</string>
   <string name="title_saving_switch">Úspora dat je vypnuta</string>
   <string name="title_show_notification">Ovládání v notif. roletce je vypnuto</string>
-  <string name="title_telecom_operator">Získat info o spotřebě dat od operátora</string>
+  <string name="title_telecom_operator">Info o spotřebě dat od operátora</string>
   <string name="title_virus_cloudscan">Použít online virovou databázi</string>
   <string name="toast_cleaner_cloudscan">Čistič využije online databázi</string>
   <string name="toast_flow_notification">Upozornění na spotřebu dat je povoleno</string>

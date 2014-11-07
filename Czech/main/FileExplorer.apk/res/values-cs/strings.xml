@@ -323,4 +323,5 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="folder_name_illegal">Nesprávný název složky</string>
 </resources>

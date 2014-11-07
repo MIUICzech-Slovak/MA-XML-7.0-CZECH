@@ -2790,4 +2790,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="need_reboot_now">Pro dokončení je nutné restartovat zařízení!</string>
+  <string name="music_HiFi_title">Hi-Fi audio</string>
+  <string name="whetstone_level_reboot">Toto nastavení bude použito až po restartování zařízení</string>
+  <string name="whetstone_level_reboot_OK">Restart</string>
+  <string name="whetstone_level_title">Optimalizace RAM</string>
 </resources>
