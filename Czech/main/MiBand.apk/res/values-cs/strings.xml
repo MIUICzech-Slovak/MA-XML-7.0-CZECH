@@ -231,7 +231,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="instruction_title">Používání MiBand</string>
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
-  <string name="km">km</string>
+  <string name="km">" km"</string>
   <string name="lab_factory_cheat_toast">Nepodvádějte~</string>
   <string name="lab_factory_disconnected_reminder">Upozornění na připojení</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Před změnou nastavení, připojte MiBand</string>

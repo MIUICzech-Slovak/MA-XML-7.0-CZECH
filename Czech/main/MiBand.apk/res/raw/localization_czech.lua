@@ -63,7 +63,7 @@ localization_Czech_table = {
 	{str="≈ Vařený kapr (100g)", calories=102}, 
 	{str="≈ Ovocný salát (100g)", calories=103}, 
 	{str="≈ Filet krocana (100g)", calories=104}, 
-	{str="≈ Vepřový jeseter (100g)", calories=105}, 
+	{str="≈ Uzený jeseter (100g)", calories=105}, 
 	{str="≈ Rýže (100g)", calories=113}, 
 	{str="≈ Zeppelins (100g)", calories=117}, 
 	{str="≈ Míchaná vejce", calories=119}, 
