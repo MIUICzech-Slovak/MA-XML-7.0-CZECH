@@ -223,7 +223,7 @@ localization_Czech_table = {
 
     get_distance_format="celkem %dm",
     activity_walk_format="%s Chůze %d kroků %s",
-    activity_walk_consumed_format="Spálené %d kcal %s",
+    activity_walk_consumed_format="Spáleno %d kcal %s",
 
     activity_rope_skipping_format="%s přeskočeno švihadlo %d krát",
     activity_situp_format="%s %d sed-leh",

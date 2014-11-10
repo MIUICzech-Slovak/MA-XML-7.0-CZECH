@@ -516,9 +516,9 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="stat_sleep_wake_average">Čas aktivity</string>
   <string name="stat_step_average">Kroků denně</string>
   <string name="stat_step_calorie_average">Kalorií denně</string>
-  <string name="stat_step_calorie_daily">Spálené</string>
-  <string name="stat_step_calorie_piece">Spálené</string>
-  <string name="stat_step_calorie_total">Spálené</string>
+  <string name="stat_step_calorie_daily">Spáleno</string>
+  <string name="stat_step_calorie_piece">Spáleno</string>
+  <string name="stat_step_calorie_total">Spáleno</string>
   <string name="stat_step_daily">Kroků celkem</string>
   <string name="stat_step_distance_average">Denní vzdálenost</string>
   <string name="stat_step_distance_daily">Celková vzdálenost</string>
