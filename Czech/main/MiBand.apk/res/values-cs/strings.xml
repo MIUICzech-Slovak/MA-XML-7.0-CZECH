@@ -619,4 +619,19 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="your_gender">Vaše pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="sport_new_record_ropeskipping">Nový rekord</string>
+  <string name="sport_ranking_desc_great">WOW, úžasný!</string>
+  <string name="sport_ranking_desc_normal" formatted="false">Poraženo %s% z %s uživatelů.</string>
+  <string name="sport_ranking_desc_poor">Každý %s uživatel vás může porazit, přidejte!</string>
+  <string name="sport_running_distance_detail">%s km</string>
+  <string name="sport_running_helper">Trenér běhání</string>
+  <string name="sport_running_no_gps">GPS musí být zapnuto pro záznam vaší trasy. Zapnout?</string>
+  <string name="sport_running_pace">Tempo</string>
+  <string name="sport_running_pace_detail">%s/km</string>
+  <string name="sport_running_set_dist">Upozornění vzdálenosti</string>
+  <string name="sport_running_set_goal">Upozornění na cíl</string>
+  <string name="sport_running_set_speed">Upozornění na rychlost</string>
+  <string name="sport_running_speed">Rychlost</string>
+  <string name="sport_running_speed_detail">%d km/h</string>
+  <string name="sport_share">Sdílet</string>
 </resources>
