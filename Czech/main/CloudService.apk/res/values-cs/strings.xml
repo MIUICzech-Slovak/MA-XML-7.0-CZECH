@@ -237,7 +237,6 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení.
   <string name="micloud_main_space_full">Plná kapacita</string>
   <string name="micloud_main_space_risk">Máte %d nesynchr. dat. Navyšte si kapacitu MiCloud úložiště.</string>
   <string name="micloud_main_detail">Podrobnosti</string>
-  <string name="micloud_main_last_sync_time">Synchr.: %s</string>
   <string name="micloud_main_network_abnormal">Nelze se připojit k síti</string>
   <string name="micloud_detail_fail">Selhalo</string>
   <string name="micloud_detail_lastest">Synchr.</string>
