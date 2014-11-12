@@ -2794,4 +2794,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="whetstone_level_reboot">Toto nastavení bude použito až po restartování zařízení</string>
   <string name="whetstone_level_reboot_OK">Restart</string>
   <string name="whetstone_level_title">Optimalizace RAM</string>
+  <string name="status_bar_settings_long_click_sort">Dlouhým podržením přesunete</string>
+  <string name="status_bar_settings_toggle_position">Pozice přepínačů</string>
 </resources>
