@@ -229,8 +229,8 @@ Bylo dosaženo vašeho cíle</string>
   <string name="instruction_tip_2_5">Více jako váš cíl</string>
   <string name="instruction_tip_3">Připojte k nabíječce</string>
   <string name="instruction_title">Používání MiBand</string>
-  <string name="kg">kg</string>
-  <string name="kilogram">kg</string>
+  <string name="kg">" kg"</string>
+  <string name="kilogram">" kg"</string>
   <string name="km">" km"</string>
   <string name="lab_factory_cheat_toast">Nepodvádějte~</string>
   <string name="lab_factory_disconnected_reminder">Upozornění na připojení</string>
@@ -263,12 +263,12 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_group_finish_desc">Aktuální kolo z %s dokončeno</string>
   <string name="lab_factory_sport_group_record">Skupinový rekord:</string>
   <string name="lab_factory_sport_group_time_cost" formatted="false">Aktuální kolo z %s za %s</string>
-  <string name="lab_factory_sport_hour">%dh</string>
-  <string name="lab_factory_sport_hour_min" formatted="false">%dh %dmin</string>
-  <string name="lab_factory_sport_hour_min_sec" formatted="false">%dh %dmin %ds</string>
-  <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
-  <string name="lab_factory_sport_min">%dmin</string>
-  <string name="lab_factory_sport_min_sec" formatted="false">%dmin %ds</string>
+  <string name="lab_factory_sport_hour">%d h</string>
+  <string name="lab_factory_sport_hour_min" formatted="false">%d h %d min</string>
+  <string name="lab_factory_sport_hour_min_sec" formatted="false">%d h %d min %d s</string>
+  <string name="lab_factory_sport_hour_sec" formatted="false">%d h %d s</string>
+  <string name="lab_factory_sport_min">%d min</string>
+  <string name="lab_factory_sport_min_sec" formatted="false">%d min %d s</string>
   <string name="lab_factory_sport_monitor_bracelet_offline">MiBand je odpojen</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Po připojení můžete spustit %s</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Počítání se spustí automaticky, když provádíte %s</string>
@@ -385,8 +385,8 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="one_week">Tento týden</string>
   <string name="orange">Oranžová</string>
   <string name="person_info_finished_info">Nastavení MiBand dokončeno!</string>
-  <string name="person_info_goal_info">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 40min denně s minimem 8000 kroků</string>
-  <string name="person_info_goal_info_young">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 60min denně s minimem 12000 kroků</string>
+  <string name="person_info_goal_info">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 40 min denně s minimem 8000 kroků</string>
+  <string name="person_info_goal_info_young">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 60 min denně s minimem 12000 kroků</string>
   <string name="personal_info">Profil</string>
   <string name="please_input_age">Věk</string>
   <string name="please_input_gender">Vaše pohlaví</string>
@@ -443,7 +443,7 @@ Překlad: miuios.cz/miband"</string>
   <string name="share_blog_title">Sdílet</string>
   <string name="share_blog_weibo">Weibo</string>
   <string name="share_blog_weixin">Weixin</string>
-  <string name="share_continue_goal_format">"Walked total of %1$s steps, %2$s steps per day
+  <string name="share_continue_goal_format">"Prochozeno celkem %1$s kroků, %2$s kroků denně
 %3$s
 %4$s"</string>
   <string name="share_continue_goal_format_run">"Prochozeno %1$s, uběhnuto %2$s
@@ -455,9 +455,9 @@ Vykročte vpřed."</string>
   <string name="share_miliao_too_old">Verze MiTalk je příliš zastaralá.</string>
   <string name="share_play_ground_format">To je zhruba %1$s kol na dráze.</string>
   <string name="share_sleep_description">"V hlubokém spánku %1$sh a %2$smin, 
-v lehkém spánku %3$sh a %4$smin.
+v lehkém spánku %3$s h a %4$s min.
 Usnutí: %5$s. Probuzení: %6$s"</string>
-  <string name="share_sleep_description_average">"Průměrně %1$sh %2$smin v hlubokém spánku, %3$sh a %4$smin v lehkém spánku.
+  <string name="share_sleep_description_average">"Průměrně %1$s h %2$s min v hlubokém spánku, %3$s h a %4$s min v lehkém spánku.
 Průměrný čas usínání je %5$s, průměrný čas probouzení %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Průměrný spánek</string>
