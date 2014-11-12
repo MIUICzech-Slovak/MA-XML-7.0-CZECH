@@ -621,7 +621,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="back">Zpět</string>
   <string name="button_text_ignore">Ignorovat</string>
   <string name="button_text_ignore_alert_title">Ignorovat toto upozornění?</string>
-  <string name="delete_from_manual_item_white_list">Odstranit z výjimek?</string>
+  <string name="delete_from_manual_item_white_list">Odstranit z výjimek</string>
   <string name="empty_title_manual_item_white_list">Prázdné</string>
   <string name="examination_score_100_with_recommend">Může být optimalizováno: %d</string>
   <string name="examination_score_80_100_with_recommend">Může být optimalizováno: %d</string>

@@ -248,7 +248,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_share_photo_menu_camera">Video</string>
   <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
   <string name="lab_factory_share_photo_menu_title">Vybrat fotografii z</string>
-  <string name="lab_factory_sport_accumulate">Nasbíráno %d krát</string>
+  <string name="lab_factory_sport_accumulate">Vykonáno %d krát</string>
   <string name="lab_factory_sport_analyser_activity_not_found">Načítání selhalo</string>
   <string name="lab_factory_sport_average_rate_per_minute">Průměrná rychlost %d t/m</string>
   <string name="lab_factory_sport_best_record">Osobní rekord:</string>
@@ -269,8 +269,8 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
   <string name="lab_factory_sport_min">%dmin</string>
   <string name="lab_factory_sport_min_sec" formatted="false">%dmin %ds</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline">MiBand není odpojen</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Můžete %s po připojení MiBand</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline">MiBand je odpojen</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Po připojení můžete spustit %s</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Počítání se spustí automaticky, když provádíte %s</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Žádná činnost po dobu 5min</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">Vyberte jen jeden sport</string>
@@ -282,9 +282,9 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_result_cost_cal">Spáleno %d kcal</string>
   <string name="lab_factory_sport_result_dot">,</string>
   <string name="lab_factory_sport_sec">%ds</string>
-  <string name="lab_factory_sport_share_info_accumulated_time">Nasbíráno</string>
-  <string name="lab_factory_sport_share_info_accumulated_time_once">Nasbíráno</string>
-  <string name="lab_factory_sport_share_info_current_accumulation">Nasbíráno</string>
+  <string name="lab_factory_sport_share_info_accumulated_time">"Čas "</string>
+  <string name="lab_factory_sport_share_info_accumulated_time_once">"Čas "</string>
+  <string name="lab_factory_sport_share_info_current_accumulation">Vykonáno</string>
   <string name="lab_factory_sport_share_info_group_record">Skupinový rekord</string>
   <string name="lab_factory_sport_share_info_history_best_record">Historický rekord:</string>
   <string name="lab_factory_sport_share_info_new_record">Bravo</string>

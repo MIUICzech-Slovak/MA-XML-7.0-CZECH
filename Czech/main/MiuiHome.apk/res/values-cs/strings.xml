@@ -114,7 +114,7 @@
   <string name="menu_wallpaper">Tapeta</string>
   <string name="menu_workspace_preview">Náhled</string>
   <string name="multi_selecting_tips">Dotkněte se ikon</string>
-  <string name="online_wallpaper">Online Tapeta</string>
+  <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na této ploše již není místo.</string>
   <string name="permdesc_install_shortcut">Povoluje aplikaci přidat zástupce bez zásahu uživatele.</string>
   <string name="permdesc_install_widget">Povolit aplikacím automaticky přidat widget na plochu.</string>
