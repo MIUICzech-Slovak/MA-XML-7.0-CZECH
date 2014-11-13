@@ -2796,4 +2796,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="whetstone_level_title">Optimalizace RAM</string>
   <string name="status_bar_settings_long_click_sort">Dlouhým podržením přesunete</string>
   <string name="status_bar_settings_toggle_position">Pozice přepínačů</string>
+  <string name="alpha_build">" | Alpha"</string>
+  <string name="developer_build">" | Týdenní"</string>
+  <string name="stable_build">" | Stabilní"</string>
 </resources>

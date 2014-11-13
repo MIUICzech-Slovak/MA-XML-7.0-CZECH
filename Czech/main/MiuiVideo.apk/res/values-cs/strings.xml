@@ -325,4 +325,14 @@
   <string name="yesterday">"Včera "</string>
   <string name="use_cellular_offlinedownload_summary">Použít mobilní připojení pro přehrávání online videí</string>
   <string name="use_cellular_offlinedownload_title">Použít mobilní připojení</string>
+  <string name="cancel_button">Zrušit</string>
+  <string name="hint_can_not_get_source_info">Nelze získat informace o videu</string>
+  <string name="hint_without_selected_set">Vyhledat zdroj automaticky</string>
+  <string name="partner_specials">Partnerský obsah</string>
+  <string name="select_media_source">Vyberte zdroj</string>
+  <string name="update_apk_statusbar">Stahování...</string>
+  <string name="update_button">Aktualizovat</string>
+  <string name="update_size_prefix">Velikost:</string>
+  <string name="update_title">Dostupná aktualizace</string>
+  <string name="update_version_prefix">Verze:</string>
 </resources>

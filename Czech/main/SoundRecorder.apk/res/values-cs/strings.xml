@@ -110,4 +110,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="no_downloading_file">Žádný stahovaný soubor</string>
+  <string name="error_file_access">Soubor neexistuje nebo je poškozen</string>
 </resources>

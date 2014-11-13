@@ -570,5 +570,6 @@ společně!"</string>
   <string name="widget_type_shuffle">Náhodně všechny obrázky</string>
   <string name="width">Šířka</string>
   <string name="yellow_page">Složka</string>
+  <string name="error_share_not_support">Spojení sdílených alb není podporováno</string>
   <string name="yes">Ano</string>
 </resources>

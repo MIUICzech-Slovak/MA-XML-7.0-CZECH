@@ -323,4 +323,5 @@ s "</string>
   <string name="login_with_email_or_id">Přihlásit se s jiným účtem</string>
   <string name="logout_failed">Odhlášení selhalo</string>
   <string name="timeout_retry">Platnost požadavku vypršela, zkuste to znovu.</string>
+  <string name="authorize_title">Autorizace</string>
 </resources>
