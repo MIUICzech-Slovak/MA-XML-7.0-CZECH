@@ -66,7 +66,7 @@
   <string name="view_indexes_title_visibility">Viditelnost (km)</string>
   <string name="view_indexes_title_wind">Vítr</string>
   <string name="view_indexes_wind_unit">km/h</string>
-  <string name="view_sun_titile">Východ a západ Slunce</string>
+  <string name="view_sun_titile">Východ a západ</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
