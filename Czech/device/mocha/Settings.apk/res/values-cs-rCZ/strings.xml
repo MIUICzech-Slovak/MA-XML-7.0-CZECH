@@ -335,8 +335,8 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="battery_stats_gps_on_label">GPS aktivní</string>
   <string name="battery_stats_on_battery">Provoz na baterii: %1$s</string>
   <string name="battery_stats_phone_signal_label">Signál mobilní sítě</string>
-  <string name="battery_stats_screen_on_label">Obrazovka zapnutá</string>
-  <string name="battery_stats_wake_lock_label">Probudit</string>
+  <string name="battery_stats_screen_on_label">Rozsvícený displej</string>
+  <string name="battery_stats_wake_lock_label">Probuzeno z režimu spánku</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_title">Stav baterie</string>
   <string name="battery_sugg_apps_gps">Vyberte režim úspory baterie</string>
