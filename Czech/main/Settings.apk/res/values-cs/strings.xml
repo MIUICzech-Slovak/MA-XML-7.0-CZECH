@@ -2799,4 +2799,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="alpha_build">" | Alpha"</string>
   <string name="developer_build">" | Týdenní"</string>
   <string name="stable_build">" | Stabilní"</string>
+  <string name="music_dirac_control">Vylepšit kvalitu zvuku</string>
+  <string name="music_dirac_mode_off">Dirac vypnutý</string>
+  <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
+  <string name="music_dirac_mode_piston_basic">Základní</string>
 </resources>
