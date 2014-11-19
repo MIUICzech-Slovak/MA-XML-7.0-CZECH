@@ -360,7 +360,7 @@
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Západ slunce</string>
   <string name="pref_camera_scenemode_title">Scény</string>
-  <string name="pref_camera_settings_category">Nastavení fotoaparátu</string>
+  <string name="pref_camera_settings_category">Fotoaparát</string>
   <string name="pref_camera_settings_title">Nastavení</string>
   <string name="pref_camera_sharpness_title">Ostrost</string>
   <string name="pref_camera_show_gender_age_entry_alias">Zobrazit věkové rozpětí</string>

@@ -14,7 +14,7 @@
   <string name="all_tracks">Veškerá hudba</string>
   <string name="all_tracks_short">Vše</string>
   <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
-  <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
+  <string name="allow_to_use_traffic_title">Povolit stahování skladeb přes mobilní data</string>
   <string name="artist_search_title">Umělec</string>
   <string name="artist_view">Umělec</string>
   <string name="audio_picker_title">Zvolte skladbu</string>
