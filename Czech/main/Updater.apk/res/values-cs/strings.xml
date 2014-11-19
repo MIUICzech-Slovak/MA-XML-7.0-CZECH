@@ -109,7 +109,7 @@
   <string name="mione_update_success_title">Aktualizováno</string>
   <string name="miui_summary_has_new_version">" Je dostupná nová verze  "</string>
   <string name="miui_summary_no_new_version">"Není dostupná nová verze.
-Navštivte miuios.cz/rom"</string>
+  Navštivte miuios.cz/rom"</string>
   <string name="miui_summary_now_version">Připojte se k síti</string>
   <string name="monthly_build">Měsíční sestavení</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Není dostatek místa na SD kartě pro přesun %dMB dat.</string>
@@ -214,7 +214,7 @@ Navštivte miuios.cz/rom"</string>
   <string name="test">Test</string>
   <string name="timer_title">Zařízení se restartuje za %ds.</string>
   <string name="top_secret_build">Tajná verze</string>
-  <string name="unkown_error_title">Něco se nezdařilo, navštivte miuios.cz/rom</string>
+  <string name="unkown_error_title">Chyba při stahování, navštivte miuios.cz/rom</string>
   <string name="unstable_build">Stabilní verze</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Komentovat</string>
