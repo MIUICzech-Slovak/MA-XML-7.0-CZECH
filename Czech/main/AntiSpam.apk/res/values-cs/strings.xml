@@ -284,4 +284,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
   <string name="button_text_delete">Vymazat</string>
+  <string name="read_all_sms">Označit jako přečtené</string>
 </resources>

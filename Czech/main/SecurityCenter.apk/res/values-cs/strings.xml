@@ -186,12 +186,12 @@
   <string name="hints_auto_start_warning_info">Zákaz auto. spouštění zakáže přijímání upozornění aplikace</string>
   <string name="hints_cache_header_left">Cache: %d</string>
   <string name="hints_cleanning_text">Čištění...</string>
-  <string name="hints_finish_quick_cleanup">Dokončeno</string>
-  <string name="hints_finish_quick_cleanup_title">Dokončit čištění %s odpadu</string>
+  <string name="hints_finish_quick_cleanup">Podrobnosti</string>
+  <string name="hints_finish_quick_cleanup_title">Vyčistit %s odpadu</string>
   <string name="hints_finish_quick_scan">Dokončeno</string>
-  <string name="hints_garbage_cleanup_result_danger">Nebezpečné</string>
-  <string name="hints_garbage_cleanup_result_risk">Riziko</string>
-  <string name="hints_garbage_cleanup_result_safe">OK</string>
+  <string name="hints_garbage_cleanup_result_danger">Vyčistit odpad</string>
+  <string name="hints_garbage_cleanup_result_risk">Vyčistit odpad</string>
+  <string name="hints_garbage_cleanup_result_safe">Vše je OK</string>
   <string name="hints_garbage_handle_item_content">Položek: %1$d, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Prázdné</string>
   <string name="hints_get_root_disable_title">Zakázaná ROOT práva: %d</string>
@@ -672,5 +672,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="toast_flow_notification">Upozornění na spotřebu dat je povoleno</string>
   <string name="toast_garbage_lib">Automatické aktualizace pro Čistič povoleny</string>
   <string name="toast_show_notification">Zobrazeno v notif. roletce</string>
-  <string name="toast_virus_cloudscan">Kontrola virů využije online databázi</string>  
+  <string name="toast_virus_cloudscan">Kontrola virů využije online databázi</string>
+  <string name="power_dialog_wifi_title">Wi-Fi</string>
+  <string name="power_mode_keep_state">Ponechat současný stav</string>  
 </resources>
