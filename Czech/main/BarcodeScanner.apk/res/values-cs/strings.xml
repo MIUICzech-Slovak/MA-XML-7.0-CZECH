@@ -13,11 +13,11 @@
   <string name="camera_error">Fotoaparát nefunguje správně</string>
   <string name="cancel">Zrušit</string>
   <string name="close_flash_error">Vypínání blesku selhalo</string>
-  <string name="cloud_album_details">Cloudové album:</string>
+  <string name="cloud_album_details">Album:</string>
   <string name="company">Firma:</string>
   <string name="connect_wifi">Připojit k této síti</string>
   <string name="contact_details">Podrobnosti:</string>
-  <string name="continue_access_web_url">Bezpečný přístup</string>
+  <string name="continue_access_web_url">Pokračovat na web stránku</string>
   <string name="copy">Kopírovat</string>
   <string name="copy_succeed">Zkopírováno</string>
   <string name="copy_text">Kopírovat text</string>
@@ -27,7 +27,7 @@
   <string name="download_wechat">Stáhnout WeChat</string>
   <string name="email">E-mail:</string>
   <string name="fail_generate_barcode">Generování kódu selhalo</string>
-  <string name="find_cloud_album">Načíst QR kód cloudového alba</string>
+  <string name="find_cloud_album">Načíst QR kód alba</string>
   <string name="flash_lable">Blesk</string>
   <string name="import_contact">Importovat kontakt</string>
   <string name="launch_market">Spustit MiMarket</string>
@@ -35,7 +35,7 @@
   <string name="launch_wechat">Spustit WeChat</string>
   <string name="name">Jméno:</string>
   <string name="nickname">Přezdívka:</string>
-  <string name="not_recommend_access_web_url">Bezpečný přístup (nedoporučeno)</string>
+  <string name="not_recommend_access_web_url">Pokračovat dál (nedoporučeno)</string>
   <string name="not_tips">Znovu se neptat</string>
   <string name="note">Poznámka:</string>
   <string name="open_flash_error">Zapínání blesku selhalo</string>
@@ -49,7 +49,7 @@
   <string name="scan_fail">Rozpoznávání kódu selhalo</string>
   <string name="scan_qrcode">Načíst QR kód</string>
   <string name="scan_result">Výsledek</string>
-  <string name="secure_access_web_url">Bezpečný přístup</string>
+  <string name="secure_access_web_url">Pokračovat na web stránku</string>
   <string name="see_app_details">Zobrazit podrobnosti</string>
   <string name="settings">Nastavení</string>
   <string name="success_message_import_from_account">Importováno</string>
