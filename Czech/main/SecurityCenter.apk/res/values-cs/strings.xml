@@ -674,5 +674,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="toast_show_notification">Zobrazeno v notif. roletce</string>
   <string name="toast_virus_cloudscan">Kontrola virů využije online databázi</string>
   <string name="power_dialog_wifi_title">Wi-Fi</string>
-  <string name="power_mode_keep_state">Ponechat současný stav</string>  
+  <string name="power_mode_keep_state">Neměnit</string>  
 </resources>

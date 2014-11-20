@@ -136,7 +136,7 @@ Využito %s | Zbývá %s"</string>
   <string name="micloud_warn_full_title">MiCloud úložiště je plné!</string>
   <string name="micloud_warn_low_sum">Je využito 90% úložiště.</string>
   <string name="micloud_warn_low_title">Dochází volné místo v úložišti!</string>
-  <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_01">Přihlaste se na http://i.xiaomi.com pro přístup k vašim datům</string>
   <string name="micloud_web_discription_02">pro přístup k vašim souborům</string>
   <string name="microsoft_cloud">Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>

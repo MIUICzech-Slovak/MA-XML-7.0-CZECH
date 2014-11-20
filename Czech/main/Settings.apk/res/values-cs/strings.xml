@@ -1472,7 +1472,7 @@ Zvolte Váš operační systém:"</string>
   <string name="open_wifi_connect_summary">Stiskněte pro správu sítí</string>
   <string name="open_wifi_connect_title">Připojit k otevřené síti %1$s</string>
   <string name="other_advanced_settings">Další nastavení</string>
-  <string name="other_personal_settings">Další nastavení</string>
+  <string name="other_personal_settings">Osobní nastavení</string>
   <string name="other_relative">Ostatní povolení</string>
   <string name="overlay_display_devices_title">Simulovat sekundární displeje</string>
   <string name="owner_info_settings_edit_text_hint">Zadejte text, který se zobrazí na zamčené obrazovce</string>
@@ -1665,7 +1665,7 @@ Zvolte Váš operační systém:"</string>
   <string name="radioInfo_service_out">Nepokrytá oblast</string>
   <string name="radioInfo_unknown">neznámý</string>
   <string name="radio_controls_summary">Spravovat Wi-Fi, Bluetooth, režim V letadle, mobilní sítě a sítě VPN</string>
-  <string name="radio_controls_title">Další...</string>
+  <string name="radio_controls_title">Více</string>
   <string name="radio_info_band_mode_label">Zvolit pásmo rádia</string>
   <string name="radio_info_call_redirect_label">Přesměrované hovory:</string>
   <string name="radio_info_call_status_label">Stav hovoru:</string>
@@ -1864,7 +1864,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="security_keyguard_category_name">Zámek</string>
   <string name="security_password_category_name">Heslo</string>
   <string name="security_passwords_title">Hesla</string>
-  <string name="security_privacy_settings_title">Zabezpečení soukromí</string>
+  <string name="security_privacy_settings_title">Soukromí</string>
   <string name="security_relative">Bezpečnost</string>
   <string name="security_settings_billing_desc">Tato aplikace vám může účtovat poplatky:</string>
   <string name="security_settings_desc">Tato aplikace má přístup k následujícím funkcím zařízení:</string>

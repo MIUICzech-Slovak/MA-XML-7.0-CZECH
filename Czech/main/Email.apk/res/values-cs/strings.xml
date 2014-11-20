@@ -836,4 +836,19 @@ Velikost aplikace: %2$s"</string>
   <string name="quick_reply_hint_cc">(V CC)</string>
   <string name="switch_as_tranditional_view">Normální zobrazení</string>
   <string name="tip_cannot_switchview_in_unread_folder">Nelze zobrazit v režimu nepřečtených zpráv</string>
+  <string name="account_options_acc_title">Účet</string>
+  <string name="account_options_common_title">Běžná nastavení</string>
+  <string name="account_options_only_title">Stáhnout jen hlavičky přes mobilní data</string>
+  <string name="account_options_sync_title">Synchronizace</string>
+  <string name="account_setup_server_acc_manager_title">Správa účtů</string>
+  <string name="head_only_enable_dialog_message">Přes mobilní data se stáhnou jen hlavičky zpráv namísto celé zprávy.</string>
+  <string name="head_only_enable_dialog_nagative">Odmítnout</string>
+  <string name="head_only_enable_dialog_positive">Povolit</string>
+  <string name="head_only_enable_dialog_title">Úspora mobilních dat</string>
+  <string name="perference_setup_pop_del">Odstranit zprávu se serveru</string>
+  <string name="perference_setup_recv_tag">Server příchozí pošty</string>
+  <string name="perference_setup_send_tag">Server odchozí pošty</string>
+  <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
+  <string name="preference_imap_tips"/>
+  <string name="preference_pop_tips">Přílohy budou staženy spolu se zprávou, protože si to vyžaduje POP3 protokol. Může to navýšit vaši spotřebu mobilních dat.</string>
 </resources>

@@ -103,4 +103,5 @@
   <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
   <string name="sns_choose_quality_low">Nízká</string>
   <string name="sns_choose_quality_title">Zvolte kvalitu obrázků</string>
+  <string name="sns_message_disconnect">Nelze se připojit k síti. Zkontrolujte nastavení.</string>
 </resources>
