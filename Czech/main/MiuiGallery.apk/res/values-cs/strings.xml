@@ -573,10 +573,6 @@ společně!"</string>
   <string name="error_share_not_support">Spojení sdílených alb není podporováno</string>
   <string name="yes">Ano</string>
   <string name="abandon">Zahodit</string>
-  <string name="add_to_cloud_unfinished_message_with_count">%1$s není přidáno do cloudu</string>
-  <string name="add_to_secret_failed_message_with_count">%2$s nelze přidat do tajného alba: %1$s.</string>
-  <string name="add_to_secret_successfully_message">Přidáno do tajného alba</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s není přidáno do tajného alba</string>
   <string name="alert_secret_album_message">Můžete rolovat cloudové album do tajného alba</string>
   <string name="alert_secret_album_title">Tajné album</string>
   <string name="auto_upload_album_comfirm_to_share">Toto album bude automaticky nahráváno, chcete jej opravdu sdílet?</string>
@@ -585,26 +581,17 @@ společně!"</string>
   <string name="do_not_save">Neukládat</string>
   <string name="enable">Povolit</string>
   <string name="external_sdcard_root">Hlavní složka externí SD karty</string>
-  <string name="free">Volné</string>
   <string name="internal_sdcard_root">Hlavní složka interní SD karty</string>
-  <string name="original">Originál</string>
   <string name="original_scale">Původní velikost</string>
-  <string name="paint_cancel_context">Zahodit změny, které byly provedeny?</string>
-  <string name="paint_cancel_title">Zahodit změny</string>
   <string name="paint_crop_cancel_context">Uložit ořezaný obrázek?</string>
   <string name="paint_crop_cancel_title">Zahodit změny</string>
   <string name="paint_crop_tips">Pro co nejlepší obrázek, umístěte jeho zajímavou část do středu pomocí zmenšení a posunutí.</string>
-  <string name="photo_paint_crop">Ořezat</string>
   <string name="pick_with_limited_upper_bound_title">Můžete vybrat %d položek</string>
   <string name="pocket_camera_picture">Fotografie</string>
   <string name="pocket_camera_video">Videa</string>
-  <string name="remove_from_secret_failed_message_with_count">%2$s položek není odebráno z tajného alba: %1$s.</string>
-  <string name="remove_from_secret_successfully_message">Odebráno z tajného alba</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s položek není odebráno z tajného alba</string>
   <string name="same_name_album_exists_alert">Album se stejným názvem již existuje a bylo sdíleno. Nahrát fotografie automaticky do tohoto alba?</string>
   <string name="sdcard_root">Hlavní složka SD karty</string>
   <string name="select_auto_upload_albums">Vyberte alba pro nahrání do cloudu</string>
-  <string name="square">Čtverec</string>
   <string name="weixin">WeChat</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
 </resources>
