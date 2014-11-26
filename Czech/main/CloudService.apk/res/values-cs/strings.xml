@@ -248,4 +248,5 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení.
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázků kontaktu</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
+  <string name="micloud_web_discription">Přihlaste se na i.mi.com pro přístup k vašim datům</string>
 </resources>
