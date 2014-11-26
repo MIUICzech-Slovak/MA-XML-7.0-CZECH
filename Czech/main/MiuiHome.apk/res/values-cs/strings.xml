@@ -221,4 +221,5 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
+  <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sobě pro úpravu plochy</string>
 </resources>
