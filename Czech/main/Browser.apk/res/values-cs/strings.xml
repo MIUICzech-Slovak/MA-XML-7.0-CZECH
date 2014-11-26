@@ -741,4 +741,11 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="close_ads_choice_yes">Ano</string>
   <string name="close_ads_message">Zavřít toto okno a blokovat jej? Blokovaná okna se zobrazí v Nastavení &gt; Rozšířené &gt; Vlastní pravidla</string>
   <string name="close_ads_title">Upozornění</string>
+  <string name="find_on_page_cancel">Zrušiť</string>
+  <string name="find_on_page_matches">Nalezeno: %d</string>
+  <string name="find_on_page_next">Další</string>
+  <string name="find_on_page_prev">Zpět</string>
+  <string name="maximum_input_alert">Maximálně 2048 znaků</string>
+  <string name="url_find_on_page_result">Zobrazit v prohlížeči</string>
+  <string name="url_find_on_page_result_item">Zobrazit celý text pro \"%s\"</string>
 </resources>
