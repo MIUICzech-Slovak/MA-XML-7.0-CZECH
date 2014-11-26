@@ -297,4 +297,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="report_success">Zpráva nahlášena</string>
   <string name="special_number_group">Blokovat speciální čísla</string>
   <string name="st_title_other_group">Ostatní</string>
+  <string name="APKTOOL_DUMMY_0130">false</string>
 </resources>
