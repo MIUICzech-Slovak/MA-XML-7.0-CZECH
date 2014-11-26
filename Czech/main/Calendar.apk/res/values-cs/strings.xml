@@ -281,4 +281,9 @@
   <string name="anniversary_term">výročí</string>
   <string name="birthday_metric"/>
   <string name="birthday_term">narozeniny</string>
+  <string name="can_not_modify_allday_event">Celodenní událost nemůže být upravena</string>
+  <string name="can_not_modify_event">Nelze upravit</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Opakující se a vícedenní událost nemůže být upravena</string>
+  <string name="edit_event_reminder_off_toast">Výchozí upozornění není nastaveno</string>
+  <string name="xiaomi_calendar_display_name">Xiaomi kalendář</string>
 </resources>
