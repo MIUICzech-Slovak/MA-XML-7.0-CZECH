@@ -285,4 +285,16 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="wl_no_whitelist">Žádná čísla</string>
   <string name="button_text_delete">Vymazat</string>
   <string name="read_all_sms">Označit jako přečtené</string>
+  <string name="call_transfer_block">Blokovat přesměrované hovory</string>
+  <string name="call_transfer_block_type">Blokovat přesměrované hovory</string>
+  <string name="call_transfer_info">Blokovat hovory přesměrované z neznámých čísel</string>
+  <string name="mark_banking_insurance">Prodej pojistek</string>
+  <string name="mark_banking_insurance_block">Nahlásit jako Prodej pojistek</string>
+  <string name="report_error">Nelze nahlásit</string>
+  <string name="report_error_not_net">Nelze se připojit k síti</string>
+  <string name="report_only">Vyberte zprávu pro nahlášení</string>
+  <string name="report_sms">Nahlásit zprávy</string>
+  <string name="report_success">Zpráva nahlášena</string>
+  <string name="special_number_group">Blokovat speciální čísla</string>
+  <string name="st_title_other_group">Ostatní</string>
 </resources>
