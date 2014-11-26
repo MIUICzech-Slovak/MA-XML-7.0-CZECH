@@ -561,4 +561,15 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
   <string name="pref_camera_flashmode_entry_torch">Svítilna</string>
+  <string name="simple_mode_button_asd_flash">Ukončit</string>
+  <string name="simple_mode_button_asd_hdr">Ukončit</string>
+  <string name="pref_camera_long_pressing_shutter_title">Stiskněte a podržte spoušť pro zamknutí AE/AF/AWB</string>
+  <string name="pref_camera_exposuretime_entry_8s">8s</string>
+  <string name="pref_camera_exposuretime_entry_4s">4s</string>
+  <string name="pref_camera_exposuretime_entry_32s">32s</string>
+  <string name="pref_camera_exposuretime_entry_16s">16s</string>
+  <string name="pref_audio_focus_entry_front">Přední</string>
+  <string name="pref_audio_focus_entry_general">Normální</string>
+  <string name="pref_audio_focus_entry_rear">Zadní</string>
+  <string name="pref_audio_focus_title">Zaostření zvukem</string>
 </resources>
