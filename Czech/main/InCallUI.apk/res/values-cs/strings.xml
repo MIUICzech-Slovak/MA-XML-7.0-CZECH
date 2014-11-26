@@ -641,4 +641,5 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
+  <string name="livetalk_waiting">Čekání...</string>
 </resources>
