@@ -809,7 +809,7 @@ Synchronizujte je nyní."</string>
   <string name="recent_contacts_label">Nedávné</string>
   <string name="recent_number">Nedávné</string>
   <string name="recent_updates">Nedávné</string>
-  <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Pokud nemáte aktivní hlasovou schránku, nezapínejte tuto možnost. Nebude možné přijímat hovory od tohoto kontaktu.</string>
   <string name="redirect_calls_to_vm_confirm_text">Zapnout</string>
   <string name="refresh">Obnovit</string>
   <string name="relationLabelsGroup">Příbuzné</string>
