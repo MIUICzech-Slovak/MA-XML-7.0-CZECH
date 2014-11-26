@@ -232,4 +232,24 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolení</string>
+  <string name="HIPS_Action_Accept_Once">Povolit jednou</string>
+  <string name="HIPS_Action_Reject_Once">Zakázat jednou</string>
+  <string name="HIPS_Perm_Read_Call_Log">Číst seznam hovorů</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">Číst váš seznam hovorů</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apl. má přístup k zoznamu hovorů</string>
+  <string name="HIPS_Perm_Read_Contact">Číst kontakty</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Číst vaše kontakty</string>
+  <string name="HIPS_Perm_Read_Contact_Hint">%1$s apl. má přístup k vašim kontaktům</string>
+  <string name="HIPS_Perm_Read_MMS">Číst MMS zprávy</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">Číst vaše  MMS zprávy</string>
+  <string name="HIPS_Perm_Read_MMS_Hint">%1$s apl. má přístup k vašim MMS zprávám</string>
+  <string name="HIPS_Perm_Read_SMS">Číst SMS zprávy</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">Číst vaše SMS zprávy</string>
+  <string name="HIPS_Perm_Read_SMS_Hint">%1$s apl. má přístup k vašim SMS zprávám</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi účet</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Přístup k vašemu Xiaomi účtu</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apl. má přístup k vašemu Xiaomi účtu</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Povolit jednou (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Zakázat jednou (%d)</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnění %2$s. Práva aplikace můžete změnit v Optimalizace &gt; Povolení."</string>
 </resources>
