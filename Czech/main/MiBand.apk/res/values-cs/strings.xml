@@ -415,7 +415,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="search_bracelet_ok">MiBand nalezen</string>
   <string name="search_devices_info">Vyhledat MiBand v blízkosti telefonu</string>
   <string name="search_devices_title">Vyhledat MiBand</string>
-  <string name="second">Sekund</string>
+  <string name="second">" sekundách"</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galerie</string>
   <string name="select_image">Vybrat obrázek</string>
@@ -647,7 +647,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="birthday">Narodeniny</string>
   <string name="bracelet_store_desc">Zakoupit MiBand</string>
   <string name="buy_bracelet_desc">Jen v Číně</string>
-  <string name="closed">Zavřeno</string>
+  <string name="closed">Vypnuto</string>
   <string name="please_input_birthday">Narozeniny</string>
   <string name="sport_coming_soon">Novinky!</string>
   <string name="sport_running_altitude">Nadmořská výška</string>
