@@ -851,4 +851,12 @@ Velikost aplikace: %2$s"</string>
   <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">Přílohy budou staženy spolu se zprávou, protože si to vyžaduje POP3 protokol. Může to navýšit vaši spotřebu mobilních dat.</string>
+  <string name="add_pre_message_attachments">Přidat přílohy?</string>
+  <string name="add_pre_message_attachments_no">Ne</string>
+  <string name="add_pre_message_attachments_yes">Přidat</string>
+  <string name="bottom_bar_no_quickreply_toast">Bez rychlé odpovědi</string>
+  <string name="inline_picture_deleted">Probíhá stahování obrázku...</string>
+  <string name="inline_picture_download_complete">Vložený obrázek stažen</string>
+  <string name="next_not_prompt">Znovu se neptat</string>
+  
 </resources>
