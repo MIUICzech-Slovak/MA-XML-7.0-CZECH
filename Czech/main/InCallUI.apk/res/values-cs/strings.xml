@@ -642,4 +642,14 @@
   "</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
   <string name="livetalk_waiting">Čekání...</string>
+  <string name="jeejen_answer_call_text">Přijmout hovor</string>
+  <string name="jeejen_card_title_call_cancel">Zrušit hovor</string>
+  <string name="jeejen_card_title_call_ended">Hovor ukončen</string>
+  <string name="jeejen_card_title_dialing">Vytáčení</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Příchozí hovor</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Ukončit hovor</string>
+  <string name="jeejen_reject_call_text">Odmítnout</string>
+  <string name="jeejen_toggle_dialpad_text">Číselník</string>
 </resources>
