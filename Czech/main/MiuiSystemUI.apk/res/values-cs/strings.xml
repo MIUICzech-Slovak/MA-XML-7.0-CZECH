@@ -234,7 +234,4 @@
   <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
   <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
   <string name="user_guide_for_toggle_list">Upravit přepínače</string>
-  <string name="audio_effect_custom">Nastavit</string>
-+  <string name="audio_effect_info">Optimalizovat zvuk</string>
-+  <string name="audio_effect_settings">Typ sluchátek</string>
 </resources>
