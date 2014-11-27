@@ -12,4 +12,12 @@
         <item quantity="other">Vybráno: %1$d</item>
         <item quantity="one">Vybráno: %1$d</item>
     </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">Shody: %d</item>
+        <item quantity="one">Shody: %d</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Blokovaných: %d</item>
+        <item quantity="one">Blokovaných: %d</item>
+    </plurals>
 </resources>
