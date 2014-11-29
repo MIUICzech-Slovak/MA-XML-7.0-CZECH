@@ -104,13 +104,13 @@
   <string name="fail_to_play">Přehrávání selhalo</string>
   <string name="favorite_canceled">Odebráno z oblíbených</string>
   <string name="favorite_playlist">Mé oblíbené</string>
-  <string name="favorite_succeed">Již je mezi oblíbenými</string>
+  <string name="favorite_succeed">Přidáno do oblíbených</string>
   <string name="favourite_music_left_half">Pro přidání skladeb do tohoto playlistu stiskněte</string>
   <string name="favourite_music_right_half">Hvězdičku vpravo od názvu skladby</string>
   <string name="file_not_found">Soubor neexistuje</string>
   <string name="find_ktv">Vyhledat KTV</string>
   <string name="find_music">Prohledat skladby</string>
-  <string name="format_unsupported">Nepodporovaný formát.</string>
+  <string name="format_unsupported">Nepodporovaný formát</string>
   <string name="fragment_more">Více</string>
   <string name="fragment_title_artist">Umělec</string>
   <string name="fragment_title_artist_album">Album</string>
@@ -166,7 +166,7 @@
   <string name="no_local_songs_selected">Nelze odeslat nestažené skladby</string>
   <string name="no_online_song_selected">Žádné vybrané skladby</string>
   <string name="no_results_return">Nic nebylo nalezeno</string>
-  <string name="no_song_downloaded">Nelze stáhnout skladbu.</string>
+  <string name="no_song_downloaded">Nelze stáhnout skladbu</string>
   <string name="normal_quality">Dobrá kvalita</string>
   <string name="not_login">Nepřihlášen</string>
   <string name="not_selected">Vyberte skladbu</string>
