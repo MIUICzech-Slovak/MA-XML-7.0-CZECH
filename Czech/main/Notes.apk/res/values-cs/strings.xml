@@ -79,6 +79,9 @@
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Image %1$s]</string>
   <string name="sns_action_send">Odeslat</string>
+  <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
+  <string name="sns_choose_quality_low">Nízká</string>
+  <string name="sns_choose_quality_title">Zvolte kvalitu obrázků</string>
   <string name="sns_content_default">Sdílet obrázek</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
@@ -86,6 +89,7 @@
   <string name="sns_hint_content">Na co myslíte?</string>
   <string name="sns_hint_title">Předmět (Volitelné)</string>
   <string name="sns_message_building">Vytváření...</string>
+  <string name="sns_message_disconnect">Nelze se připojit k síti. Zkontrolujte nastavení.</string>
   <string name="sns_message_sending">Zveřejňování...</string>
   <string name="sns_title_edit">Upravit název</string>
   <string name="sns_title_send">Odeslat zprávu</string>
@@ -100,8 +104,4 @@
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
-  <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
-  <string name="sns_choose_quality_low">Nízká</string>
-  <string name="sns_choose_quality_title">Zvolte kvalitu obrázků</string>
-  <string name="sns_message_disconnect">Nelze se připojit k síti. Zkontrolujte nastavení.</string>
 </resources>

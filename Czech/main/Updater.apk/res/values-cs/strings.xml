@@ -137,8 +137,13 @@
   <string name="no_updates_warning2">Tato aplikace Vás upozorní na nové aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="no_wifi_msg">Chybí připojení k Wi-Fi. Stahování aktualizace přes mobilní data může výrazně navýšit vaše poplatky.</string>
   <string name="no_wifi_title">Využití mobilních dat</string>
+  <string name="not_open">Zakázat</string>
   <string name="not_recommend">"Nedoporučuji"</string>
   <string name="notification_downloading">Stahování aktualizace...</string>
+  <string name="notification_load_body_alpha">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
+  <string name="notification_load_body_dev">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
+  <string name="notification_load_title_alpha">Přihlásit se do Xiaomi účtu</string>
+  <string name="notification_load_title_dev">Přihlaste se do Xiaomi účtu</string>
   <string name="notification_new_version">Aktualizovat na %s</string>
   <string name="notification_reboot_btn">Restart</string>
   <string name="notification_reboot_des">Restartovat zařízení do %s.</string>
@@ -151,6 +156,7 @@
   <string name="notification_updating">Aktualizace...</string>
   <string name="now">Restartovat</string>
   <string name="on_checking">Kontrola aktualizací</string>
+  <string name="open_now">Povolit</string>
   <string name="pause">Zastavit</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
   <string name="paused_queued_for_wifi">Čekání na Wi-Fi připojení</string>
@@ -171,6 +177,8 @@
   <string name="send_install_log">Odeslat instalační log</string>
   <string name="send_install_log_error">Odesílání instalačního logu selhalo!</string>
   <string name="set_auto">Nastavit automatický režim</string>
+  <string name="set_auto_msg">Pokud je dostupná nová aktualizace MIUI, automaticky se stáhne po připojení na Wi-Fi síť. Pro rychlejší stažení nových verzí navštivte miuios.cz/rom</string>
+  <string name="set_auto_update_title">Povolit automatické aktualizace</string>
   <string name="set_installfail_full_msg">Nelze aktualizovat. Navštivte miuios.cz/rom pro více informací.</string>
   <string name="set_installfail_msg">Stahování aktualizace přes mobilní data může výrazně navýšit vaše poplatky.</string>
   <string name="set_installfail_title">Pokusit se stáhnout znovu?</string>
@@ -213,6 +221,7 @@
   <string name="system_backup_ok_text">Zálohovat</string>
   <string name="test">Test</string>
   <string name="timer_title">Zařízení se restartuje za %ds.</string>
+  <string name="title_toast_auto">Automatické stahování aktualizací je povoleno</string>
   <string name="top_secret_build">Tajná verze</string>
   <string name="unkown_error_title">Chyba při stahování, navštivte miuios.cz/rom</string>
   <string name="unstable_build">Stabilní verze</string>
@@ -225,6 +234,7 @@
   <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé úterý.</string>
   <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!
 Vyplňte jej prosím následující úterý"</string>
+  <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
   <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
   <string name="update_general">Není špatná</string>
   <string name="update_happy">Výborná</string>
@@ -234,6 +244,8 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="update_success_body">na verzi %s</string>
   <string name="update_success_title">MIUI byla aktualizována</string>
   <string name="updater_finish_download">Stahování ROM je dokončeno</string>
+  <string name="updater_nolog">Seznam změn není dostupný</string>
+  <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
   <string name="upgrade_close">Zavřít</string>
   <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
   <string name="upgrade_kernel_msg">"Aktuální verze kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>
@@ -250,16 +262,4 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="notification_load_body_alpha">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
-  <string name="notification_load_body_dev">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
-  <string name="notification_load_title_alpha">Přihlásit se do Xiaomi účtu</string>
-  <string name="notification_load_title_dev">Přihlaste se do Xiaomi účtu</string>
-  <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
-  <string name="updater_nolog">Seznam změn není dostupný</string>
-  <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
-  <string name="not_open">Zakázat</string>
-  <string name="open_now">Povolit</string>
-  <string name="set_auto_msg">Pokud je dostupná nová aktualizace MIUI, automaticky se stáhne po připojení na Wi-Fi síť. Pro rychlejší stažení nových verzí navštivte miuios.cz/rom</string>
-  <string name="set_auto_update_title">Povolit automatické aktualizace</string>
-  <string name="title_toast_auto">Automatické stahování aktualizací je povoleno</string>
 </resources>

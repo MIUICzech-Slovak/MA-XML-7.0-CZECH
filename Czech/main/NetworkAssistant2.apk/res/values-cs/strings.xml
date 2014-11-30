@@ -224,6 +224,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="read_number">86 článků</string>
   <string name="read_unit">" článků"</string>
   <string name="right_precent">100%</string>
+  <string name="sc_allow_network_dialog_message">Je nutné povolit této aplikaci přístup k síťovému připojení.</string>
+  <string name="sc_allow_network_dialog_tiltle">Nelze využívat úsporu dat</string>
   <string name="setting_traffic_pkg">Nastavit datový balíček</string>
   <string name="settings">Nastavení spotřeby dat</string>
   <string name="songs_number">18 skladeb</string>
@@ -338,6 +340,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
-  <string name="sc_allow_network_dialog_message">Je nutné povolit této aplikaci přístup k síťovému připojení.</string>
-  <string name="sc_allow_network_dialog_tiltle">Nelze využívat úsporu dat</string>
 </resources>

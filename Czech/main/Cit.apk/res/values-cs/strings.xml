@@ -12,6 +12,16 @@
   <string name="cit_accelermeter_sensor_check_summary">Zobrazí se X, Y, Z osy zrychlení 
 (Poznámka: Když se telefon naklání, hodnoty se budou měnit podle orientace displeje)</string>
   <string name="cit_accelermeter_sensor_check_title">Test akcelerometru</string>
+  <string name="cit_aud_spkcal">Kalibrovat</string>
+  <string name="cit_audio_cali_done">Kalibrace dokončena!</string>
+  <string name="cit_audio_cali_failed">Kalibrace selhala!</string>
+  <string name="cit_audio_cali_file_existed">Hudební soubor nenalezen!</string>
+  <string name="cit_audio_cali_playing">Stiskněte pro kalibraci</string>
+  <string name="cit_audio_cali_summary">Kalibrovat reproduktor</string>
+  <string name="cit_audio_cali_title">Kalibrace reproduktoru</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Impedance:</string>
+  <string name="cit_audio_cali_valueT">tCoef:</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
   <string name="cit_audio_lb_phonecall_title">Simulace hovoru</string>
@@ -104,6 +114,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_gps_disabled">GPS není povoleno, 
     
 zapněte GPS z roletky</string>
+  <string name="cit_gps_first_fix_time">Fix: %s</string>
+  <string name="cit_gps_location">Poloha: %s</string>
   <string name="cit_gps_satellite_count">GPS satelity: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
@@ -346,16 +358,4 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
   <string name="cit_wifi_ap_scanning">Vyhledávání Wi-Fi sítě...</string>
   <string name="cit_wifi_fail_to_scan">Není možné najít žádnou síť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnovit</string>
-  <string name="cit_aud_spkcal">Kalibrovat</string>
-  <string name="cit_audio_cali_done">Kalibrace dokončena!</string>
-  <string name="cit_audio_cali_failed">Kalibrace selhala!</string>
-  <string name="cit_audio_cali_file_existed">Hudební soubor nenalezen!</string>
-  <string name="cit_audio_cali_playing">Stiskněte pro kalibraci</string>
-  <string name="cit_audio_cali_summary">Kalibrovat reproduktor</string>
-  <string name="cit_audio_cali_title">Kalibrace reproduktoru</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Impedance:</string>
-  <string name="cit_audio_cali_valueT">tCoef:</string>
-  <string name="cit_gps_first_fix_time">Fix: %s</string>
-  <string name="cit_gps_location">Poloha: %s</string>
 </resources>

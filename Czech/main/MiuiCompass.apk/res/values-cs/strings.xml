@@ -5,6 +5,7 @@
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibrace</string>
+  <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
   <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
   <string name="calibrate_failed_timeout">Kalibrace selhala: Čas připojení na server vypršel</string>
   <string name="calibrate_success">Kalibrace dokončena</string>
@@ -38,7 +39,6 @@
   <string name="mobiledata_alert_dialog_title">Upozornění</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
   <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>

@@ -19,6 +19,7 @@
   <string name="activity_find_city_dialog_title">Poloha</string>
   <string name="activity_main_refresh_time">Aktualizováno %1$s</string>
   <string name="activity_main_refresh_timeout">Aktual. se nezdařila</string>
+  <string name="activity_main_time_format">dd.MM.</string>
   <string name="activity_main_update_time">Aktualizováno %1$s</string>
   <string name="activity_main_update_time_right_now">Nyní</string>
   <string name="activity_weather_main_null_data">- -</string>
@@ -38,6 +39,7 @@
   <string name="button_abandon">Zrušit změny</string>
   <string name="button_allow">Hotovo</string>
   <string name="button_not_allow">Zrušit</string>
+  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="edit_city">Upravit</string>
   <string name="gps_hint">Současná poloha</string>
   <string name="loading_weather">Načítání počasí...</string>
@@ -70,6 +72,4 @@
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="activity_main_time_format">dd.MM.</string>
-  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
 </resources>

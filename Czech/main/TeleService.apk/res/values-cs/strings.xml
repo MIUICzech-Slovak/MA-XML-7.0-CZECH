@@ -458,6 +458,7 @@
   <string name="msim_sim_lock">Uzamknuta</string>
   <string name="msim_sim_radio_off">Deaktivována</string>
   <string name="msim_switch_data_conn_toast">Ujistěte se, že máte přístup k datovému připojení. Režim sítě byl změněn na preferování 4G sítí (nebo 3G sítí).</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 podporuje pouze GSM sítě. Preferovaný režim sítě byl změněn na 2G.</string>
   <string name="multi_category_disable">Více kategorií zakázáno</string>
   <string name="multi_category_enable">Více kategorií povoleno</string>
   <string name="name">Jméno</string>
@@ -824,6 +825,7 @@ Může to trvat i 5 min."</string>
   <string name="updating_settings">Probíhá aktualizace nastavení...</string>
   <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
   <string name="uplmn_list_setting_title">Preferované sítě</string>
+  <string name="uplmn_numeric_is_empty">Zadejte ID sítě</string>
   <string name="username_title">Uživatelské jméno</string>
   <string name="ussdRunning">Spouštění USSD kódu...</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -851,6 +853,4 @@ Může to trvat i 5 min."</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 podporuje pouze GSM sítě. Preferovaný režim sítě byl změněn na 2G.</string>
-  <string name="uplmn_numeric_is_empty">Zadejte ID sítě</string>
 </resources>

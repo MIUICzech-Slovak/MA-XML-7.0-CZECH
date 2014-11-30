@@ -189,6 +189,10 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_advance_settings">Rozšířené nastavení</string>
   <string name="pref_advanced_functions">Rozšířené funkce</string>
   <string name="pref_advanced_settings">Rozšířené</string>
+  <string name="pref_audio_focus_entry_front">Přední</string>
+  <string name="pref_audio_focus_entry_general">Normální</string>
+  <string name="pref_audio_focus_entry_rear">Zadní</string>
+  <string name="pref_audio_focus_title">Zaostření zvukem</string>
   <string name="pref_audio_indicator_entry_off">Zvyk vyp.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk zap.</string>
   <string name="pref_burst_shoot_title">Dávkové snímání</string>
@@ -242,13 +246,17 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000 sek.</string>
   <string name="pref_camera_exposuretime_entry_125">1/125 sek.</string>
   <string name="pref_camera_exposuretime_entry_15">1/15 sek.</string>
+  <string name="pref_camera_exposuretime_entry_16s">16s</string>
   <string name="pref_camera_exposuretime_entry_2">1/2 sek.</string>
   <string name="pref_camera_exposuretime_entry_250">1/250 sek.</string>
   <string name="pref_camera_exposuretime_entry_30">1/30 sek.</string>
+  <string name="pref_camera_exposuretime_entry_32s">32s</string>
   <string name="pref_camera_exposuretime_entry_4">1/4 sek.</string>
+  <string name="pref_camera_exposuretime_entry_4s">4s</string>
   <string name="pref_camera_exposuretime_entry_5000">1/5000 sek.</string>
   <string name="pref_camera_exposuretime_entry_60">1/60 sek.</string>
   <string name="pref_camera_exposuretime_entry_8">1/8 sek.</string>
+  <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_exposuretime_title">Čas expozice</string>
   <string name="pref_camera_facedetection_entry_off">Vypnuta</string>
@@ -257,6 +265,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Vypnutý</string>
   <string name="pref_camera_flashmode_entry_on">Zapnutý</string>
+  <string name="pref_camera_flashmode_entry_torch">Svítilna</string>
   <string name="pref_camera_flashmode_title">Režim blesku</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_continuous">Kontinuální</string>
@@ -296,6 +305,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostřit</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové snímání</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Podržení spouště</string>
+  <string name="pref_camera_long_pressing_shutter_title">Stiskněte a podržte spoušť pro zamknutí AE/AF/AWB</string>
   <string name="pref_camera_manual_mode_title">Manuální režim</string>
   <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
   <string name="pref_camera_multilevel_entry_high">Vysoké</string>
@@ -492,6 +502,8 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="show_images_only">Zobrazit fotografie</string>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="show_videos_only">Zobrazit videa</string>
+  <string name="simple_mode_button_asd_flash">Ukončit</string>
+  <string name="simple_mode_button_asd_hdr">Ukončit</string>
   <string name="simple_mode_button_text_4kuhd">Ukončit 4K</string>
   <string name="simple_mode_button_text_audio_capture">Ukončit zvukovou spoušť</string>
   <string name="simple_mode_button_text_chroma_flash">Ukončit</string>
@@ -560,16 +572,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="pref_camera_flashmode_entry_torch">Svítilna</string>
-  <string name="simple_mode_button_asd_flash">Ukončit</string>
-  <string name="simple_mode_button_asd_hdr">Ukončit</string>
-  <string name="pref_camera_long_pressing_shutter_title">Stiskněte a podržte spoušť pro zamknutí AE/AF/AWB</string>
-  <string name="pref_camera_exposuretime_entry_8s">8s</string>
-  <string name="pref_camera_exposuretime_entry_4s">4s</string>
-  <string name="pref_camera_exposuretime_entry_32s">32s</string>
-  <string name="pref_camera_exposuretime_entry_16s">16s</string>
-  <string name="pref_audio_focus_entry_front">Přední</string>
-  <string name="pref_audio_focus_entry_general">Normální</string>
-  <string name="pref_audio_focus_entry_rear">Zadní</string>
-  <string name="pref_audio_focus_title">Zaostření zvukem</string>
 </resources>

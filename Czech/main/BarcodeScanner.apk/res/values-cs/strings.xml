@@ -35,6 +35,7 @@
   <string name="launch_wechat">Spustit WeChat</string>
   <string name="name">Jméno:</string>
   <string name="nickname">Přezdívka:</string>
+  <string name="not_insert_contact">Nevkládat kontakt</string>
   <string name="not_recommend_access_web_url">Pokračovat dál (nedoporučeno)</string>
   <string name="not_tips">Znovu se neptat</string>
   <string name="note">Poznámka:</string>
@@ -78,5 +79,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že je tato síť bezpečná.</string>
-  <string name="not_insert_contact">Nevkládat kontakt</string>
 </resources>
