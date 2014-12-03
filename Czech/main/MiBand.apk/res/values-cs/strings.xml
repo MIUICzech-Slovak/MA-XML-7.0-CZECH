@@ -59,7 +59,7 @@ then tap Follow to complete sync."</string>
   <string name="bind_weixin_tips_1">Tap Generate QR code to generate and save a QR code in Gallery.</string>
   <string name="bind_weixin_tips_2">Tap Open Wechat, enter Scan QR code and tap Album to select the QR code saved.</string>
   <string name="bind_weixin_title">Link Wechat to share and compete with friends.</string>
-  <string name="birthday">Narodeniny</string>
+  <string name="birthday">Narozeniny</string>
   <string name="blue">Modrá</string>
   <string name="bluetooth">Bluetooth </string>
   <string name="body">Krk</string>
@@ -410,7 +410,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="remain_days_today_format">Méně, než jeden den od nabití</string>
   <string name="rename_mili">Název</string>
   <string name="reset_mili">Restartovat MiBand</string>
-  <string name="restart_bluetooth_tips">Reštartujte Bluetooth.</string>
+  <string name="restart_bluetooth_tips">Restartujte Bluetooth.</string>
   <string name="retry">Znovu</string>
   <string name="right_hand">Pravá ruka</string>
   <string name="runed">Zaběhnuté</string>
