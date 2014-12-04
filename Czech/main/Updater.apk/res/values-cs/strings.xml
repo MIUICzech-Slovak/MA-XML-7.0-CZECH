@@ -262,4 +262,15 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="auto_agree_clause">"Naše podmínky ochrany soukromí byly aktualizovány. "</string>
+  <string name="auto_button_examine">Zobrazit</string>
+  <string name="auto_button_examine_immediately">Zobrazit</string>
+  <string name="auto_button_sure_cancel">Zrušit</string>
+  <string name="auto_check_clause_button">Zobrazit</string>
+  <string name="auto_check_clause_msg">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
+  <string name="auto_dialog_msg">"Aktualizovali jsme naše podmínky o ochraně soukromí. Přečtěte si je pozorně, než aktualizujete systém. "</string>
+  <string name="auto_dialog_msg_check_again">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
+  <string name="auto_dialog_title_check_again">Zrušit aktualizaci?</string>
+  <string name="important_suggestion">Podmínky o ochraně soukromí byly změněny</string>
+  <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
 </resources>
