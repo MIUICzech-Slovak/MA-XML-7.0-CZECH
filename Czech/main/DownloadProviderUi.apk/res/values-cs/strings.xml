@@ -139,4 +139,5 @@
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="download_filesize_unknown">neznámé</string>
 </resources>
