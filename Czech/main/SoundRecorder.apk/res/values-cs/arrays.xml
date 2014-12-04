@@ -21,4 +21,9 @@
         <item>Hudba</item>
         <item>Lidský hlas</item>
     </string-array>
+    <string-array name="x5_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Lidský hlas</item>
+        <item>Rozhovor</item>
+    </string-array>
 </resources>
