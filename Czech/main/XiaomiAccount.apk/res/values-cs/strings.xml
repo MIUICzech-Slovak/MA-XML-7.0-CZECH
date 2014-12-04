@@ -324,4 +324,8 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
+  <string name="micloud_sync_state_need_wifi">Použít Wi-Fi pro synchr.</string>
+  <string name="micloud_sync_state_stop">Zastaveno</string>
+  <string name="micloud_sync_state_synced">Synchronizováno</string>
+  <string name="micloud_sync_state_syncing">Synchronizuje</string>
 </resources>
