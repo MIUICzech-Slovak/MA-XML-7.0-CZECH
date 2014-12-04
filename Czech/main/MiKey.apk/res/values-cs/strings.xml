@@ -259,4 +259,8 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="wallpaper_no_more">Neměnit tapetu</string>
   <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba ukládání fotografie!</string>
+  <string name="webpage_input_title">Vložit URL</string>
+  <string name="webpage_title">Otevřít web</string>
+  <string name="screenkey_title">Shield tlačítko</string>
+  <string name="mikey_sprite_toggle_title">MiKey průvodce otevřen</string>
 </resources>
