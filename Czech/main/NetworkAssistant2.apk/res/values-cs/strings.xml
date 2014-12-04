@@ -340,4 +340,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
+  <string name="traffic_config_alert_body_extra">"
+Bylo zakoupeno %1$s dodatečných dat tento měsíc. Manuálně zadáno %2$s."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
 </resources>
