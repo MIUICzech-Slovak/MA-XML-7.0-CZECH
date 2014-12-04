@@ -101,9 +101,12 @@
   <string name="timer_item_label_hint">Název časovače</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">s</string>
-  <string name="timer_message">%1$d min.</string>
-  <string name="timer_message_with_hour">%1$d hod. a %2$d min.</string>
-  <string name="timer_message_with_seconds">%1$d sekund</string>
+  <string name="timer_message">%1$d min a %2$d s</string>
+  <string name="timer_message_00">%1$d min a %2$d s</string>
+  <string name="timer_message_01">%1$d min a %2$d s</string>
+  <string name="timer_message_10">%1$d min a %2$d s</string>
+  <string name="timer_message_with_hour">%1$d hod a %2$d min</string>
+  <string name="timer_message_with_seconds">%1$d s</string>
   <string name="timer_new_item">Upravit</string>
   <string name="timer_notify_text">Odložit nebo zrušit časovač</string>
   <string name="timer_start_alarm">Časovač vypršel</string>
