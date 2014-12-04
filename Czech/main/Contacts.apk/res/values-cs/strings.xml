@@ -496,9 +496,9 @@ Chyba: \"%s\""</string>
   <string name="locale_change_in_progress">Seznam kontaktů se aktualizuje, aby se zohlednila změna jazyka.</string>
   <string name="login_ok">Přihlásit</string>
   <string name="lunarBirthdayLabelsGroup">Čínský kalendář</string>
-  <string name="lunar_calendar">农历</string>
-  <string name="lunar_leap">闰</string>
-  <string name="lunar_yue">月</string>
+  <string name="lunar_calendar">" "</string>
+  <string name="lunar_leap">" "</string>
+  <string name="lunar_yue">" "</string>
   <string name="make_primary">Pamatovat si tuto volbu</string>
   <string name="map_custom">Zobrazit adresu %s</string>
   <string name="map_home">Zobrazit adresu domů</string>
