@@ -518,7 +518,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_end_time">Konec</string>
   <string name="sport_running_gps_cancel">Zrušit</string>
   <string name="sport_running_gps_turnon">Zapnout</string>
-  <string name="sport_running_helper">Trenér běhání</string>
+  <string name="sport_running_helper">Běhání</string>
   <string name="sport_running_helper_test">Test běhání</string>
   <string name="sport_running_history">Historie</string>
   <string name="sport_running_history_no_data">N/A</string>
@@ -658,12 +658,12 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="welcom_back">Vítejte zpět!</string>
   <string name="welcome">Vítejte</string>
   <string name="wrong_system_time">Váš systémový čas není správný a ovlivní to fungování MiBand.</string>
-  <string name="year">Rok</string>
+  <string name="year"/>
   <string name="your_gender">Vaše pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
-  <string name="bind_devices">Vázat zařízení</string>
-  <string name="bind_mi_band">Vázat Mi Band</string>
+  <string name="bind_devices">Připojit zařízení</string>
+  <string name="bind_mi_band">Připojit Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.miuios.cz/miband&amp;gt;Web MiBand&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="lab_factory_cancel_deauthorize">Odpojit</string>
   <string name="lab_factory_item_group_open">OTEVŘENO</string>
@@ -675,7 +675,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_prompt_come_on">Go!!</string>
   <string name="sport_running_prompt_great">Výborně!!</string>
   <string name="sport_running_prompt_per_kilometer" formatted="false">Uběhnuto %s km. Spáleno %s. Tempo je %s.%s</string>
-  <string name="sport_running_real_time_pace">Aktuální tempo</string>
+  <string name="sport_running_real_time_pace">Tempo (m/km)</string>
   <string name="sport_running_resume">Pokračovat</string>
   <string name="sport_running_stop">Zastavit</string>
   <string name="state_authorization_error">Chyba autorizace!</string>
@@ -693,4 +693,12 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="user_agreement_ux">Přihlaste se do UX Improvement Program</string>
   <string name="weight_test_dynamic_detail">Váha: %1$s%2$s</string>
   <string name="weight_test_dynamic_title">%1$s</string>
+  <string name="disable_hidden_feature">Skrytá aktivita deaktivována</string>
+  <string name="dynamic_title_weight">Váha</string>
+  <string name="enable_hidden_feature">Skrytá aktivita aktivována</string>
+  <string name="sport_running_kilometers">km</string>
+  <string name="sport_running_kilometers_per_hour">km/h</string>
+  <string name="sport_running_per_kilometers">/km</string>
+  <string name="sport_running_speed_with_unit">Rychlost (km/h)</string>
+  <string name="unit_sec_short">s</string>
 </resources>
