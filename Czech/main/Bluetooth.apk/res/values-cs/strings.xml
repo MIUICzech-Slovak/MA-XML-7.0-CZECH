@@ -161,6 +161,4 @@
   <string name="bluetooth_search_for_devices">Hledání zařízení</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="progress_scanning">Hledání</string>
-  <string name="device_picker">Bluetooth zařízení</string>
-  <string name="progress_scanning">Hledání</string>
 </resources>
