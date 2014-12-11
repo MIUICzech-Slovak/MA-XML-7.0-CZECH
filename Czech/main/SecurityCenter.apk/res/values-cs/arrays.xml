@@ -46,4 +46,22 @@
         <item>Každé 3 dny</item>
         <item>Každých 7 dní</item>
     </string-array>
+    <string-array name="auto_process_mode">
+        <item>Upozornit</item>
+        <item>Vyčistit na pozadí</item>
+        <item>Upozornit po vyčištění</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Jednou</item>
+        <item>Denně</item>
+        <item>Pracovní dny (V Číně)</item>
+        <item>Po až Pá</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Jednou</item>
+        <item>Denně</item>
+        <item>Po až Pá</item>
+        <item>Vlastní</item>
+    </string-array>
 </resources>

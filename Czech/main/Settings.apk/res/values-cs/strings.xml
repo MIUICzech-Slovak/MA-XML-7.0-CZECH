@@ -2803,4 +2803,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="font_size_summary1"/>
+  <string name="font_size_summary2"/>
+  <string name="title_font">Písmo</string>
+  <string name="title_font_current">Používá se</string>
 </resources>
