@@ -282,7 +282,7 @@
   <string name="item_garbage_time_never">Nikdy</string>
   <string name="item_install_monitor">Kontrola instalace</string>
   <string name="item_mms">Filtrovat nežádoucí zprávy</string>
-  <string name="item_title_process_mode">Čuštění</string>
+  <string name="item_title_process_mode">Čištění</string>
   <string name="item_title_garbage_size">Velikost nepotřebných souborů</string>
   <string name="item_title_garbage_time">Upozornit</string>
   <string name="item_usb_debug">Ladění USB</string>
