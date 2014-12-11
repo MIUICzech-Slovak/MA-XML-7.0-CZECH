@@ -112,7 +112,11 @@
   <string name="paused_waiting_for_network">Čekání na připojení</string>
   <string name="paused_waiting_to_retry">Čekání na obnovení</string>
   <string name="period_of_validity">"Platnost: "</string>
-  <string name="pref_download_settings_title">Využití dat</string>
+  <string name="pref_download_settings_title">Využití mobilních dat</string>
+   <string name="privacy_tip_cancel">Zrušit</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
   <string name="pref_summary_any_bytes_popup">Stahovat pouze přes Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Při stahování pomocí mobilního internetu se zeptat, pokud soubor přesahuje povolený limit"</string>
   <string name="pref_summary_max_bytes_limit_format">Stáhnout přes Wi-Fi, pokud je soubor větší než %s</string>

@@ -45,4 +45,11 @@ Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+  <string name="privacy_notif_content">Zobrazit podrobnosti</string>
+  <string name="privacy_notif_title">Xunlei stahování je povoleno</string>
+  <string name="privacy_tip_cancel">Zrušit</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
+  <string name="task_already_exist">Úloha již existuje</string>
 </resources>

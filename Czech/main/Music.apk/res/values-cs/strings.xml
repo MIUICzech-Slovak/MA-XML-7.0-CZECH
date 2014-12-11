@@ -278,4 +278,7 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
+  <string name="bluetooth_device">Bluetooth zařízení</string>
+  <string name="device_connected">Připojeno</string>
+  <string name="device_not_connected">Nepřipojeno</string>
 </resources>

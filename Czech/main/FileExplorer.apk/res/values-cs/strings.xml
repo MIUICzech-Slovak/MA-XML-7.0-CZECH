@@ -129,6 +129,7 @@ Váš účet bude dočasně zablokovaný,
 Server je momentálně nedostupný, zkuste to znovu později
 "</string>
   <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
+  <string name="delete_dialog_button">Vymazat</string>
   <string name="load_err">Načítání selhalo</string>
   <string name="loading">Načítám...</string>
   <string name="local_cache_size">Velikost místní cache: %s</string>
