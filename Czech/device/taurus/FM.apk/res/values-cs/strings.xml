@@ -5,6 +5,7 @@
   <string name="access_sd_fail">Nelze načíst SD kartu</string>
   <string name="alert_dialog_cancel">Zrušit</string>
   <string name="alert_dialog_ok">OK</string>
+  <string name="alert_frequency_duplicate">Tato frekvence již existuje</string>
   <string name="alert_invalid_frequency">Nesprávná frekvence.</string>
   <string name="alert_message_delete_station">Opravdu chcete odstranit tuto stanici?</string>
   <string name="alert_title_delete">Odstranit</string>
@@ -147,7 +148,7 @@
   <string name="toast_fm_recorder_internal_error">Chyba nahrávání FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložiště je plné, nelze nahrávat</string>
   <string name="toast_fm_seeking">Vyhledávání stanic...</string>
-  <string name="toast_fm_starting">Spouští se FM，čekejte prosím...</string>
+  <string name="toast_fm_starting">Spouští se FM, čekejte prosím...</string>
   <string name="toast_fm_stoping">Ukončuje se FM, čekejte prosím...</string>
   <string name="toast_removed_from_presets">Odebrané</string>
   <string name="toast_save_station">%sMHz uloženo</string>

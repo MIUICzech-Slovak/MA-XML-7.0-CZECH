@@ -119,4 +119,6 @@ Opravdu chcete ukončit obnovování?"</string>
   <string name="stop_backup">Zastavit</string>
   <string name="v5tov6_complete">Konverze dokončena</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="button_continue">Pokračovat</string>
+  <string name="button_stop">Zastavit</string>
 </resources>

@@ -350,4 +350,6 @@ Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
   <string name="privacy_prompt_traffic_purchase_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Xiaomi server pro kontrolu množství navýšení objemu spotřeby dat.</string>
   <string name="privacy_prompt_upload">Bezpečnostní upozornění</string>
   <string name="tc_sms_report_get_default">Odeslaná SMS zpráva nebude zpoplatněna.</string>
+  <string name="show_traffic_dialog_message">Spotřeba vašich mobilních dat bude zobrazena v roletce. Toto nastavení můžete kdykoliv změnit v Spotřeba dat &gt; Nastavení</string>
+  <string name="show_traffic_dialog_title">Zobrazit spotřebu dat v roletce</string>
 </resources>

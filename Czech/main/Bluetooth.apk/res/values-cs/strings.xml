@@ -155,4 +155,12 @@
   <string name="upload_succ_line5">Soubor byl odeslán</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odeslání dokončeno.</string>
+  <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
+  <string name="bluetooth_preference_found_devices">Dostupné zařízení</string>
+  <string name="bluetooth_preference_scan_title">Vyhledat zařízení</string>
+  <string name="bluetooth_search_for_devices">Hledání zařízení</string>
+  <string name="device_picker">Bluetooth device chooser</string>
+  <string name="progress_scanning">Hledání</string>
+  <string name="device_picker">Bluetooth zařízení</string>
+  <string name="progress_scanning">Hledání</string>
 </resources>

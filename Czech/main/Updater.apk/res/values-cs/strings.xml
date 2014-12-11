@@ -273,4 +273,6 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="auto_dialog_title_check_again">Zrušit aktualizaci?</string>
   <string name="important_suggestion">Podmínky o ochraně soukromí byly změněny</string>
   <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
+  <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
+  <string name="notification_reboot_title_hm">Restartujte pro aktualizaci</string>
 </resources>

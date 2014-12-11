@@ -43,4 +43,5 @@
   <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
   <string name="using_camera_confirm_title">Podmínky používání</string>
+  <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
 </resources>
