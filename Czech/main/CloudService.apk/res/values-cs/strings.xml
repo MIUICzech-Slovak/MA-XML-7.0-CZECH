@@ -86,7 +86,7 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="i_know">OK</string>
   <string name="internet">Internet</string>
   <string name="internet_disconnected">Internet odpojen</string>
-  <string name="less_flow_mode">Režim Synchr.</string>
+  <string name="less_flow_mode">Použít mobilní data pro synchr.</string>
   <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
   <string name="loading">Načítání...</string>
   <string name="loading_hint">Načítání...</string>
@@ -179,7 +179,7 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="noRemind">Nepřipomínat</string>
   <string name="no_sim">Žádná SIM karta</string>
   <string name="normal">Normální</string>
-  <string name="only_in_wlan">Pouze přes Wi-Fi</string>
+  <string name="only_in_wlan">Vypnuto</string>
   <string name="other_settings">Další nastavení</string>
   <string name="password">Heslo</string>
   <string name="photo">Fotografií</string>
@@ -257,4 +257,5 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
    <string name="phone_number_may_required_dspt_provision">"Tato služba může vyžadovat vaše telefonní číslo. "</string>
   <string name="phone_number_required_dspt_provision">"Tato služba vyžaduje vaše telefonní číslo. "</string>
+  <string name="micloud_web_discription_international">Navštivte www.mi.com/micloud</string>
 </resources>
