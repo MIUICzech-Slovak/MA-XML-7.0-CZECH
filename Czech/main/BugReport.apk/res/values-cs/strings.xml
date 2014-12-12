@@ -113,4 +113,8 @@
   <string name="problem_solution">Řešení</string>
   <string name="problem_title">Poznámka</string>
   <string name="title_common_problem">Běžné chyby</string>
+  <string name="submit_dialog_cancel">Zrušit</string>
+  <string name="submit_dialog_confirm">Odeslat</string>
+  <string name="submit_dialog_content">Vaše hlášení bude odesláno na server Xiaomi.</string>
+  <string name="submit_dialog_title">Odeslat hlášení</string>
 </resources>
