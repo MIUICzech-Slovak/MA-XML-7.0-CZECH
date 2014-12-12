@@ -346,7 +346,7 @@
   <string name="msg_update_error_code_unknown_error">Neznámá chyba, zkuste to později!</string>
   <string name="never">Pouze jednou</string>
   <string name="notification_button_text_of_low_memory">Vyčistit</string>
-  <string name="notification_summary_after_auto_cleanup">Vyčištěno %s/string>
+  <string name="notification_summary_after_auto_cleanup">Vyčištěno %s</string>
   <string name="notification_summary_of_garbage_cleanup">Nepotřebné soubory zabírají %s. Doporučuje se vyčištění.</string>
   <string name="notification_summary_of_low_memory">V případě nedostatku místa se aplikace nenainstalují</string>
   <string name="notification_title_firewall_blocked">Blokováno</string>
