@@ -701,4 +701,27 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_per_kilometers">/km</string>
   <string name="sport_running_speed_with_unit">Rychlost (km/h)</string>
   <string name="unit_sec_short">s</string>
+  <string name="band">MiBand</string>
+  <string name="bind_weight_scale">Spárovat s váhou</string>
+  <string name="btn_confirm">Ano</string>
+  <string name="btn_continue">Ne</string>
+  <string name="btn_delete">Vymazat</string>
+  <string name="btn_save">Uložit</string>
+  <string name="running_no_track_desc">Nebyl zjištěn pohyb. Chcete to zrušit?</string>
+  <string name="running_set_pace_desc">MiBand bude vibrovat, když vaše tempo bude nižší, než je nastaveno</string>
+  <string name="running_short_track_desc">Prochozeno jen %d m. Chcete to zrušit?</string>
+  <string name="search_weight_scale">Vyhledat váhu</string>
+  <string name="search_weight_scale_info">Stůjte v blízkosti váhy</string>
+  <string name="set_unit">Zvolit jednotky</string>
+  <string name="sport_running_distance_unit">Vzdálenost(km)</string>
+  <string name="sport_running_gps_locating">Vyhledávání GPS...</string>
+  <string name="sport_running_lable_km_slowest">Nejpomalejší km</string>
+  <string name="sport_running_lable_miles_fastest">Nejrychlejší km</string>
+  <string name="sport_running_pace_lable">Tempo</string>
+  <string name="sport_running_set_pace">Nastavit tempo</string>
+  <string name="state_authorization_doing">Ověřování...</string>
+  <string name="state_deauthorization_doing">Odhlašování ...</string>
+  <string name="weight_device_list">Váhy v blízkosti</string>
+  <string name="weight_scale">Váha</string>
+  <string name="weight_unbinded">Odpojit od Váhy</string>
 </resources>
