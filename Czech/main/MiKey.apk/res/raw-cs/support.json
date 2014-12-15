@@ -1,18 +1,18 @@
 [ { "groupId" : 1,
-    "groupName" : "Aplikácia",
+    "groupName" : "Aplikace",
     "name" : "com.xiaomi.miclick.core.action.ToolboxAction",
     "sortId" : 1
   },
   { "groupId" : 1,
-    "groupName" : "Aplikace",
-    "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
-    "name" : "com.xiaomi.miclick.core.action.CapturePhotoAction",
-    "sortId" : 2
-  },
+      "groupName" : "Aplikace",
+      "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
+      "name" : "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+      "sortId" : 2
+    },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
-    "name" : "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
+    "name" : "com.xiaomi.miclick.core.action.CapturePhotoAction",
     "sortId" : 3
   },
   { "groupId" : 1,
@@ -21,12 +21,6 @@
     "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
     "sortId" : 4
   },
-  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
-      "groupId" : 1,
-      "groupName" : "Aplikace",
-      "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
-      "sortId" : 14
-    },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "mutex" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
@@ -44,10 +38,28 @@
     "sortId" : 6
   },
   { "groupId" : 1,
+      "groupName" : "Aplikace",
+      "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
+      "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
+      "sortId" : 7
+    },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
+      "groupId" : 1,
+      "groupName" : "Aplikace",
+      "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
+      "sortId" : 8
+    },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WebpageAction"],
+      "groupId" : 1,
+      "groupName" : "Aplikace",
+      "name" : "com.xiaomi.miclick.core.action.WebpageAction",
+      "sortId" : 9
+  },
+  { "groupId" : 1,
     "groupName" : "Aplikace",
     "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
     "name" : "com.xiaomi.miclick.core.action.Camera360CaptureAction",
-    "sortId" : 7
+    "sortId" : 10
   },
   { "dependence" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
         "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
@@ -56,163 +68,177 @@
     "groupId" : 1,
     "groupName" : "Aplikace",
     "name" : "com.xiaomi.miclick.core.action.Camera360EditAction",
-    "sortId" : 8
-  },
-  { "groupId" : 1,
-    "groupName" : "Aplikace",
-    "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
-    "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
-    "sortId" : 9
+    "sortId" : 11
   },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "name" : "com.xiaomi.miclick.core.action.CallAction",
-    "sortId" : 10
+    "sortId" : 12
   },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "name" : "com.xiaomi.miclick.core.action.SMSAction",
-    "sortId" : 11
+    "sortId" : 13
+  },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.MiTlačítkaSpriteToggleAction"],
+    "groupId" : 1,
+    "groupName" : "Aplikace",
+    "name" : "com.xiaomi.miclick.core.action.MiTlačítkaSpriteToggleAction",
+    "sortId" : 14
   },
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
       "groupId" : 1,
       "groupName" : "Aplikace",
       "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
-      "sortId" : 12
+      "sortId" : 15
     },
   { "groupId" : 1,
     "groupName" : "Aplikace",
     "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
-    "sortId" : 13
+    "sortId" : 16
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
+    "groupName" : "System",
     "name" : "com.xiaomi.miclick.core.action.ScreenShotAction",
     "sortId" : 1
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
+        "groupName" : "System",
+        "name" : "com.xiaomi.miclick.core.action.toggle.ScreenTlačítka",
+        "sortId" : 2
+  },
+  { "groupId" : 2,
+      "groupName" : "System",
+      "name" : "com.xiaomi.miclick.core.action.ClearMemoryAction",
+      "sortId" : 3
+  },
+  { "groupId" : 2,
+          "groupName" : "System",
+          "name" : "com.xiaomi.miclick.core.action.toggle.PrivacyMode",
+          "sortId" : 4
+  },
+  { "groupId" : 2,
+      "groupName" : "System",
+      "name" : "com.xiaomi.miclick.core.action.LockScreenAction",
+      "sortId" : 5
+  },
+  { "groupId" : 2,
+    "groupName" : "System",
     "name" : "com.xiaomi.miclick.core.action.ScreenRotateAction",
-    "sortId" : 2
-  },
-  { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.ClearMemoryAction",
-    "sortId" : 3
-  },
-  { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.LockScreenAction",
-    "sortId" : 4
-  },
-  { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.HomeAction",
-    "sortId" : 5
-  },
-  { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.MuteAction",
     "sortId" : 6
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.WiFi",
+    "groupName" : "System",
+    "name" : "com.xiaomi.miclick.core.action.MuteAction",
     "sortId" : 7
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.GPS",
-    "sortId" : 8
+      "groupName" : "System",
+      "name" : "com.xiaomi.miclick.core.action.toggle.WiFi",
+      "sortId" : 8
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.GPRS",
-    "sortId" : 9
+      "groupName" : "System",
+      "name" : "com.xiaomi.miclick.core.action.toggle.Bluetooth",
+      "sortId" : 9
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.Bluetooth",
-    "sortId" : 10
+      "groupName" : "System",
+      "name" : "com.xiaomi.miclick.core.action.toggle.GPRS",
+      "sortId" : 10
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.Flight",
+    "groupName" : "System",
+    "name" : "com.xiaomi.miclick.core.action.HomeAction",
     "sortId" : 11
   },
   { "groupId" : 2,
-    "groupName" : "Systém",
-    "name" : "com.xiaomi.miclick.core.action.toggle.NFC",
+    "groupName" : "System",
+    "name" : "com.xiaomi.miclick.core.action.toggle.GPS",
     "sortId" : 12
   },
-  { "groupId" : 3,
-    "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.PowerShortAction",
+  { "groupId" : 2,
+    "groupName" : "System",
+    "name" : "com.xiaomi.miclick.core.action.toggle.Flight",
     "sortId" : 13
   },
-  { "groupId" : 3,
-    "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.PowerLongAction",
+  { "groupId" : 2,
+    "groupName" : "System",
+    "name" : "com.xiaomi.miclick.core.action.toggle.NFC",
     "sortId" : 14
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.MenuShortAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.PowerShortAction",
+    "sortId" : 13
+  },
+  { "groupId" : 3,
+    "groupName" : "Tlačítka",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.PowerLongAction",
+    "sortId" : 14
+  },
+  { "groupId" : 3,
+    "groupName" : "Tlačítka",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.MenuShortAction",
     "sortId" : 15
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.MenuLongAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.MenuLongAction",
     "sortId" : 16
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.HomeShortAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.HomeShortAction",
     "sortId" : 17
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.HomeLongAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.HomeLongAction",
     "sortId" : 18
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.BackShortAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.BackShortAction",
     "sortId" : 19
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.BackLongAction",
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.BackLongAction",
     "sortId" : 20
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.PlayPauseAction",
-    "sortId" : 21
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.PlayPauseAction",
+    "sortId" : 21,
+    "deprecate" : true 
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.PlayNextAction",
-    "sortId" : 22
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.PlayNextAction",
+    "sortId" : 22,
+    "deprecate" : true 
   },
   { "groupId" : 3,
     "groupName" : "Tlačítka",
-    "name" : "com.xiaomi.miclick.core.action.key.PlayPrevAction",
-    "sortId" : 23
-  },
-     { "groupId" : 3,
-       "groupName" : "Tlačítka",
-       "name" : "com.xiaomi.miclick.core.action.key.DirectionAction",
-       "sortId" : 24
-     },
-        { "groupId" : 3,
-          "groupName" : "Tlačítka",
-          "name" : "com.xiaomi.miclick.core.action.key.EnterAction",
-          "sortId" : 25
+    "name" : "com.xiaomi.miclick.core.action.Tlačítka.PlayPrevAction",
+    "sortId" : 23,
+    "deprecate" : true 
   },
   { "groupId" : 3,
       "groupName" : "Tlačítka",
-      "name" : "com.xiaomi.miclick.core.action.key.SoundAction",
+      "name" : "com.xiaomi.miclick.core.action.Tlačítka.DirectionAction",
+      "sortId" : 24
+  },
+  { "groupId" : 3,
+      "groupName" : "Tlačítka",
+      "name" : "com.xiaomi.miclick.core.action.Tlačítka.EnterAction",
+      "sortId" : 25
+  },
+  { "groupId" : 3,
+      "groupName" : "Tlačítka",
+      "name" : "com.xiaomi.miclick.core.action.Tlačítka.SoundAction",
       "sortId" : 26
   }
 ]
+
