@@ -858,4 +858,5 @@ Velikost aplikace: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="attachment_stop_all">Zastavit</string>
 </resources>
