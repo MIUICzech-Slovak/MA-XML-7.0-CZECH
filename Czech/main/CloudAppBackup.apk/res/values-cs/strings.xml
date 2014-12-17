@@ -46,7 +46,7 @@
   <string name="cloud_app_load_data">Kontrola seznamu zálohovaných dat...</string>
   <string name="cloud_app_load_data_timeout">Čas na kontrolu dat z cloudu vypršel</string>
   <string name="cloud_app_loading_with_mobile_network_prompt">"Budou použita mobilní data, pokračovat?"</string>
-  <string name="cloud_app_mine">Stáhnuté aplikace</string>
+  <string name="cloud_app_mine">Vyberte aplikaci pro zálohu</string>
   <string name="cloud_app_no_data">Žádná data.</string>
   <string name="cloud_app_no_network">Síť není dostupná</string>
   <string name="cloud_app_no_wifi">Wi-Fi není dostupná</string>
@@ -59,7 +59,7 @@ Opravdu chcete zrušit mazání?"</string>
   <string name="cloud_app_remove_error">Vymazání selhalo.</string>
   <string name="cloud_app_remove_pending">Čekání...</string>
   <string name="cloud_app_remove_progress">Vymazávání...</string>
-  <string name="cloud_app_remove_prompt">%1$s dat bude vymazaných. Pokračovat?</string>
+  <string name="cloud_app_remove_prompt">%1$s dat bude vymazáno</string>
   <string name="cloud_app_remove_success">Aplikace vymazány</string>
   <string name="cloud_app_restore_action_bar_title">Zálohovaná data %1$s</string>
   <string name="cloud_app_restore_app_and_data">Obnovit aplikace a uživatelská data</string>
@@ -121,4 +121,24 @@ Opravdu chcete ukončit obnovování?"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="button_continue">Pokračovat</string>
   <string name="button_stop">Zastavit</string>
+  <string name="backup_size">Velikost: %s</string>
+  <string name="desktop_downloading">Stahování</string>
+  <string name="desktop_installing">Instalování</string>
+  <string name="desktop_recovering">Obnova</string>
+  <string name="desktop_waiting">Ve frontě...</string>
+  <string name="device_delete_prompt">Vymazat zálohu %s?</string>
+  <string name="error_unknown">Nastala chyba</string>
+  <string name="managespace_delete_backup">Vymazat zálohu</string>
+  <string name="managespace_total_space">Celkem: %s</string>
+  <string name="menu_item_managespace">Správa prostoru</string>
+  <string name="menu_item_sort">Seřadit podle</string>
+  <string name="menu_item_sort_name">Názvu</string>
+  <string name="menu_item_sort_size">Velikosti</string>
+  <string name="open_wifi">Zapnout Wi-Fi</string>
+  <string name="open_wifi_description">Obnovení aplikací a dat vyžaduje připojení na Wi-Fi.</string>
+  <string name="open_wifi_setting">Nastavit Wi-Fi</string>
+  <string name="recover_from_micloud">Obnovit z MiCloud</string>
+  <string name="select_backup_data">Vyberte zálohovaná data</string>
+  <string name="v5_data">V5 data</string>
+  <string name="v5_delete">vymazat V5 data</string>
 </resources>
