@@ -117,4 +117,6 @@
   <string name="submit_dialog_confirm">Odeslat</string>
   <string name="submit_dialog_content">Vaše hlášení bude odesláno na server Xiaomi.</string>
   <string name="submit_dialog_title">Odeslat hlášení</string>
+  <string name="bugreport_tool_log_toast">Záznam uložen do %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Vytváření záznamu o chybě (trvá zhruba 1 minutu)</string>
 </resources>
