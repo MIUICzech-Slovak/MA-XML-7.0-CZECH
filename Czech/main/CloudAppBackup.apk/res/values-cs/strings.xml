@@ -141,4 +141,5 @@ Opravdu chcete ukončit obnovování?"</string>
   <string name="select_backup_data">Vyberte zálohovaná data</string>
   <string name="v5_data">V5 data</string>
   <string name="v5_delete">vymazat V5 data</string>
+  <string name="name_model">"%1$s %2$s"</string>
 </resources>
