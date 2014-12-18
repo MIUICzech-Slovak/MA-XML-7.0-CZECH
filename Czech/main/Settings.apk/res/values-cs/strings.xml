@@ -2853,4 +2853,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   Aplikovat změny?"</string>
   <string name="page_layout_confirm_title">Změnit rozložení</string>
   <string name="title_layout_current">Použité rozložení</string>
+  <string name="local_auto_backup_off">Vyp</string>
+  <string name="local_auto_backup_on">Zap</string>
+  <string name="local_auto_backup_section_title">Auto. zálohy</string>
 </resources>
