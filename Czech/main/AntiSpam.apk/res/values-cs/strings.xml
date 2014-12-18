@@ -180,7 +180,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="report_success">Zpráva nahlášena</string>
   <string name="sim_not_ready">SIM karta není připravena</string>
   <string name="sms_delete_hint">Vymazat všechny blokované SMS z vybraného čísla?</string>
-  <string name="special_number_group">Blokovat speciální čísla</string>
+  <string name="special_number_group">Blokovat nahlášená čísla</string>
   <string name="st_advanced_setting_group">Rozšířené</string>
   <string name="st_antispam_black_adress_add">Blokovaný region (Pouze Čína)</string>
   <string name="st_antispam_bw_adress_add">Povolený region (Pouze Čína)</string>
