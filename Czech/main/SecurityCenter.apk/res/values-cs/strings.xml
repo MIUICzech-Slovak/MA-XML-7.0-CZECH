@@ -191,8 +191,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Paměť</string>
   <string name="handle_text_system">Systém</string>
-  <string name="header_antivirus">Používáním této funkce souhlasíte s Podmínkami používání Tencent.</string>
-  <string name="header_optimizer">Používáním této funkce souhlasíte s Podmínkami používání Clean Master.</string>
+  <string name="header_antivirus">Používáním této funkce souhlasíte s Podmínkami používání Tencent %s</string>
+  <string name="header_optimizer">Používáním této funkce souhlasíte s Podmínkami používání Clean Master %s</string>
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Instalační apk: %d</string>
   <string name="hints_apk_version">Verze: %s</string>
