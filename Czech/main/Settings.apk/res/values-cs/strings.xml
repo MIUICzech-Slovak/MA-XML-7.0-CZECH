@@ -1149,7 +1149,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="location_title">Moje poloha</string>
   <string name="lock_after_timeout">Automaticky zamknout</string>
   <string name="lock_after_timeout_summary">%1$s po přechodu do spánku</string>
-  <string name="lock_screen_unlock_show">Zobraz heslo displeje přímo</string>
+  <string name="lock_screen_unlock_show">Zobrazit heslo displeje okamžitě</string>
   <string name="lock_screen_unlock_show_summary">"Nepoužívat jiné zamykání displeje"</string>
   <string name="lock_settings">Zámek displeje</string>
   <string name="lock_settings_common_title">Nastavení zámku</string>
