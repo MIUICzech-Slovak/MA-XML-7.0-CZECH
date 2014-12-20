@@ -1919,7 +1919,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="show_background_processes">Zobrazit mezipaměť</string>
   <string name="show_cpu_usage">Zobrazit využití CPU</string>
   <string name="show_cpu_usage_summary">Překryvná vrstva s aktuálním využitím procesoru</string>
-  <string name="show_dev_already">Není potřeba, již jste vývojář.</string>
+  <string name="show_dev_already">Již jste vývojář</string>
   <string name="show_dev_on">Voilà! Stal se z vás vývojář.</string>
   <string name="show_fc">Zobrazovat pády aplikací</string>
   <string name="show_fc_summary">Zobrazovat informace o pádu aplikace</string>
