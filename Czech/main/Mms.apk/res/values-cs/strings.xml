@@ -138,7 +138,7 @@
   <string name="error_state">Nekonzistentní stav</string>
   <string name="error_state_text">Vazby mezi zprávami a příjemci jsou nekonzistentní. Získejte chybové hlášení a odešlete ho na android-sms-bugs@google.com.</string>
   <string name="error_timed_msg">Zadejte platný čas!</string>
-  <string name="ex_type_mx">Cloudové Zprávy</string>
+  <string name="ex_type_mx">Cloudové zprávy</string>
   <string name="ex_type_sms">SMS</string>
   <string name="exceed_message_size_limitation">Byl dosažen limit velikosti zprávy.</string>
   <string name="expire_on">Platnost vyprší: %s</string>
@@ -254,7 +254,7 @@
   <string name="mx_activate_popup_msg">Cloud zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
   <string name="mx_activation_done">Cloud zprávy jsou povoleny</string>
   <string name="mx_auto_resend_mms">Auto. odeslání MMS</string>
-  <string name="mx_auto_resend_mms_summary">Odeslat jako MMS, pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno Vaším operátorem.</string>
+  <string name="mx_auto_resend_mms_summary">Odeslat jako MMS, pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno vaším operátorem.</string>
   <string name="mx_auto_resend_sms">Poslat jako SMS</string>
   <string name="mx_auto_resend_sms_summary">Poslat jako SMS, pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
   <string name="mx_btn_enable">Zapnout</string>
