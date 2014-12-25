@@ -2,7 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="agree">Souhlasím</string>
-  <string name="congratulation_label">Užijte si svůj nový telefon s miuios.cz :)</string>
+  <string name="congratulation_label"/>
   <string name="congratulation_next">Spustit MIUI</string>
   <string name="disagree">Odmítnout</string>
   <string name="ime_privacy_policy">Podmínky soukromí zvolené klávesnice</string>
@@ -45,4 +45,9 @@
   <string name="terms_of_use_label">Musíte souhlasit s Podmínkami používání a Podmínkami soukromí pokud chcete používat MIUI</string>
   <string name="user_agreement">Podmínky používání</string>
   <string name="welcome">Vítejte</string>
+  <string name="title_congratulation">Užijte si svůj nový telefon s miuios.cz :)</string>
+  <string name="page_layout_label">Nastavit velikost textu a rozložení plochy, přepínačů, číselníku a dalších.</string>
+  <string name="page_layout_title">Rozložení systému</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Restart</string>
 </resources>

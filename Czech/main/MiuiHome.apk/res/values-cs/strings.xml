@@ -222,4 +222,35 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
+  <string name="apply_action">Použít</string>
+  <string name="apply_as_lock_screen">Zámek</string>
+  <string name="apply_as_wallpaper">Plocha</string>
+  <string name="apply_both">Plocha i zámek</string>
+  <string name="choose_wallpaper">Vyberte tapetu</string>
+  <string name="current_preview">Náhled</string>
+  <string name="delete">Vymazat</string>
+  <string name="delete_wallpaper_message">Vymazat tapetu (%1$d)?</string>
+  <string name="delete_wallpapers_message">Vymazat tapety (%1$d)?</string>
+  <string name="disable_wallpaper_scroll">Zakázat posouvání tapety</string>
+  <string name="editing_mode_title">Vybráno: %1$d</string>
+  <string name="enable_wallpaper_scroll">Povolit posouvání tapety</string>
+  <string name="gadget_calculator_label">Kalkulačka</string>
+  <string name="gadget_calendar_label">Kalendář</string>
+  <string name="gadget_notes_label">Poznámky</string>
+  <string name="is_setting_wallpaper_toast">Nastavování tapety...</string>
+  <string name="is_system_wallpaper_message">Nelze vymazat systémové soubory</string>
+  <string name="local_wallpaper">Lokální</string>
+  <string name="mi_wallpaper">Mi Tapeta</string>
+  <string name="setting_wallpaper_tip">Posuňte nebo zvětšete</string>
+  <string name="show_all">Zobrazit vše</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">Odinstalovat %s a %d dalších apl.?</string>
+  <string name="uninstall_result_failed">Nelze odinstalovat %s</string>
+  <string name="uninstall_result_multi_succeeded">Odinstalované apl. (%1$d)</string>
+  <string name="uninstall_result_other_failed" formatted="false">Nelze odinstalovat %s a %d dalších apl.</string>
+  <string name="uninstall_result_succeeded">Apl. odinstalovány</string>
+  <string name="uninstall_result_two_failed">Nelze odinstalovat %s a 1 další apl.</string>
+  <string name="wallpaper">Tapeta</string>
+  <string name="wallpaper_failed_message">Nelze nastavit tapetu</string>
+  <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="wallpaper_success_message">Tapeta nastavena</string>
 </resources>

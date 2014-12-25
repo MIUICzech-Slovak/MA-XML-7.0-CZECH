@@ -2849,11 +2849,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="page_layout_7">Poznámky</string>
   <string name="page_layout_8">Kalendář</string>
   <string name="page_layout_9">E-mail</string>
-  <string name="page_layout_confirm_message">"Hustota displeje byla změněna a rozložení plochy bude aktualizováno.
-  Aplikovat změny?"</string>
+  <string name="page_layout_confirm_message">Vaše zařízení je nutné restartovat pro aplikování změn</string>
   <string name="page_layout_confirm_title">Změnit rozložení</string>
   <string name="title_layout_current">Použité rozložení</string>
   <string name="local_auto_backup_off">Vyp</string>
   <string name="local_auto_backup_on">Zap</string>
   <string name="local_auto_backup_section_title">Auto. zálohy</string>
+  <string name="volume_hifi_description">Nastavení Hi-Fi</string>
+  <string name="provision_page_layout_confirm_message">Vaše zařízení je nutné restartovat pro aplikování změn.</string>
 </resources>
