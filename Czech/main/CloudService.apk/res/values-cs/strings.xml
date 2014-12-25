@@ -201,7 +201,6 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="success_upgraded_space">%s přidáno</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
-  <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a mnohem více. Vaše zálohovaná data můžete zobrazit i na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
