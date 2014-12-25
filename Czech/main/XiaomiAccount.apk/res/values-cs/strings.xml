@@ -494,6 +494,6 @@ Zkontrolujte také složku SPAM."</string>
   <string name="phone_unknown">Neznámé</string>
   <string name="remove_device_success_notice">Pokud odeberete toto zařízení z důvěryhodných, budete muset ověřit toto zařízení znovu po dalším přihlášení.</string>
   <string name="remove_trust_btn">Odebrat z důvěryhodných zařízení</string>
-  <string name="remove_trust_notice">Odebrat z důvěryhodných zařízení a odhlásit se</string>
+  <string name="remove_trust_notice">Odebrat z důvěryhodných zařízení a odhlásit</string>
   <string name="rename_current_device">Změnit název zařízení</string>
 </resources>
