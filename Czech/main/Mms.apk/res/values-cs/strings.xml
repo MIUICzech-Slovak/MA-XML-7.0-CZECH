@@ -528,4 +528,18 @@ Pokus: %s."</string>
   <string name="mx_activate_dlg_title">Aktivovat Cloudové zprávy</string>
   <string name="mx_activate_user_agreement_p1">"Používáním této služby souhlasíte s "</string>
   <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
+  <string name="audio_download_failed">Stahování nahrávky selhalo</string>
+  <string name="cannot_resend_audio">Nelze odeslat nahrávku</string>
+  <string name="downloading_file_can_not_play">Počkejte na stažení nahrávky</string>
+  <string name="guild_msim_switcher">Změnit SIM kartu</string>
+  <string name="left_cancel">Potáhněte doleva pro zrušení</string>
+  <string name="menu_send_as_common">Odeslat jako SMS</string>
+  <string name="message_sent">Odesláno</string>
+  <string name="playing_failed">Nelze přehrát</string>
+  <string name="press_recording">Stiskněte a podržte ikonu mikrofonu pro nahrávání</string>
+  <string name="recording_failed">Nelze nahrát</string>
+  <string name="release_cancel">Pusťte pro ukončení</string>
+  <string name="resource_price_free">Zdarma</string>
+  <string name="sdcard_has_not_enough_space">Na úložišti není dostatek místa</string>
+  <string name="warning_show">Odeslat za %ds</string>
 </resources>

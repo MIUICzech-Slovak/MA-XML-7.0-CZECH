@@ -57,9 +57,7 @@
   <string name="find_device_dspt">Zablokovat nebo vymazat toto zařízení na dálku.</string>
   <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, jděte na "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_3">" pro vyhledání, uzamknutí nebo jeho vymazání.
-
-Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
+  <string name="find_device_dspt_provision_3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="find_device_enabling">Zapínání...</string>
   <string name="find_device_error_network">Síť je nedostupná</string>
   <string name="find_device_error_server">Chyba serveru</string>
@@ -205,10 +203,7 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
   <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a mnohem více. Vaše zálohovaná data můžete zobrazit i na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision3">".
-
-Tuto službu můžete aktivovat nebo zakázat v Nastavení.
-"</string>
+  <string name="sync_dspt_provision3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
   <string name="sync_item_calllog_title">Seznam hovorů</string>
   <string name="sync_item_sms_summary">Přečtené SMS budou automaticky synchronizované</string>
@@ -255,7 +250,15 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_title">"Zřejmě bola změněna SIM karta. Přihlaste se
 do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
-   <string name="phone_number_may_required_dspt_provision">"Tato služba může vyžadovat vaše telefonní číslo. "</string>
+  <string name="phone_number_may_required_dspt_provision">"Tato služba může vyžadovat vaše telefonní číslo. "</string>
   <string name="phone_number_required_dspt_provision">"Tato služba vyžaduje vaše telefonní číslo. "</string>
   <string name="micloud_web_discription_international">Navštivte www.mi.com/micloud</string>
+  <string name="mx_dspt_provision_privacy">"Tato služba vyžaduje vaše telefonní číslo. Bude odeslána mezinárodní SMS pro aktivaci.
+Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
+  <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS nebo vyhledejte vaše zařízení.</string>
+  <string name="sync_dspt_entrance_provision_2">Více</string>
+  <string name="sync_dspt_provision">"Synchr.
+Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
+  <string name="sync_resend_sms_dspt_provision">. Pokud změníte SIM kartu, bude odeslána mezinárodní SMS pro její aktivaci.</string>
 </resources>
