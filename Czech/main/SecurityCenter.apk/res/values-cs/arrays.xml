@@ -64,4 +64,10 @@
         <item>Po až Pá</item>
         <item>Vlastní</item>
     </string-array>
+    <string-array name="auto_memory_clean">
+        <item>za 1 minutu</item>
+        <item>za 5 minut</item>
+        <item>za 10 minut</item>
+        <item>Nikdy</item>
+    </string-array>
 </resources>
