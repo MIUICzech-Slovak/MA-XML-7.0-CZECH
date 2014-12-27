@@ -379,7 +379,7 @@
   <string name="power_center_auto_shutdown">Automaticky Zap/Vyp</string>
   <string name="power_center_auto_shutdown_summary_default">Čas vypnutí nebo zapnutí zařízení</string>
   <string name="power_center_battery_full">Baterie plně nabita</string>
-  <string name="power_center_charge_time">Nabíjení bude dokončeno za %1$s</string>
+  <string name="power_center_charge_time">Baterie nabita za %1$s</string>
   <string name="power_center_consume_rank">Spotřeba</string>
   <string name="power_center_consume_time">Zbývá %1$s</string>
   <string name="power_center_custom_summary_default">Optimalizace nastavení, šetření baterie</string>

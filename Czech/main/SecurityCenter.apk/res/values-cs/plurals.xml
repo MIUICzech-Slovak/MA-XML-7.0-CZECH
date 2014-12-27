@@ -9,8 +9,8 @@
         <item quantity="one">"%d h "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
+        <item quantity="other">"%d m "</item>
+        <item quantity="one">"%d m "</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Dostupné aktualizace pro %d apl.</item>
