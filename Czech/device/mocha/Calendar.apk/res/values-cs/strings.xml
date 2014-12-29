@@ -51,8 +51,8 @@
 • Přístup z jakéhokoliv webového prohlížeče
 • Bezpečné zálohování událostí"</string>
   <string name="create_event_dialog_save">Uložit</string>
-  <string name="creating_event">Událost byla vytvořena.</string>
-  <string name="creating_event_with_guest">Pozvánky byly odeslány.</string>
+  <string name="creating_event">Událost byla vytvořena</string>
+  <string name="creating_event_with_guest">Pozvánky byly odeslány</string>
   <string name="custom">Vlastní (nelze upravit v telefonu)</string>
   <string name="daily">Denně</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>

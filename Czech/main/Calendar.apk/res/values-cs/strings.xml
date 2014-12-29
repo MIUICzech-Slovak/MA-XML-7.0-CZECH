@@ -66,8 +66,8 @@
   <string name="copy_email">Kopírovat e-mailovou adresu</string>
   <string name="copy_number">Kopírovat číslo telefonu</string>
   <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n • Přístup z jakéhokoliv webového prohlížeče\n • Bezpečné zálohování událostí"</string>
-  <string name="creating_event">Událost byla vytvořena.</string>
-  <string name="creating_event_with_guest">Pozvánky byly odeslány.</string>
+  <string name="creating_event">Událost byla vytvořena</string>
+  <string name="creating_event_with_guest">Pozvánky byly odeslány</string>
   <string name="cta_notice_checkbox">Znovu se neptat</string>
   <string name="cta_notice_message">\"Upozornění narozenin\" v kalendáři vás upozorní na narozeniny vašich kontaktů, ale je k nim nutné povolit přístup. Souhlasíte?</string>
   <string name="cta_notice_ok">OK</string>
