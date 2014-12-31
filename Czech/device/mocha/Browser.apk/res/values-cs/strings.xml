@@ -332,6 +332,7 @@
   <string name="miuichromium_save_password_never">Nikdy</string>
   <string name="miuichromium_save_password_notnow">Nyní ne</string>
   <string name="miuichromium_save_password_remember">Zapamatovat</string>
+  <string name="month_picker_dialog_title">Vyberte měsíc</string>
   <string name="move_to_up_folder">O úroveň výše</string>
   <string name="multi_select_title">Vybraných %1$s</string>
   <string name="name">Název</string>
