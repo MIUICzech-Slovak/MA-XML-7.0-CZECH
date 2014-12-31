@@ -355,7 +355,7 @@ Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
   <string name="daily_limit_network_available_body">Zobrazit využití dat</string>
   <string name="daily_limit_over_message">Byl překročen denní limit</string>
   <string name="five_percent_total_pkg">%s (5%% z měsíčního objemu dat)</string>
-  <string name="pref_title_over_traffic_limit_warning">Odpojit mobilní data po překročení limitu</string>
+  <string name="pref_title_over_traffic_limit_warning">Po překročení</string>
   <string name="pref_title_traffic_limit_number">Objem</string>
   <string name="reach_daily_limit_value_body">Omezte vaši spotřebu mobilních dat</string>
   <string name="reach_daily_limit_value_title">Byl dosažen váš denní limit dat</string>
