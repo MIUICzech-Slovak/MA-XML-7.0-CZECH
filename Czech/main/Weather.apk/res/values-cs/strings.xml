@@ -17,10 +17,10 @@
   <string name="activity_find_city_dialog_message">Použít aktuální polohu</string>
   <string name="activity_find_city_dialog_set">Nastavení</string>
   <string name="activity_find_city_dialog_title">Poloha</string>
-  <string name="activity_main_refresh_time">Aktualizováno %1$s</string>
+  <string name="activity_main_refresh_time">Aktualizováno: %1$s</string>
   <string name="activity_main_refresh_timeout">Aktual. se nezdařila</string>
   <string name="activity_main_time_format">dd.MM.</string>
-  <string name="activity_main_update_time">Aktualizováno %1$s</string>
+  <string name="activity_main_update_time">Aktualizováno: %1$s</string>
   <string name="activity_main_update_time_right_now">Nyní</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Získávání polohy...</string>

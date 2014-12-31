@@ -342,7 +342,7 @@ Postupujte dle pokynů"</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Žádná akce</item>
-        <item>Spustit RAM manažer</item>
+        <item>Zobrazit naposledy spuštěné apl.</item>
         <item>Spustit Hlasový asistent</item>
         <item>Spustit Google Now</item>
         <item>Ukončit otevřenou aplikaci</item>

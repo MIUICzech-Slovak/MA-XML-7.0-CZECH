@@ -1872,7 +1872,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="security_keyguard_category_name">Zámek</string>
   <string name="security_password_category_name">Heslo</string>
   <string name="security_passwords_title">Hesla</string>
-  <string name="security_privacy_settings_title">Soukromí</string>
+  <string name="security_privacy_settings_title">Zabezpečení</string>
   <string name="security_relative">Bezpečnost</string>
   <string name="security_settings_billing_desc">Tato aplikace vám může účtovat poplatky:</string>
   <string name="security_settings_desc">Tato aplikace má přístup k následujícím funkcím zařízení:</string>
@@ -2249,8 +2249,8 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="unmount_inform_text">Úložiště USB bude odpojeno.</string>
   <string name="untitled_apn">Bez názvu</string>
   <string name="update_progress_for_updates">Aktualizace（%s）</string>
-  <string name="upload_debug_log_summary">Odešlete záznam debug a pomozte vývojářům stvořit stabilnější a lepší MIUI ROM. Děkujeme!</string>
-  <string name="upload_debug_log_title">Odeslat záznam debug</string>
+  <string name="upload_debug_log_summary">Odešlete záznam o chybě a pomozte vývojářům stvořit stabilnější a lepší MIUI ROM. Děkujeme!</string>
+  <string name="upload_debug_log_title">Odeslat záznam o chybě</string>
   <string name="usage_log">Statistika využití aplikací</string>
   <string name="usage_name_percent">%1$s – %2$s %%</string>
   <string name="usage_stats_label">Statistika použití</string>

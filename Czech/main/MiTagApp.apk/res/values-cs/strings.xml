@@ -204,4 +204,12 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="fail_get_contact_info">Nelze načíst podrobnosti o kontaktu. Zkontrolujte, zda aplikace NFC má povolen přístup ke kontaktům.</string>
+  <string name="two_minutes">2 minuty</string>
+  <string name="thir_seconds">30 sekund</string>
+  <string name="ten_minutes">10 minut</string>
+  <string name="one_minute">1 minuta</string>
+  <string name="never">Nikdy</string>
+  <string name="five_minutes">5 minut</string>
+  <string name="fif_seconds">15 sekund</string>
 </resources>
