@@ -352,4 +352,14 @@ Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
   <string name="tc_sms_report_get_default">Odeslaná SMS zpráva nebude zpoplatněna.</string>
   <string name="show_traffic_dialog_message">Spotřeba vašich mobilních dat bude zobrazena v roletce. Toto nastavení můžete kdykoliv změnit v Spotřeba dat &gt; Nastavení</string>
   <string name="show_traffic_dialog_title">Zobrazit spotřebu dat v roletce</string>
+  <string name="daily_limit_network_available_body">Zobrazit využití dat</string>
+  <string name="daily_limit_over_message">Byl překročen denní limit</string>
+  <string name="five_percent_total_pkg">%s (5%% z měsíčního objemu dat)</string>
+  <string name="pref_title_over_traffic_limit_warning">Odpojit mobilní data po překročení limitu</string>
+  <string name="pref_title_traffic_limit_number">Objem</string>
+  <string name="reach_daily_limit_value_body">Omezte vaši spotřebu mobilních dat</string>
+  <string name="reach_daily_limit_value_title">Byl dosažen váš denní limit dat</string>
+  <string name="ten_percent_total_pkg">%s (10%% z měsíčního objemu dat)</string>
+  <string name="three_percent_total_pkg">%s (3%% z měsíčního objemu dat)</string>
+  <string name="title_limit_traffic_per_day">Denní limit mobilních dat</string>
 </resources>

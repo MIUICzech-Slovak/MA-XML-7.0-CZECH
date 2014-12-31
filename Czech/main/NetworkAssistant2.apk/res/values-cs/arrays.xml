@@ -55,4 +55,13 @@
         <item>"Mobilní data "</item>
         <item>"Wi-Fi "</item>
     </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Zobrazit varování</item>
+        <item>Varovat a odpojit od mobilních dat</item>
+    </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 MB</item>
+        <item>2 MB</item>
+        <item>3 MB</item>
+    </string-array>
 </resources>
