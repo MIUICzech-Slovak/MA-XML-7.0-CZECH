@@ -298,4 +298,8 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="loding">Načítání dat</string>
+  <string name="report">Nahlásit</string>
+  <string name="report_warning">Nahlásit %1$s SMS do Xiaomi? Tyto zprávy a telefonní čísla budou odeslány na Xiaomi server pro jejich analýzu.</string>
+  <string name="report_warning_title">Nahlásit SMS</string>
 </resources>

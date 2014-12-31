@@ -2857,4 +2857,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="local_auto_backup_section_title">Auto. zálohy</string>
   <string name="volume_hifi_description">Nastavení Hi-Fi</string>
   <string name="provision_page_layout_confirm_message">Vaše zařízení je nutné restartovat pro aplikování změn.</string>
+  <string name="handy_mode">Ovládání jednou rukou</string>
+  <string name="handy_mode_enable">Ovládání jednou rukou</string>
+  <string name="handy_mode_size">Velikost zmenšení</string>
+  <string name="handy_mode_tips">Posuňte prstem doleva nebo doprava ze středního tlačítka DOMŮ pro zmenšení displeje.</string>
 </resources>
