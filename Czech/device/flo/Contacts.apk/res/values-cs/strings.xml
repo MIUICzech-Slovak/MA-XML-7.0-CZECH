@@ -853,7 +853,6 @@ Synchronizujte je nyní."</string>
   <string name="set_default">Nastavit výchozí</string>
   <string name="set_photo_failed_msg">Nastavení avatara selhalo</string>
   <string name="share_error">Tento kontakt nemůže být sdílen.</string>
-  <string name="share_over_limit">Nad limit, nelze sdílet</string>
   <string name="share_via">Sdílet přes</string>
   <string name="share_visible_contacts">Sdílet kontakty</string>
   <string name="shortcutActivityTitle">Výběr zkratky kontaktu</string>
