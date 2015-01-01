@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+  <string name="alarm_sound_default">Výchozí tón budíku</string>
+  <string name="app_label">Úložiště médií</string>
+  <string name="artist_label">Umělec</string>
+  <string name="notification_sound_default">Výchozí tón upozornění</string>
+  <string name="ringtone_default">Výchozí zvonění</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Obrázky</string>
+  <string name="root_videos">Videa</string>
+  <string name="uid_label">Média</string>
+  <string name="upgrade_msg">Aktualizování databáze médií.</string>
+</resources>

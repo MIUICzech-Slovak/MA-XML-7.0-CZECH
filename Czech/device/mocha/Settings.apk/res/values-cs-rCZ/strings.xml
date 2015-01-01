@@ -1444,7 +1444,10 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="manageapplications_settings_summary">Umožňuje spravovat a odebírat instalované aplikace</string>
   <string name="manageapplications_settings_title">Spravovat aplikace</string>
   <string name="manually_add_network">Přidat síť manuálně</string>
-  <string name="master_clear_accounts">Aktuálně jste přihlášeni do následujících účtů:</string>
+  <string name="master_clear_accounts">"
+  
+Aktuálně jste přihlášeni do následujících účtů:
+"</string>
   <string name="master_clear_all">"Opravdu chcete telefon vrátit do továrního nastavení? Pozor, tuto operaci nelze vrátit zpět!"</string>
   <string name="master_clear_button_text">Resetovat zařízení</string>
   <string name="master_clear_confirm_title">Resetovat?</string>
@@ -1654,7 +1657,6 @@ Zvolte Váš operační systém:"</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Dále</string>
   <string name="msd_install_retry_connect">Znovu připojte USB kabel.</string>
-  <string name="msd_install_retry_linux">"Pokud počítač nenašel Váš telefon, zkuste následující:</string>
   <string name="msd_install_retry_reinstall">Přeinstalovat ovladač.</string>
   <string name="msd_install_retry_reinstall_mac">"Vyhledejte Android File Transfer
 a spusťte jej."</string>
@@ -2154,6 +2156,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
  "vypnuté upozornění aplikací,"
  "výchozí aplikace pro dané akce,"
  "omezení týkající se použití dat na pozadí v aplikacích."
+ "Jakékoliv omezení povolení"
 
  Žádné aplikace se nesmažou."</string>
   <string name="reset_app_preferences_title">Obnovit nastavení apl.?</string>
