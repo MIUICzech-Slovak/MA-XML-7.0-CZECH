@@ -131,8 +131,6 @@
   <string name="turn_off_xunlei_message">Může způsobit pomalejší stahování dat.</string>
   <string name="turn_off_xunlei_tips">Xunlei stahování je deaktivováno</string>
   <string name="turn_off_xunlei_title">Deaktivovat Xunlei stahování</string>
-  <string name="unbind_xunlei_2_success">Xunlei Account added</string>
-  <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
   <string name="unbind_xunlei_2_success">Xunlei účet změněn</string>
   <string name="unbind_xunlei_success">Xunlei účet odpojen</string>
   <string name="valid_in_this_month">platí pouze pro tento měsíc</string>
