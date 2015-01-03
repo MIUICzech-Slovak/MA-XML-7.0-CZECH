@@ -39,7 +39,7 @@
   <string name="calendar_square_color_picker_description">Výběr barvy</string>
   <string name="call_label">Volat</string>
   <string name="change_response_title">Změnit odpověď</string>
-  <string name="choose_event_color_label">Vybrat barvu události</string>
+  <string name="choose_event_color_label">Barva události</string>
   <string name="color_picker_default_title">Vyberte barvu</string>
   <string name="color_swatch_description">Barva %1$d</string>
   <string name="color_swatch_description_selected">Vybrána %1$d barva</string>
@@ -231,14 +231,14 @@
   <string name="today_no_events">Žádné události na dnes</string>
   <string name="tomorrow">Zítra</string>
   <string name="tomorrow_at_time_fmt">Zítra v %s</string>
-  <string name="view_event_calendar_label">Kalendář:</string>
+  <string name="view_event_calendar_label">"Kalendář: "</string>
   <string name="view_event_organizer_label">Organizátor:</string>
   <string name="view_event_response_label">Zúčastníte se?</string>
   <string name="week_view">Týden</string>
   <string name="weekly">Týdně (vždy %s)</string>
   <string name="what_label">Co</string>
-  <string name="when_label">Kdy</string>
-  <string name="where_label">Kde</string>
+  <string name="when_label">"Kdy: "</string>
+  <string name="where_label">"Kde: "</string>
   <string name="work_day_indication"/>
   <string name="year_label">Rok</string>
   <string name="year_picker_description">Roky</string>
