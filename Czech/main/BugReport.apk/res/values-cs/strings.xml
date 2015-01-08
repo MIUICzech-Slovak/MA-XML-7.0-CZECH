@@ -125,4 +125,8 @@
   <string name="title_nonsystem_app">Jiné apl.</string>
   <string name="title_system_app">MIUI apl.</string>
   <string name="toast_network_unavailable">Nelze odeslat. Připojte se k síti.</string>
+  <string name="bugreport_dump_complete_notification_summary">Zobrazit</string>
+  <string name="bugreport_dump_complete_notification_title">Vytvořit hlášení o chybě</string>
+  <string name="bugreport_dump_start_notification_summary">Trvá přibližně 1 minutu.</string>
+  <string name="bugreport_dump_start_notification_title">Vytváření hlášení o chybě</string>
 </resources>
