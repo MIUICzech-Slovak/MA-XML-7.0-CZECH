@@ -1155,13 +1155,11 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_failed_to_load_list">Načítání seznamu selhalo</string>
   <string name="resource_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
   <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
   <string name="resource_has_been_downloaded">Toto téma je staženo</string>
   <string name="resource_no_match_app">Nebyla nalezena aplikace</string>
   <string name="resource_no_network_text">Nelze se připojit k síti</string>
-  <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
   <string name="resource_select_ringtone_confirm">Zvolit tento tón?</string>
   <string name="resource_tip_select_none">Žádné</string>
   <string name="resource_title_category">Kategorie</string>
