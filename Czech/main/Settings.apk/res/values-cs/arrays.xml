@@ -647,4 +647,8 @@ Postupujte dle pokynů"</item>
         <item>4,0\"</item>
         <item>3,5\"</item>
     </string-array>
+    <string-array name="agps_network_entries">
+        <item>Domácí síť</item>
+        <item>Všechny síť</item>
+    </string-array>
 </resources>
