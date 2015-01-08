@@ -816,7 +816,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_comment_edit_comment_waiting">Kontrola historie uživatele...</string>
   <string name="resource_comment_edit_text_default">Napište komentář</string>
   <string name="resource_comment_edit_title">Upravit komentář: %1$s</string>
-  <string name="resource_comment_entry_tips">Zobrazit komentáře</string>
+  <string name="resource_comment_entry_tips">Komentáře (%1$s)</string>
   <string name="resource_comment_expand_full_text">Rozbalit text▼</string>
   <string name="resource_comment_footer">Prázdné komentáře nejsou zobrazeny</string>
   <string name="resource_comment_good_comments">Pozitivní</string>
@@ -1154,4 +1154,19 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="resource_detail_vertical_divider">|</string>
+  <string name="resource_failed_to_load_list">Načítání seznamu selhalo</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
+  <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
+  <string name="resource_has_been_downloaded">Toto téma je staženo</string>
+  <string name="resource_no_match_app">Nebyla nalezena aplikace</string>
+  <string name="resource_no_network_text">Nelze se připojit k síti</string>
+  <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
+  <string name="resource_select_ringtone_confirm">Zvolit tento tón?</string>
+  <string name="resource_tip_select_none">Žádné</string>
+  <string name="resource_title_category">Kategorie</string>
+  <string name="resource_title_hot_subject">Populární</string>
+  <string name="resource_title_local">Lokální</string>
+  <string name="resource_title_rank">Nejlepší</string>
+  <string name="resource_title_subject">Doporučené</string>
 </resources>
