@@ -178,12 +178,12 @@ Adresa: %2$s"</string>
   <string name="found_bracelet_info">Když blikají LED na MiBand, dotkněte se ho pro propojení se zařízením</string>
   <string name="fw_failed_help_tips0">Firmware je zodpovědný za funkčnost a možnosti využití MiBand.</string>
   <string name="fw_failed_help_tips1">Aktualizování firmware může optimalizovat výkon MiBand a přinést mnoho vylepšení. Pokud není firmware aktualizován, některé funkce nemusí fungovat správně.</string>
-  <string name="fw_failed_help_tips2">Nejdříve se ujistěte, že MiBand nemá méně jak 5% baterie. Během aktualizace neodpojujte MiBand od telefonu.</string>
+  <string name="fw_failed_help_tips2">Nejdříve se ujistěte, že MiBand nemá méně jak 10% baterie. Během aktualizace neodpojujte MiBand od telefonu.</string>
   <string name="fw_failed_help_title">FAQ pro aktualizace</string>
   <string name="fw_failed_help_title0">Co je Firmware?</string>
   <string name="fw_failed_help_title1">Proč je důležité aktualizovat firmware?</string>
   <string name="fw_failed_help_title2">Aktualizace firmware selhala?</string>
-  <string name="fw_low_battery_tips" formatted="false">"MiBand je nabitý jen na 5%. Připojte jej k nabíječce 
+  <string name="fw_low_battery_tips" formatted="false">"MiBand je nabitý jen na 10%. Připojte jej k nabíječce 
 a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="fw_low_battery_title">Pro aktualizování FW je nutné nabít MiBand</string>
   <string name="fw_low_battery_view_help">Pomoc</string>
@@ -368,7 +368,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="no_network_connection">Žádné připojení</string>
   <string name="no_wear_bracelet">MiBand nebyl používán</string>
   <string name="no_wear_user_modified">Ručně zadat podrobnosti spánku</string>
-  <string name="noti_bracelet_low_battery_content_high">MiBand má méně než 5% baterie, připojte prosím nabíječku</string>
+  <string name="noti_bracelet_low_battery_content_high">MiBand má méně než 10% baterie, připojte prosím nabíječku</string>
   <string name="noti_bracelet_low_battery_content_low">MiBand je nutné připojit k nabíječce</string>
   <string name="noti_bracelet_low_battery_content_mid">Je nutné dobít MiBand.</string>
   <string name="noti_bracelet_low_battery_title">Slabá baterie v MiBand</string>
