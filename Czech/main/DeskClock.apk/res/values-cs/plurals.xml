@@ -17,4 +17,8 @@
         <item quantity="other">%1$d s</item>
         <item quantity="one">%1$d s</item>
     </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Odložit o %d min</item>
+        <item quantity="one">Odložit o %d min</item>
+    </plurals>
 </resources>
