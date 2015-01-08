@@ -727,4 +727,8 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="shutdown_day_boot_day">Zařízení se vypne za %1$d d (%2$s) a zapne za %3$d d (%4$s)</string>
   <string name="shutdown_time">Zařízení se vypne v %1$s</string>
   <string name="shutdown_time_day">Zařízení se vypne za %1$d d (%2$s)</string>
+  <string name="summary_network_switch">Povolit optimalizaci připojení na internet</string>
+  <string name="summary_never_flow_verify">Nebylo ověřeno u vašeho operátora</string>
+  <string name="title_network_switch">Povolit přístup na internet</string>
+  <string name="toast_network_switch">Tato aplikace má přístup na internet</string>
 </resources>
