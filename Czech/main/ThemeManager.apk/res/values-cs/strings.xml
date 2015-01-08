@@ -177,7 +177,6 @@
   <string name="resource_ringtone_playing_error">chyba přehrávání</string>
   <string name="resource_ringtone_volume_mute">Zvonění je ztišeno.</string>
   <string name="resource_save_to_note">Uložit do poznámek</string>
-  <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
   <string name="resource_see_more">Více</string>
   <string name="resource_select">Zvolit</string>
   <string name="resource_selected">Nejlepší</string>
@@ -316,7 +315,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="my_gifts_received">Přijato</string>
   <string name="purchased_list_format">Zakoupeno %1$s</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_failed_to_load_list">Načítání selhalo</string>
   <string name="resource_get_auth_has_been_undercarriaged">Toto téma je nedostupné</string>
   <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
   <string name="resource_has_been_downloaded">Toto téma je staženo</string>
