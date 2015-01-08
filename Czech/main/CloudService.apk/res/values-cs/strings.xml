@@ -27,7 +27,7 @@
   <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
   <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
-  <string name="cloud_sync_setting_summary_standard">Standard: Synchronizovat přes Wi-Fi fotografie, video, MMS, data aplikací a ostatní přes mobilní data</string>
+  <string name="cloud_sync_setting_summary_standard">Synchr. SMS, fotografie a videa po připojení k Wi-Fi</string>
   <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
   <string name="contact">Kontaktů</string>
@@ -261,4 +261,11 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">. Pokud změníte SIM kartu, bude odeslána mezinárodní SMS pro její aktivaci.</string>
   <string name="user_agreement_title">Podmínky používání MiCloud</string>
+  <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
+  <string name="micloud_setting_browser_summary">Záložky a historii</string>
+  <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
+  <string name="micloud_setting_gallery_summary">Fotografie a videa</string>
+  <string name="micloud_setting_music_summary">Playlisty a oblíbené skladby</string>
+  <string name="micloud_setting_sms_summary">SMS a MMS</string>
+  <string name="micloud_setting_wifi_summary">Wi-Fi nastavení</string>
 </resources>
