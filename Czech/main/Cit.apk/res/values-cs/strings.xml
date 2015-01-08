@@ -358,4 +358,12 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
   <string name="cit_wifi_ap_scanning">Vyhledávání Wi-Fi sítě...</string>
   <string name="cit_wifi_fail_to_scan">Není možné najít žádnou síť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnovit</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test odezvy hlavního mikrofonu</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test odezvy hlavního mikrofonu.
+
+Otočte telefon, mluvte do hlavního mikrofonu, měli byste slyšet hlas v reproduktoru"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test odezvy horního mikrofonu. 
+
+Otočte telefon, mluvte do horního mikrofonu , měli byste slyšet hlas v reproduktoru"</string>
+  <string name="cit_x5_audio_lb_top_to_speaker_title">Test odezvy horního mikrofonu</string>
 </resources>
