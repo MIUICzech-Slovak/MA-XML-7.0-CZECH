@@ -2861,4 +2861,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="handy_mode_enable">Ovládání jednou rukou</string>
   <string name="handy_mode_size">Velikost zmenšení</string>
   <string name="handy_mode_tips">Posuňte prstem doleva nebo doprava ze středního tlačítka DOMŮ pro zmenšení displeje.</string>
+  <string name="music_hifi_volumn">Hlasitost Hi-Fi</string>
 </resources>
