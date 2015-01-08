@@ -281,4 +281,5 @@
   <string name="bluetooth_device">Bluetooth zařízení</string>
   <string name="device_connected">Připojeno</string>
   <string name="device_not_connected">Nepřipojeno</string>
+  <string name="stream_quality">Kvalita streamu</string>
 </resources>
