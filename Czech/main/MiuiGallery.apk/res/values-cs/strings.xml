@@ -611,4 +611,9 @@ společně!"</string>
   <string name="wps">WPS</string>
   <string name="no_such_album">Album nebylo nalezeno</string>
   <string name="alert_secret_album_set_pattern">Nastavit vzor</string>
+  <string name="auto_upload_guide">Automaticky nahrát fotografie z ostatních aplikací na MiCloud</string>
+  <string name="auto_upload_setting_toast">Další možnosti nastavení naleznete v nastavení MiCloud</string>
+  <string name="go_setting">Zobrazit nastavení</string>
+  <string name="new_feature">Nová funkce</string>
+  <string name="not_now">Později</string>
 </resources>
