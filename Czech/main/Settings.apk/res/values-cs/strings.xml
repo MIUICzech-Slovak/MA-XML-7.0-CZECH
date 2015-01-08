@@ -2887,4 +2887,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="location_agps_supl_server_port">Port serveru</string>
   <string name="location_agps_supl_settings">SUPL nastavení</string>
   <string name="supl_not_set">&lt;Nenastaveno&gt;</string>
+  <string name="screen_effect">Kontrast a barvy</string>
+  <string name="screen_optimize">Kontrast</string>
+  <string name="wifi_disconnected_notification_summary">Pokus o znovu připojení k Wi-Fi.</string>
+  <string name="wifi_disconnected_notification_title">Wi-Fi odpojena</string>
 </resources>
