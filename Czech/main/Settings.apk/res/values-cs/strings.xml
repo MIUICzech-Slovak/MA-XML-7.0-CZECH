@@ -1594,7 +1594,7 @@ Zvolte Váš operační systém:"</string>
   <string name="privacy_relative">Soukromí</string>
   <string name="privacy_settings">Zálohování a obnovení dat</string>
   <string name="privacy_settings_title">Zálohování a obnovení dat</string>
-  <string name="private_gallery_need_to_unlock">Je vyžadováno heslo:</string>
+  <string name="private_gallery_need_to_unlock">Nakreslete vzor odemknutí:</string>
   <string name="private_gallery_recording_intro_header">Nakreslete vzor odemknutí:</string>
   <string name="private_gallery_reset_by_account">Pro obnovení vašeho hesla se přihlaste na váš Xiaomi účet</string>
   <string name="private_sms_need_to_unlock">Vložte heslo pro soukromé SMS</string>
