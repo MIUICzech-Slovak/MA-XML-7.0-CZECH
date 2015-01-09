@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources> 
     <string-array name="google">
         <item>Google</item>
@@ -10,69 +9,18 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>   
-    <string-array name="pref_content_plugins_choices">
-        <item>Vždy zapnuto</item>
-        <item>Zeptat se</item>
-        <item>Vždy vypnuto</item>
+    <string-array name="pref_ua_choices">
+	<item>Výchozí</item>
+        <item>iPad</item>
+        <item>Desktop</item>
+    </string-array>
+    <string-array name="readmode_theme_names">
+        <item>Bílá</item>  
+        <item>Žlutá</item>  
+        <item>Černá</item>  
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Úvodní stránka</item>
         <item>Jiná</item>
     </string-array>
-    <string-array name="pref_text_size_choices">
-        <item>Velmi malý</item>
-        <item>Malý</item>
-        <item>Normální</item>
-        <item>Velký</item>
-        <item>Největší</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Daleko</item>
-        <item>Střední</item>
-        <item>Blízko</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Nikdy</item>
-        <item>Pouze v sítích Wi-Fi</item>
-        <item>Vždy</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Stránka nahoru/dolů</item>
-        <item>Přepnout záložku</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Stránka další/předchozí</item>
-        <item>Přepnout záložku</item>
-    </string-array>    
-    <string-array name="pref_link_prefetch_choices">
-       <item>Nikdy</item>
-       <item>Pouze přes Wi-Fi</item>
-       <item>Vždy</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Nikdy</item>
-        <item>Pouze přes Wi-Fi</item>
-        <item>Vždy</item>
-    </string-array>
-    <string-array name="pref_images_preload_choices">
-        <item>Nikdy</item>
-        <item>Pouze přes Wi-Fi</item>
-        <item>Vždy</item>
-    </string-array>
-    <string-array name="menu_theme_setting">  
-        <item>Bílá</item>  
-        <item>Žlutá</item>  
-        <item>Černá</item>  
-    </string-array>
-    <string-array name="font_size_names">
-        <item>Malé</item>
-        <item>Normální</item>
-        <item>Velké</item>
-        <item>Obrovské</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Výchozí</item>
-        <item>iPad</item>
-        <item>Desktop</item>
-        </string-array> 
 </resources>
