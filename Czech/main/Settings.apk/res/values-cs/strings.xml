@@ -2891,4 +2891,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_optimize">Kontrast</string>
   <string name="wifi_disconnected_notification_summary">Pokus o znovu připojení k Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi odpojena</string>
+  <string name="screen_paper_mode_summary">Při dlouhodobém čtení bude potlačena modrá barva</string>
+  <string name="screen_paper_mode_title">Režim čtení</string>
+  <string name="screen_paper_mode_turn_off">Zakázáno</string>
+  <string name="screen_paper_mode_turn_on">Povoleno</string>
 </resources>

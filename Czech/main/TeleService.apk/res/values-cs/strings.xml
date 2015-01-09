@@ -859,4 +859,5 @@ Může to trvat i 5 min."</string>
   <string name="sim_cards_network_mode_changed_summary">Zobrazit nastavení SMS a Hovoru</string>
   <string name="sim_cards_network_mode_changed_title">Zjištěna nová SIM karta</string>
   <string name="international_roaming_setting">Mezinárodní roaming</string>
+  <string name="incall_error_no_active_sim">Žádná SIM karta</string>
 </resources>

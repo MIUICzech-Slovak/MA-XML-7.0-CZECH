@@ -859,4 +859,17 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
   <string name="attachment_stop_all">Zastavit</string>
+  <string name="account_setup_not_disturb_title">Nerušit</string>
+  <string name="changepw_dialog_tips">Zadejte znovu heslo pro \"%s\"</string>
+  <string name="confirm_delete_conversation_title">Vymazat</string>
+  <string name="donot_disturb_endtime_title">Konec</string>
+  <string name="donot_disturb_starttime_title">Začátek</string>
+  <string name="donot_disturb_summary">Vaše zařízení nebude přijímat žádné zprávy v nastavené čase</string>
+  <string name="donot_disturb_title">Nerušit v noci</string>
+  <string name="downlaod_nonWifi_confirm_title">Stáhnout tuto přílohu?</string>
+  <string name="download_cancel_confirm_message">Stahování bude zastaveno</string>
+  <string name="invalid_recipient_title">Chyba příjemce</string>
+  <string name="no_application_found_title">Otevřít přílohu</string>
+  <string name="recipient_needed_title">Upozornění</string>
+  <string name="remove_account_confirm_title">Vymazat účet</string>
 </resources>

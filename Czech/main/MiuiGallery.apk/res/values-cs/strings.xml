@@ -193,7 +193,7 @@ společně!"</string>
   <string name="edit">Upravit</string>
   <string name="edited_photo_bucket_name">Upraveno</string>
   <string name="email_picker_title">Přidat sdílený e-mail</string>
-  <string name="enable">Povolit</string>
+  <string name="enable">Povoleno</string>
   <string name="enable_cloud_for_sharing">Je nutné povolit cloudové album pro zobrazení sdílených fotografií.</string>
   <string name="enter_email_hint">"Zadejte e-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
@@ -369,7 +369,7 @@ společně!"</string>
   <string name="open_single_image_failure">Obrázek se nepodařilo otevřít!</string>
   <string name="open_sync_title">Vyžaduje se Synchronizace</string>
   <string name="operation_add_picture">Vybrat obrázky</string>
-  <string name="operation_add_secret">Přidat tajné</string>
+  <string name="operation_add_secret">Přidat do tajného alba</string>
   <string name="operation_delete_confirm_message_folder">"Složky a soubory v nich budou vymazány.
 "</string>
   <string name="operation_failed">Operace selhala.</string>
@@ -604,7 +604,7 @@ společně!"</string>
   <string name="qq">QQ</string>
   <string name="qzone">QZone</string>
   <string name="sina_weibo">Weibo</string>
-  <string name="sync_third_party_app_pic_summary">Upload photos in some app folders to your cloud automatically</string>
+  <string name="sync_third_party_app_pic_summary">Automaticky nahrát fotografie z ostatních aplikací na MiCloud</string>
   <string name="uc">UC</string>
   <string name="wechat">WeChat</string>
   <string name="weibo">Weibo</string>

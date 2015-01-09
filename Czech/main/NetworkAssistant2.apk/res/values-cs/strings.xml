@@ -381,4 +381,5 @@ Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
   <string name="roaming_not_start_title">Mezinárodní roaming</string>
   <string name="roaming_start_body">Povolit aplikacím v seznamu výjimek připojit se k mobilním datům v roamingu.</string>
   <string name="roaming_start_title">Mezinárodní roaming</string>
+  <string name="tc_sms_report_toast_text">Získávání informací...</string>
 </resources>

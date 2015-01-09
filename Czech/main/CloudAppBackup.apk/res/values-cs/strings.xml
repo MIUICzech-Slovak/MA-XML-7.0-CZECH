@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="already_deleted">(vymazáno)</string>
+  <string name="already_deleted">%d (vymazáno)</string>
   <string name="already_disable_backup">Záloha je deaktivována pro toto zařízení</string>
   <string name="already_enable_backup">Záloha je povolena pro toto zařízení</string>
   <string name="app_installed">Nainstalováno</string>
@@ -142,4 +142,11 @@ Opravdu chcete ukončit obnovování?"</string>
   <string name="v5_data">V5 data</string>
   <string name="v5_delete">vymazat V5 data</string>
   <string name="name_model">"%1$s %2$s"</string>
+  <string name="about_cloud_app_backup">O záloze</string>
+  <string name="cancel_recover_settings">Zrušit</string>
+  <string name="cloud_app_backup_already">" bylo zálohováno"</string>
+  <string name="download_settings">Stáhnout nastavení plochy</string>
+  <string name="explantion_of_data_size">Ušetřené místo použitím MiMarket</string>
+  <string name="recover_settings">Obnovit nastavení plochy</string>
+  <string name="recover_settings_description">Ponechat zařízení zapnuté</string>  
 </resources>
