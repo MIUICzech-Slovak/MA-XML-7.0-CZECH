@@ -201,7 +201,7 @@ Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="success_upgraded_space">%s přidáno</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
-  <string name="sync_dspt_provision2">i.mi.comstring>
+  <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
   <string name="sync_item_calllog_title">Seznam hovorů</string>
@@ -251,7 +251,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
   <string name="phone_number_may_required_dspt_provision">"Tato služba může vyžadovat vaše telefonní číslo. "</string>
   <string name="phone_number_required_dspt_provision">"Tato služba vyžaduje vaše telefonní číslo. "</string>
-  <string name="micloud_web_discription_international">Navštivte www.mi.com/micloudstring>
+  <string name="micloud_web_discription_international">Navštivte www.mi.com/micloud</string>
   <string name="mx_dspt_provision_privacy">"Tato služba vyžaduje vaše telefonní číslo. Bude odeslána mezinárodní SMS pro aktivaci.
 Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
   <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS nebo vyhledejte vaše zařízení.</string>
@@ -261,7 +261,7 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">. Pokud změníte SIM kartu, bude odeslána mezinárodní SMS pro její aktivaci.</string>
   <string name="user_agreement_title">Podmínky používání MiCloud</string>
-  <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.comstring>
+  <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
   <string name="micloud_setting_browser_summary">Záložky a historii</string>
   <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
   <string name="micloud_setting_gallery_summary">Fotografie a videa</string>
