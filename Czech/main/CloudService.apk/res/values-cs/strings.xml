@@ -56,14 +56,14 @@
   <string name="find_device_disabling">Vypínání...</string>
   <string name="find_device_dspt">Zablokovat nebo vymazat toto zařízení na dálku.</string>
   <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, jděte na "</string>
-  <string name="find_device_dspt_provision_2">i.mi.comstring>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="find_device_enabling">Zapínání...</string>
   <string name="find_device_error_network">Síť je nedostupná</string>
   <string name="find_device_error_server">Chyba serveru</string>
   <string name="find_device_noise_title">Najít telefon podle zvuku</string>
   <string name="find_device_notice_p1">Navštivte</string>
-  <string name="find_device_notice_p2">i.xiaomi.comstring>
+  <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
   <string name="find_device_send_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="find_device_stop_noise">Zavřít</string>
@@ -119,7 +119,7 @@
   <string name="micloud_intro_02_part_01">Už nemusíte používat USB klíčenku na přenos svých dat!</string>
   <string name="micloud_intro_02_part_02">Synchronizovat kontakty, zprávy, fotografie a ostatní data mezi různými zařízeními.</string>
   <string name="micloud_intro_03_part_01">Na dálku zabezpečit svá data v zařízení</string>
-  <string name="micloud_intro_03_part_02">Také můžete najít, zablokovat a vymazat své zařízení na i.mi.comstring>
+  <string name="micloud_intro_03_part_02">Také můžete najít, zablokovat a vymazat své zařízení na i.mi.com</string>
   <string name="micloud_main_data_unsynced">%d nesynchr.</string>
   <string name="micloud_main_detail">Podrobnosti</string>
   <string name="micloud_main_last_sync_time">Naposledy</string>
