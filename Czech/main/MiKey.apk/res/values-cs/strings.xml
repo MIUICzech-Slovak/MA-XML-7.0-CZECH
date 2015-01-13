@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="action_baidusearch">Baidu</string>
+  <string name="action_baidusearch">Baidu vyhledávání</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Vymazat seznam hovorů</string>
   <string name="action_clear_memory">Vyčistit RAM</string>
@@ -41,6 +41,7 @@
   <string name="action_phone">Hovor</string>
   <string name="action_qrcode">QR kód</string>
   <string name="action_screen_shot">Screenshot</string>
+  <string name="action_search">Vyhledat</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -148,6 +149,7 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="know_it">OK</string>
   <string name="long_click">Dlouhý stisk</string>
   <string name="message_photo_end">Fotografie uložena</string>
+  <string name="mikey_sprite_toggle_title">Otevřít MiKey Wizard</string>
   <string name="name">Jméno:</string>
   <string name="nickname">Přezdívka:</string>
   <string name="no_usage">...</string>
@@ -163,6 +165,9 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galerie</string>
   <string name="place_barcode_into_rectangle">Zaměřte QR nebo čárový kód</string>
+  <string name="privacy_mode_end">Soukromý režim deaktivován</string>
+  <string name="privacy_mode_started">Soukromý režim aktivován</string>
+  <string name="privacy_mode_title">Soukromý režim</string>
   <string name="rank_prefix">"Hodnocení: "</string>
   <string name="rank_suffix">" bodů"</string>
   <string name="recognize">Rozpoznat</string>
@@ -170,12 +175,21 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skenování selhalo</string>
   <string name="scan_result">Informace</string>
+  <string name="screenkey_disabled">Tlačítka deaktivována</string>
+  <string name="screenkey_enabled">Tlačítka aktivována</string>
+  <string name="screenkey_title">Deaktivovat tlačítka</string>
   <string name="screenshot_crop">Ořezaný</string>
-  <string name="screenshot_full">Fullscreen</string>
+  <string name="screenshot_full">Celá obr.</string>
   <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
   <string name="sdcard">SD karta</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">Zrušit</string>
+  <string name="search_go_text">Text</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Vyhledat text</string>
+  <string name="search_taobao_text">TaoBao</string>
   <string name="select_baidusearch">Baidu</string>
-  <string name="select_baiduvoicesearch">Baidu Voice</string>
+  <string name="select_baiduvoicesearch">Baidu hlasové vyhledávání</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Jaké zařízení je připojeno?</string>
   <string name="select_direction">Směr</string>
@@ -192,9 +206,9 @@ Během používání MiKey Wizard jsou ostatní funkce MiKey nedostupné."</stri
   <string name="setting_silent_mode_default">Režim sluchátek (vybrat MiKey)</string>
   <string name="setting_silent_mode_desc">"Pokud chcete připojit sluchátka, zvolte režim sluchátek a odpojte MiKey. Jinak nebude správně fungovat zvukový výstup."</string>
   <string name="setting_silent_mode_dust_cap">Režim záslepky</string>
-  <string name="setting_speed_desc">Prodleva mezi stisky tlačítka.</string>
-  <string name="setting_speed_quick">Krátká</string>
-  <string name="setting_speed_slow">Dlouhá</string>
+  <string name="setting_speed_desc">Rychlost kliknutí tlačítka</string>
+  <string name="setting_speed_quick">Rychle</string>
+  <string name="setting_speed_slow">Pomalu</string>
   <string name="setting_speed_text">Rychlost</string>
   <string name="setting_toolbar">Panel nástrojů</string>
   <string name="setting_toolbar_desc">"Funkce budou dostupné v oznamovací roletce."</string>
@@ -258,14 +272,28 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="wallpaper_changing">Změna tapety...</string>
   <string name="wallpaper_no_more">Neměnit tapetu</string>
   <string name="web">Web:</string>
-  <string name="write_pic_fail">Chyba ukládání fotografie!</string>
-  <string name="webpage_input_title">Vložit URL</string>
+  <string name="webpage_input_title">Zadejte URL</string>
   <string name="webpage_title">Otevřít web</string>
-  <string name="screenkey_title">Shield tlačítko</string>
-  <string name="mikey_sprite_toggle_title">Otevřít MiKey Wizard</string>
-  <string name="privacy_mode_end">Soukromý režim deaktivován</string>
-  <string name="privacy_mode_started">Soukromý režim aktivován</string>
-  <string name="privacy_mode_title">Soukromý režim</string>
-  <string name="screenkey_disabled">Tlačítka deaktivována</string>
-  <string name="screenkey_enabled">Tlačítka aktivována</string>
+  <string name="write_pic_fail">Chyba ukládání fotografie!</string>
+  <string name="tab_combo">Balíček</string>
+  <string name="privacy_mode_first_hint">Pro cizí je povolen režim Návštěvník</string>
+  <string name="enable_mad_click">Povolen šílený režim</string>
+  <string name="dialog_title_mad_click">Poznámka</string>
+  <string name="disable_mad_click">Zakázán šílený režim</string>
+  <string name="dialog_content_mad_click">Nepřerušované klikání:</string>
+  <string name="combo_customize_desc">"Balíček můžete nastavit tlačítkem
+na konci seznamu"</string>
+  <string name="combo_edit">Upravit</string>
+  <string name="combo_edit_title">Upravit balíček</string>
+  <string name="combo_saveas_already_saved_desc">Nastavení uloženo do balíčku</string>
+  <string name="combo_saveas_desc">Popis balíčku</string>
+  <string name="combo_saveas_name">Název</string>
+  <string name="combo_saveas_name_empty">Bez názvu</string>
+  <string name="combo_saveas_title">Zadejte popis</string>
+  <string name="combo_speed_fast">Rychle</string>
+  <string name="combo_speed_medium">Středně</string>
+  <string name="combo_speed_prefix">Rychlost:</string>
+  <string name="combo_speed_slow">Pomalu</string>
+  <string name="combo_standard_text">Tento balíček pokrývá běžné denní využití MiKey.</string>
+  <string name="combo_standard_title">Standardní balíček</string>
 </resources>
