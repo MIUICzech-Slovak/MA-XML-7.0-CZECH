@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="already_deleted">%d (vymazáno)</string>
+  <string name="already_deleted">%s (vymazáno)</string>
   <string name="already_disable_backup">Záloha je deaktivována pro toto zařízení</string>
   <string name="already_enable_backup">Záloha je povolena pro toto zařízení</string>
   <string name="app_installed">Nainstalováno</string>
