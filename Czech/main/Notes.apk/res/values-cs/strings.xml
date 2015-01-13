@@ -105,4 +105,6 @@
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="loading_text">Načítání...</string>
+  <string name="toast_message_add_text_warn">Tento typ souboru není podporován</string>
 </resources>

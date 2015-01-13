@@ -289,4 +289,8 @@
   <string name="no_song">Žádné skladby</string>
   <string name="nowplaying_menu_item_delete">Vymazat</string>
   <string name="recommend_fragment_title">Hity</string>
+  <string name="action_item_hide">Skrýt</string>
+  <string name="filter_by_folder">Podle složky</string>
+  <string name="filter_by_folder_summary">Zvolit složky ke zobrazení</string>
+  <string name="select_displayed_folders">Zvolit složky ke zobrazení</string>
 </resources>

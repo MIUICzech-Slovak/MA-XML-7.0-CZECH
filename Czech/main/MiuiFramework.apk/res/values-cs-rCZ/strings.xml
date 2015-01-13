@@ -182,4 +182,5 @@
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
   <string name="device_pad">MiPAD</string>
+  <string name="status_bar_toggle_paper_mode">Režim čtení</string>
 </resources>

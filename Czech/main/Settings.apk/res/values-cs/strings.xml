@@ -2895,4 +2895,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_paper_mode_title">Režim čtení</string>
   <string name="screen_paper_mode_turn_off">Zakázáno</string>
   <string name="screen_paper_mode_turn_on">Povoleno</string>
+  <string name="screen_paper_mode_apps_title">Použít režim čtení pro tyto apl.</string>
 </resources>
