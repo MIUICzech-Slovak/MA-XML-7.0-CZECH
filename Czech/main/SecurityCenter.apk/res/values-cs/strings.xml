@@ -730,12 +730,12 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="boot_reminder_day_hour">Zařízení se zapne za %1$d d %2$d h</string>
   <string name="boot_reminder_only_day">Zařízení se zapne za %1$d d</string>
   <string name="boot_reminder_only_hour">Zařízení se zapne za %1$d h</string>
-  <string name="confirm_auto_cleaner">Potvrdit</string>
-  <string name="positive_confirm">Potvrdit</string>
-  <string name="summary_auto_cleaner">Whether to clean automatically? Every three days after opening the default automatic cleaning a garbage can change the frequency and content in settings</string>
-  <string name="summary_delete_cache">Chcete vymazat cache zvolených aplikací?</string>
-  <string name="summary_delete_large_file">Vymazat tento soubor? Vymazání velkých souborů může odstranit např. i offline mapy.</string>
-  <string name="title_auto_cleaner">Automaticky vyčistit</string>
-  <string name="title_delete_cache">Vymazat cache</string>
-  <string name="title_delete_large_file">Vymazat velké soubory</string>
+  <string name="confirm_auto_cleaner">Ok</string>
+  <string name="positive_confirm">Ok</string>
+  <string name="summary_auto_cleaner">Vyčistit systém automaticky každé 3 dny?</string>
+  <string name="summary_delete_cache">Některé aplikace vyžadují tato data pro jejich správnou funkci</string>
+  <string name="summary_delete_large_file">Některé velké soubory mohou být využívány pro práci v offline režimu (např. mapy, atd.). Ujistěte se, že je nepotřebujete.</string>
+  <string name="title_auto_cleaner">Automaticky vyčistit?</string>
+  <string name="title_delete_cache">Vymazat cache?</string>
+  <string name="title_delete_large_file">Vymazat tyto soubory?</string>
 </resources>
