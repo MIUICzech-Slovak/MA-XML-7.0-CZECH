@@ -860,4 +860,5 @@ Může to trvat i 5 min."</string>
   <string name="sim_cards_network_mode_changed_title">Zjištěna nová SIM karta</string>
   <string name="international_roaming_setting">Mezinárodní roaming</string>
   <string name="incall_error_no_active_sim">Žádná SIM karta</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovat 4G (CDMA)</string>
 </resources>
