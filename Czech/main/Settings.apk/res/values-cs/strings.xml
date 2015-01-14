@@ -2819,9 +2819,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="music_hifi_summary">Snížit hlasitost, zkreslení a zvýšit tím kvalitu přehrávané hudby. Tato funkce zvýší spotřebu baterie.</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="page_layout_1">Sun 16/08</string>
-  <string name="page_layout_10">Zprávy</string>
-  <string name="page_layout_11">Optimalizace</string>
-  <string name="page_layout_12">Nastavení</string>
+  <string name="page_layout_10">Nastavení</string>
+  <string name="page_layout_11">Počasí</string>
+  <string name="page_layout_12">Optimalizace</string>
   <string name="page_layout_13">Nástroje</string>
   <string name="page_layout_14">Hry</string>
   <string name="page_layout_15">Aplikace</string>
@@ -2845,10 +2845,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="page_layout_31">Chartte Yvon</string>
   <string name="page_layout_4">Hudba</string>
   <string name="page_layout_5">Video</string>
-  <string name="page_layout_6">Počasí</string>
-  <string name="page_layout_7">Poznámky</string>
-  <string name="page_layout_8">Kalendář</string>
-  <string name="page_layout_9">E-mail</string>
+  <string name="page_layout_6">Aplikace</string>
+  <string name="page_layout_7">Hry</string>
+  <string name="page_layout_8">MiLife</string>
+  <string name="page_layout_9">Témata</string>
   <string name="page_layout_confirm_message">Vaše zařízení je nutné restartovat pro aplikování změn</string>
   <string name="page_layout_confirm_title">Změnit rozložení</string>
   <string name="title_layout_current">Použité rozložení</string>
@@ -2896,4 +2896,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_paper_mode_turn_off">Zakázáno</string>
   <string name="screen_paper_mode_turn_on">Povoleno</string>
   <string name="screen_paper_mode_apps_title">Použít režim čtení pro tyto apl.</string>
+  <string name="screen_paper_mode_off_apps_title">Nepoužívat režim čtení pro tyto aplikace</string>
 </resources>
