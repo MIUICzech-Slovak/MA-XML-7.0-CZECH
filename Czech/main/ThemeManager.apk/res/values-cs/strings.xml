@@ -338,4 +338,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_multiple_button_title_customize">Upravit téma</string>
   <string name="theme_purchased_list_empty">nebylo zakoupeno žádné téma</string>
   <string name="theme_purchased_non_local">Ne lokální</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
 </resources>
