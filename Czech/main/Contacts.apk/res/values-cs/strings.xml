@@ -1167,4 +1167,9 @@ Vyberte si z následujících možností:</string>
   <string name="resource_title_local">Lokální</string>
   <string name="resource_title_rank">Nejlepší</string>
   <string name="resource_title_subject">Doporučené</string>
+  <string name="pull_to_refresh_pull_label">Potáhněte pro obnovení...</string>
+  <string name="pull_to_refresh_refreshing_label">Načítání...</string>
+  <string name="pull_to_refresh_release_label">Pusťte pro obnovení...</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
+  <string name="yellowpage_search_the_yellowpage">Vyhledat v seznamu</string>
 </resources>
