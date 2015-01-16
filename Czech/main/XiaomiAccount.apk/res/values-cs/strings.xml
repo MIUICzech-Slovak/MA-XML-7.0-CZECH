@@ -498,4 +498,6 @@ Zkontrolujte také složku SPAM."</string>
   <string name="rename_current_device">Změnit název zařízení</string>
   <string name="delete_device_failed">Nelze odebrat zařízení</string>
   <string name="no_response_retry">Žádná odpověď, zkuste to později.</string>
+  <string name="mi_service">Podpora</string>
+  <string name="passport_error_empty_email">Zadejte e-mailovou adresu</string>
 </resources>
