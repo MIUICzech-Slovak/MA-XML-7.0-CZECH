@@ -242,4 +242,5 @@ localization_Czech_table = {
     challenge_to_get="%s dní od nového rekordu!",
     record_reach_max="Byl dosažen váš rekord!",
     new_record_born="Nový rekord!",
+    select_devices="Vyberte zařízení, které chcete připojit",
  }
