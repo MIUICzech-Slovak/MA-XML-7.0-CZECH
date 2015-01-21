@@ -161,4 +161,21 @@
   <string name="bluetooth_search_for_devices">Hledání zařízení</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="progress_scanning">Hledání</string>
+  <string name="ble_device_address">MAC adresa BLE zařízení</string>
+  <string name="ble_device_profile_header_title">Profily</string>
+  <string name="ble_device_profile_title">Připojené BLE zařízení</string>
+  <string name="ble_device_unbind">Vymazat nastavení</string>
+  <string name="disconnect">Odpojit</string>
+  <string name="mi_band_vibrate_alarm">Vibrovat při zvonění budíku</string>
+  <string name="mi_band_vibrate_incall">Vibrovat při vyzvánění</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Vibrovat při příchozím hovoru od kontaktů</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Vibrovat při příchozím hovoru z neznámých čísel</string>
+  <string name="mi_band_vibrate_sms">Vibrovat při nové SMS zprávě</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibrovat při nové SMS zprávě od kontaktů</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Vibrovat při nové SMS zprávě z neznámých čísel</string>
+  <string name="mi_key_alert_dialog_message">Dotykem lze ztišit</string>
+  <string name="mi_key_alert_dialog_title">Upozornění MiKey</string>
+  <string name="mi_key_find_mikey">Vyhledat MiKey</string>
+  <string name="mi_key_find_phone">Vyhledat telefon</string>
+  <string name="mi_key_take_photo">Zhotovit fotografii</string>
 </resources>
