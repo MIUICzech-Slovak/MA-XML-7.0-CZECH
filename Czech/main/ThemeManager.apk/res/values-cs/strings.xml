@@ -39,7 +39,7 @@
   <string name="fail_to_add_account">Přidávání účtu selhalo.</string>
   <string name="live_wallpaper">Živá tapeta</string>
   <string name="loading">Načítání...</string>
-  <string name="loading_resource_detail_fail">Načítání podrobností selhalo!</string>
+  <string name="loading_resource_detail_fail">Není dostupné mimo Čínu!</string>
   <string name="loading_resource_detail_info">Načítání...</string>
   <string name="lockscreen_wallpaper">Tapeta zámku</string>
   <string name="lockstyle_personal_settings">Přizpůsobit</string>
