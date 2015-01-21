@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="bootup_mode">
+        <item>Obě SIM</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="gprs_mode_1">
+        <item>SIM1</item>
+        <item>Nepoužívat mobilní data.</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string-array name="gprs_mode_2">
+        <item>SIM2</item>
+        <item>Nepoužívat mobilní data.</item>
+        <item>Zrušit</item>
+    </string-array>
+</resources>
