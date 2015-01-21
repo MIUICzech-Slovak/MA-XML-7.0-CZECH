@@ -587,13 +587,13 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvukem</string>
-  <string name="pref_camera_delay_capture_title">Odpočítávání</string>
+  <string name="pref_camera_delay_capture_title">Časovač</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Živé</string>
   <string name="pref_camera_hdr_entry_normal">Normální</string>
   <string name="pref_camera_hdr_entry_off">Vypnuto</string>
   <string name="pref_simple_hdr_entry_off">Vypnuto</string>
   <string name="pref_simple_hdr_entry_on">Zapnuto</string>
-  <string name="simple_mode_button_text_delay_capture">Ukončit odpočítávání</string>
+  <string name="simple_mode_button_text_delay_capture">Ukončit časovač</string>
   <string name="simple_mode_button_text_scene">Ukončit režim scény</string>
 </resources>

@@ -195,7 +195,7 @@
   <string name="contact_status_update_attribution">přes %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
   <string name="contact_unfavorite_toast">Kontakt byl odebrán z oblíbených</string>
-  <string name="contactsAllLabel">Vše</string>
+  <string name="contactsAllLabel">Kontakty</string>
   <string name="contactsFavoritesLabel">Oblíbené kontakty</string>
   <string name="contactsGroupsLabel">Skupiny</string>
   <string name="contactsJoinedMessage">Kontakty byly spojeny</string>
