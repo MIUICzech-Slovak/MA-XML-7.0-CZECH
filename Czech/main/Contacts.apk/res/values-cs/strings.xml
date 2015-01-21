@@ -1174,4 +1174,7 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat v seznamu</string>
   <string name="call_sim1_menu_title">Volat přes SIM1</string>
   <string name="call_sim2_menu_title">Volat přes SIM2</string>
+  <string name="resource_download_notification_content">Zkontrolovat</string>
+  <string name="resource_download_notification_title_many">Stahování %1$s témat dokončeno!</string>
+  <string name="resource_download_notification_title_one">Stahování téma dokočeno!</string>
 </resources>

@@ -253,4 +253,20 @@
   <string name="wallpaper_failed_message">Nelze nastavit tapetu</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
   <string name="wallpaper_success_message">Tapeta nastavena</string>
+  <string name="app_category_books">Knihy</string>
+  <string name="app_category_education">Vzdělávání</string>
+  <string name="app_category_entertainment">Zábava</string>
+  <string name="app_category_finance">Finance</string>
+  <string name="app_category_games">Hry</string>
+  <string name="app_category_health">Zdraví</string>
+  <string name="app_category_lifestyle">Životní styl</string>
+  <string name="app_category_music_movie">Hudba &amp; Video</string>
+  <string name="app_category_news">Zprávy</string>
+  <string name="app_category_photos">Fotografie</string>
+  <string name="app_category_productivity">Produktivita</string>
+  <string name="app_category_shopping">Nakupování</string>
+  <string name="app_category_social">Sociální</string>
+  <string name="app_category_sport">Sporty</string>
+  <string name="app_category_tools">Nástroje</string>
+  <string name="app_category_travel">Cestování</string>
 </resources>

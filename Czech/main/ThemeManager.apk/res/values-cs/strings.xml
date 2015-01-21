@@ -339,4 +339,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_purchased_list_empty">nebylo zakoupeno žádné téma</string>
   <string name="theme_purchased_non_local">Ne lokální</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
+  <string name="resource_download_notification_content">Zkontrolovat</string>
+  <string name="resource_download_notification_title_many">Stahování %1$s témat dokončeno!</string>
+  <string name="resource_download_notification_title_one">Stahování téma dokončeno!</string>
+  <string name="theme_user_agreement_exit">Ukončit</string>
 </resources>
