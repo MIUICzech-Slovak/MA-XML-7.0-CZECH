@@ -738,4 +738,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="title_auto_cleaner">Automaticky vyčistit?</string>
   <string name="title_delete_cache">Vymazat cache?</string>
   <string name="title_delete_large_file">Vymazat tyto soubory?</string>
+  <string name="auto_cleaner_open">Vyčistit</string>
 </resources>
