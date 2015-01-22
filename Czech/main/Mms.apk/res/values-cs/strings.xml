@@ -543,4 +543,5 @@ Pokus: %s."</string>
   <string name="sdcard_has_not_enough_space">Na úložišti není dostatek místa</string>
   <string name="warning_show">Odeslat za %ds</string>
   <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmí být prázdný</string>
+  <string name="festival_networking_title">Oznámení</string>
 </resources>
