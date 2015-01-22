@@ -158,7 +158,7 @@
     <string-array name="availability">
         <item>Zaneprázdněný</item>
         <item>Dostupný</item>
-	<item>Nezávazný</item>
+	      <item>Nezávazný</item>
     </string-array>
     <string-array name="visibility">
         <item>Výchozí nastavení</item>
@@ -211,5 +211,84 @@
     <string-array name="widget_style_list">
         <item>Černý průhledný</item>
         <item>Bílé pozadí</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+        <item>Rok</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čer</item>
+        <item>Čvc</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>První</item>
+        <item>Druhý</item>
+        <item>Třetí</item>
+        <item>Čtvrtý</item>
+        <item>Poslední</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Po - Pá</item>
+        <item>Víkend</item>
+        <item>Celý týden</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nikdy</item>
+        <item>Čas</item>
+        <item>Odpočítávání</item>
     </string-array>
 </resources>
