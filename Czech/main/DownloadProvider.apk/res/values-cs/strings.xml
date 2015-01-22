@@ -52,4 +52,9 @@ Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkn�
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Použít Xunlei stahování?</string>
   <string name="task_already_exist">Úloha již existuje</string>
+  <string name="notif_text_engine_off">Probíhá stahování...</string>
+  <string name="notif_text_engine_on">Zrychlení... (jen pro Čínu)</string>
+  <string name="notif_title_file_size">Celkem: %1$d</string>
+  <string name="notif_title_multiple_downloading">Stahování: %1$d</string>
+  <string name="notif_title_single_downloading">Stahování: %1$s</string>
 </resources>

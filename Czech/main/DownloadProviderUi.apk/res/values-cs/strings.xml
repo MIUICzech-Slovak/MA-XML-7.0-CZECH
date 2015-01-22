@@ -144,4 +144,9 @@
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
   <string name="download_filesize_unknown">neznámé</string>
+  <string name="xunlei_close_tips_button">Zrychlit</string>
+  <string name="xunlei_close_tips_content">Jen pro Čínu</string>
+  <string name="xunlei_close_tips_title">Tato funkce není doporučena pro uživatele mimo Čínu</string>
+  <string name="toast_xunlei_engine_open">"Xunlei stahování je aktivováno.
+Tato funkce není mimo Čínu doporučena"</string>
 </resources>
