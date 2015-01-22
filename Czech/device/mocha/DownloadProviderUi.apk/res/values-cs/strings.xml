@@ -146,4 +146,9 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="xunlei_close_tips_button">Zrychlit</string>
+  <string name="xunlei_close_tips_content">Jen pro Čínu</string>
+  <string name="xunlei_close_tips_title">Tato funkce není doporučena pro uživatele mimo Čínu</string>
+  <string name="toast_xunlei_engine_open">"Xunlei stahování je aktivováno.
+Tato funkce není mimo Čínu doporučena"</string>
 </resources>
