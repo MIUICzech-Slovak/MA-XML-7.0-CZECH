@@ -3,7 +3,7 @@
 <resources>
   <string name="account_contact_backup_info">Data (Xiaomi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
   <string name="account_login">Přihlásit se</string>
-  <string name="account_summary">zálohovat Gmail, E-mail a Xiaomi účet</string>
+  <string name="account_summary">" (Gmail, E-mail a Xiaomi účet)"</string>
   <string name="already_enable_encrypt">Zapnout šifrování</string>
   <string name="app_name">Zálohování</string>
   <string name="auto_backup">Automatické zálohování</string>
