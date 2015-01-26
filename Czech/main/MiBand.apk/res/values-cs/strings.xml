@@ -663,8 +663,8 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
   <string name="bind_devices">Připojit zařízení</string>
-  <string name="bind_mi_band">Připojit Mi Band</string>
-  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.miuios.cz/miband&amp;gt;Web MiBand&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="bind_mi_band">Připojit MiBand</string>
+  <string name="bind_mi_band_about">http://www.miuios.cz/miband</string>
   <string name="lab_factory_cancel_deauthorize">Odpojit</string>
   <string name="lab_factory_item_group_open">OTEVŘENO</string>
   <string name="read_useragreement">Souhlasím s podmínkami používání</string>
@@ -867,4 +867,9 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="weight_weighting_now">测量中</string>
   <string name="weighting_failed">"Weight unstable
 Please get off after the LED blinked."</string>
+<string name="dynamic_title_bracelet_unbind">MiBand odpojen</string>
+  <string name="new_user">Nový uživatel</string>
+  <string name="not_fount_available_userinfo">Žádné informace nebyly nalezeny</string>
+  <string name="unlock_screen_help_info3">Po restartování vašeho zařízení, zkuste použít váš MiBand pro odemknutí.</string>
+  <string name="unlock_screen_help_title3">Restartujte a zkuste to znovu</string>
 </resources>
