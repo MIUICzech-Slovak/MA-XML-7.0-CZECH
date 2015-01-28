@@ -398,7 +398,7 @@ Bylo zakoupeno %1$s dodatečných dat tento měsíc."</string>
   <string name="traffic_setting_step_num">Nastavení balíčku dat</string>
   <string name="traffic_warning_purchase_title">Zbývá méně než %d%%</string>
   <string name="lock_screen_traffic_notify_body">Uzamknuto %1$s | Stáhnuto: %2$s</string>
-  <string name="lock_screen_setting_summary">Zobrazit upozornění až po stáhnutí více jak 100 KB</string>
+  <string name="lock_screen_setting_summary">Upozornění se zobrazí až po stažení 100 KB a více</string>
   <string name="main_alert_message_month_limit_error">Zadaný limit není správný</string>
   <string name="notify_daily_data_usage_body">Dnes využito: %s. Nastavte limit</string>
   <string name="notify_daily_limit_body">Tento týden využito: %s. Nastavte limit</string>

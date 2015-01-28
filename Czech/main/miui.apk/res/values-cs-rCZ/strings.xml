@@ -326,4 +326,7 @@
   <string name="chinese_symbol_animals_snake"/>
   <string name="chinese_symbol_animals_tiger"/>
   <string name="fmt_chinese_date"/>
+  <string name="app_name_which_call">Apl: %s</string>
+  <string name="app_version_which_call">Verze: %s</string>
+  <string name="policy_name">Oprávnění: %s</string>
 </resources>
