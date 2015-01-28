@@ -119,4 +119,6 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="menu_item_sort_by_gmt_offset">Seřadit podle času</string>
+  <string name="menu_item_sort_by_name">Seřadit podle názvu</string>
 </resources>

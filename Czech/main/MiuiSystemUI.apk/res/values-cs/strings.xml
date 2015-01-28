@@ -238,4 +238,6 @@
   <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Překročeno: &lt;font color=%2$s>%3$s&lt;/font> | Balíček: %3$s"</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
   <string name="battery_profiles">Použít profily výkonu</string>
+  <string name="status_bar_network_flow_exceed_to_purchase">Dnes: %1$s Překročeno: %2$s Zakoupit: %3$s</string>
+  <string name="status_bar_network_flow_warning_to_purchase">"Dnes: %1$s    Zbývá: %2$s    Zakoupit &gt;"</string>
 </resources>

@@ -1177,4 +1177,5 @@ Vyberte si z následujících možností:</string>
   <string name="resource_download_notification_content">Zkontrolovat</string>
   <string name="resource_download_notification_title_many">Stahování %1$s témat dokončeno!</string>
   <string name="resource_download_notification_title_one">Stahování téma dokočeno!</string>
+  <string name="yellowpage_navigation_clear_search_history">Vyčistit historii</string>
 </resources>

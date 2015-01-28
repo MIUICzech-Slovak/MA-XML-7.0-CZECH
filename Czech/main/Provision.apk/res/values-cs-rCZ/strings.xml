@@ -50,4 +50,5 @@
   <string name="page_layout_title">Rozložení systému</string>
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Restart</string>
+  <string name="install_preinstall_app">Načítání aplikací...</string>
 </resources>

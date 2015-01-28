@@ -304,4 +304,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="report_warning_title">Nahlásit SMS</string>
   <string name="sms_smart_engine_update">Automaticky aktualizovat SMS filtr</string>
   <string name="st_title_sim_unknown">Neznámé</string>
+  <string name="info_antispam_close">AntiSpam je vypnutý</string>
 </resources>
