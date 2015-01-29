@@ -2,8 +2,8 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_settings">Nastavení</string>
-  <string name="address">Adresa:</string>
   <string name="add_to_contacts">Přidat do kontaktů</string>
+  <string name="address">Adresa:</string>
   <string name="alread_check_num">Zkontrolováno</string>
   <string name="app_name">AntiFake</string>
   <string name="base">Základní informace</string>
@@ -21,8 +21,8 @@
   <string name="commit">Odeslat</string>
   <string name="company">Společnost:</string>
   <string name="copy">Kopírovat</string>
-  <string name="copycat_num">FAKE Xiaomi!!!</string>
   <string name="copy_succeed">Zkopírováno</string>
+  <string name="copycat_num">FAKE Xiaomi!!!</string>
   <string name="cpu">CPU</string>
   <string name="desc_useless_session">Navštivte jd.mi.com a načtěte QR kód.</string>
   <string name="detail_config">Parametry</string>
@@ -57,8 +57,8 @@
   <string name="get_result_path">Získat podrobnosti o výsledku</string>
   <string name="get_result_second">Navštivte web stránku s výsledky</string>
   <string name="get_result_third">Web stránka vygenerovala nový QR kód</string>
-  <string name="hardware_compare">Hardware</string>
   <string name="hard_device_msg_submit">HW specifikace byly odeslány</string>
+  <string name="hardware_compare">Hardware</string>
   <string name="help_adults">Pomoc</string>
   <string name="label_error_msg">Chyby</string>
   <string name="maybe_xiaomi">Zřejmě se jedná o Xiaomi zařízení</string>
@@ -76,8 +76,8 @@
   <string name="name">Jméno:</string>
   <string name="near_last_center">Nejbližší prodejní místo:</string>
   <string name="nickname">Přezdívka:</string>
-  <string name="note">Poznámka:</string>
   <string name="not_xiaomi">Toto není Xiaomi zařízení</string>
+  <string name="note">Poznámka:</string>
   <string name="open_flash_error">Nastala chyba</string>
   <string name="order_check">Prodej</string>
   <string name="performance_compare">Výkon</string>
@@ -90,10 +90,10 @@
   <string name="recognize">Rozpoznat</string>
   <string name="restart_app">Restart</string>
   <string name="retry">Znovu</string>
-  <string name="scanning">Načítání QR kódu</string>
-  <string name="scanning_erweima">Načtěte QR kód</string>
   <string name="scan_fail">Selhalo</string>
   <string name="scan_result">Výsledek</string>
+  <string name="scanning">Načítání QR kódu</string>
+  <string name="scanning_erweima">Načtěte QR kód</string>
   <string name="search_road">Najít trasu</string>
   <string name="sensors">Senzory</string>
   <string name="set_cpu_mode">Tento krok je velmi důležitý</string>

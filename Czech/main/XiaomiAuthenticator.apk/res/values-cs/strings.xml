@@ -111,6 +111,7 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="privacy_preference_title">Zásady soukromí</string>
   <string name="progress_loading">Zpracovávání...</string>
   <string name="remove_Xiaomi_account_dialog_message">"Odstraněním tohoto účtu přijdete o možnost vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti nedojde. Tato skutečnost vám může bránit v přihlašování k účtu. Před odstraněním: vypněte dvoufázové ověření totožnosti nebo se přesvědčte, zda máte alternativní způsob vytváření kódů."</string>
+  <string name="remove_account">Odebrat účet</string>
   <string name="remove_account_dialog_button_remove">Odebrat účet</string>
   <string name="remove_account_dialog_message">Odstraněním tohoto účtu přijdete o možnost vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti nedojde. Tato skutečnost vám může bránit v přihlašování k účtu. Před odstraněním: vypněte dvoufázové ověření totožnosti nebo se přesvědčte, zda máte alternativní způsob vytváření kódů.</string>
   <string name="remove_account_dialog_title">Odstranit %1$s?</string>
@@ -172,5 +173,4 @@ Možnosti:"</string>
 - Zabraňte ztrátě nebo odcizení vašeho zařízení
 - Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana přihlášení Xiaomi účtu</string>
-  <string name="remove_account">Odebrat účet</string>
 </resources>

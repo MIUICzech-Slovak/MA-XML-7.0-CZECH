@@ -3,9 +3,9 @@
 <resources>
   <string name="FMRecording_reach_storage_threshold">Nahrávání bylo ukončeno, dochází volné místo pro zápis.</string>
   <string name="access_sd_fail">Nelze načíst SD kartu</string>
-  <string name="alert_frequency_duplicate">Tato frekvence již existuje</string>
   <string name="alert_dialog_cancel">Zrušit</string>
   <string name="alert_dialog_ok">OK</string>
+  <string name="alert_frequency_duplicate">Tato frekvence již existuje</string>
   <string name="alert_invalid_frequency">Nesprávná frekvence.</string>
   <string name="alert_message_delete_station">Opravdu chcete odstranit tuto stanici?</string>
   <string name="alert_title_delete">Odstranit</string>

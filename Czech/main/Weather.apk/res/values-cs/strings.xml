@@ -41,7 +41,10 @@
   <string name="button_not_allow">Zrušit</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="edit_city">Upravit</string>
+  <string name="first_start_network_msg">Pro načtení informací je zapotřebí internetové připojení.</string>
+  <string name="first_start_network_title">Upozornění na připojení</string>
   <string name="gps_hint">Současná poloha</string>
+  <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="loading_weather">Načítání počasí...</string>
   <string name="location_allow_err">Hledání města selhalo.</string>
   <string name="location_management">Města</string>
@@ -68,12 +71,9 @@
   <string name="view_indexes_title_visibility">Viditelnost (km)</string>
   <string name="view_indexes_title_wind">Vítr</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="view_realtime_clear_substitution">Clear</string>
   <string name="view_sun_titile">Východ a západ</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="first_start_network_msg">Pro načtení informací je zapotřebí internetové připojení.</string>
-  <string name="first_start_network_title">Upozornění na připojení</string>
-  <string name="international_detail_menu_title">Podrobnosti</string>
-  <string name="view_realtime_clear_substitution">Clear</string>
 </resources>

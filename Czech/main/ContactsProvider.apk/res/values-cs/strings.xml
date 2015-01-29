@@ -18,6 +18,7 @@
   <string name="provider_label">Kontakty</string>
   <string name="read_write_all_voicemail_description">Umožňuje aplikaci ukládat a načítat všechny hlasové zprávy, ke kterým má toto zařízení přístup.</string>
   <string name="read_write_all_voicemail_label">Přístup ke všem hlasovým zprávám</string>
+  <string name="search_the_yellowpage">Vyhledat v seznamu</string>
   <string name="send_sms">Odeslat zprávu</string>
   <string name="sharedUserLabel">Android Core Apps</string>
   <string name="third_party_delete_contact_info">\"%s\" vymaže Vaše Xiaomi kontakty. Použije systémovou aplikaci Kontakty pro zabezpečení Vašich kontaktů.</string>
@@ -26,5 +27,4 @@
   <string name="upgrade_out_of_memory_notification_ticker">Aktualizace kontaktu vyžaduje více paměti</string>
   <string name="upgrade_out_of_memory_notification_title">Nedostatek paměti pro aktualizaci kontaktu</string>
   <string name="voicemail_from_column">"Hlasová zpráva od uživatele "</string>
-  <string name="search_the_yellowpage">Vyhledat v seznamu</string>
 </resources>

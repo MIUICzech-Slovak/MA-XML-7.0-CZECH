@@ -45,6 +45,7 @@
   <string name="download_complete">Staženo</string>
   <string name="download_error">Neúspěšné</string>
   <string name="download_error_insufficient_space">Nedostatek místa</string>
+  <string name="download_filesize_unknown">neznámé</string>
   <string name="download_in_process">Stahování</string>
   <string name="download_info_count_deleted_tasks">Úspěšně vymazáno %s stahování</string>
   <string name="download_info_start_deleted_tasks">Připravuji vymazání stahování</string>
@@ -113,16 +114,16 @@
   <string name="paused_waiting_to_retry">Čekání na obnovení</string>
   <string name="period_of_validity">"Platnost: "</string>
   <string name="pref_download_settings_title">Využití mobilních dat</string>
-   <string name="privacy_tip_cancel">Zrušit</string>
-  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
-  <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
   <string name="pref_summary_any_bytes_popup">Stahovat pouze přes Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Při stahování pomocí mobilního internetu se zeptat, pokud soubor přesahuje povolený limit"</string>
   <string name="pref_summary_max_bytes_limit_format">Stáhnout přes Wi-Fi, pokud je soubor větší než %s</string>
   <string name="pref_summary_no_limit_popup">Neomezená velikost souboru</string>
   <string name="pref_title_enable_max_bytes_popup">Ptát se při stahování</string>
   <string name="preferences_title">Nastavení</string>
+  <string name="privacy_tip_cancel">Zrušit</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
   <string name="remove_download">Odstranit</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Obnovit</string>
@@ -131,6 +132,8 @@
   <string name="select_all">Vybrat vše</string>
   <string name="select_operation_items">Prosím, vyberte položku operace</string>
   <string name="selected_count">Vybráno: %1$d z %2$d</string>
+  <string name="toast_xunlei_engine_open">"Xunlei stahování je aktivováno.
+Tato funkce není mimo Čínu doporučena"</string>
   <string name="turn_off_xunlei_message">Může způsobit pomalejší stahování dat.</string>
   <string name="turn_off_xunlei_tips">Xunlei stahování je deaktivováno</string>
   <string name="turn_off_xunlei_title">Deaktivovat Xunlei stahování</string>
@@ -138,15 +141,12 @@
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_close_tips_button">Zrychlit</string>
+  <string name="xunlei_close_tips_content">Jen pro Čínu</string>
+  <string name="xunlei_close_tips_title">Tato funkce není doporučena pro uživatele mimo Čínu</string>
   <string name="xunlei_gaosu">Xunlei Highspeed service</string>
   <string name="xunlei_member_annual_fee">Xunlei na jeden rok (platinum)</string>
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="download_filesize_unknown">neznámé</string>
-  <string name="xunlei_close_tips_button">Zrychlit</string>
-  <string name="xunlei_close_tips_content">Jen pro Čínu</string>
-  <string name="xunlei_close_tips_title">Tato funkce není doporučena pro uživatele mimo Čínu</string>
-  <string name="toast_xunlei_engine_open">"Xunlei stahování je aktivováno.
-Tato funkce není mimo Čínu doporučena"</string>
 </resources>

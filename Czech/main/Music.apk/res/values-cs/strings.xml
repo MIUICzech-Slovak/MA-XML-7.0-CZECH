@@ -8,6 +8,7 @@
   <string name="action_item_add_to_new_playlist">Nový</string>
   <string name="action_item_delete">Vymazat</string>
   <string name="action_item_download">Stáhnout</string>
+  <string name="action_item_hide">Skrýt</string>
   <string name="action_item_remove">Odstranit</string>
   <string name="action_item_send">Odeslat</string>
   <string name="album_name">Album</string>
@@ -25,10 +26,13 @@
   <string name="avoid_to_use_traffic_summary">Upozornit na spotřebu dat</string>
   <string name="avoid_to_use_traffic_title">Použít pouze Wi-Fi pro stream</string>
   <string name="baidu_music">Baidu Music</string>
+  <string name="bill_list_fragment_title">Hitparády</string>
+  <string name="bluetooth_device">Bluetooth zařízení</string>
   <string name="buffering">Načítání...</string>
   <string name="button_add">Přidat</string>
   <string name="can_not_find_resource">Nic nebylo nalezeno</string>
   <string name="cancel">Zrušit</string>
+  <string name="channel_list_fragment_title">FM</string>
   <string name="choose_download_quality">Vyberte kvalitu stahování</string>
   <string name="choose_stream_quality">Vyberte kvalitu zdroje</string>
   <string name="click_modify">Dotykem upravíte text</string>
@@ -37,6 +41,11 @@
   <string name="create_playlist">Vytvořit playlist</string>
   <string name="data_usage_warning">Upozornění využití dat!</string>
   <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
+  <string name="delete_file_as_well">Vymazat i stažený soubor</string>
+  <string name="delete_file_end">Soubory vymazány</string>
+  <string name="delete_file_start">Vymazat soubory</string>
+  <string name="device_connected">Připojeno</string>
+  <string name="device_not_connected">Nepřipojeno</string>
   <string name="dialog_button_agree">Souhlasím</string>
   <string name="dialog_button_create_playlist">Vytvořit Playlist</string>
   <string name="dialog_button_editor_choice">Výběr</string>
@@ -121,6 +130,8 @@
   <string name="filter_by_duration_min">0 s</string>
   <string name="filter_by_duration_prefix">"Minimální délka: "</string>
   <string name="filter_by_duration_summary">Nezobrazovat krátké audio soubory</string>
+  <string name="filter_by_folder">Podle složky</string>
+  <string name="filter_by_folder_summary">Zvolit složky ke zobrazení</string>
   <string name="filter_by_size">Filtrovat podle velikosti</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -199,10 +210,12 @@
   <string name="no_local_source_find">Lokální soubory nalezeny, odesílání selhalo!</string>
   <string name="no_online_song_selected">Žádné vybrané skladby</string>
   <string name="no_results_return">Nic nebylo nalezeno</string>
+  <string name="no_song">Žádné skladby</string>
   <string name="no_song_downloaded">Nelze stáhnout skladbu</string>
   <string name="normal_quality">Dobrá kvalita</string>
   <string name="not_login">Nepřihlášen</string>
   <string name="not_selected">Vyberte skladbu</string>
+  <string name="nowplaying_menu_item_delete">Vymazat</string>
   <string name="ok">OK</string>
   <string name="online_music">Online Hudba</string>
   <string name="online_playlist_is_empty">Online playlist je prázdný!</string>
@@ -220,6 +233,7 @@
   <string name="project_device">Telefon</string>
   <string name="project_device_mobile">Mobilní zařízení</string>
   <string name="quit_warining">Přehrávač zastaví přehrávání za %d minut(y)</string>
+  <string name="recommend_fragment_title">Hity</string>
   <string name="retry">Zkusit znovu</string>
   <string name="ringtone_not_support">Formát není podporován.</string>
   <string name="search_album">Vyhledat album online</string>
@@ -231,6 +245,7 @@
   <string name="search_title_song">Skladba</string>
   <string name="select_album">Vyberte album</string>
   <string name="select_device">Vyberte zařízení</string>
+  <string name="select_displayed_folders">Zvolit složky ke zobrazení</string>
   <string name="select_local_album">Vyberte lokální album</string>
   <string name="select_local_lyric">Vyberte lokální text</string>
   <string name="select_lyric">Vybrat Text</string>
@@ -243,6 +258,7 @@
   <string name="set_lyric_successful">Text skladby uložen</string>
   <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
   <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
+  <string name="similar_songs">Podobné skladby</string>
   <string name="sleep_mode">Časovač</string>
   <string name="sleep_mode_canceled">Režim spánku zrušen</string>
   <string name="sleep_mode_summary">Posuvníkem nastavte čas</string>
@@ -251,6 +267,7 @@
   <string name="song_not_find">Síť je odpojena nebo se skladba nenachází na serveru.</string>
   <string name="source_from">Zdroj: %1$s</string>
   <string name="start_to_play">Přehrát</string>
+  <string name="stream_quality">Kvalita streamu</string>
   <string name="streamloadingtext">Připojování k %s</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist_list">Umělec</string>
@@ -277,21 +294,4 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
-  <string name="bluetooth_device">Bluetooth zařízení</string>
-  <string name="device_connected">Připojeno</string>
-  <string name="device_not_connected">Nepřipojeno</string>
-  <string name="stream_quality">Kvalita streamu</string>
-  <string name="bill_list_fragment_title">Hitparády</string>
-  <string name="channel_list_fragment_title">FM</string>
-  <string name="delete_file_as_well">Vymazat i stažený soubor</string>
-  <string name="delete_file_end">Soubory vymazány</string>
-  <string name="delete_file_start">Vymazat soubory</string>
-  <string name="no_song">Žádné skladby</string>
-  <string name="nowplaying_menu_item_delete">Vymazat</string>
-  <string name="recommend_fragment_title">Hity</string>
-  <string name="action_item_hide">Skrýt</string>
-  <string name="filter_by_folder">Podle složky</string>
-  <string name="filter_by_folder_summary">Zvolit složky ke zobrazení</string>
-  <string name="select_displayed_folders">Zvolit složky ke zobrazení</string>
-  <string name="similar_songs">Podobné skladby</string>
 </resources>

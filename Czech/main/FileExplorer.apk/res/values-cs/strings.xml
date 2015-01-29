@@ -29,6 +29,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="category_music">Hudba</string>
   <string name="category_other">Ostatní</string>
   <string name="category_picture">Obrázky</string>
+  <string name="category_recent">Nedávné</string>
   <string name="category_theme">Témata</string>
   <string name="category_type_document">Dokumenty</string>
   <string name="category_type_meida">Média</string>
@@ -63,6 +64,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="decompress_success">Rozbalování dokončeno</string>
   <string name="decompress_to">Rozbalit do:</string>
   <string name="decompress_to_here">Rozbalit do této složky</string>
+  <string name="delete_dialog_button">Vymazat</string>
   <string name="delete_failed">Mazání selhalo</string>
   <string name="delete_file">Smazat?</string>
   <string name="delete_files">Opravdu chcete smazat tyto soubory(%1$d)?</string>
@@ -129,7 +131,6 @@ Váš účet bude dočasně zablokovaný,
 Server je momentálně nedostupný, zkuste to znovu později
 "</string>
   <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
-  <string name="delete_dialog_button">Vymazat</string>
   <string name="load_err">Načítání selhalo</string>
   <string name="loading">Načítám...</string>
   <string name="local_cache_size">Velikost místní cache: %s</string>
@@ -145,6 +146,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="menu_item_sort_size">Velikosti</string>
   <string name="menu_item_sort_type">Typu</string>
   <string name="menu_list_name">Menu</string>
+  <string name="mi_router_label">MiRouter</string>
   <string name="migrate_announcement_msg">Jestli už máte účet, můžete ho připojit v nastavení</string>
   <string name="migrate_announcement_title">Migrace účtu</string>
   <string name="mobile_photo">Fotografie</string>
@@ -305,6 +307,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="upload_failed">Nahrávání selhalo!</string>
   <string name="upload_file_toolarge_message">"%1$d souborů větších než 300MB nemůže být odesláno. Prosím zkontrolujte Správce přenosu pro více informací."</string>
   <string name="uploading">Odesílám...</string>
+  <string name="usb_label">USB</string>
   <string name="used">"Použito "</string>
   <string name="user_guide">Uživatelský manuál</string>
   <string name="user_guide_continue_use">OK</string>
@@ -325,7 +328,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
-  <string name="mi_router_label">MiRouter</string>
-  <string name="usb_label">USB</string>
-  <string name="category_recent">Nedávné</string>
 </resources>

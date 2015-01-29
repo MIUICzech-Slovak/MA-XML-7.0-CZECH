@@ -27,6 +27,7 @@
   <string name="day_following_good_friday"/>
   <string name="default_name">Výchozí</string>
   <string name="device_hongmi">Redmi</string>
+  <string name="device_pad">MiPAD</string>
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter"/>
@@ -114,6 +115,7 @@
   <string name="screen_on_proximity_sensor_hint">"Vynucené ukončení: Stiskněte 'Zpět'+'Hlasitost nahoru'"</string>
   <string name="screen_on_proximity_sensor_summary">Odkryjte senzor přiblížení!</string>
   <string name="screen_on_proximity_sensor_title">Odkryjte senzor přiblížení!</string>
+  <string name="screen_paper_mode_enter_toast">Režim čtení je aktivní. Můžete jej kdykoliv vypnout v Nastavení - Další nastavení - Režim čtení.</string>
   <string name="screen_rotation_freeze_message">Otáčení obrazovky uzamčeno v režimu na šířku</string>
   <string name="select">Vybrat</string>
   <string name="select_all">Vše</string>
@@ -139,6 +141,7 @@
   <string name="status_bar_toggle_lock">Zámek</string>
   <string name="status_bar_toggle_mute">Ticho</string>
   <string name="status_bar_toggle_network_type">Režim sítě</string>
+  <string name="status_bar_toggle_paper_mode">Režim čtení</string>
   <string name="status_bar_toggle_power_mode">Výkon</string>
   <string name="status_bar_toggle_privacy_mode">Návštěvník</string>
   <string name="status_bar_toggle_quiet_mode">Nerušit</string>
@@ -181,7 +184,4 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
-  <string name="device_pad">MiPAD</string>
-  <string name="status_bar_toggle_paper_mode">Režim čtení</string>
-  <string name="screen_paper_mode_enter_toast">Režim čtení je aktivní. Můžete jej kdykoliv vypnout v Nastavení - Další nastavení - Režim čtení.</string>
 </resources>

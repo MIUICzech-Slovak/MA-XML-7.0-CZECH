@@ -16,10 +16,16 @@
   <string name="download_running">Probíhá</string>
   <string name="download_running_percent">Probíhá, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
+  <string name="notif_text_engine_off">Probíhá stahování...</string>
+  <string name="notif_text_engine_on">Zrychlení... (jen pro Čínu)</string>
+  <string name="notif_title_file_size">Celkem: %1$d</string>
+  <string name="notif_title_multiple_downloading">%1$d</string>
+  <string name="notif_title_single_downloading">%1$s</string>
   <string name="notification_download_complete">Stahování dokončeno</string>
   <string name="notification_download_failed">Stahování bylo neúspěšné</string>
   <string name="notification_need_wifi_for_size">Čekání na Wi-Fi připojení</string>
   <string name="notification_paused_in_background">Pozastaveno na pozadí</string>
+  <string name="paused_waiting_for_network">Čekání na síť</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikaci stahovat soubory do mezipaměti stahování, kterou nelze automaticky vymazat, pokud správce stahování potřebuje více místa.</string>
   <string name="permdesc_downloadCompletedIntent">Umožňuje aplikaci odesílat oznámení o dokončení stahování. Škodlivé aplikace mohou pomocí těchto oprávnění zmást jiné aplikace, které stahují soubory.</string>
@@ -34,7 +40,14 @@
   <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
   <string name="permlab_downloadWithoutNotification">stahovat soubory bez upozornění</string>
   <string name="permlab_seeAllExternal">Zobrazit stahování – USB</string>
+  <string name="privacy_notif_content">Zobrazit podrobnosti</string>
+  <string name="privacy_notif_title">Xunlei stahování je povoleno</string>
+  <string name="privacy_tip_cancel">Zrušit</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
   <string name="root_downloads">Staženo</string>
+  <string name="task_already_exist">Úloha již existuje</string>
   <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：
 
 %s (%s)
@@ -45,17 +58,4 @@ Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
-  <string name="privacy_notif_content">Zobrazit podrobnosti</string>
-  <string name="privacy_notif_title">Xunlei stahování je povoleno</string>
-  <string name="privacy_tip_cancel">Zrušit</string>
-  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
-  <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Použít Xunlei stahování?</string>
-  <string name="task_already_exist">Úloha již existuje</string>
-  <string name="notif_text_engine_off">Probíhá stahování...</string>
-  <string name="notif_text_engine_on">Zrychlení... (jen pro Čínu)</string>
-  <string name="notif_title_file_size">Celkem: %1$d</string>
-  <string name="notif_title_multiple_downloading">%1$d</string>
-  <string name="notif_title_single_downloading">%1$s</string>
-  <string name="paused_waiting_for_network">Čekání na síť</string>
 </resources>

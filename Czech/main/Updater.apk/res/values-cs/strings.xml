@@ -20,6 +20,15 @@
   <string name="apply_upload_info_message_manually">Vypněte prosím zařízení a ručně spusťte Recovery k aplikování aktualizace %s z SD karty. Pokud si přejete zálohovat svá data, zálohujte si je a pak se vraťte k aktualizaci systému.</string>
   <string name="applying_rom_message">Použít aktualizaci</string>
   <string name="applying_update">Aktualizuji... %s</string>
+  <string name="auto_agree_clause">"Naše podmínky ochrany soukromí byly aktualizovány. "</string>
+  <string name="auto_button_examine">Zobrazit</string>
+  <string name="auto_button_examine_immediately">Zobrazit</string>
+  <string name="auto_button_sure_cancel">Zrušit</string>
+  <string name="auto_check_clause_button">Zobrazit</string>
+  <string name="auto_check_clause_msg">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
+  <string name="auto_dialog_msg">"Aktualizovali jsme naše podmínky o ochraně soukromí. Přečtěte si je pozorně, než aktualizujete systém. "</string>
+  <string name="auto_dialog_msg_check_again">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
+  <string name="auto_dialog_title_check_again">Zrušit aktualizaci?</string>
   <string name="auto_update">Aktualizovat automaticky</string>
   <string name="auto_update_sum">Automaticky zvolit nejlepší aktualizaci</string>
   <string name="autosetmode">Nastavení aktualizace</string>
@@ -39,6 +48,7 @@
   <string name="check_update_when_wifi_available_sum">Použít pouze Wi-Fi pro kontrolu aktualizace</string>
   <string name="checking_for_updates">Kontrola aktualizací...</string>
   <string name="choose_recommend">Prosím zvolte, doporučte, nebo ne</string>
+  <string name="clean_up_button">Vyčistit</string>
   <string name="comment_invalid">Ohodnoťte hvězdičkami aktualizaci</string>
   <string name="comment_publish">Odeslat</string>
   <string name="comment_sending">Odesílání...</string>
@@ -84,6 +94,7 @@
   <string name="get_current">Převzít nejnovější</string>
   <string name="get_update_error">Nelze získat informace o aktualizaci</string>
   <string name="go_on_download">Pokračovat</string>
+  <string name="important_suggestion">Podmínky o ochraně soukromí byly změněny</string>
   <string name="install">Instalovat</string>
   <string name="install_email">Nastavte si prosím e-mail</string>
   <string name="install_failed">Aktualizace selhala</string>
@@ -149,7 +160,9 @@
   <string name="notification_reboot_des">Restartovat zařízení do %s.</string>
   <string name="notification_reboot_seccess_des">Sdílet informace o aktualizace</string>
   <string name="notification_reboot_seccess_title">Aktualizováno!</string>
+  <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
   <string name="notification_reboot_title">Aktualizace dokončena</string>
+  <string name="notification_reboot_title_hm">Restartujte pro aktualizaci</string>
   <string name="notification_share">Sdílet</string>
   <string name="notification_update_new_version">Dostupná nová verze</string>
   <string name="notification_update_now">Aktualizovat</string>
@@ -234,6 +247,8 @@
   <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé úterý.</string>
   <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!
 Vyplňte jej prosím následující úterý"</string>
+  <string name="update_feedback_need_account">Musíte se přihlásit ke Xiaomi účtu</string>
+  <string name="update_feedback_need_network">Připojte se k síti</string>
   <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
   <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
   <string name="update_general">Není špatná</string>
@@ -246,6 +261,7 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="updater_finish_download">Stahování ROM je dokončeno</string>
   <string name="updater_nolog">Seznam změn není dostupný</string>
   <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
+  <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
   <string name="upgrade_close">Zavřít</string>
   <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
   <string name="upgrade_kernel_msg">"Aktuální verze kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>
@@ -262,20 +278,4 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="auto_agree_clause">"Naše podmínky ochrany soukromí byly aktualizovány. "</string>
-  <string name="auto_button_examine">Zobrazit</string>
-  <string name="auto_button_examine_immediately">Zobrazit</string>
-  <string name="auto_button_sure_cancel">Zrušit</string>
-  <string name="auto_check_clause_button">Zobrazit</string>
-  <string name="auto_check_clause_msg">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
-  <string name="auto_dialog_msg">"Aktualizovali jsme naše podmínky o ochraně soukromí. Přečtěte si je pozorně, než aktualizujete systém. "</string>
-  <string name="auto_dialog_msg_check_again">"Musíte souhlasit s našimi novými podmínkami o ochraně soukromí před aplikováním aktualizace. "</string>
-  <string name="auto_dialog_title_check_again">Zrušit aktualizaci?</string>
-  <string name="important_suggestion">Podmínky o ochraně soukromí byly změněny</string>
-  <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
-  <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
-  <string name="notification_reboot_title_hm">Restartujte pro aktualizaci</string>
-  <string name="clean_up_button">Vyčistit</string>
-  <string name="update_feedback_need_account">Musíte se přihlásit ke Xiaomi účtu</string>
-  <string name="update_feedback_need_network">Připojte se k síti</string>
 </resources>

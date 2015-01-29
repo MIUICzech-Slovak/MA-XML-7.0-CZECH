@@ -77,9 +77,12 @@ se dotknete štítku telefonem"</string>
   <string name="err_tag_protected">Zadejte heslo štítku.</string>
   <string name="err_tag_read_only">Nelze zapsat na tento štítek</string>
   <string name="error_password">Chyba hesla</string>
+  <string name="fail_get_contact_info">Nelze načíst podrobnosti o kontaktu. Zkontrolujte, zda aplikace NFC má povolen přístup ke kontaktům.</string>
   <string name="failed_install">Instalace selhala</string>
   <string name="failed_to_erase">Mazání štítku selhalo</string>
   <string name="failed_to_write">Zapisování na štítek selhalo</string>
+  <string name="fif_seconds">15 sekund</string>
+  <string name="five_minutes">5 minut</string>
   <string name="gps">GPS</string>
   <string name="help_title">Pomoc</string>
   <string name="hint_input_address">Adresa</string>
@@ -103,6 +106,7 @@ se dotknete štítku telefonem"</string>
   <string name="mode">režim</string>
   <string name="music">Přehrát hudbu</string>
   <string name="my_tags">Moje štítky</string>
+  <string name="never">Nikdy</string>
   <string name="new_config">Nové úlohy</string>
   <string name="new_configures">Nové nastavení</string>
   <string name="no_available_networks">Žádná dostupná síť</string>
@@ -113,6 +117,7 @@ se dotknete štítku telefonem"</string>
   <string name="null_task">Žádné úlohy</string>
   <string name="off">Vypnout</string>
   <string name="on">Zapnout</string>
+  <string name="one_minute">1 minuta</string>
   <string name="open_web">Otevřít web stránku</string>
   <string name="open_xiaomi_web">Otevřít Xiaomi.com</string>
   <string name="password_preference">Heslo Štítku</string>
@@ -171,6 +176,8 @@ se dotknete štítku telefonem"</string>
   <string name="tag_history">Historie</string>
   <string name="tag_history_date_format">d.M.</string>
   <string name="task">Spustit úlohy</string>
+  <string name="ten_minutes">10 minut</string>
+  <string name="thir_seconds">30 sekund</string>
   <string name="toast_import_failed">Import kontaktu selhal</string>
   <string name="toggle">Přepnout</string>
   <string name="torch">Svítilna</string>
@@ -180,6 +187,7 @@ se dotknete štítku telefonem"</string>
 přiložte další NFC štítek."</string>
   <string name="touch_and_write_more">"Pro zapsání další kopie,
 přiložte další NFC štítek."</string>
+  <string name="two_minutes">2 minuty</string>
   <string name="unavailable_net">"Instalace selhala: Nelze se připojit k síti"</string>
   <string name="unavailable_storage">"Instalace selhala: Nelze použít SD kartu"</string>
   <string name="unrecognized_tag">Nerozpoznán obsah štítku</string>
@@ -204,12 +212,4 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
-  <string name="fail_get_contact_info">Nelze načíst podrobnosti o kontaktu. Zkontrolujte, zda aplikace NFC má povolen přístup ke kontaktům.</string>
-  <string name="two_minutes">2 minuty</string>
-  <string name="thir_seconds">30 sekund</string>
-  <string name="ten_minutes">10 minut</string>
-  <string name="one_minute">1 minuta</string>
-  <string name="never">Nikdy</string>
-  <string name="five_minutes">5 minut</string>
-  <string name="fif_seconds">15 sekund</string>
 </resources>

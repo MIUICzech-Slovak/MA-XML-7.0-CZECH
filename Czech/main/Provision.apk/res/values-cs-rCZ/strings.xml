@@ -9,6 +9,7 @@
   <string name="ime_privacy_policy_no_network">Nelze se připojit k síti. Přečtěte si podmínky soukromí pro tuto klávesnici na %s</string>
   <string name="input_method_category">Vybrat výchozí metodu zadávání</string>
   <string name="input_method_setting">Vyberte metodu zadávání</string>
+  <string name="install_preinstall_app">Načítání aplikací...</string>
   <string name="locale_picker_confirm_dialog_desc">Vybrat %s jako váš region?</string>
   <string name="locale_picker_confirm_dialog_title">Nastavení polohy</string>
   <string name="locale_picker_desc">Pokud budete chtít později změnit vaši zemi, bude nutné resetovat zařízení do továrního nastavení</string>
@@ -26,9 +27,13 @@
   <string name="other_settings_user_experience">Zpětná vazba</string>
   <string name="other_settings_user_experience_summary">Pomožte Xiaomi zlepšovat produkty a služby odesíláním anonymních diagnostik a statistik</string>
   <string name="other_settings_user_experience_summary1">Ochrany soukromí</string>
+  <string name="page_layout_label">Nastavit velikost textu a rozložení plochy, přepínačů, číselníku a dalších.</string>
+  <string name="page_layout_title">Rozložení systému</string>
   <string name="pref_title_data_slot">Preferovaná datová SIM karta</string>
   <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
   <string name="privacy_policy">Podmínky soukromí</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Restart</string>
   <string name="provision_inputmethod_policy_description">"Zobrazit pro tuto klávesnici "</string>
   <string name="provision_inputmethod_policy_description1">Podmínky soukromí</string>
   <string name="setting_locale">Nastavování země...</string>
@@ -43,12 +48,7 @@
   <string name="terms_of_service">Podmínky používání</string>
   <string name="terms_of_use">Podmínky používání</string>
   <string name="terms_of_use_label">Musíte souhlasit s Podmínkami používání a Podmínkami soukromí pokud chcete používat MIUI</string>
+  <string name="title_congratulation">Hotovo! Přihlaste se na www.miuios.cz :)</string>
   <string name="user_agreement">Podmínky používání</string>
   <string name="welcome">Vítejte</string>
-  <string name="title_congratulation">Hotovo! Přihlaste se na www.miuios.cz :)</string>
-  <string name="page_layout_label">Nastavit velikost textu a rozložení plochy, přepínačů, číselníku a dalších.</string>
-  <string name="page_layout_title">Rozložení systému</string>
-  <string name="provision_finish">OK</string>
-  <string name="provision_finish_restart">Restart</string>
-  <string name="install_preinstall_app">Načítání aplikací...</string>
 </resources>

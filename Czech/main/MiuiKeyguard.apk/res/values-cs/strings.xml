@@ -2,6 +2,7 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
+  <string name="click_to_enter_text">Dotykem odemkněte</string>
   <string name="confirm_pin_msg">Zadejte PIN znovu</string>
   <string name="contact_carrier_message">V případě dalších dotazů kontaktujte Vašeho operátora.</string>
   <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>
@@ -61,6 +62,8 @@ Deaktivujte režim Letadlo."</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s MiBand</string>
   <string name="miui_unlockscreen_password_wrong">Znovu:</string>
+  <string name="open_camera_hint_text">Potáhněte doleva pro Fotoaparát</string>
+  <string name="open_remote_center_hint_text">Potáhněte doprava pro MiRemote</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
   <string name="phone_locked_string">Zařízení je zablokováno</string>
   <string name="phone_locked_timeout_minutes_string">Zkuste znovu po %s min</string>
@@ -82,7 +85,4 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="click_to_enter_text">Dotykem odemkněte</string>
-  <string name="open_camera_hint_text">Potáhněte doleva pro Fotoaparát</string>
-  <string name="open_remote_center_hint_text">Potáhněte doprava pro MiRemote</string>
 </resources>

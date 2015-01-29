@@ -36,6 +36,7 @@
   <string name="attach_subject">Předmět</string>
   <string name="attach_take_photo">Vyfotit obrázek</string>
   <string name="attach_video">Videa</string>
+  <string name="audio_download_failed">Stahování nahrávky selhalo</string>
   <string name="back_to_message_list">Seznam zpráv</string>
   <string name="batch_adding_progress_message">Přidávání...</string>
   <string name="batch_delete_confirm_dialog_message">Opravdu chcete smazat vybrané zprávy?</string>
@@ -50,6 +51,7 @@
   <string name="cannot_add_slide_anymore">Další snímky nelze přidat.</string>
   <string name="cannot_forward_drm_obj">Objekt DRM obsažený ve zprávě nelze přeposlat.</string>
   <string name="cannot_get_details">Nelze získat informace</string>
+  <string name="cannot_resend_audio">Nelze odeslat nahrávku</string>
   <string name="cannot_send_message">Zprávu nelze odeslat</string>
   <string name="cannot_send_message_reason">Zpráva nemá žádné platné příjemce.</string>
   <string name="change_duration_activity">Změna doby trvání</string>
@@ -120,6 +122,7 @@
   <string name="download">Stáhnout</string>
   <string name="download_later">V současné době nelze stáhnout. Zkuste to prosím později.</string>
   <string name="downloading">Stahování</string>
+  <string name="downloading_file_can_not_play">Počkejte na stažení nahrávky</string>
   <string name="duration_not_a_number">Doba trvání musí být číslo</string>
   <string name="duration_sec">Trvání (%s s)</string>
   <string name="duration_selector_title">"Doba trvání snímku "</string>
@@ -151,6 +154,7 @@
   <string name="festival">Doporučené</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
+  <string name="festival_networking_title">Oznámení</string>
   <string name="festival_never_remind">Znovu se neptat</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítám...</string>
@@ -173,11 +177,13 @@
   <string name="group_resend_message">Odesílání (%d)</string>
   <string name="guild_add_attachments">Klepněte zde pro přidání příloh nebo smajlíků do zprávy</string>
   <string name="guild_add_recipients">Klepněte zde pro přidání příjemců z adresáře</string>
+  <string name="guild_msim_switcher">Změnit SIM kartu</string>
   <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
   <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
   <string name="hint_search_sms">%d SMS</string>
   <string name="hms_add_image_progress_message">Spracovávání...</string>
   <string name="hms_first_use_tips">Pro přijímání zpráv služeb je nutné připojení k Wi-Fi.</string>
+  <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmí být prázdný</string>
   <string name="importing_progress_private_message">Importování zpráv do soukromé schránky</string>
   <string name="in_sms">Zpráva</string>
   <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
@@ -187,6 +193,7 @@
   <string name="invalid_recipient_message">Zprávu nelze doručit, opravte zadané údaje příjemců.</string>
   <string name="kilobyte">kB</string>
   <string name="layout_selector_title">"Rozložení prezentace "</string>
+  <string name="left_cancel">Potáhněte doleva pro zrušení</string>
   <string name="loading_all_messages">Načítání všech zpráv...</string>
   <string name="loading_conversations">Načítám konverzace...</string>
   <string name="loading_mms">Načítání MMS...</string>
@@ -207,6 +214,7 @@
   <string name="menu_new_manual">Vložit číslo manuálně</string>
   <string name="menu_pick_from_contact">Vybrat z kontaktů</string>
   <string name="menu_preferences">Nastavení</string>
+  <string name="menu_send_as_common">Odeslat jako SMS</string>
   <string name="menu_unlock">Odemknout</string>
   <string name="menu_view_contact">Zobrazit kontakt</string>
   <string name="menu_yellowpage">Zobrazit %s</string>
@@ -223,6 +231,7 @@
   <string name="message_saved_as_draft">Zpráva byla uložena jako koncept</string>
   <string name="message_send_failed_title">Zpráva nebyla odeslána</string>
   <string name="message_send_read_report">Přečtená zpráva bude odeslána</string>
+  <string name="message_sent">Odesláno</string>
   <string name="message_size_label">"Velikost zprávy: "</string>
   <string name="message_too_big_for_audio">Zpráva je příliš velká pro připojení audia.</string>
   <string name="message_too_big_for_video">Zpráva je příliš velká pro připojení videa.</string>
@@ -240,6 +249,7 @@
   <string name="msglist_release_to_more">Pusťte pro zobrazení dalších</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Zvuk oznámení</string>
+  <string name="mx_activate_dlg_title">Aktivovat Cloudové zprávy</string>
   <string name="mx_activate_error_malformed_info">Aktivace Cloud zpráv selhala. Je vyžadován opětovný pokus o aktivaci</string>
   <string name="mx_activate_error_server">Aktivace serveru pro Cloud zprávy selhala</string>
   <string name="mx_activate_error_sim_change">SIM karta změněna! Je vyžadován opětovný pokus o aktivaci</string>
@@ -252,6 +262,7 @@
   <string name="mx_activate_int_hint_sim_change">Byla změněna SIM karta. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
   <string name="mx_activate_int_popup_msg">Zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
   <string name="mx_activate_popup_msg">Cloud zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
+  <string name="mx_activate_user_agreement_p1">"Používáním této služby souhlasíte s "</string>
   <string name="mx_activation_done">Cloud zprávy jsou povoleny</string>
   <string name="mx_auto_resend_mms">Auto. odeslání MMS</string>
   <string name="mx_auto_resend_mms_summary">Odeslat jako MMS, pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno vaším operátorem.</string>
@@ -262,6 +273,7 @@
   <string name="mx_count_dspt">Odeslali jste %1$d SMS a %2$d MMS přes cloud</string>
   <string name="mx_current_status">Stav: Online</string>
   <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
+  <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
   <string name="mx_enable">Zapnout cloudové zprávy</string>
   <string name="mx_enable_int_popup_msg">Cloud zprávy Vám umožní posílat SMS zprávy zdarma mezi uživateli MIUI. Pro aktivaci se odešle mezinárodní SMS zpráva, která bude zpoplatněna dle ceníku Vašeho operátora.</string>
   <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
@@ -301,6 +313,7 @@
   <string name="phrase_list_title">Fráze</string>
   <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
   <string name="play">Přehrát</string>
+  <string name="playing_failed">Nelze přehrát</string>
   <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
   <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy od banky, operátora, atd.</string>
   <string name="pref_edit_smsc_address">Nastavit číslo SMS centra</string>
@@ -344,6 +357,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítat při roamingu</string>
   <string name="pref_title_notification_body_enabled">Zobrazovat náhledy</string>
   <string name="pref_title_ringtone_repeat">Upozornit na novou zprávu</string>
+  <string name="pref_title_ringtone_repeat_summary">Počet opakování zvonění při přijetí SMS zprávy:</string>
   <string name="pref_title_show_recent_contacts">Nejčastěji používané kontakty</string>
   <string name="pref_title_sms_delete">Limit textových zpráv</string>
   <string name="pref_title_system_mms_priority">Systém. SMS aplik. má přednost</string>
@@ -351,6 +365,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_title_wake_up_screen">Rozsvítit displej</string>
   <string name="preferences_title">Nastavení</string>
   <string name="prepare_send">Připraveno k odeslání...</string>
+  <string name="press_recording">Stiskněte a podržte ikonu mikrofonu pro nahrávání</string>
   <string name="preview">Náhled</string>
   <string name="preview_slideshow">Náhled</string>
   <string name="priority_high">Vysoká</string>
@@ -369,10 +384,12 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="received_label">"Přijaté: "</string>
   <string name="recipient_editor_count_format">%d lidí</string>
   <string name="recipient_label">"Příjemce: "</string>
+  <string name="recording_failed">Nelze nahrát</string>
   <string name="refill_now">Znovu zadat</string>
   <string name="refresh">Obnovit</string>
   <string name="refresh_failed">Obnovení selhalo</string>
   <string name="refreshing">Obnovování...</string>
+  <string name="release_cancel">Pusťte pro ukončení</string>
   <string name="remove">Odstranit</string>
   <string name="remove_music">Odstranit hudbu</string>
   <string name="remove_picture">Odstranit fotografii</string>
@@ -383,6 +400,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="replace_image">Nahradit fotografii</string>
   <string name="resent_message">Znovu odeslat</string>
   <string name="resize_image_error_information">Velikost fotografie byla přizpůsobena. Přesto je příliš velká a nelze ji odeslat.</string>
+  <string name="resource_price_free">Zdarma</string>
   <string name="restore_all_button_msg">Obnovit všechny zprávy z tohoto čísla</string>
   <string name="restore_blocked_message">Obnovit zprávy</string>
   <string name="restore_to_phone_memory_failed">Obnovení selhalo</string>
@@ -396,6 +414,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="saved_ringtone">Vyzvánění uložené</string>
   <string name="saved_ringtone_fail">Uložení vyzvánění se nezdařilo</string>
   <string name="saved_to_sim">Uloženo</string>
+  <string name="sdcard_has_not_enough_space">Na úložišti není dostatek místa</string>
   <string name="search">Zprávy</string>
   <string name="search_empty">Žádné výsledky</string>
   <string name="search_hint">Hledat ve zprávách</string>
@@ -523,26 +542,7 @@ Pokus: %s."</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="warning_show">Odeslat za %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="mx_activate_dlg_title">Aktivovat Cloudové zprávy</string>
-  <string name="mx_activate_user_agreement_p1">"Používáním této služby souhlasíte s "</string>
-  <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
-  <string name="audio_download_failed">Stahování nahrávky selhalo</string>
-  <string name="cannot_resend_audio">Nelze odeslat nahrávku</string>
-  <string name="downloading_file_can_not_play">Počkejte na stažení nahrávky</string>
-  <string name="guild_msim_switcher">Změnit SIM kartu</string>
-  <string name="left_cancel">Potáhněte doleva pro zrušení</string>
-  <string name="menu_send_as_common">Odeslat jako SMS</string>
-  <string name="message_sent">Odesláno</string>
-  <string name="playing_failed">Nelze přehrát</string>
-  <string name="press_recording">Stiskněte a podržte ikonu mikrofonu pro nahrávání</string>
-  <string name="recording_failed">Nelze nahrát</string>
-  <string name="release_cancel">Pusťte pro ukončení</string>
-  <string name="resource_price_free">Zdarma</string>
-  <string name="sdcard_has_not_enough_space">Na úložišti není dostatek místa</string>
-  <string name="warning_show">Odeslat za %ds</string>
-  <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmí být prázdný</string>
-  <string name="festival_networking_title">Oznámení</string>
-  <string name="pref_title_ringtone_repeat_summary">Počet opakování zvonění při přijetí SMS zprávy:</string>
 </resources>
