@@ -872,4 +872,8 @@ Velikost aplikace: %2$s"</string>
   <string name="no_application_found_title">Otevřít přílohu</string>
   <string name="recipient_needed_title">Upozornění</string>
   <string name="remove_account_confirm_title">Vymazat účet</string>
+  <string name="search_tabs_name_all">Vše</string>
+  <string name="search_tabs_name_recipient">Příjemce</string>
+  <string name="search_tabs_name_sender">Odesílatel</string>
+  <string name="search_tabs_name_subject">Předmět</string>
 </resources>

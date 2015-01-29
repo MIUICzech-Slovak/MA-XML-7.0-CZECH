@@ -55,6 +55,7 @@ Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkn�
   <string name="notif_text_engine_off">Probíhá stahování...</string>
   <string name="notif_text_engine_on">Zrychlení... (jen pro Čínu)</string>
   <string name="notif_title_file_size">Celkem: %1$d</string>
-  <string name="notif_title_multiple_downloading">Stahování: %1$d</string>
-  <string name="notif_title_single_downloading">Stahování: %1$s</string>
+  <string name="notif_title_multiple_downloading">%1$d</string>
+  <string name="notif_title_single_downloading">%1$s</string>
+  <string name="paused_waiting_for_network">Čekání na síť</string>
 </resources>
