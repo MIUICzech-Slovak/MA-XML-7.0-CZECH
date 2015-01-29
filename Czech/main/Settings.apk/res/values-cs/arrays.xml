@@ -361,7 +361,7 @@ Postupujte dle pokynů"</item>
         <item>2 minuty</item>
         <item>5 minut</item>
         <item>10 minut</item>
-        <item>30 minut</item>
+        <item>Nikdy</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Zeptat se</item>
