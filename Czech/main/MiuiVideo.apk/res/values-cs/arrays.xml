@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+    <string-array name="movie_channel_tabs">
+        <item>Doporučené</item>
+        <item>Žebříček</item>
+        <item>Populární</item>
+        <item>Nejnovější</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Doporučené</item>
+        <item>Populární</item>
+    </string-array>
     <string-array name="channel_tabs">
-        <item></item>
+        <item>Populární</item>
         <item>Žebříček</item>
         <item>Nejnovější</item>
-    </string-array>
-    <string-array name="channel_featured_tabs">
-        <item>Vybrané</item>
-        <item>Žebříček</item>
-        <item>Nejnovější</item>
-    </string-array>
-    <string-array name="home_tabs">
-        <item>Online</item>
-        <item>Lokální</item>
-    </string-array>
-    <string-array name="series_detail_tabs">
-        <item>Epizoda</item>
-        <item>Popis</item>
     </string-array>
 </resources>
