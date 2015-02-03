@@ -158,8 +158,8 @@
   <string name="login_tip_title">Přihlásit</string>
   <string name="maintitle_prefix">Dostupná aktualizace</string>
   <string name="media_name_comment">%s komentář</string>
-  <string name="menu_item_disable_audio_enhance">Zakázat vylepšení zvuku</string>
-  <string name="menu_item_enable_audio_enhance">Povolit vylepšení zvuku</string>
+  <string name="menu_item_disable_audio_enhance">Vylepšení zvuku</string>
+  <string name="menu_item_enable_audio_enhance">Vylepšení zvuku</string>
   <string name="minute"> Min</string>
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">"."</string>
