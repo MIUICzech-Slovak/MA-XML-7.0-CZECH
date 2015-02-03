@@ -58,4 +58,8 @@
         <item>Couvající srpek</item>
         <item>Zatmění</item>
     </string-array>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Slunečno</item>
+    </plurals>
 </resources>

@@ -348,7 +348,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_protection_text_hint">Nastavit limit mobilních dat</string>
   <string name="traffic_protection_unknown">Zadat později</string>
   <string name="traffic_protection_use_data">Data povolena</string>
-  <string name="traffic_purchase_body">Save 50% when you top up now.</string>
+  <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Navýšit</string>
   <string name="traffic_saving_button_sorted">Žebříček</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Vybrat největší</string>
@@ -407,7 +407,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_open">Zap</string>
   <string name="traffic_setting_step_num">Nastavení balíčku dat</string>
   <string name="traffic_setting_update_template_falure">Nelze se připojit k síti</string>
-  <string name="traffic_warning_purchase_title">Zbývá méně než %d%%</string>
+  <string name="traffic_warning_purchase_title">Využití mobilních dat</string>
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>

@@ -2899,4 +2899,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="search_accessibility">Usnadnění přístupu</string>
+  <string name="search_battery">baterie</string>
+  <string name="search_display">displej</string>
+  <string name="search_font">písmo</string>
+  <string name="search_handy_mode">ovládání jednou rukou</string>
+  <string name="search_privacy">zálohování</string>
+  <string name="search_storage">úložiště</string>
+  <string name="search_wifi_display">wi-fi displej</string>
 </resources>
