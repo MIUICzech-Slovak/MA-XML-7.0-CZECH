@@ -2,31 +2,31 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
 <!--from version 1.1.3 http://en.miui.com/thread-73032-1-1.html -->
-  <string name="about_check_update">Kontrola aktualizácií</string>
+  <string name="about_check_update">Kontrola aktualizací</string>
   <string name="about_faq">FAQ</string>
-  <string name="about_faq_content">"Skontrolujte či je Wi-Fi sieť v poriadku 
-1. Skontrolujte zadané heslo k Wi-Fi sieti
-2. WEP a EAP nie sú podporované
-3. Router nemá prístup k externej sieti 
-4. K verejnej Wi-Fi sieti sa nie je možné pripojiť
-5. 5G sieť nie je podporovaná
+  <string name="about_faq_content">"Zkontrolujte Wi-Fi síť 
+1. Zkontrolujte zadané heslo k Wi-Fi síti
+2. WEP a EAP nejsou podporovány
+3. Router nemá přístup k externí síti 
+4. K veřejné Wi-Fi síti se nelze připojit
+5. 5G síť není podporována
 "</string>
-  <string name="about_faq_link">(Viac)</string>
+  <string name="about_faq_link">(více)</string>
   <string name="about_hight_light">Highlights Introduction</string>
-  <string name="about_normal">Prepnúť do normálneho prostredia</string>
+  <string name="about_normal">Přepnout do normálního prostředí</string>
   <string name="about_smarthome_bbs">Fórum</string>
-  <string name="about_test">Prepnúť do testovacieho prostredia</string>
-  <string name="account_login">Prihlásiť sa</string>
-  <string name="action_settings">Nastavenia</string>
-  <string name="add_back_device_error">Odstránenie zlyhalo, skúste to znova</string>
-  <string name="add_device">Pridať zariadenie</string>
-  <string name="add_or_kick_device_failed">Operácia zlyhala, skúste to znova</string>
-  <string name="add_scene">Pridať scénu</string>
-  <string name="air_error_page_text">Po pripojení, alebo ak telefón nie je pripojený k čističke, stlačte spolu tlačidlo "MODE" a "LIGHT" po dobu 5s. Zvukový tón signalizuje obnovenie nastavení Wi-Fi</string>
-  <string name="air_pufifier_outdoor_city">Mesto</string>
-  <string name="air_pufifier_outdoor_district">Oblasť</string>
-  <string name="air_pufifier_v2_outdoor_city">Mesto</string>
-  <string name="air_pufifier_v2_outdoor_district">Oblasť</string>
+  <string name="about_test">Přepnout do testovacího prostředí</string>
+  <string name="account_login">Přihlásit se</string>
+  <string name="action_settings">Nastavení</string>
+  <string name="add_back_device_error">Odstranění selhalo, zkuste to znovu</string>
+  <string name="add_device">Přidat zařízení</string>
+  <string name="add_or_kick_device_failed">Operace selhala, zkuste to znovu</string>
+  <string name="add_scene">Přidat scénu</string>
+  <string name="air_error_page_text">Po připojení, nebo když telefon není připojen k čističce, stiskněte současně tlačítka "MODE" a "LIGHT" po dobu 5 s. Zvukový tón signalizuje obnovení nastavení Wi-Fi</string>
+  <string name="air_pufifier_outdoor_city">Město</string>
+  <string name="air_pufifier_outdoor_district">Oblast</string>
+  <string name="air_pufifier_v2_outdoor_city">Město</string>
+  <string name="air_pufifier_v2_outdoor_district">Oblast</string>
   <string name="air_purifier">Čistička vzduchu</string>
   <string name="air_purifier_act_det_desc">You can monitor in real time in the off state home air quality, will increase by about 5 cents per day of electricity consumption, may also hear a very slight motor sound, whether to open?</string>
   <string name="air_purifier_act_det_fail">Open failed</string>
@@ -310,24 +310,24 @@
   <string name="app_latest_version_installed_smarthome">The current version has the latest version</string>
   <string name="app_name">MiHome</string>
   <string name="app_upgrade_check_smarthome">Kontrola...</string>
-  <string name="app_upgrade_detail_smarthome">Bola nájdená nová verzia. Stiahnite si ju na miuios.cz/mihome</string>
-  <string name="app_upgrade_failed_smarthome">Sťahovanie zlyhalo</string>
+  <string name="app_upgrade_detail_smarthome">Byla nalezena nová verze. Stáhněte si ji na miuios.cz/mihome</string>
+  <string name="app_upgrade_failed_smarthome">Stahování selhalo</string>
   <string name="application_feedback">Extended Application</string>
   <string name="back_name_less_limit_30">Remarks were required within 30 characters of the</string>
   <string name="back_name_less_limit_not_null">Note the name can not be empty</string>
-  <string name="begin_connection">Pripojiť sa</string>
-  <string name="bind_bind">Pripojené</string>
-  <string name="bind_error">Operácia zlyhala</string>
-  <string name="bind_error_info">1. Skontrolujte sieťové pripojenie 2. Stlačte zapínacie tlačidlo znova pre dokončenie pripojenia</string>
-  <string name="bind_info">Skúste resetovať zariadenie a znovu sa pripojiť</string>
-  <string name="bind_success">Operácia dokončená</string>
-  <string name="bind_title">Podrobnosti o pripojenom zariadení</string>
-  <string name="bind_unbind">Nie je pripojené</string>
-  <string name="binding_feedback">Prepojenie s účtom</string>
-  <string name="bing_tips">Zobraziť postup pre reset</string>
-  <string name="bought_device_go">Viac</string>
-  <string name="bought_device_remote">Inteligentná kontrola</string>
-  <string name="bought_device_switch">Xiaomi Inteligentná zásuvka</string>
+  <string name="begin_connection">Připojit se</string>
+  <string name="bind_bind">Připojeno</string>
+  <string name="bind_error">Operace selhala</string>
+  <string name="bind_error_info">1. Zkontrolujte síťové připojení 2. Stiskněte zapínací tlačítko znovu pro dokončení připojení</string>
+  <string name="bind_info">Zkuste restartovat zařízení a znovu se připojit</string>
+  <string name="bind_success">Operace dokončena</string>
+  <string name="bind_title">Podrobnosti o připojeném zařízení</string>
+  <string name="bind_unbind">Není připojeno</string>
+  <string name="binding_feedback">Připojení s účtem</string>
+  <string name="bing_tips">Zobrazit postup pro reset</string>
+  <string name="bought_device_go">Více</string>
+  <string name="bought_device_remote">Inteligentní kontrola</string>
+  <string name="bought_device_switch">Xiaomi Inteligentní zásuvka</string>
   <string name="button_bind">Make sure the connection</string>
   <string name="button_bind_failed">Connection fails, check the network is open</string>
   <string name="button_bind_failed_info">Connection fails, check the device and the phone is in the same router</string>
