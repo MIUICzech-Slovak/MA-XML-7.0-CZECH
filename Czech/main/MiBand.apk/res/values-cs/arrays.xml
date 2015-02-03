@@ -68,7 +68,7 @@
         <item>Normální</item>
         <item>Nadváha</item>
         <item>Tučný</item>
-        <item>Morbidně tučný</item>
+        <item>Obézní</item>
     </string-array>
 	    <string-array name="health_link_title">
         <item>1. 24-hour emergency response</item>
@@ -99,5 +99,28 @@
         <item>Maraton</item>
         <item>Ovládání zařízení</item>
         <item>Noční běh pro rodiny</item>
+    </string-array>
+    <string-array name="weight_report_result_without_goal">
+        <item>Překonán cíl</item>
+        <item>Nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_gainweight">
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle (%1$s%2$s)!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_loseweight">
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Zatím nebylo dosaženo cíle</item>
+        <item>Bylo dosaženo cíle (%1$s%2$s)!</item>
+    </string-array>
+    <string-array name="weight_dynamic_list_bmi_tips">
+        <item>BMI: Podvýživa</item>
+        <item>BMI: Normální hmotnost</item>
+        <item>BMI: Nadváha</item>
+        <item>BMI: Obezita</item>
     </string-array>
 </resources>

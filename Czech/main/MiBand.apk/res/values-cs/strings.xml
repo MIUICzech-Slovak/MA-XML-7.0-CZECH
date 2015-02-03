@@ -9,6 +9,7 @@
   <string name="action_bath">Koupel</string>
   <string name="action_bike">Kolo</string>
   <string name="action_brush_tooth">Čištění zubů</string>
+  <string name="action_bus">Autobus</string>
   <string name="action_exit">Ukončit</string>
   <string name="action_local_ota">Aktualizace z SD karty</string>
   <string name="action_mark">Behavior Tagging</string>
@@ -22,11 +23,13 @@
   <string name="action_pop_unlock_screen">Odemknutí zařízení</string>
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="action_run">Běh</string>
+  <string name="action_scan_friend">QR kód</string>
   <string name="action_settings">Nastavení</string>
+  <string name="action_sit">Sdílet</string>
   <string name="action_sleep">Spánek</string>
+  <string name="action_stand">Vstát</string>
   <string name="action_walk">Chůze</string>
-  <string name="age">Věk</string>
-  <string name="ages">Let</string>
+  <string name="add_family_member">Přidat člena rodiny</string>
   <string name="agree">Souhlasím</string>
   <string name="alarm">Budík</string>
   <string name="alarm_cycle">Cyklus</string>
@@ -59,9 +62,9 @@ Souhlas: %2$s"</string>
   <string name="bind_devices">Připojit zařízení</string>
   <string name="bind_mi_band">Připojit MiBand</string>
   <string name="bind_mi_band_about">http://www.miuios.cz/miband</string>
-  <string name="bind_mi_weight">Bind Weight Scale</string>
-  <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Weight Scale Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="bind_mi_weight_howto">玩转体重秤</string>
+  <string name="bind_mi_weight">Propojit s váhou</string>
+  <string name="bind_mi_weight_about">http://www.mi.com</string>
+  <string name="bind_mi_weight_howto">Jak na to</string>
   <string name="bind_new_mili">Propojit nový MiBand</string>
   <string name="bind_qq">Synchr. s QQ</string>
   <string name="bind_qq_health">Synchr. s QQ Health</string>
@@ -110,7 +113,8 @@ Adresa: %2$s"</string>
   <string name="cancel">Zrušit</string>
   <string name="check_upgrade">Aktualizace</string>
   <string name="checking_new_apk">Kontrola nové verze...</string>
-  <string name="choose_tag_item">Which item are you going to do?</string>
+  <string name="choose_tag_item">Co jdete dělat?</string>
+  <string name="choose_userinfo_for_weight">Vyberte profil</string>
   <string name="clock_closed">Vypnuto</string>
   <string name="closed">Vypnuto</string>
   <string name="cm">cm</string>
@@ -126,10 +130,22 @@ Adresa: %2$s"</string>
   <string name="connecting">Připojování…</string>
   <string name="content_too_short">Nelze nechat prázdné</string>
   <string name="continue_reach_goal">Dosáhnout cíle</string>
+  <string name="continue_reach_goal_days">"Nejdelší 
+trvání"</string>
   <string name="continue_reach_goal_new_record">Vytvořen nový rekord</string>
   <string name="continue_tips_format">Pokračujte %1$s dní pro dosažení cíle</string>
+  <string name="daily_consume">Spáleno dnes（kcal）</string>
+  <string name="daily_sport_report">Denní výsledky</string>
+  <string name="daily_sport_report_contintue_info">"Zbývá %1$s odpočinkových dní,
+ odobní rekord je %2$s dní"</string>
+  <string name="daily_sport_report_notify">Dnes prochozeno %s, skvělé!</string>
+  <string name="daily_sport_report_notify_content">Stiskněte pro zobrazení výsledků.</string>
+  <string name="daily_sport_report_notify_hurry">"Potřebujete ještě %1$s kroků do vašeho cíle!"</string>
+  <string name="daily_sport_report_week_info">"Prochozeno %1$s kroků.
+ušetřeno %2$s galonů paliva"</string>
   <string name="daily_sporty">Kroků denně</string>
   <string name="data_loading">Načítání...</string>
+  <string name="data_not_supported">--</string>
   <string name="date_from_to">%1$s do %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Poslední měsíc</string>
@@ -147,7 +163,11 @@ Adresa: %2$s"</string>
   <string name="date_yesterday">Včera</string>
   <string name="day">Den</string>
   <string name="day_active_detail">Denní statistiky</string>
+  <string name="debug_host_label">添加测试主机地址：</string>
+  <string name="del_family_member">Vymazat člena rodiny?</string>
+  <string name="del_family_member_content">Všechna data o členu rodiny budou odstraněna.</string>
   <string name="delete">Vymazat</string>
+  <string name="delete_family_member">Vymazat člena rodiny</string>
   <string name="device_list">MiBand v okolí</string>
   <string name="device_not_found">Zařízení nebylo nalezeno</string>
   <string name="device_not_found_not_knocked">Dotkněte se znovu MiBand, když bliká a vyhledejte jej.</string>
@@ -180,7 +200,6 @@ Adresa: %2$s"</string>
   <string name="dynamic_pull_sync_error">Synchr. selhala, zkuste to znovu</string>
   <string name="dynamic_pull_syncing">Synchronizace...</string>
   <string name="dynamic_pull_syncing_progress">Synchr. %s%%</string>
-  <string name="dynamic_pull_update_report">Aktualizovaných záznamů: %s</string>
   <string name="dynamic_sleep_active">Bdělost</string>
   <string name="dynamic_sleep_active_end">Vstávání</string>
   <string name="dynamic_sleep_active_start">Usínání</string>
@@ -200,17 +219,21 @@ Adresa: %2$s"</string>
   <string name="dynamic_title_sleep">Předchozí noc</string>
   <string name="dynamic_title_step">Dnes</string>
   <string name="dynamic_title_weight">Váha</string>
+  <string name="dynamic_title_weight_unbind">Odpojit váhu</string>
   <string name="enable_debug_log">Záznam chyb aktivní</string>
   <string name="enable_hidden_feature">Skrytá aktivita aktivována</string>
+  <string name="equals_fat">"Adekvátní spálení 
+%1$s gramů tuku."</string>
   <string name="error_code">Chyby</string>
   <string name="everyday">Každý den</string>
+  <string name="exceed_user">Překročení</string>
   <string name="exit_app">Ukončit</string>
   <string name="exit_app_continue">Pokračovat</string>
   <string name="exit_app_tips">Ukončení odpojí MiBand od zařízení.</string>
   <string name="exit_login">Odhlásit</string>
   <string name="exit_login_1">Chcete se odhlásit?</string>
   <string name="failed_enable_bt">Povolte Bluetooth</string>
-  <string name="family_member">Family</string>
+  <string name="family_member">Rodina</string>
   <string name="feedback">Zpětná vazba</string>
   <string name="female">Žena</string>
   <string name="find_bracelet">Vyhledat MiBand</string>
@@ -270,6 +293,9 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="help_title_2">Je váš MiBand nabitý?</string>
   <string name="help_title_3">Je MiBand spárovaný s jiným telefonem?</string>
   <string name="help_title_4">Zkuste restartovat telefon</string>
+  <string name="host_can_not_be_empty">Nemůže být prázdné</string>
+  <string name="host_change_error">Chyba</string>
+  <string name="host_change_success">Uloženo</string>
   <string name="hot_des">Energie</string>
   <string name="hour_1"/>
   <string name="in">V </string>
@@ -280,9 +306,9 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="incomingcall_info_2">"Uzamkněte aplikaci MiBand a 
 přidejte MiBand do seznamu povolených."</string>
   <string name="incomingcall_info_3">Přidejte aplikaci MiBand do seznamu povolených.</string>
-  <string name="input_family_member_name">Please input ​name</string>
+  <string name="input_family_member_name">Prosím vložte jméno</string>
   <string name="input_precise_person_info">Zadejte vaše přesné údaje pro výpočet cvičení a optimálního spánku</string>
-  <string name="input_your_name">Please input name</string>
+  <string name="input_your_name">Prosím vložte jméno</string>
   <string name="instruction_tip_1">Podívejte se na průběh 
 vašeho cvičení</string>
   <string name="instruction_tip_2_1">Méně jak 
@@ -297,9 +323,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="instruction_tip_3">Připojte k nabíječce</string>
   <string name="instruction_title">Používání MiBand</string>
   <string name="kg">" kg"</string>
-  <string name="kilogram">" kg"</string>
   <string name="km">" km"</string>
-  <string name="lab_factory_cancel_deauthorize">Odpojit</string>
   <string name="lab_factory_cheat_toast">Nepodvádějte~</string>
   <string name="lab_factory_disconnected_reminder">Upozornění na připojení</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Před změnou nastavení, připojte MiBand</string>
@@ -347,7 +371,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_pb_count">Plynule PB %d</string>
   <string name="lab_factory_sport_pb_desc">Plynulý osobní rekord: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Švihadlo</string>
-  <string name="lab_factory_sport_pb_situp">Sed-leh</string>
+  <string name="lab_factory_sport_pb_situp">Sedy-lehy</string>
   <string name="lab_factory_sport_result_cost_cal">Spáleno %d kcal</string>
   <string name="lab_factory_sport_result_dot">,</string>
   <string name="lab_factory_sport_sec">%ds</string>
@@ -368,12 +392,12 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_type_riding">Cyklistika</string>
   <string name="lab_factory_sport_type_ropeskipping">Skákání přes švihadlo</string>
   <string name="lab_factory_sport_type_running">Běhání</string>
-  <string name="lab_factory_sport_type_situp">Sed-leh</string>
+  <string name="lab_factory_sport_type_situp">Sedy-lehy</string>
   <string name="lab_factory_sport_type_skidding">Bruslení</string>
   <string name="lab_factory_sport_type_sliding">Skateboard</string>
   <string name="lab_factory_sport_type_swimming">Plavání</string>
   <string name="lab_factory_sport_type_tennis">Tenis</string>
-  <string name="lab_factory_sport_type_volleyball">Voleybal</string>
+  <string name="lab_factory_sport_type_volleyball">Volejbal</string>
   <string name="lab_factory_sport_unit">Krát</string>
   <string name="lab_factory_sport_vote_desc">Hlasujte pro svůj oblíbený sport</string>
   <string name="lab_factory_sport_vote_others_hint">Váš oblíbený sport (v angličtině)</string>
@@ -381,6 +405,7 @@ Bylo dosaženo vašeho cíle</string>
   <string name="lab_factory_sport_vote_result_sub_desc">Bylo hlasováno za</string>
   <string name="lab_factory_sport_vote_sub_desc">Bude přidán v následujících aktualizacích</string>
   <string name="lab_factory_title">Fitness centrum</string>
+  <string name="label_runner_group">Běžecký klub</string>
   <string name="left_hand">Levá ruka</string>
   <string name="light_color">Barva LED</string>
   <string name="light_color_title">Barva LED</string>
@@ -398,6 +423,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="male">Muž</string>
   <string name="marathon_format_0">Okolo %1$s maratonu</string>
   <string name="marathon_format_1">Více jak %1$s maratonu</string>
+  <string name="mi_band">MiBand</string>
   <string name="mili_exit_login_info">Odhlásit současný Xiaomi účet.</string>
   <string name="mili_exit_login_info_continue">Synchronizace selhala, zkontrolujte nastavení sítě a zkuste to znovu</string>
   <string name="mili_exit_login_info_continue_tip">Pokračovat?</string>
@@ -436,6 +462,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="next_step">Další</string>
   <string name="no_bracelet_tips">(dostupné pouze s připojeným MiBand)</string>
   <string name="no_network_connection">Žádné připojení</string>
+  <string name="no_network_connection_retry">Zkusit to znovu.</string>
   <string name="no_steps">Žádné kroky</string>
   <string name="no_wear_bracelet">MiBand nebyl používán</string>
   <string name="no_wear_user_modified">Ručně zadat podrobnosti spánku</string>
@@ -445,8 +472,10 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="noti_bracelet_low_battery_content_mid">Je nutné dobít MiBand.</string>
   <string name="noti_bracelet_low_battery_title">Slabá baterie v MiBand</string>
   <string name="noti_bracelet_low_battery_title_low">MiBand je vypnutý</string>
-  <string name="notice_for_tag_time">Notice: the number after X means that the number of times you marked</string>
-  <string name="notice_for_users">MiBand user Exclusive</string>
+  <string name="noti_weight_low_battery_content">请在更换电池后连接体重秤初始化系统时间</string>
+  <string name="noti_weight_low_battery_title">小米体重秤电量低</string>
+  <string name="notice_for_tag_time">Poznámka: číslo za X znamená počet označení</string>
+  <string name="notice_for_users">MiBand</string>
   <string name="notify_status_motor">"MiBand vibruje: "</string>
   <string name="notify_status_motor_alarm">" Budík"</string>
   <string name="notify_status_motor_auth">" Párování"</string>
@@ -462,6 +491,7 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="one_min">Před minutou</string>
   <string name="one_week">Tento týden</string>
   <string name="orange">Oranžová</string>
+  <string name="percent_mark">%</string>
   <string name="person_info_finished_info">Nastavení MiBand dokončeno!</string>
   <string name="person_info_goal_info">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 40 min denně s minimem 8000 kroků</string>
   <string name="person_info_goal_info_young">Podle Světové Zdravotnické Organizace byste měli běhat alespoň 60 min denně s minimem 12000 kroků</string>
@@ -508,21 +538,27 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galerie</string>
   <string name="select_image">Vybrat obrázek</string>
-  <string name="sensor_hub_tip">"Phone pedometer displayed by the phone's internal sensor
-  Motion data (Sensor Hub) record.
-  After binding bracelet, this data is only as a reference, not saved to the cloud"</string>
+  <string name="sensor_hub_tip">"Počet kroků je uložen 
+ve vašem zařízení a nebude 
+odeslán na server."</string>
   <string name="service_call_notice">Call the 24-hour telephone, access to services</string>
   <string name="set_alarm_time">NASTAVTE ČAS BUDÍKU</string>
   <string name="set_goal_step">8000 kroků/den</string>
+  <string name="set_goal_weight_tips">Na základě vašich informací je vaše normální váha %1$s-%2$s%3$s.</string>
   <string name="set_mili_name">Název MiBand</string>
   <string name="set_mili_name_fail">Přejmenování MiBand selhalo!</string>
   <string name="set_mili_name_ok">MiBand přejmenován</string>
   <string name="set_person_goal">Nastavení cíle</string>
   <string name="set_sport_goal">Nastavit cíl</string>
   <string name="set_unit">Zvolit jednotky</string>
+  <string name="set_weight_goal">Cílová hmotnost</string>
+  <string name="set_weight_goal_no">Není nastaveno</string>
+  <string name="set_weight_goal_yes">Cílová hmotnost</string>
   <string name="setting_about_app">"Verze apl.: 
 Překlad: miuios.cz/miband"</string>
   <string name="setting_about_fw">Verze Firmware</string>
+  <string name="setting_daily_sport_notify">Denní statistika sportu</string>
+  <string name="setting_daily_sport_notify_info">Upozornit mě ve 21:30.</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Děkujeme za váš názor</string>
   <string name="setting_feedback_send">Odeslat</string>
@@ -593,7 +629,6 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="share_to_miliao_target_union">Partneři pro sport</string>
   <string name="share_to_title">MiBand</string>
   <string name="share_to_topic">\#Mi Band#</string>
-  <string name="share_to_topic_for_event">\#MiBand 10000 kroků za den#</string>
   <string name="share_uninstall_client">Aplikace není nainstalována, nelze sdílet</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -612,7 +647,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_auto_pause">Automaticky zastavit</string>
   <string name="sport_running_auto_pause_desc">Automaticky zastavit záznam trasy během přestávky běhání</string>
   <string name="sport_running_average_speed">Průměr</string>
-  <string name="sport_running_backgroud_notification">Running...,go go</string>
+  <string name="sport_running_backgroud_notification">Běžíme!!!</string>
   <string name="sport_running_burn">Spáleno</string>
   <string name="sport_running_cal_burnt">%d kcal</string>
   <string name="sport_running_cal_desc">Spáleno</string>
@@ -637,6 +672,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_history_no_data">N/A</string>
   <string name="sport_running_history_no_data_refresh">Žádná data. Zkuste to znovu.</string>
   <string name="sport_running_history_no_data_refreshing">Obnovení. Čekejte prosím...</string>
+  <string name="sport_running_history_no_more_data">Žádná data</string>
   <string name="sport_running_history_title">Historie</string>
   <string name="sport_running_kilometers">km</string>
   <string name="sport_running_kilometers_per_hour">km/h</string>
@@ -740,16 +776,31 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="system_low_title">Aktualizujte svůj systém</string>
   <string name="system_not_support_info">Vaše verze androidu je příliš zastaralá, MiBand vyžaduje pro správnou funkci alespoň Android 4.4 a novější</string>
   <string name="system_not_support_title">Systém nepodporuje MiBand</string>
-  <string name="tag_data_collecting">Data collecting, please waiting...</string>
-  <string name="time_format_hour_min">%1$sh %2$smin</string>
+  <string name="tag_action_tips">V procesu %s, udržujte MiBand a telefon maximálně 5 m od sebe.</string>
+  <string name="tag_connection">Připojování MiBand</string>
+  <string name="tag_connection_f">Připojování selhalo, zkuste to znovu</string>
+  <string name="tag_connection_f1">Udržujte MiBand v blízkosti</string>
+  <string name="tag_data_collecting">Načítání dat, prosím čekejte...</string>
+  <string name="time_format_hour_min">%1$s h %2$s min</string>
+  <string name="tag_doing_label">%s...</string>
+  <string name="tag_error_notice">"MiBand je odpojen.
+Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
+  <string name="tag_reconnect_notice">MiBand je znovu připojen, zkuste to znovu!</string>
+  <string name="tag_waiting">Čekejte prosím...</string>
   <string name="time_format_min">%s min</string>
-  <string name="title_activity_mark">MarkData</string>
+  <string name="title_action_tag_agreement">Souhlas</string>
+  <string name="title_activity_mark">Označit</string>
   <string name="title_activity_open">Stránka partnerů</string>
+  <string name="title_activity_tag_data">Označit denní aktivitu</string>
+  <string name="title_activity_tag_history">Historie</string>
+  <string name="title_activity_weight_tips">Fitnes tipy</string>
   <string name="title_health_link_service">Health Care Service</string>
-  <string name="toast_behavior_tag_failed">Behavior data collect failed!</string>
-  <string name="toast_disable_behavior_tag">Behavior tag feature disable！</string>
-  <string name="toast_enable_behavior_tag">Behavior tag feature enable！</string>
+  <string name="toast_behavior_tag_failed">Označení chování selhalo!</string>
+  <string name="toast_disable_behavior_tag">Označení chování vypnuto!</string>
+  <string name="toast_enable_behavior_tag">Označení chování zapnuto"</string>
+  <string name="toast_url_parse_error">Chyba URL!</string>
   <string name="today">Dnes</string>
+  <string name="today_steps">Dnešní kroky</string>
   <string name="unbind">Odpojit</string>
   <string name="unbind_mili">Odpojit MiBand</string>
   <string name="unbind_short">Odpojit</string>
@@ -807,6 +858,7 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="vibrate_notify">Upozornit na vibrování</string>
   <string name="vibrate_notify_tips">Zobrazit upozornění na vibrace MiBand</string>
   <string name="visit_micom">Oficiální web Xiaomi</string>
+  <string name="visitor">Host</string>
   <string name="visitor_weight">Weight</string>
   <string name="wait">Čekejte prosím...</string>
   <string name="walked">"prochozeno "</string>
@@ -826,6 +878,7 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="weather_description_sand">Písek</string>
   <string name="weather_description_snow">Sněžení</string>
   <string name="week"/>
+  <string name="week_total_distance">Týdenní vzdálenost (Km)</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
   <string name="weight_delete_confirm_msg">%s weight record?</string>
   <string name="weight_delete_confirm_title">Confirm To Delete</string>
@@ -834,12 +887,12 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="weight_dynamic_list_visit_tips">点击选择成员告诉我你是谁吧</string>
   <string name="weight_dynamic_title">%1$s %2$s, weight%3$s%4$s</string>
   <string name="weight_dynamic_visitor_title">%1$s weight%2$s%3$s</string>
-  <string name="weight_edit">Edit</string>
+  <string name="weight_edit">Upravit</string>
   <string name="weight_edit_delete">Delete weight record</string>
   <string name="weight_edit_move">Move weight record</string>
   <string name="weight_fw_upgrade_tips">升级中保持手机靠近体重秤</string>
   <string name="weight_fw_upgrade_title">升级体重秤固件</string>
-  <string name="weight_guest">访客</string>
+  <string name="weight_guest">Host</string>
   <string name="weight_help_info_0">Make sure the Weight Scale is close to your device throughout the entire pairing process.</string>
   <string name="weight_help_info_1">"Make sure the Weight Scale is charged and hasn't run out of power."</string>
   <string name="weight_help_info_2">Restart Bluetooth by turning it off and then on again in Settings.</string>
@@ -849,18 +902,25 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="weight_help_title_2">Restart Bluetooth</string>
   <string name="weight_help_title_3">Is this Weight Scale paired with another device?</string>
   <string name="weight_history_dynamic_detail">同步了%1$s到%2$s的数据</string>
-  <string name="weight_history_dynamic_title">成功同步%1$s条历史体重数据</string>
+  <string name="weight_history_dynamic_detail_oneday">Synced data from %1$s</string>
+  <string name="weight_history_dynamic_title">Aktualizováno: %1$s</string>
   <string name="weight_measure">Measure</string>
   <string name="weight_not_found_info">Please stay close to your Weight Scale</string>
   <string name="weight_not_found_title">Weight Scale not found</string>
   <string name="weight_not_response">Weight Scale not response</string>
+  <string name="weight_overload_confirm">知道了</string>
+  <string name="weight_overload_content">目前小米体重秤最大可称量150公斤, 超出此标准的重量级人物只能对不起啦</string>
+  <string name="weight_overload_title">超出测量最大值</string>
   <string name="weight_report_suggest">建议：</string>
   <string name="weight_report_user_info_header">%1$s 测量报告</string>
   <string name="weight_scale">Váha</string>
   <string name="weight_settings_merge_tips">同一成员两次称重间隔30秒内，覆盖前一条记录</string>
   <string name="weight_settings_merge_title">合并频繁称重记录</string>
-  <string name="weight_test_dynamic_detail">Váha: %1$s%2$s</string>
-  <string name="weight_test_dynamic_title">%1$s</string>
+  <string name="weight_tip_bmi_content">Body mass index (BMI) Index tělesné hmotnosti patří mezi nejvíce používané metody měření obezity.</string>
+  <string name="weight_tip_bmi_name">Co je to BMI?</string>
+  <string name="weight_tip_fat_content">BMI Index tělesné hmotnosti patří mezi nejvíce používané metody měření obezity. Počítá se jako hmotnost v kg dělena druhou mocninou výšky v metrech.</string>
+  <string name="weight_tip_fat_name">Zdání může klamat</string>
+  <string name="weight_unbind_question">解除绑定后，手机将无法获取称重记录</string>
   <string name="weight_unbinded">Odpojit od Váhy</string>
   <string name="weight_weighting_now">测量中</string>
   <string name="weighting_failed">"Weight unstable

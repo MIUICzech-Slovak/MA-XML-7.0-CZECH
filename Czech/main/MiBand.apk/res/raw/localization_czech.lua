@@ -32,7 +32,7 @@ localization_Czech_table = {
 	{str="≈ Red Bull (100g)", calories=45}, 
 	{str="≈ Polévka (100g)", calories=46}, 
 	{str="≈ Broskev (100g)", calories=46}, 
-	{str="≈ Sýr (25g)", calories=48}, 
+	{str="≈ Hochland sýr (25g)", calories=48}, 
 	{str="≈ Třešně (100g)", calories=52}, 
 	{str="≈ Pomerančový džus (100g)", calories=54}, 
 	{str="≈ 3,2% mléko (100g)", calories=58}, 
@@ -85,7 +85,7 @@ localization_Czech_table = {
 	{str="≈ Pečený krocan (100g)", calories=165}, 
 	{str="≈ Uzené kuřecí (100g)", calories=184}, 
 	{str="≈ Vepřové maso (100g)", calories=195}, 
-	{str="≈ Klobása (100g)", calories=198},
+	{str="≈ Klobásy (100g)", calories=198},
 	{str="≈ Losos (200g)", calories=201}, 
 	{str="≈ Smetana 20% (100g)", calories=204}, 
 	{str="≈ Krém (100g)", calories=206}, 
@@ -114,7 +114,7 @@ localization_Czech_table = {
 	{str="≈ Karbanátky (100g)", calories=260}, 
 	{str="≈ Rozinky (100g)", calories=262}, 
 	{str="≈ McD Cheeseburger", calories=264}, 
-	{str="≈ Klobásy (100g)", calories=270}, 
+	{str="≈ Klobása (100g)", calories=270}, 
 	{str="≈ Šunka (100g)", calories=270}, 
 	{str="≈ Huňáčik uzený (100g)", calories=270}, 
 	{str="≈ McD McNuggets (100g)", calories=272}, 
@@ -243,4 +243,16 @@ localization_Czech_table = {
     record_reach_max="Byl dosažen váš rekord!",
     new_record_born="Nový rekord!",
     select_devices="Vyberte zařízení, které chcete připojit",
+ 
+    ---====== Weather tips ===============
+    weather_tips_title_0 = "Heavy pollution, try to stay indoors",
+    weather_tips_title_1 = "Heavy pollution, try to stay indoors",
+    weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
+    today_goal_reached_click_info="Stiskněte pro zobrazení výsledků.",
+
+    ---------------Weight scale -------------------
+    welcome_use_weight_scale = "Vítejte v používání váhy",
+    welcome_use_weight_scale_not_bind = "Stiskněte pro propojení s váhou",
+    welcome_use_mi_health="Vítejte v MiBand",
+    daily_steps_not_comlete = "Stále je zapotřebí ještě %s kroků!"
  }
