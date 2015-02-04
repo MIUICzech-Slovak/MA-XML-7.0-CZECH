@@ -153,7 +153,7 @@
   <string name="local_favorite_empty_title">Prázdné</string>
   <string name="local_media_empty_sub_title">Stáhnout a přehrát offline</string>
   <string name="local_media_empty_title">Žádné</string>
-  <string name="local_video">Lokální</string>
+  <string name="local_video">Místní</string>
   <string name="login_tip_content">Přihlaste se Vaším Xiaomi účtem pro aktualizace Vašich oblíbených seriálů.</string>
   <string name="login_tip_title">Přihlásit</string>
   <string name="maintitle_prefix">Dostupná aktualizace</string>
@@ -164,10 +164,10 @@
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">"."</string>
   <string name="more">Více</string>
-  <string name="my">Lokální</string>
+  <string name="my">Místní</string>
   <string name="my_favorite">Oblíbené</string>
   <string name="my_offline">Offline</string>
-  <string name="my_video">Lokální</string>
+  <string name="my_video">Místní</string>
   <string name="mycamera">Moje videa</string>
   <string name="myfavorite">Oblíbené</string>
   <string name="myfavorite_onlylocal">Oblíbené</string>
@@ -270,7 +270,7 @@
   <string name="toast_message_continue_play_minute">"m. "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="today">"Dnes "</string>
-  <string name="top_status_local_media">Lokální média</string>
+  <string name="top_status_local_media">Místní média</string>
   <string name="top_status_offline_media">Offline</string>
   <string name="top_status_online_media">Online média</string>
   <string name="tudou">Tudou</string>
@@ -339,7 +339,7 @@
   <string name="vp_exit">Ukončit</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Na celou obrazovku</string>
-  <string name="vp_function">Nastavení</string>
+  <string name="vp_function">Nast.</string>
   <string name="vp_get_url_error">Načítání URL selhalo.</string>
   <string name="vp_hide_media_info">Skrýt info o videu</string>
   <string name="vp_high_definition">HD</string>
