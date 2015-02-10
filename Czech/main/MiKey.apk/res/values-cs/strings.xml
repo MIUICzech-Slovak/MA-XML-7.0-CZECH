@@ -266,8 +266,8 @@ a stiskem MiKey simulujte dotyk na zvoleném místě"</string>
   <string name="title">Titul:</string>
   <string name="toast_audio_record_start">Spustit nahrávání</string>
   <string name="toast_audio_record_stop">Zastavit nahrávání</string>
-  <string name="toast_close">Ukončeno</string>
-  <string name="toast_open">Spuštěno</string>
+  <string name="toast_close">"Ukončeno "</string>
+  <string name="toast_open">"Spuštěno "</string>
   <string name="toggle_bluetooth">Bluetooth</string>
   <string name="toggle_bright">Jas</string>
   <string name="toggle_data">3G/2G Data</string>
