@@ -2907,4 +2907,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="search_privacy">zálohování</string>
   <string name="search_storage">úložiště</string>
   <string name="search_wifi_display">wi-fi displej</string>
+  <string name="cmcc_hardware_version">Verze HW</string>
 </resources>

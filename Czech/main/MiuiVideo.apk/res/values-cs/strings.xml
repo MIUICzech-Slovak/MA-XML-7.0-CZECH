@@ -233,7 +233,7 @@
   <string name="search_recommend_media_hint">Doporučujeme vám</string>
   <string name="search_recommend_word_hint">Hity</string>
   <string name="search_result_empty_text">Nic nebylo nalezeno</string>
-  <string name="search_result_hint">Výsledků: %s</string>
+  <string name="search_result_hint">Vyhledat</string>
   <string name="second">s</string>
   <string name="see_all_count_comment">%d dalších komentářů</string>
   <string name="select_all">Vybrat vše</string>
@@ -390,4 +390,5 @@
   <string name="yesterday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="vp_milink_function">Stream. do zařízení</string>
 </resources>

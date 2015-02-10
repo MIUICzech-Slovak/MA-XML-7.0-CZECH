@@ -269,4 +269,16 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="share_cancel">Sdílení zrušeno</string>
+  <string name="share_failed">Sdílení selhalo</string>
+  <string name="share_miliao_not_installed">MiTalk není nainstalován.</string>
+  <string name="share_success">Sdíleno</string>
+  <string name="share_weibo_not_installed">Weibo není nainstalováno.</string>
+  <string name="share_weixin_not_installed">Wechat není nainstalován.</string>
+  <string name="sina_share_fail">Odesílání selhalo</string>
+  <string name="sina_share_fail_content_repeat">Nelze sdílet...</string>
+  <string name="sina_share_pendding">Odesílání...</string>
+  <string name="sina_share_success">Odesláno</string>
+  <string name="sina_token_expired_warning">Weibo účet vypršel: Znovu propojte</string>
+  <string name="sina_token_invalid_warning">Weibo účet není správný: Znovu propojte</string>
 </resources>

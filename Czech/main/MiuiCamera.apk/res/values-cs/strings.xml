@@ -596,4 +596,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="accessibility_setting_button">Další nastavení</string>
+  <string name="confirm_location_alert">Ukládání polohy</string>
+  <string name="start_capture">Zavřít</string>
 </resources>
