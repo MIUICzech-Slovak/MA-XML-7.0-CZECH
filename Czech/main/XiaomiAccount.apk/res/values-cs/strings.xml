@@ -525,4 +525,6 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
+   <string name="account_user_using_facebook_avatar">Použít obrázek z Facebooku</string>
+  <string name="sns_access_token_expired_warning">Přihlášení k účtu vypršelo. Přihlaste se znovu.</string>
 </resources>

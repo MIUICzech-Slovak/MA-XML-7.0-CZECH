@@ -211,7 +211,7 @@
   <string name="HIPS_Perm_Wakelock_Desc">Má právo zabránit spánku zařízení</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabránit spánku zařízení</string>
   <string name="HIPS_Perm_Xiaomi_Account">Xiaomi účet</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">rřístup k vašemu Xiaomi účtu</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Přístup k vašemu Xiaomi účtu</string>
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apl. má přístup k vašemu Xiaomi účtu</string>
   <string name="HIPS_SecurityPrompt_Accept">Povoleno (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Povolit</string>
