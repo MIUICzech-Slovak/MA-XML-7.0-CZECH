@@ -147,6 +147,8 @@
   <string name="account_setup_options_mail_check_frequency_10min">Každých 10 minut</string>
   <string name="account_setup_options_mail_check_frequency_15min">Každých 15 minut</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Každou hodinu</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">Každé 4 hodiny</string>
+  <string name="account_setup_options_mail_check_frequency_12hour">Každých 12 hodin</string>
   <string name="account_setup_options_mail_check_frequency_30min">Každých 30 minut</string>
   <string name="account_setup_options_mail_check_frequency_5min">Každých 5 minut</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automaticky (Push, pokud to server podporuje)</string>
