@@ -865,7 +865,7 @@ Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"
   <string name="watermark_btn_confirm">Potvrdit</string>
   <string name="watermark_guide_tips">Posuňte dlouhým podržením</string>
   <string name="watermark_search_location">\#Získávání polohy#</string>
-  <string name="wear_hand">Zápěstí</string>
+  <string name="wear_hand">Umístění</string>
   <string name="weared_days">Dní celkem</string>
   <string name="weather_aqi">Kvalita ovzduší %s</string>
   <string name="weather_description_cloudy">Oblačno</string>
