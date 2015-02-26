@@ -826,7 +826,7 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="unlock_screen">Odemknutí zařízení</string>
   <string name="unlock_screen_help_info0">Pro bezpečnost umístěte MiBand v blízkosti telefonu.</string>
   <string name="unlock_screen_help_info1">Pokud je váš telefon stále uzamknutý, zkuste znovu zapnout Bluetooth.</string>
-  <string name="unlock_screen_help_info2">Pokud není možné znovu zapnout Bluetooth, jděte do Nastavení - Zabezpečení soukromí - Zabezpečení obrazovky - Odemknout s Bluetooth zařízením pro odpojení MiBand. Potom znovu nastavte v aplikaci MiBand uzamykání.</string>
+  <string name="unlock_screen_help_info2">Pokud není možné znovu zapnout Bluetooth, jděte do Nastavení - Zabezpečení soukromí - Zabezpečení obrazovky - Odemknout pomocí Bluetooth zařízení pro odpojení MiBand. Potom znovu nastavte v aplikaci MiBand uzamykání.</string>
   <string name="unlock_screen_help_info3">Po restartování vašeho zařízení, zkuste použít váš MiBand pro odemknutí.</string>
   <string name="unlock_screen_help_tips">Ve dvou krocích nastavte nejrychlejší odemykání vašeho telefonu</string>
   <string name="unlock_screen_help_title0">Je MiBand v dosahu</string>
@@ -838,8 +838,8 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="unlock_screen_miui_version_low">Verze MIUI je zastaralá, aktualizujte prosím</string>
   <string name="unlock_screen_modify_unlock">Pokud potřebujete změnit vaše nastavení, jděte do Nastavení - Zabezpečení soukromí - Zabezpečení obrazovky</string>
   <string name="unlock_screen_modify_unlock_v5">"
-Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Bluetooth zařízení"</string>
-  <string name="unlock_screen_modify_unlock_v6">"Nastavení -&gt; Zámek displeje -&gt; Bluetooth zařízení"</string>
+Nastavení -&gt; Bezpečnost -&gt; Zámek displeje - &gt; Odemknout pomocí Bluetooth zařízení"</string>
+  <string name="unlock_screen_modify_unlock_v6">"Nastavení -&gt; Zámek displeje -&gt; Odemknout pomocí Bluetooth zařízení"</string>
   <string name="unlock_screen_not_connect">Připojte MiBand a upravte nastavení odemknutí</string>
   <string name="unlock_screen_set_password">V 1. kroku nastavte vaše heslo</string>
   <string name="unlock_screen_set_password_tips_has_set">Heslo bylo nastaveno</string>
