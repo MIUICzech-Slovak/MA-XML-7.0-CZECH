@@ -389,7 +389,6 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zavřít navigační složku</string>
   <string name="drawer_open">Otevřít navigační složku</string>
-  <string name="eas_template">doména\\jméno</string>
   <string name="edit_quick_response_dialog">Rychlá odpověď</string>
   <string name="empty_account_tip">Účet nenalezen</string>
   <string name="empty_email_tip">Nelze odeslat prázdný e-mail</string>
