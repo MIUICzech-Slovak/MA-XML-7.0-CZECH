@@ -45,7 +45,7 @@
   <string name="app_exit_press_again">Stiskněte znovu pro ukončení</string>
   <string name="app_info_version">"Verze: %1$s 
 Souhlas: %2$s"</string>
-  <string name="app_name">MiBand</string>
+  <string name="app_name">MiFit</string>
   <string name="awake_format">", probuzen/a %1$s krát."</string>
   <string name="awake_format_1">", probuzen/a jednou."</string>
   <string name="baby_weight">Dítě</string>
@@ -690,7 +690,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_prompt_come_on">Go!!</string>
   <string name="sport_running_prompt_great">Výborně!!</string>
   <string name="sport_running_prompt_per_kilometer" formatted="false">Uběhnuto %s km. Spáleno %s. Tempo je %s.%s</string>
-  <string name="sport_running_real_time_pace">Tempo (m/km)</string>
+  <string name="sport_running_real_time_pace">Tempo (km)</string>
   <string name="sport_running_resume">Pokračovat</string>
   <string name="sport_running_set_dist">Upozornění vzdálenosti</string>
   <string name="sport_running_set_goal">Upozornění na cíl</string>
@@ -706,7 +706,7 @@ Nejvyšší denní rekord byl %5$s, dne  %4$s."</string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
   <string name="sport_running_step">Kroků</string>
-  <string name="sport_running_step_frequency">Tempo(kroků/m)</string>
+  <string name="sport_running_step_frequency">kroků/min</string>
   <string name="sport_running_stop">Zastavit</string>
   <string name="sport_running_time_desc">Čas</string>
   <string name="sport_running_watermark">Vodoznak</string>
@@ -932,4 +932,28 @@ Please get off after the LED blinked."</string>
   <string name="your_gender">Vaše pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="confirm_pair">Potvrdit</string>
+  <string name="connect_to_retrive">Žádné připojení.</string>
+  <string name="metre">m</string>
+  <string name="odo_british">Celkem mil</string>
+  <string name="search_again">Zkusit znovu</string>
+  <string name="set_length_unit">Jednotka délky</string>
+  <string name="set_weight_unit">Jednotka váhy</string>
+  <string name="signal_none">Žádný</string>
+  <string name="signal_strong">Silný</string>
+  <string name="signal_weak">Slabý</string>
+  <string name="unit_british">Britské jednotky</string>
+  <string name="unit_british_detail">Britské jednotky (stopy, palce)</string>
+  <string name="unit_foot">stopy</string>
+  <string name="unit_inch">palce</string>
+  <string name="unit_metric">Metrické jednotky</string>
+  <string name="unit_metric_detail">Metrické jednotky (metry, kilometry)</string>
+  <string name="unit_mile">míle</string>
+  <string name="watermark_failed_to_create_contour_track">Vytváření stopy selhalo, zkontrolujte dostupné místo na úložišti.</string>
+  <string name="week_total_distance_miles">"Celkem za týden 
+(míle)"</string>
+  <string name="weight_unit_british">Inch (pound)</string>
+  <string name="weight_unit_metric">Metric (kilograms, kg)</string>
+  <string name="weight_unit_shijin">Jin (1 kg = 500 g)</string>
+  <string name="weight_unit_text_info">You have bound the weight that the weight of the unit will be set weight scale prevail, open the battery cover on the back, said weight can adjust the weight of the unit</string>
 </resources>
