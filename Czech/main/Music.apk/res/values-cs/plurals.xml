@@ -44,4 +44,8 @@
         <item quantity="other">Podobné skladby: %d</item>
         <item quantity="one">Podobné skladby: %d</item>
     </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">Přidáno: %d</item>
+        <item quantity="one">Přidáno: %d</item>
+    </plurals>
 </resources>

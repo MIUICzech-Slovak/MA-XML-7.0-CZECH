@@ -328,4 +328,21 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="delete_selected_tasks">Vymazat vybrané?</string>
+  <string name="files">Soubory</string>
+  <string name="get_cloud_space">Přidat 500GB</string>
+  <string name="kp_category_all">Kategorie</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Text</string>
+  <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
+  <string name="kuaipan_create_shortcut_success">Odkaz vytvořen</string>
+  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_delete_success">Vymazáno</string>
+  <string name="kuaipan_photo_locate">Nalezeno %1$s</string>
+  <string name="kuaipan_root_fooder">Domů</string>
+  <string name="no_display_file">Nelze zobrazit %1$s</string>
 </resources>

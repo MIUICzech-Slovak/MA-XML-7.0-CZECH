@@ -528,4 +528,6 @@ s "</string>
    <string name="account_user_using_facebook_avatar">Použít obrázek z Facebooku</string>
   <string name="sns_access_token_expired_warning">Přihlášení k účtu vypršelo. Přihlaste se znovu.</string>
   <string name="mi_support_service">Podpora</string>
+  <string name="user_avatar_update_title">Aktualizovat profilovou fotografii</string>
+  <string name="user_avatar_uploading">Nahrávání...</string>
 </resources>
