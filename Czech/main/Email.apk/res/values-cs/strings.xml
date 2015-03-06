@@ -880,4 +880,5 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovat.</string>
   <string name="outbox_alert_rw_io_error">Nastala chyba při odesílání zprávy. Zkuste ji odeslat znovu.</string>
   <string name="save_draft_failed">Ukládání konceptu selhalo</string>
+  <string name="account_setup_deleting_account_msg">Mazání účtu...</string>
 </resources>
