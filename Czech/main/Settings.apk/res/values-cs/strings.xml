@@ -1039,7 +1039,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="home_app_uninstall_button">Odinstalovat aplikaci</string>
   <string name="home_key">Domů</string>
   <string name="home_settings">Plocha</string>
-  <string name="ime_security_warning">Prostřednictvím této vstupní metody zadávání dat lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla platebních karet. Metoda je poskytována aplikací %1$s. Chcete tuto metodu zadávání dat použít?</string>
+  <string name="ime_security_warning">%1$s může zaznamenat vše co napíšete</string>
   <string name="immediately_destroy_activities">Neukládat aktivity</string>
   <string name="immediately_destroy_activities_summary">Rušit všechny činnosti, jakmile je uživatel zavře</string>
   <string name="ims_reg_required_off">Vyžaduje se vypnutí registrace IMS</string>
