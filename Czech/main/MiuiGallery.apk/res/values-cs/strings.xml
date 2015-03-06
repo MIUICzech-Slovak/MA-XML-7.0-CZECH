@@ -413,9 +413,9 @@ společně!"</string>
   <string name="photo_page_save_image">Uložit</string>
   <string name="photo_page_save_uri_image_fail">Ukládání snímku selhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímek byl uložen do složky fotoaparátu.</string>
-  <string name="photo_paint_adjust">zvolit</string>
+  <string name="photo_paint_adjust">Zvolit</string>
   <string name="photo_paint_crop">Ořezat</string>
-  <string name="photo_paint_effect">efekt</string>
+  <string name="photo_paint_effect">Efekt</string>
   <string name="photo_paint_rotate">Otočit</string>
   <string name="photo_saved">Snímek uložen v %s albu</string>
   <string name="photo_size">Velikost</string>
@@ -648,4 +648,6 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="start_to_use_face_albumset">Začněte používat album tváří</string>
   <string name="view_face_album">Zobrazit album</string>
   <string name="who_is_this">Kdo je to?</string>
+  <string name="effect">Efekty</string>
+  <string name="adjust">Přizpůsobit</string>
 </resources>
