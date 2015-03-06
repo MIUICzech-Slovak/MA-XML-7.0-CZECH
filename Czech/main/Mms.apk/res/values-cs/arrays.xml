@@ -51,4 +51,16 @@
         <item>Pouze v tichém režimu</item>
         <item>Nikdy</item>
     </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximum</item>
+        <item>Dva dny</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Nenastaveno</item>
+        <item>1 hodinu</item>
+        <item>6 hodin</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>Maximum</item>
+    </string-array>
 </resources>
