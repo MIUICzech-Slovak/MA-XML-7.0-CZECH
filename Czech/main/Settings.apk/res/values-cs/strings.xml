@@ -1645,7 +1645,7 @@ Zvolte Váš operační systém:"</string>
 %2$s"</string>
   <string name="print_menu_item_add_printer">Přidat tiskárnu</string>
   <string name="print_menu_item_add_printers">Přidat tiskárny</string>
-  <string name="print_menu_item_add_service">Přidat službu</string>
+  <string name="print_menu_item_add_service">+</string>
   <string name="print_menu_item_search">Vyhledávání</string>
   <string name="print_menu_item_settings">Nastavení</string>
   <string name="print_no_printers_found">Nebyly nalezeny žádné tiskárny</string>
