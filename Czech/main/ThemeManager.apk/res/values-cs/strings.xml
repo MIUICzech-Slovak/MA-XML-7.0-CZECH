@@ -343,4 +343,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="gift_received_notification_title">"%s vám daroval/a téma"</string>
+  <string name="resource_tab_to_view">Zobrazit</string>
 </resources>

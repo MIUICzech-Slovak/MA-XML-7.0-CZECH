@@ -599,4 +599,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="accessibility_setting_button">Další nastavení</string>
   <string name="confirm_location_alert">Ukládání polohy</string>
   <string name="start_capture">Zavřít</string>
+  <string name="pref_camera_peak_entry_off">Vyp</string>
+  <string name="pref_camera_peak_entry_on">Zap</string>
+  <string name="pref_camera_peak_title">Peaking Focus</string>
 </resources>
