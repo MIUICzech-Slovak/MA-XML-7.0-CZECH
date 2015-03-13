@@ -109,8 +109,8 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázků kontaktu</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
-  <string name="micloud_dspt">Používejte MiCloud na synchronizaci dat, vyhledávání zařízení a sdílení souboru s přáteli...</string>
-  <string name="micloud_dspt_provision">Používejte MiCloud na synchronizaci dat, lokalizaci ztraceného telefonu a sdílení souborů se svými přáteli.</string>
+  <string name="micloud_dspt">Používejte MiCloud na synchr., vyhledání telefonu,</string>
+  <string name="micloud_dspt_provision">Používejte MiCloud na synchr., vyhledání telefonu a sdílení souborů</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Všechny fotografie, videa, poznámky a aplikace budou zálohovány do MiCloud.
@@ -281,4 +281,14 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="sina_share_success">Odesláno</string>
   <string name="sina_token_expired_warning">Weibo účet vypršel: Znovu propojte</string>
   <string name="sina_token_invalid_warning">Weibo účet není správný: Znovu propojte</string>
+  <string name="micloud_single_dspt">Používejte MiCloud pro synchr., vyhledávání svého zařízení a sdílení s přáteli.</string>
+  <string name="micloud_space_duokan_detail">Spravovat váš obsah v Duokan.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
+  <string name="micloud_setting_antispam_summary">Výjimky pro režim Nerušit a blokované tel. čísla.</string>
+  <string name="micloud_main_sync_init">Získávání informací</string>
+  <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
+  <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
+  <string name="calendar_sync">Kalendář</string>
+  <string name="click_to_enabled">Synchronizovat</string>
+  <string name="antispam_sync">Nastavení režimu Nerušit</string>
 </resources>

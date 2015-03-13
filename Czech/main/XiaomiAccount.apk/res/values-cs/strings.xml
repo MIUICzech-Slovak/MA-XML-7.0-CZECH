@@ -530,4 +530,5 @@ s "</string>
   <string name="mi_support_service">Podpora</string>
   <string name="user_avatar_update_title">Aktualizovat profilovou fotografii</string>
   <string name="user_avatar_uploading">Nahrávání...</string>
+  <string name="micloud_sync_state_pending">V pořadí</string>
 </resources>

@@ -345,4 +345,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="kuaipan_photo_locate">Nalezeno %1$s</string>
   <string name="kuaipan_root_fooder">Domů</string>
   <string name="no_display_file">Nelze zobrazit %1$s</string>
+   <string name="action_mode_deselect_all">Odznačit</string>
+  <string name="action_mode_select_all">Vše</string>
 </resources>

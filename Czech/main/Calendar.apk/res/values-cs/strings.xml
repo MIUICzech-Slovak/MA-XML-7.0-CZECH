@@ -312,4 +312,9 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="sync_notice_cancel_toast_message">Lokálně uložené události nebudou synchronizovány s MiCloud</string>
+  <string name="sync_notice_message">Nemáte synchronizován kalendář s MiCloud. Chcete povolit synchr.?</string>
+  <string name="sync_notice_ok">Povolit</string>
+  <string name="sync_notice_ok_toast_message">Lokálně uložené události budou synchronizovány s MiCloud</string>
+  <string name="sync_notice_title">Synchronizace</string>
 </resources>

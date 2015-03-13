@@ -881,4 +881,12 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_rw_io_error">Nastala chyba při odesílání zprávy. Zkuste ji odeslat znovu.</string>
   <string name="save_draft_failed">Ukládání konceptu selhalo</string>
   <string name="account_setup_deleting_account_msg">Mazání účtu...</string>
+  <string name="account_setup_address_label">E-mail</string>
+  <string name="account_setup_correct_address_tips">Zadejte e-mailovou adresu</string>
+  <string name="outbox_alert_description_insufficient_storage_error">Nedostatek volného místa na serveru</string>
+  <string name="reduce_the_receiving_frequencye_summary">Synchr. méně často v nastaveném čase</string>
+  <string name="reduce_the_receiving_frequencye_title">Snížit počet kontroly e-mailů</string>
+  <string name="save_power_summary">Úspora baterie ve stanoveném čase</string>
+  <string name="save_power_title">Úspora baterie</string>
+  <string name="ser_resp_err_map_pserr">Nesprávné jméno nebo heslo</string>
 </resources>
