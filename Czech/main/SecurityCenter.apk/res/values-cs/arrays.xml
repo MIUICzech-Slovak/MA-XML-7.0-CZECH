@@ -70,4 +70,14 @@
         <item>za 10 minut</item>
         <item>Nikdy</item>
     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volání</item>
+        <item>Zprávy</item>
+        <item>Prohlížeč</item>
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+        <item>Hudba</item>
+        <item>E-mail</item>
+    </string-array>
 </resources>
