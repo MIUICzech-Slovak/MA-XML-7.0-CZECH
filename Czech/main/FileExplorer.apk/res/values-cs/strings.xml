@@ -348,4 +348,5 @@ Bylo přičteno dalších %1$s"</string>
    <string name="action_mode_deselect_all">Odznačit</string>
   <string name="action_mode_select_all">Vše</string>
   <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
+  <string name="kuaipan_delete_guide_des">Vymazat uživatelský manuál?</string>
 </resources>
