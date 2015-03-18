@@ -469,7 +469,7 @@ společně!"</string>
   <string name="rotate">Otočit</string>
   <string name="rotate_tooltip">Potáhnout snímek pro jeho otočení</string>
   <string name="same_name_album_exists_alert">Album se stejným názvem již existuje a bylo sdíleno. Nahrát fotografie automaticky do tohoto alba?</string>
-  <string name="saturation">Saturace</string>
+  <string name="saturation">Satur.</string>
   <string name="save">Uložit</string>
   <string name="save_error">"Není možno uložit ořezaný obrázek."</string>
   <string name="save_photo">Uložit upravený snímek?</string>
@@ -619,13 +619,13 @@ společně!"</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="black_white">Čiernobiela 1</string>
-  <string name="brannan">EarlyBird</string>
+  <string name="brannan">Brannan</string>
   <string name="camera_black_white">Černobílá 2</string>
   <string name="confirm_merge_face_albums">" "Spojit toto album s %s?" "</string>
   <string name="cool">​Cool</string>
   <string name="cool_portrait">CoolPortrét</string>
   <string name="create_new_face">Nová tvář</string>
-  <string name="early_bird">Brannan</string>
+  <string name="early_bird">Earlybird</string>
   <string name="face_album">Album lidí</string>
   <string name="face_album_not_named">Beze jména</string>
   <string name="face_album_rename_hint">Zadejte jméno</string>
@@ -644,11 +644,11 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="preparing_data">Spracovávání dat...</string>
   <string name="rename_face_album">Změnit jméno</string>
   <string name="rename_fail_msg">Selhalo</string> 
-  <string name="rise">Rýže</string>
+  <string name="rise">Rise</string>
   <string name="start_to_use_face_albumset">Začněte používat album tváří</string>
   <string name="view_face_album">Zobrazit album</string>
   <string name="who_is_this">Kdo je to?</string>
-  <string name="effect">Efekty</string>
+  <string name="effect">Filtry</string>
   <string name="adjust">Přizpůsobit</string>
   <string name="cloud_folder_chooser_move">Vymazat soubory z původního alba</string>
 </resources>
