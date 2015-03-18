@@ -2933,4 +2933,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="location_access_on">Zap</string>
   <string name="privacy_mode_summary">Uživatelská data budou skryta</string>
   <string name="privacy_mode_title">Povolení</string>
+  <string name="agps_roaming">A-GPS v roamingu</string>
+  <string name="agps_roaming_dia">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
+  <string name="agps_roaming_dia_title">Pooužít A-GPS v roamingu</string>
+  <string name="agps_roaming_summary">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
 </resources>
