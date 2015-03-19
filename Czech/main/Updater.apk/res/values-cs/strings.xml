@@ -278,4 +278,9 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_failed_msg">"Vaše zařízení nemá dostatek volného místa pro nainstalování aktualizace. 
+Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
+  <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
+  <string name="recovery_failed_title">Aktualizace selhala</string>
 </resources>
