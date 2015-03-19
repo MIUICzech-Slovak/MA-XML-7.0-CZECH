@@ -26,7 +26,7 @@
   <string name="advertise_pop_window">Zakázat vyskakovací okna</string>
   <string name="advertise_suspend_window">Zakázat plovoucí okna</string>
   <string name="application_name">Prohlížeč</string>
-  <string name="bookmark">Záložka</string>
+  <string name="bookmark">Záložky</string>
   <string name="bookmark_action_bar_add_group_title">Přidat složku</string>
   <string name="bookmark_action_bar_new_group_title">Nová složka</string>
   <string name="bookmark_add_group_text_header">Přidat vybrané záložky (%1$d)</string>
@@ -274,4 +274,24 @@ Chcete odejít z této stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="find_next">Další</string>
+  <string name="find_previous">Předch.</string>
+  <string name="js_dialog_before_unload">"%s 
+
+Chcete odejít z této stránky?"</string>
+  <string name="js_dialog_before_unload_negative_button">Zůstat na této stránce</string>
+  <string name="js_dialog_before_unload_positive_button">Odejít ze stránky</string>
+  <string name="js_dialog_before_unload_title">Potvrzení</string>
+  <string name="js_dialog_title">Stránka \" %s \" oznamuje:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
+  <string name="last_month">Poslední měsíc</string>
+  <string name="miui_content_open_url">Otevřít URL</string>
+  <string name="no_matches">Nic nebylo nalezeno</string>
+  <string name="older">Starší</string>
+  <string name="private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
+  <string name="save_password_message">Chcete uložit toto heslo?</string>
+  <string name="save_password_never">Nikdy</string>
+  <string name="save_password_notnow">Později</string>
+  <string name="save_password_remember">Zapamatovat</string>
+  <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
 </resources>
