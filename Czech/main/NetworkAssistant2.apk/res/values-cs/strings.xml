@@ -105,7 +105,7 @@ For more info check the message you received from your service provider"</string
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdné</string>
   <string name="lock_screen_setting_summary">Upozornění se zobrazí až po stažení 100 KB a více</string>
-  <string name="lock_screen_traffic_notify_body">Uzamknuto %1$s | Stáhnuto: %2$s</string>
+  <string name="lock_screen_traffic_notify_body">Uzamknuto %2$s v %1$s. Staženo %3$s</string>
   <string name="lock_screen_traffic_warn_title">Spotřeba dat při vyp. displeji</string>
   <string name="main_alert_message_month_limit_error">Zadaný limit není správný</string>
   <string name="main_alert_message_no_imsi">Nebyla nalezena SIM karta</string>
@@ -411,4 +411,10 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
+  <string name="timeshow_m">%dm</string>
+  <string name="timeshow_h_int">%dh</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Mobilní data využítá při zamknutém zařízení</string>
+  <string name="lock_screen_traffic_guide_notification_title">Staženo %s</string>
+  <string name="lock_screen_traffic_purchase_textview">Zakoupit (Jen v Číně)</string>
 </resources>
