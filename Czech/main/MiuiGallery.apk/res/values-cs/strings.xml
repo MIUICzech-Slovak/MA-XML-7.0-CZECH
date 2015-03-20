@@ -158,7 +158,7 @@ společně!"</string>
   <string name="crop_fail_to_load_image">Načítání obrázku pro ořezání selhalo.</string>
   <string name="crop_label">Ořezat obrázek</string>
   <string name="crop_recognize_text">Rozpoznat</string>
-  <string name="crop_save_text">Ořezat</string>
+  <string name="crop_save_text">Uložit</string>
   <string name="crop_save_text_setas">Použít</string>
   <string name="crop_tooltip">Posuň značky pro ořezání snímku</string>
   <string name="crossprocess">Překrytí</string>
