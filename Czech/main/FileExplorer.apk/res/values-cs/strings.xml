@@ -67,9 +67,9 @@ Váš účet bude dočasně zablokovaný,
   <string name="delete_dialog_button">OK</string>
   <string name="delete_failed">Odstraňování selhalo</string>
   <string name="delete_file">Odstranit?</string>
-  <string name="delete_files">Opravdu chcete odstranit tyto soubory(%1$d)?</string>
-  <string name="delete_folder">Opravdu chcete odstranit složku (%1$d)?</string>
-  <string name="delete_folders">Opravdu chcete odstranit tyto složky?</string>
+  <string name="delete_files">" Opravdu chcete odstranit tyto soubory?"</string>
+  <string name="delete_folder">" Opravdu chcete odstranit složku?"</string>
+  <string name="delete_folders">" Opravdu chcete odstranit tyto složky?"</string>
   <string name="des_running_trans">Ještě %1$d souborů je zapotřebí přenést</string>
   <string name="dialog_select_type">Zvolte typ souboru</string>
   <string name="dialog_type_audio">Zvuk</string>
