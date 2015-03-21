@@ -64,12 +64,12 @@ Váš účet bude dočasně zablokovaný,
   <string name="decompress_success">Rozbalování dokončeno</string>
   <string name="decompress_to">Rozbalit do:</string>
   <string name="decompress_to_here">Rozbalit do této složky</string>
-  <string name="delete_dialog_button">Vymazat</string>
-  <string name="delete_failed">Mazání selhalo</string>
-  <string name="delete_file">Smazat?</string>
-  <string name="delete_files">Opravdu chcete smazat tyto soubory(%1$d)?</string>
-  <string name="delete_folder">Opravdu chcete vymazat složku (%1$d)?</string>
-  <string name="delete_folders">Opravdu chcete vymazat tyto složky?</string>
+  <string name="delete_dialog_button">OK</string>
+  <string name="delete_failed">Odstraňování selhalo</string>
+  <string name="delete_file">Odstranit?</string>
+  <string name="delete_files">Opravdu chcete odstranit tyto soubory(%1$d)?</string>
+  <string name="delete_folder">Opravdu chcete odstranit složku (%1$d)?</string>
+  <string name="delete_folders">Opravdu chcete odstranit tyto složky?</string>
   <string name="des_running_trans">Ještě %1$d souborů je zapotřebí přenést</string>
   <string name="dialog_select_type">Zvolte typ souboru</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -187,7 +187,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="never_notify_network_connect">Znovu se neptat</string>
   <string name="new_folder_name">Nová složka</string>
   <string name="no">Ne</string>
-  <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Vymažte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
+  <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Odstraňte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
   <string name="no_enough_storage_title">Není dostatek místa</string>
   <string name="no_file">Žádné soubory</string>
   <string name="no_more_space">Není volné místo</string>
@@ -213,11 +213,11 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="operation_create_folder">Nová složka</string>
   <string name="operation_create_folder_message">Vložte jméno složky</string>
   <string name="operation_decompressing">Rozbalování...</string>
-  <string name="operation_delete">Smazat</string>
-  <string name="operation_delete_confirm_message">Opravdu smazat?</string>
-  <string name="operation_delete_confirm_message_folder">"Vymazáním složky smažete i soubory v ní."</string>
+  <string name="operation_delete">Odstranit</string>
+  <string name="operation_delete_confirm_message">Opravdu odstranit?</string>
+  <string name="operation_delete_confirm_message_folder">"Odstraněním složky se odstraní i soubory v ní."</string>
   <string name="operation_deleting">Odstraňování...</string>
-  <string name="operation_deleting_detail">Mazání (%1$d/%2$d)</string>
+  <string name="operation_deleting_detail">Odstraňování (%1$d/%2$d)</string>
   <string name="operation_download_link">Generovat odkaz ke stažení</string>
   <string name="operation_favorite">Oblíbené</string>
   <string name="operation_hide_sys">Skrýt systémové soubory</string>
@@ -290,7 +290,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="toast_file_not_can_read">Soubor je poškozený.</string>
   <string name="tools">Nástroje</string>
   <string name="trans_task">Přenos po síti</string>
-  <string name="trans_task_delete_confirm_message">Opravdu chcete vymazat zvolené %1$d úkoly?</string>
+  <string name="trans_task_delete_confirm_message">Opravdu chcete odstranit zvolené %1$d úkoly?</string>
   <string name="transing">Přenos dat...</string>
   <string name="trash_box_capacity">koš: %1$s</string>
   <string name="trash_box_link">Přejděte na pan.xiaomi.com a vyprázdněte koš</string>
@@ -328,7 +328,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
-  <string name="delete_selected_tasks">Vymazat vybrané?</string>
+  <string name="delete_selected_tasks">Odstranit vybrané?</string>
   <string name="files">Soubory</string>
   <string name="get_cloud_space">Přidat 500GB</string>
   <string name="kp_category_all">Kategorie</string>
@@ -341,12 +341,12 @@ Bylo přičteno dalších %1$s"</string>
   <string name="kuaipan_create_shortcut_success">Odkaz vytvořen</string>
   <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
   <string name="kuaipan_data_formater_without_year">d.M.</string>
-  <string name="kuaipan_delete_success">Vymazáno</string>
+  <string name="kuaipan_delete_success">Odstraněno</string>
   <string name="kuaipan_photo_locate">Nalezeno %1$s</string>
   <string name="kuaipan_root_fooder">Domů</string>
   <string name="no_display_file">Nelze zobrazit %1$s</string>
    <string name="action_mode_deselect_all">Odznačit</string>
   <string name="action_mode_select_all">Vše</string>
   <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
-  <string name="kuaipan_delete_guide_des">Vymazat uživatelský manuál?</string>
+  <string name="kuaipan_delete_guide_des">Odstranit uživatelský manuál?</string>
 </resources>
