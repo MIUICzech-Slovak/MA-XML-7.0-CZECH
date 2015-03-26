@@ -158,7 +158,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="notification_content_title">Využito %1$s při uzamknutém zařízení</string>
   <string name="notification_title">%1$s-%2$s: %3$s využito</string>
   <string name="notify_daily_data_usage_body">Dnes využito: %s</string>
-  <string name="notify_daily_limit_body">Tento týden využito: %s</string>
+  <string name="notify_daily_limit_body">Dnes využito: %s</string>
   <string name="notify_daily_limit_title">Nastavte denní limit mobilních dat</string>
   <string name="notify_month_traffic_body">Tento měsíc využito: %s</string>
   <string name="notify_setting_pkg_title">Nastavte měsíční limit mobilních dat</string>
@@ -452,4 +452,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usbsharenet_exception_title">Zkontrolovat síť přes USB</string>
   <string name="wifi_exception_summary">Zkontrolovat dostupné Wi-Fi sítě</string>
   <string name="wifi_exception_title">Zkontrolovat Wi-Fi</string>
+  <string name="notify_daily_limit_title_for_slotnum">Nastavit denní limit pro %s</string>
+  <string name="notify_setting_pkg_title_for_slotnum">Nastavit měsíční limit pro %s</string>
 </resources>

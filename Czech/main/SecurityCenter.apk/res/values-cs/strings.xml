@@ -742,4 +742,12 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_default_app">%s není nastavena jako výchozí aplikace</string>
   <string name="title_default_app">MIUI %s není nastaveno jako výchozí</string>
   <string name="toast_default_app">%1$s nastavit jako výchozí pro %2$s</string>
+  <string name="title_cmcc_app_check">Ověření není dokončeno</string>
+  <string name="summary_cmcc_app_check">Některé aplikace se nepodařilo ověřit</string>
+  <string name="notification_title_cmcc_app_check">Od poslední kontroly: %d dní</string>
+  <string name="notification_summary_cmcc_app_check">Zobrazit podrobnosti</string>
+  <string name="cmcc_app_check_dialog_message">Restartujte zařízení pro dokončení opravy.</string>
+  <string name="cmcc_app_check_dialog_negative">Později</string>
+  <string name="cmcc_app_check_dialog_positive">Restartovat</string>
+  <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
 </resources>
