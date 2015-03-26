@@ -223,7 +223,7 @@ localization_Czech_table = {
     unlock_password_hint="Nastavte zámek telefonu pro vaši bezpečnost.",
     unlock_password_hint_info="MiBand je nejlepší pro odemknutí.",
 
-    get_distance_format="celkem %d m",
+    get_distance_format=", celkem %d m",
     activity_walk_format="%s Chůze %d kroků %s",
     activity_walk_consumed_format="Spáleno %d kcal %s",
 

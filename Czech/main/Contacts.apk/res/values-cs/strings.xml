@@ -358,7 +358,7 @@
   <string name="export_sim_contacts_dialog_message">Vaše SIM karta může uložit %d kontaktů. Opravdu chcete pokračovat?</string>
   <string name="export_to_sdcard">Exportovat do úložiště</string>
   <string name="export_to_sim">Exportovat na SIM kartu</string>
-  <string name="export_to_sim1">Exportovat do SIM 1</string>
+  <string name="export_to_sim1">Exportovat na SIM 1</string>
   <string name="export_to_sim2">Exportovat na SIM 2</string>
   <string name="export_to_sim_title">Exportování na SIM kartu...</string>
   <string name="export_vcard_description">Exportovat vCard na SD kartu</string>
