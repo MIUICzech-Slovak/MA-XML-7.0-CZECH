@@ -308,4 +308,8 @@
   <string name="server_error">Chyba serveru, zkuste to znovu.</string>
   <string name="suggest_text">Lidem se také líbí</string>
   <string name="today_update">Aktualizovaná Hudba</string>
+  <string name="action_item_favorite">Oblíbené</string>
+  <string name="download_all_song">Stáhnout vše</string>
+  <string name="more_about_artist">Více o %s</string>
+  <string name="play_all_song">Přehrát vše</string>
 </resources>

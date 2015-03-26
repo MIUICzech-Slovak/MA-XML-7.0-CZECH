@@ -616,7 +616,7 @@ společně!"</string>
   <string name="wps">WPS</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
-  <string name="yunyi_pocket_camera">Fotoaparát</string>
+  <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="black_white">Černobílá 1</string>
   <string name="brannan">Brannan</string>
@@ -651,4 +651,11 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="effect">Filtry</string>
   <string name="adjust">Přizpůsobit</string>
   <string name="cloud_folder_chooser_move">Vymazat soubory z původního alba</string>
+  <string name="always_rotate_alert_msg">Deaktivovat můžete v nastavení galerie</string>
+  <string name="always_rotate_alert_positive_button_text">Povolit</string>
+  <string name="always_rotate_alert_title">Povolit automatické otočení obrázku</string>
+  <string name="contrast_abbr">K</string>
+  <string name="highlight_abbr">J</string>
+  <string name="saturation_abbr">S</string>
+  <string name="sports_camera">YiSports Camera</string>
 </resources>

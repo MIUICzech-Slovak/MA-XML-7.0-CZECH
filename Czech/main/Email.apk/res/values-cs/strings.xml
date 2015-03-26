@@ -889,4 +889,11 @@ Velikost aplikace: %2$s"</string>
   <string name="save_power_summary">Úspora baterie ve stanoveném čase</string>
   <string name="save_power_title">Úspora baterie</string>
   <string name="ser_resp_err_map_pserr">Nesprávné jméno nebo heslo</string>
+  <string name="sdcard_cannot_use">SD karta není dostupná</string>
+  <string name="upload_log">Odeslat záznamy pro diagnostiku</string>
+  <string name="upload_log_failed">Odesílání selhalo</string>
+  <string name="upload_log_success">Odesláno</string>
+  <string name="upload_log_title">Odeslat záznamy pro diagnostiku?</string>
+  <string name="uploading_logs">Odesílání...</string>
+  <string name="you_are_in_mobile_network">Používáte mobilní datové připojení, používání e-mailu může navýšit vaše měsíční poplatky!</string>
 </resources>

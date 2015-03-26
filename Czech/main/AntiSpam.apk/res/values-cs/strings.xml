@@ -307,4 +307,13 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_banking">Pojišťovací agent</string>
+  <string name="mark_number_fraud">Otravný</string>
+  <string name="mark_number_sell">Prodejce</string>
+  <string name="mark_number_setting_guide_content1">Blokovat hovory z nahlášených čísel?</string>
+  <string name="mark_number_setting_guide_content2">Automaticky blokovat hovory z čísel nahlášených jinými uživateli</string>
+  <string name="mark_number_setting_guide_content3">Nahlásili jste číslo jako %1$s. Chcete blokovat hovory z čísel nahlášených jako %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Nastavení AntiSpam</string>
+  <string name="mark_number_setting_guide_title">Blokovat nahlášená čísla</string>
 </resources>
