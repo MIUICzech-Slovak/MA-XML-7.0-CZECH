@@ -109,11 +109,11 @@
     <string name="camera_wifi_config_message_cancel_config">Nastavení kamery přerušeno, zkuste to znovu!</string>
     <string name="camera_wifi_config_message_cant_connect_to_camera">Nastala chyba! Odpojte napájení a znovu jej připojte!</string>
     <string name="camera_wifi_config_message_connect_to_wifi">Kamera je připojena...</string>
-    <string name="camera_wifi_config_message_failed_config">Not to force the network, check the following questions after the power plug to restart the device: 1. whether the route is on the DHCP function; 2. wifi password is correct; 3. If the indicator has now become long bright blue light status, go to \"More - associated cameras (two-dimensional code scanning)\" associated with the device can be carried out; 4. wifi whether encryption method is WEP; (does not support WEP encryption)</string>
+    <string name="camera_wifi_config_message_failed_config">"
 1. Zkontrolujte nastavení DHCP na vašem routeru; 
 2. Heslo k Wi-Fi síti je správné; 
 3. Pokud svítí modrá LED, jděte do \"Více - Připojené kamery (Skenovat QR kód)\"; 
-4. Šifrování vaší Wi-Fi sítě není nastaveno na WEP;</string>
+4. Šifrování vaší Wi-Fi sítě není nastaveno na WEP;"</string>
     <string name="camera_wifi_config_message_prompt">Zkontrolujte, zda svítí oranžová LED</string>
     <string name="camera_wifi_config_message_read_wifi_list">Načítání Wi-Fi sítí...</string>
     <string name="camera_wifi_config_message_read_wifi_list_finished">Vyhledávání dokončeno, nastavte Wi-Fi síť kamery</string>
