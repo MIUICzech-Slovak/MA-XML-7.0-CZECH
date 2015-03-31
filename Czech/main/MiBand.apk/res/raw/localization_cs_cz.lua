@@ -1,9 +1,9 @@
 -------------------------
 -- Czech Localization String resources
--- miuios.cz (2014)
+-- miuios.cz (2015)
 -- kynio
 -------------------------
-localization_Czech_table = {
+localization_cs_rCZ_table = {
     calories_table={
 	{str="≈ Okurek (100g)", calories=14}, 
 	{str="≈ Kuřecí vývar (100g)", calories=15}, 
