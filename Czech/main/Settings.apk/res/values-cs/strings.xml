@@ -2941,4 +2941,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="music_dolby_mode_music">Hudba</string>
   <string name="music_dolby_mode_off">Vyp.</string>
   <string name="music_title_dolby_control">DOLBY</string>
+  <string name="status_bar_settings_enable_notification">Povolit upozornění</string>
+  <string name="status_bar_settings_notification_led">LED upozornění</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrace</string>
+  <string name="status_bar_settings_show_home_message">Ikona aplikace</string>
+  <string name="status_bar_settings_show_keyguard_notification">Plovoucí upozornění</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zobrazit upozornění na zamykací obrazovce</string>
 </resources>

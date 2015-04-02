@@ -44,7 +44,8 @@
   <string name="sim_dectection_next">Pokračovat</string>
   <string name="sim_redetection">Zkontr. SIM</string>
   <string name="summary_not_set">Nenastaveno</string>
-  <string name="summary_sim_card">Karta %1$d%2$s</string>
+  <string name="summary_sim_card">Karta %1$d</string>
+  <string name="summary_sim_card_with_operator">Karta %1$d, %2$s</string>
   <string name="terms_of_service">Podmínky používání</string>
   <string name="terms_of_use">Podmínky používání</string>
   <string name="terms_of_use_label">Musíte souhlasit s Podmínkami používání a Podmínkami soukromí pokud chcete používat MIUI</string>

@@ -133,4 +133,6 @@
   <string name="wlan_unavailable_dialog_button_sent">Odeslat</string>
   <string name="wlan_unavailable_dialog_content">Bude odesláno %s skrze 2G/3G data, stiskněte OK pro odeslání přes Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
+  <string name="submit_dialog_not_wifi_content">Vaše hlášení bude odesláno na server Xiaomi ihned po připojení k Wi-Fi.</string>
+  <string name="toast_feedback_collect_store">Vytváření záznamu...</string>
 </resources>

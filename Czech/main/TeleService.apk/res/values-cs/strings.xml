@@ -862,4 +862,5 @@ Může to trvat i 5 min."</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="msim_has_been_disabled">(Deaktivováno)</string>
+  <string name="voip_setting">VOIP nastavení</string>
 </resources>

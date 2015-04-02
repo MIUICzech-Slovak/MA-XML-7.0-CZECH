@@ -76,7 +76,7 @@ Please check tracking number"</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">Žádné výsledky.</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
-  <string name="express_inquiry_serial_number_prefix">"Sériové číslo: "</string>
+  <string name="express_inquiry_serial_number_prefix">"Číslo: %s"</string>
   <string name="express_next_step">Další</string>
   <string name="express_no_address">Prázdné</string>
   <string name="express_order_confirmation">Potvrzení objednávky</string>
@@ -189,4 +189,5 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_detail_title">Co je to</string>
   <string name="yellow_page_website">Oficiální stránka</string>
   <string name="account_yellowpage_followed">Ověřené účty</string>
+  <string name="express_inquiry_logistics_prefix">Kurýrní služba: %s</string>
 </resources>
