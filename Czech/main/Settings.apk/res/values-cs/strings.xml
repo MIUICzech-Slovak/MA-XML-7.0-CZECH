@@ -2937,4 +2937,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="agps_roaming_dia">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
   <string name="agps_roaming_dia_title">Pooužít A-GPS v roamingu</string>
   <string name="agps_roaming_summary">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
+  <string name="music_dolby_mode_movie">Film</string>
+  <string name="music_dolby_mode_music">Hudba</string>
+  <string name="music_dolby_mode_off">Vyp.</string>
+  <string name="music_title_dolby_control">DOLBY</string>
 </resources>
