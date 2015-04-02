@@ -895,5 +895,13 @@ Velikost aplikace: %2$s"</string>
   <string name="upload_log_success">Odesláno</string>
   <string name="upload_log_title">Odeslat záznamy pro diagnostiku?</string>
   <string name="uploading_logs">Odesílání...</string>
-  <string name="you_are_in_mobile_network">Používáte mobilní datové připojení, používání e-mailu může navýšit vaše měsíční poplatky!</string>
+  <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
+  <string name="gmail_acceleration">Použít proxy pro Gmail</string>
+  <string name="gmail_login_confirm_to_use_proxy">Použít proxy server pro přístup k Gmail účtu?</string>
+  <string name="gmail_login_verify">Přidat Gmail účet</string>
+  <string name="gmail_web_login_go">OK</string>
+  <string name="gmail_web_login_required_message">Přihlásit se na Gmail</string>
+  <string name="open_proxy_in_settings">Gmail není dostupný ve vaší lokalitě. Je možné odesílat a přijímat zprávy pomocí proxy serveru. Toto nastavení můžete změnit v nastavení e-mailu.</string>
+  <string name="upload_log_yes">Odeslat</string>
+  <string name="upload_log_no">Zrušit</string>
 </resources>
