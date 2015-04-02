@@ -22,15 +22,15 @@
         <item quantity="one">Odložit o %d min</item>
     </plurals>
     <plurals name="timer_message_hour">
-+        <item quantity="other">"%1$d h "</item>
-+        <item quantity="one">"%1$d h "</item>
-+    </plurals>
-+    <plurals name="timer_message_minute">
-+        <item quantity="other">"%1$d min "</item>
-+        <item quantity="one">"%1$d min "</item>
-+    </plurals>
-+    <plurals name="timer_message_second">
-+        <item quantity="other">%1$d s</item>
-+        <item quantity="one">%1$d s</item>
-+    </plurals>
+        <item quantity="other">"%1$d h "</item>
+        <item quantity="one">"%1$d h "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min "</item>
+        <item quantity="one">"%1$d min "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
 </resources>
