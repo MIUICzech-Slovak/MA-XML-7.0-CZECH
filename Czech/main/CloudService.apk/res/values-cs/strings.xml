@@ -291,4 +291,20 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="calendar_sync">Kalendář</string>
   <string name="click_to_enabled">Synchronizovat</string>
   <string name="antispam_sync">Nastavení režimu Nerušit</string>
+  <string name="cloud_back_up_button_ok">Zastavit</string>
+  <string name="cloud_back_up_close_info">Zálohovat</string>
+  <string name="cloud_back_up_dialog_content">Zastavit zálohování? Přerušením zálohování nebude možné obnovit vaše nastavení.</string>
+  <string name="cloud_back_up_interval_long">7 dní</string>
+  <string name="cloud_back_up_interval_short">1 hod</string>
+  <string name="cloud_back_up_network_unavailable">Nelze odebrat. Připojte se k Wi-Fi síti.</string>
+  <string name="cloud_back_up_open_info">"Zálohujte vaše nastavení domácí obrazovky a aplikací jednou za %1$s, když je dostupná Wi-Fi
+Naposledy: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Zálohujte vaše nastavení domácí obrazovky a aplikací jednou za %1$s, když je dostupná Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Záloha vymazána</string>
+  <string name="cloud_back_up_title">Domácí obrazovka</string>
+  <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
+  <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
+You need a Mainland China bank card to purchase additional storage space."</string>
+  <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
+To get more storage space, visit mi.com/micloud."string>
 </resources>

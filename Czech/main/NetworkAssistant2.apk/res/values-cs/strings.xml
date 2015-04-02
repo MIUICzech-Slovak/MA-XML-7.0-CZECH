@@ -450,8 +450,10 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="unable_connect_internet">Nelze se připojit k síti</string>
   <string name="usbsharenet_exception_summary">Nelze zkontrolovat připojení přes MiPCsuite.</string>
   <string name="usbsharenet_exception_title">Zkontrolovat síť přes USB</string>
-  <string name="wifi_exception_summary">Zkontrolovat dostupné Wi-Fi sítě</string>
+  <string name="wifi_exception_summary">Zkontrolovat dostupné připojení Wi-Fi sítě</string>
   <string name="wifi_exception_title">Zkontrolovat Wi-Fi</string>
   <string name="notify_daily_limit_title_for_slotnum">Nastavit denní limit pro %s</string>
   <string name="notify_setting_pkg_title_for_slotnum">Nastavit měsíční limit pro %s</string>
+  <string name="add_miservice_dialog_content">"%s vyžaduje přidání MIUI service framework do výjimek. Budete přijímat upozornění od MIUI a ostatních aplikací."</string>
+  <string name="add_miservice_dialog_title">MIUI service framework</string>
 </resources>
