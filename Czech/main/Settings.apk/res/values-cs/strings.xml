@@ -2946,5 +2946,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrace</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikace</string>
   <string name="status_bar_settings_show_keyguard_notification">Plovoucí upozornění</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Zobrazit upozornění na zamykací obrazovce</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zobrazit upozornění na zamykací obrazovce a při apl. ve fullscreen režimu</string>
 </resources>

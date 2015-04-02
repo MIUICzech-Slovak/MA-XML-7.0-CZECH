@@ -1234,7 +1234,7 @@ pro účet %s."</string>
   <string name="relationTypeSpouse">Manžel(ka)</string>
   <string name="relative_time">%1$s, %2$s</string>
   <string name="replace">Nahradit•</string>
-  <string name="report">Hlášení</string>
+  <string name="report">Nahlásit</string>
   <string name="reset">Resetovat</string>
   <string name="restr_pin_confirm_pin">Potvrďte nový PIN</string>
   <string name="restr_pin_create_pin">Vytvořit kód PIN pro úpravy omezení</string>
