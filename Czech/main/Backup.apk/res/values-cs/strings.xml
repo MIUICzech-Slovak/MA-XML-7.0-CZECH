@@ -148,8 +148,8 @@
   <string name="sdcard_unmounted">SD karta nenalezena nebo odpojena !</string>
   <string name="select_all">Vybrat vše</string>
   <string name="select_backup_item">Zvolte zálohu</string>
-  <string name="service_stoped">Zastavení služby</string>
-  <string name="settings_summary">(Základní nastavení a vše související)</string>
+  <string name="service_stoped">Služba se zastavila</string>
+  <string name="settings_summary">" telefonu, zprávy a nastavení"</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Zálohovat aplikace a jejich data</string>
   <string name="start_backup">Spustit zálohu</string>
