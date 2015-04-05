@@ -13,6 +13,8 @@
   <string name="CndMmi">Doručení volaného čísla</string>
   <string name="CnipMmi">Volané číslo uvedeno</string>
   <string name="CnirMmi">Volání čísla omezeno</string>
+  <string name="ColpMmi">ID připojené linky</string>
+  <string name="ColrMmi">Omezení ID připojené linky</string>
   <string name="CwMmi">Další hovor na lince</string>
   <string name="DndMmi">Nerušit</string>
   <string name="Midnight">Půlnoc</string>
@@ -49,6 +51,7 @@
   <string name="activity_list_empty">Nebyly nalezeny žádné odpovídající aktivity.</string>
   <string name="activity_resolver_use_always">Vždy</string>
   <string name="activity_resolver_use_once">Pouze jednou</string>
+  <string name="activity_resolver_work_profiles_support">%1$s pracovní profily nepodporuje.</string>
   <string name="activitychooserview_choose_application">Vybrat aplikaci</string>
   <string name="activitychooserview_choose_application_error">Aplikaci %s nelze spustit.</string>
   <string name="adb_active_notification_message">Dotykem zakážete ladění USB.</string>
@@ -64,6 +67,7 @@
   <string name="android_system_label">Systém Android</string>
   <string name="android_upgrading_apk">Optimalizace aplikace %1$d z %2$d.</string>
   <string name="android_upgrading_complete">Probíhá dokončování spouštění.</string>
+  <string name="android_upgrading_fstrim">Optimalizace úložiště.</string>
   <string name="android_upgrading_starting_apps">Spouštění aplikací.</string>
   <string name="android_upgrading_title">Android se upgraduje...</string>
   <string name="anr_activity_application">"Aplikace %2$s nereaguje.
@@ -77,7 +81,6 @@ Chcete ji ukončit?"</string>
 
 Chcete jej ukončit?"</string>
   <string name="anr_title"/>
-  <string name="app_no_restricted_accounts">Tato aplikace nepodporuje účty pro omezené profily</string>
   <string name="app_not_found">Aplikace potřebná k provedení této akce nebyla nalezena</string>
   <string name="app_running_notification_text">Klepnutím zobrazíte další informace nebo ukončíte aplikaci.</string>
   <string name="app_running_notification_title">Aplikace %1$s je spuštěna</string>
@@ -101,6 +104,9 @@ Chcete jej ukončit?"</string>
   <string name="back_button_label">Zpět</string>
   <string name="badPin">Původní kód PIN byl zadán nesprávně.</string>
   <string name="badPuk">Kód PUK byl zadán nesprávně.</string>
+ <string name="battery_saver_description">"Za účelem zvýšení životnosti baterie spořič baterie sníží výkon vašeho zařízení a omezí vibrace a většinu dat na pozadí. E-mail, zprávy a další aplikace, které používají synchronizaci, nemusejí být aktualizovány, dokud je nespustíte.
+
+Při nabíjení zařízení se spořič baterie automaticky vypne."</string>
   <string name="beforeOneMonthDurationPast">Déle než před 1 měsícem</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth Audio</string>
   <string name="bugreport_message">Shromažďuje informace o aktuálním stavu zařízení. Tyto informace je následně možné poslat v e-mailové zprávě, chvíli však potrvá, než bude hlášení o chybě připraveno k odeslání. Buďte prosím trpěliví.</string>
@@ -131,6 +137,7 @@ Chcete jej ukončit?"</string>
   <string name="chooser_wallpaper">Změnit tapetu</string>
   <string name="clearDefaultHintMsg">Výchozí nastavení vymažete v sekci Nastavení systému &gt; Aplikace &gt; Stažené.</string>
   <string name="common_name">Běžný název:</string>
+  <string name="condition_provider_service_binding_label">Poskytovatel podmínky</string>
   <string name="configure_input_methods">Nastavit metody zadávání</string>
   <string name="contentServiceSync">Synchronizace</string>
   <string name="contentServiceSyncNotificationTitle">Synchronizace</string>
@@ -168,6 +175,7 @@ pro %s."</string>
   <string name="date_time_done">Hotovo</string>
   <string name="date_time_set">Nastavit</string>
   <string name="day">den</string>
+  <string name="day_picker_description">Dny uspořádané po měsících</string>
   <string name="days">d.</string>
   <string name="decline">Odmítnout</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -179,16 +187,8 @@ pro %s."</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Smazat</string>
   <string name="deleteText">Smazat</string>
+  <string name="deleted_key">Číslice %1$s byla smazána</string>
   <string name="deny">Odepřít</string>
-  <string name="description_direction_down">Přejeďte prstem dolů: %s</string>
-  <string name="description_direction_left">Přejeďte prstem doleva: %s</string>
-  <string name="description_direction_right">Přejeďte prstem doprava: %s</string>
-  <string name="description_direction_up">Přejeďte prstem nahoru: %s</string>
-  <string name="description_target_camera">Fotoaparát</string>
-  <string name="description_target_search">Vyhledávání</string>
-  <string name="description_target_silent">Tichý</string>
-  <string name="description_target_soundon">Zapnout zvuk</string>
-  <string name="description_target_unlock">Odemknout</string>
   <string name="description_target_unlock_tablet">Odemknete posunutím prstu.</string>
   <string name="dial_number_using">"Vytočit číslo
  %s."</string>
@@ -202,7 +202,20 @@ pro %s."</string>
   <string name="dlg_confirm_kill_storage_users_title">Zapnout úložiště USB</string>
   <string name="dlg_error_title">Operace rozhraní USB se nezdařila.</string>
   <string name="dlg_ok">OK</string>
+  <string name="done_label">Hotovo</string>
   <string name="double_tap_toast">Tip: Dvojitým klepnutím můžete zobrazení přiblížit nebo oddálit.</string>
+  <string name="downtime_condition_summary">Dokud v %1$s neskončí pozastavení</string>
+  <string name="durationDayHour">%1$d d %2$d h</string>
+  <string name="durationDayHours">%1$d d %2$d h</string>
+  <string name="durationDays">%1$d d</string>
+  <string name="durationHourMinute">%1$d h %2$d min</string>
+  <string name="durationHourMinutes">%1$d h %2$d min</string>
+  <string name="durationHours">%1$d h</string>
+  <string name="durationMinuteSecond">%1$d min %2$d s</string>
+  <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+  <string name="durationMinutes">%1$d min</string>
+  <string name="durationSecond">%1$d s</string>
+  <string name="durationSeconds">%1$d s</string>
   <string name="editTextMenuTitle">Operace s textem</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -220,6 +233,7 @@ pro %s."</string>
   <string name="enable_accessibility_canceled">Usnadnění zrušeno.</string>
   <string name="enable_explore_by_touch_warning_message">Služba %1$s požaduje povolení funkce Prozkoumání dotykem. Pokud je funkce Prozkoumání dotykem zapnuta, můžete slyšet nebo vidět popisy objektů pod vaším prstem nebo ovládat telefon gesty.</string>
   <string name="enable_explore_by_touch_warning_title">Povolit funkci Prozkoumání dotykem?</string>
+  <string name="error_message_change_not_allowed">Administrátor tuto změnu zakázal</string>
   <string name="error_message_title">Chyba</string>
   <string name="eventTypeAnniversary">Výročí</string>
   <string name="eventTypeBirthday">Narozeniny</string>
@@ -259,11 +273,16 @@ pro %s."</string>
   <string name="fingerprints">Digitální otisky:</string>
   <string name="force_close">OK</string>
   <string name="format_error">Úložiště USB nelze smazat.</string>
+  <string name="forward_intent_to_owner">Tuto aplikaci používáte mimo svůj pracovní profil.</string>
+  <string name="forward_intent_to_work">Tuto aplikaci používáte v pracovním profilu</string>
   <string name="gadget_host_error_inflating">Widget nelze přidat.</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_bug_report">Hlášení chyb</string>
   <string name="global_action_lock">Zámek obrazovky</string>
+  <string name="global_action_lockdown">Zamknout</string>
   <string name="global_action_power_off">Vypnout</string>
+  <string name="global_action_reboot">Restart</string>
+  <string name="global_action_settings">Nastavení</string>
   <string name="global_action_silent_mode_off_status">Zvuk je zapnutý</string>
   <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ.</string>
   <string name="global_action_toggle_silent_mode">Tichý režim</string>
@@ -291,6 +310,7 @@ pro %s."</string>
   <string name="hour">hodina</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
+  <string name="hour_picker_description">Kruhový posuvník hodin</string>
   <string name="hours">hod.</string>
   <string name="httpError">Došlo k chybě sítě.</string>
   <string name="httpErrorAuth">Nelze provést ověření.</string>
@@ -338,6 +358,7 @@ pro %s."</string>
   <string name="issued_by">Vydal:</string>
   <string name="issued_on">Datum vydání:</string>
   <string name="issued_to">Vydáno pro:</string>
+  <string name="item_is_selected">Vybrána položka %1$s</string>
   <string name="js_dialog_before_unload">"%s
 
 Opravdu tuto stránku chcete opustit?"</string>
@@ -398,7 +419,7 @@ Opravdu tuto stránku chcete opustit?"</string>
   <string name="kg_invalid_sim_pin_hint">Zadejte kód PIN o délce 4–8 číslic.</string>
   <string name="kg_invalid_sim_puk_hint">Minimální délka kódu PUK je 8 číslic.</string>
   <string name="kg_login_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+ Navštivte stránky "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">Kontrola účtu…</string>
   <string name="kg_login_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
   <string name="kg_login_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
@@ -437,10 +458,28 @@ Zkuste to znovu za %d s."</string>
   <string name="launch_warning_title">Přesměrování aplikace</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Načítání...</string>
+<string name="lock_to_app_description">"Připnutím obrazovky uzamknete displej v jednom zobrazení.
+
+Chcete-li obrazovku uvolnit, klepněte současně na možnosti Zpět a Přehled a podržte je."</string>
+  <string name="lock_to_app_description_accessible">"Připnutím obrazovky uzamknete displej v jednom zobrazení.
+
+Chcete-li obrazovku uvolnit, klepněte na možnost Přehled a podržte ji."</string>
+  <string name="lock_to_app_exit">Obrazovka uvolněna</string>
+  <string name="lock_to_app_negative">NE, DĚKUJI</string>
+  <string name="lock_to_app_positive">SPUSTIT</string>
+  <string name="lock_to_app_start">Obrazovka připnuta</string>
+  <string name="lock_to_app_title">Použít připnutí obrazovky?</string>
+  <string name="lock_to_app_toast">Chcete-li tuto obrazovku uvolnit, klepněte současně na možnosti Zpět a Přehled a podržte je.</string>
+  <string name="lock_to_app_toast_accessible">Chcete-li tuto obrazovku uvolnit, klepněte na možnost Přehled a podržte ji.</string>
+  <string name="lock_to_app_toast_locked">Obrazovka je připnuta. Vaše organizace uvolnění zakázala.</string>
+  <string name="lock_to_app_unlock_password">Před uvolněním požádat o heslo</string>
+  <string name="lock_to_app_unlock_pattern">Před uvolněním požádat o bezpečnostní gesto</string>
+  <string name="lock_to_app_unlock_pin">Před uvolněním požádat o kód PIN</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní gesto vymazáno</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostní gesto dokončeno</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostní gesto zahájeno</string>
+  <string name="lockscreen_airplane_mode_on">Režim Lietadlo</string>
   <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Žádný signál</string>
   <string name="lockscreen_charged">Nabito</string>
@@ -479,6 +518,7 @@ Přejděte na stránku "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string
   <string name="lockscreen_plugged_in">Nabíjení - %d %%</string>
   <string name="lockscreen_return_to_call">Zavolat zpět</string>
   <string name="lockscreen_screen_locked">Obrazovka uzamčena.</string>
+    <string name="lockscreen_sim_error_message_short">Chybná SIM karta.</string>
   <string name="lockscreen_sim_locked_message">SIM karta je zablokována.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Další informace naleznete v uživatelské příručce; nebo kontaktujte zákaznickou podporu.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM karta je zablokována pomocí kódu PUK.</string>
@@ -495,15 +535,20 @@ Zkuste to znovu za %d s."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Již %dkrát jste nesprávně zadali kód PIN. 
 
 Zkuste to znovu za %d s."</string>
+  <string name="lockscreen_transport_ffw_description">Přetočit vpřed</string>
   <string name="lockscreen_transport_next_description">Tlačítko Další stopa</string>
   <string name="lockscreen_transport_pause_description">Tlačítko Pozastavit</string>
   <string name="lockscreen_transport_play_description">Tlačítko Přehrát</string>
   <string name="lockscreen_transport_prev_description">Tlačítko Předchozí stopa</string>
+  <string name="lockscreen_transport_rew_description">Přetočit zpět</string>
   <string name="lockscreen_transport_stop_description">Tlačítko Zastavit</string>
   <string name="lockscreen_unlock_label">Odemknout</string>
   <string name="low_internal_storage_view_text">Některé systémové funkce nemusí fungovat</string>
+  <string name="low_internal_storage_view_text_no_boot">Pro systém není dostatek místa v úložišti. Uvolněte alespoň 250 MB místa a restartujte zařízení.</string>
   <string name="low_internal_storage_view_title">V úložišti je málo místa</string>
   <string name="low_memory">Paměť telefonu je plná. Uvolněte místo smazáním některých souborů.</string>
+  <string name="managed_profile_label">Práce</string>
+  <string name="managed_profile_label_badge">Pracovní %1$s</string>
   <string name="me">Já</string>
   <string name="media_bad_removal">SD karta nebyla před odebráním odpojena.</string>
   <string name="media_checking">Probíhá kontrola úložiště USB.</string>
@@ -611,6 +656,7 @@ Zkuste to znovu za %d s."</string>
   <string name="menu_space_shortcut_label">mezerník</string>
   <string name="midnight">půlnoc</string>
   <string name="minute">min</string>
+  <string name="minute_picker_description">Kruhový posuvník minut</string>
   <string name="minutes">min</string>
   <string name="mismatchPin">Zadané kódy PIN se neshodují.</string>
   <string name="mmiComplete">Funkce MMI byla dokončena.</string>
@@ -658,7 +704,9 @@ Zkuste to znovu za %d s."</string>
   <string name="perm_costs_money">může vás to něco stát</string>
   <string name="permdesc_accessCoarseLocation">Umožňuje aplikaci získat vaši přibližnou polohu. Polohu stanovují služby určování polohy pomocí síťových zdrojů, jako jsou vysílače mobilních sítí a sítě Wi-Fi. Aby aplikace mohla služby určování polohy použít, musejí být zapnuté a musejí být ve vašem zařízení k dispozici. Aplikace na základě těchto informací mohou zjistit vaši přibližnou polohu.</string>
   <string name="permdesc_accessContentProvidersExternally">Umožňuje držiteli získat z příkazového řádku přístup k poskytovatelům obsahu. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_accessDrmCertificates">Umožňuje aplikaci vydávat a používat certifikáty DRM. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_accessFineLocation">Umožňuje aplikaci zjistit vaši přesnou polohu pomocí systému GPS nebo síťových lokalizačních zdrojů, jako jsou vysílače mobilní sítě a sítě Wi-Fi. Aby aplikace mohla služby určování polohy použít, musejí být zapnuté a musejí být v zařízení k dispozici. Aplikace pomocí těchto informací mohou určit vaši přesnou polohu a mohou spotřebovávat více energie z baterie.</string>
+  <string name="permdesc_accessInputFlinger">Umožňuje aplikaci používat nízkoúrovňové funkce InputFlinger.</string>
   <string name="permdesc_accessLocationExtraCommands">Umožňuje aplikaci získat přístup k dalším příkazům poskytovatele polohy. Aplikace s tímto oprávněním může narušit funkci GPS či jiných zdrojů polohy.</string>
   <string name="permdesc_accessMockLocation">Vytváření simulace zdrojů polohy pro účely testování nebo instalace nového poskytovatele polohy. Toto oprávnění umožňuje aplikaci přepsat polohu nebo stav, který vracejí jiné zdroje polohy, například systém GPS nebo poskytovatelé polohy.</string>
   <string name="permdesc_accessMtp">Povoluje přístup k ovladači protokolu MTP jádra za účelem implementace protokolu MTP USB.</string>
@@ -681,9 +729,12 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_backup">Umožňuje aplikaci řídit mechanismy zálohování a obnovení systému. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_batteryStats">Umožňuje aplikaci číst aktuální podrobné údaje o využívání baterie. Aplikace to může využít k získání podrobných informací o tom, které aplikace používáte.</string>
   <string name="permdesc_bindAccessibilityService">Umožňuje držiteli navázat se na nejvyšší úroveň rozhraní služby usnadnění přístupu. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_bindConditionProviderService">Umožňuje držiteli navázat se na nejvyšší úroveň rozhraní služby poskytovatele podmínky. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_bindDeviceAdmin">Umožňuje držiteli oprávnění odesílat informace správci zařízení. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_bindDreamService">Umožňuje navázání na nejvyšší úroveň služby spořiče. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_bindGadget">Umožňuje aplikaci přikázat systému, které widgety mohou konkrétní aplikace používat. Aplikace s tímto oprávněním může ostatním aplikacím udělit přístup k osobním datům. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_bindInputMethod">Umožňuje držiteli vázat se na nejvyšší úroveň rozhraní pro zadávání dat. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_bindJobService">Toto oprávnění umožňuje systému Android spustit aplikaci na pozadí, když je to požadováno.</string>
   <string name="permdesc_bindNfcService">Umožňuje držiteli navázat se na aplikace, které emulují karty NFC. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_bindNotificationListenerService">Umožňuje držiteli navázat se na nejvyšší úroveň služby pro poslouchání oznámení. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_bindPackageVerifier">Umožňuje držiteli podávat žádosti o ověření balíčků. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
@@ -692,14 +743,21 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_bindRemoteDisplay">Umožňuje držiteli připojit se k vysokoúrovňovému rozhraní vzdáleného displeje. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_bindRemoteViews">Umožňuje držiteli navázat se na nejvyšší úroveň služby widgetu. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_bindTextService">Umožňuje držiteli připojit se k nejvyšší úrovni rozhraní textové služby (např. SpellCheckerService). Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_bindTvInput">Umožňuje držiteli navázat se na nejvyšší úroveň rozhraní televizního vstupu. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
+  <string name="permdesc_bindVoiceInteraction">Umožňuje držiteli navázat se na nejvyšší úroveň rozhraní služby hlasové interakce. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_bindVpnService">Umožňuje držiteli navázat se na nejvyšší úroveň služby VPN. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_bindWallpaper">Umožňuje držiteli navázat se na nejvyšší úroveň rozhraní tapety. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
-  <string name="permdesc_bind_call_service">Umožňuje aplikaci řídit, kdy a jak se uživateli zobrazí obrazovka příchozího hovoru.</string>
+  <string name="permdesc_bind_connection_service">Umožňuje aplikaci komunikovat s telefonními službami a provádět/přijímat hovory.</string>
+  <string name="permdesc_bind_incall_service">Umožňuje aplikaci řídit, kdy a jak se uživateli zobrazí obrazovka příchozího hovoru.</string>
+  <string name="permdesc_bind_trust_agent_service">Umožňuje aplikaci vázat se na službu agent důvěry.</string>
   <string name="permdesc_bluetooth">Umožňuje aplikaci zobrazit konfiguraci telefonu s rozhraním Bluetooth, vytvářet připojení ke spárovaným zařízením a přijímat tato připojení.</string>
   <string name="permdesc_bluetoothAdmin">Umožňuje aplikaci konfigurovat místní telefon s rozhraním Bluetooth a vyhledávat a párovat vzdálená zařízení.</string>
+  <string name="permdesc_bluetoothMap">Povoluje aplikaci přístup k datům Bluetooth MAP.</string>
   <string name="permdesc_bluetoothPriv">Povoluje aplikaci provést bez zásahu uživatele spárování se vzdálenými zařízeními.</string>
+  <string name="permdesc_bodySensors">Umožňuje aplikaci přistupovat k datům ze senzorů, pomocí kterých měříte činnost svého těla, například tep.</string>
   <string name="permdesc_brick">Umožňuje aplikaci trvale vypnout celý telefon. To je velmi nebezpečné oprávnění.</string>
   <string name="permdesc_broadcastPackageRemoved">Umožňuje aplikaci vysílat oznámení o odstranění balíčku aplikace. Škodlivé aplikace mohou toto oprávnění použít k ukončení jakékoli jiné spuštěné aplikace.</string>
+  <string name="permdesc_broadcastScoreNetworks">Allows the app to broadcast a notification that networks need to be scored. Never needed for normal apps.</string>
   <string name="permdesc_broadcastSmsReceived">Umožňuje aplikaci vysílat oznámení o přijetí zprávy SMS. Škodlivé aplikace mohou toto oprávnění použít k vytváření falešných příchozích zpráv SMS.</string>
   <string name="permdesc_broadcastSticky">Umožňuje aplikaci odesílat trvalá vysílání, která přetrvávají i po skončení vysílání. Nadměrné používání může telefon zpomalit či způsobit jeho nestabilitu, protože bude používat příliš mnoho paměti.</string>
   <string name="permdesc_broadcastWapPush">Umožňuje aplikaci vysílat oznámení o přijetí zprávy WAP PUSH. Škodlivé aplikace mohou toto oprávnění použít k vytváření falešných přijatých zpráv MMS nebo utajenému nahrazení obsahu libovolné webové stránky jejich škodlivými variantami.</string>
@@ -726,6 +784,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_configureWifiDisplay">Povoluje aplikaci připojit a konfigurovat displeje přes Wi-Fi.</string>
   <string name="permdesc_confirm_full_backup">Umožňuje aplikaci spustit uživatelské rozhraní potvrzení úplné zálohy. Toto oprávnění nesmí používat žádná aplikace.</string>
   <string name="permdesc_controlWifiDisplay">Povoluje aplikaci ovládat základní funkce displejů přes Wi-Fi.</string>
+  <string name="permdesc_control_incall_experience">Umožňuje aplikaci zobrazit uživatelské prostředí během hovoru.</string>
   <string name="permdesc_control_keyguard">Umožňuje aplikaci ovládat zámek obrazovky.</string>
   <string name="permdesc_copyProtectedData">Umožňuje aplikaci dát výchozí službě kontejneru příkaz ke zkopírování obsahu. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_createNetworkSockets">Umožňuje aplikaci vytvářet síťové sokety a používat vlastní síťové protokoly. K odesílání údajů na internet toto oprávnění není nutné, protože údaje lze na internet odesílat prostřednictvím prohlížečů a dalších aplikací.</string>
@@ -742,6 +801,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_flashlight">Umožňuje aplikaci ovládat baterku.</string>
   <string name="permdesc_forceBack">Umožňuje aplikaci vynutit ukončení jakékoli činnosti běžící na popředí a její vrácení zpět. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_forceStopPackages">Umožňuje aplikaci vynutit zastavení jiných aplikací.</string>
+  <string name="permdesc_frameStats">Umožňuje aplikaci shromažďovat statistiky rámců. Škodlivé aplikace mohou sledovat statistiky rámců oken ostatních aplikací.</string>
   <string name="permdesc_freezeScreen">Povoluje aplikaci dočasně zmrazit obrazovku pro přechod do režimu celé obrazovky.</string>
   <string name="permdesc_getAccounts">Umožňuje aplikaci získat seznam účtů v telefonu. Mohou sem patřit i účty vytvořené aplikacemi, které jste nainstalovali.</string>
   <string name="permdesc_getAppOpsStats">Umožňuje aplikaci načíst shromážděné statistiky operací aplikace. Toto oprávnění není určeno pro běžné aplikace.</string>
@@ -750,6 +810,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_getTasks">Umožňuje aplikaci získat informace o aktuálně a naposledy spuštěných úlohách. Aplikace s tímto oprávněním může odhalit informace o aplikacích, které se v zařízení používají.</string>
   <string name="permdesc_getTopActivityInfo">Umožňuje držiteli získat soukromé informace o aktuální aplikaci na popředí obrazovky.</string>
   <string name="permdesc_grantRevokePermissions">Umožňuje aplikaci udělit nebo odebrat sobě samotné nebo jiným aplikacím určitá oprávnění. Škodlivé aplikace pomocí tohoto oprávnění mohou získat přístup k funkcím, které jste jim nepovolili.</string>
+  <string name="permdesc_handoverStatus">Umožňuje této aplikaci přijímat informace o aktuálních přenosech pomocí technologie Android Beam</string>
   <string name="permdesc_hardware_test">Umožňuje aplikaci ovládat různé periferie pro účely testování hardwaru.</string>
   <string name="permdesc_injectEvents">Umožňuje aplikaci doručit vlastní vstupní události (stisknutí tlačítek atd.) dalším aplikacím. Škodlivé aplikace mohou pomocí tohoto oprávnění převzít kontrolu nad telefonem.</string>
   <string name="permdesc_installLocationProvider">Vytváření simulace zdrojů polohy pro účely testování nebo instalace nového poskytovatele polohy. Toto oprávnění umožňuje aplikaci přepsat polohu nebo stav, který vracejí jiné zdroje polohy, například systém GPS nebo poskytovatelé polohy.</string>
@@ -760,23 +821,26 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_internalSystemWindow">Umožňuje aplikaci vytvářet okna, která se budou používat v interním uživatelském rozhraní systému. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_invokeCarrierSetup">Umožňuje vyvolání konfigurační aplikace poskytnuté operátorem. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_killBackgroundProcesses">Umožňuje aplikaci ukončit procesy na pozadí ostatních aplikací. Mohlo by dojít k zastavení ostatních aplikací.</string>
+  <string name="permdesc_launch_trust_agent_settings">Umožňuje aplikaci spustit aktivitu, která změní chování agenta důvěry.</string>
   <string name="permdesc_locationUpdates">Umožňuje aplikaci zapnout nebo vypnout oznámení o aktualizaci polohy pomocí bezdrátového modulu. Toto oprávnění není určeno pro běžné aplikace.</string>
-  <string name="permdesc_magnify_display">Povoluje aplikaci zvětšit obsah displeje. Škodlivé aplikace mohou změnit zobrazení obsahu způsobem, který učiní zařízení nepoužitelným.</string>
   <string name="permdesc_manageAccounts">Umožňuje aplikaci provádět operace, jako je přidávání nebo odebírání účtů nebo mazání jejich hesel.</string>
   <string name="permdesc_manageActivityStacks">Umožňuje aplikaci přidat, odstranit nebo upravit zásobníky aktivit jiných aplikací. Škodlivé aplikace mohou narušit chování ostatních aplikací.</string>
   <string name="permdesc_manageAppTokens">Umožňuje aplikaci vytvořit a spravovat vlastní tokeny a současně obejít pořadí vykreslování. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_manageCaCertificates">Umožňuje aplikaci instalovat a odinstalovat certifikáty CA jako důvěryhodné identifikační údaje.</string>
   <string name="permdesc_manageDeviceAdmins">Opravňuje držitele přidávat nebo odebírat aktivní správce zařízení. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_manageDocs">Umožňuje aplikaci spravovat úložiště dokumentů.</string>
+  <string name="permdesc_manageMediaProjection">Umožňuje aplikaci spravovat relace promítání médií. Tyto relace mohou aplikacím umožnit zaznamenávat obsah obrazu a zvuku. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_manageNetworkPolicy">Umožňuje aplikaci spravovat zásady sítě a definovat pravidla pro konkrétní aplikace.</string>
   <string name="permdesc_manageUsb">Umožňuje aplikaci spravovat nastavení a oprávnění pro zařízení USB.</string>
   <string name="permdesc_manageUsers">Umožňuje aplikacím spravovat uživatele v zařízení, včetně vytváření a mazání dotazů.</string>
-  <string name="permdesc_markNetworkSocket">Umožňuje aplikaci upravit značky soketů pro směrování</string>
+  <string name="permdesc_manageVoiceKeyphrases">Umožňuje držiteli spravovat klíčové hlasové fráze pro detekci hlasových klíčových slov. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_masterClear">Umožňuje aplikaci zcela resetovat systém na tovární nastavení, vymazat všechna data, nastavení a nainstalované aplikace.</string>
   <string name="permdesc_mediaContentControl">Umožňuje aplikaci řídit přehrávání médií a číst informace o médiích (název, autor...).</string>
   <string name="permdesc_mediaStorageWrite">Umožňuje aplikaci upravovat obsah interního úložiště médií.</string>
+  <string name="permdesc_modifyAudioRouting">Umožňuje aplikaci převzít přímou kontrolu nad směrováním zvuku a přepsat nastavené zásady zvuku.</string>
   <string name="permdesc_modifyAudioSettings">Umožňuje aplikaci změnit globální nastavení zvuku, například hlasitost či reproduktor pro výstup zvuku.</string>
   <string name="permdesc_modifyNetworkAccounting">Umožňuje aplikaci upravit způsob výpočtu využití sítě aplikacemi. Toto oprávnění není určeno pro běžné aplikace.</string>
+  <string name="permdesc_modifyParentalControls">Povoluje držiteli upravit data o rodičovské kontrole v systému. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_modifyPhoneState">Umožňuje aplikaci ovládat telefonní funkce zařízení. Aplikace s tímto oprávněním smí bez upozornění přepínat sítě, zapínat a vypínat bezdrátový modul telefonu a podobně.</string>
   <string name="permdesc_mount_format_filesystems">Umožňuje aplikaci formátovat vyměnitelná úložiště.</string>
   <string name="permdesc_mount_unmount_filesystems">Umožňuje aplikaci připojit či odpojit souborové systémy ve vyměnitelných úložištích.</string>
@@ -787,6 +851,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_persistentActivity">Umožňuje aplikaci uložit některé své části trvale do paměti. Může to omezit paměť dostupnou pro ostatní aplikace a zpomalit tak telefon.</string>
   <string name="permdesc_pkgUsageStats">Umožňuje aplikaci upravit shromážděné statistiky využití komponent. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_processOutgoingCalls">Umožňuje aplikaci zpracovávat odchozí hovory a měnit vytáčené číslo. Toto oprávnění umožňuje sledovat či přesměrovat odchozí hovory nebo jim zabránit.</string>
+  <string name="permdesc_provide_trust_agent">Umožňuje aplikaci poskytnout agent důvěry.</string>
   <string name="permdesc_readCalendar">Umožňuje aplikaci číst všechny události kalendáře uložené v telefonu, včetně událostí přátel nebo spolupracovníků. Aplikace s tímto oprávněním může sdílet nebo ukládat údaje v kalendáři bez ohledu na důvěrnost nebo citlivost těchto údajů.</string>
   <string name="permdesc_readCallLog">Umožňuje aplikaci číst seznam hovorů v telefonu, včetně dat o příchozích a odchozích hovorech. Toto oprávnění umožňuje aplikaci ukládat údaje ze seznamu hovorů. Škodlivé aplikace mohou tyto údaje bez vašeho vědomí sdílet.</string>
   <string name="permdesc_readCellBroadcasts">Umožňuje aplikaci číst zprávy informační služby přijaté ve vašem zařízení. Upozornění informační služby jsou v některých oblastech odesílána za účelem varování před mimořádnými událostmi. Škodlivé aplikace mohou narušit výkon či provoz vašeho zařízení během přijímání zpráv informační služby.</string>
@@ -795,27 +860,34 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_readFrameBuffer">Umožňuje aplikaci číst obsah vyrovnávací paměti snímků.</string>
   <string name="permdesc_readHistoryBookmarks">Umožňuje aplikaci číst historii všech adres URL navštívených v Prohlížeči a všechny záložky v Prohlížeči. Poznámka: Pro prohlížeče třetí strany a jiné aplikace umožňující procházení webu toto oprávnění platit nemusí.</string>
   <string name="permdesc_readInputState">Umožňuje aplikaci sledovat, které klávesy stisknete, a to i při interakci s jinou aplikací (např. zadávání hesla). Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
+  <string name="permdesc_readInstallSessions">Povoluje aplikaci číst instalační relace. Díky tomu můžete zobrazit podrobnosti o aktivních instalacích balíčku.</string>
   <string name="permdesc_readLogs">Umožňuje aplikaci číst různé systémové soubory protokolů. Toto oprávnění aplikaci umožní získat obecné informace o činnostech s telefonem, které by mohly obsahovat osobní či soukromé informace.</string>
   <string name="permdesc_readNetworkUsageHistory">Umožňuje aplikaci číst historii využití sítě (u určitých sítí a aplikací).</string>
   <string name="permdesc_readPhoneState">Umožňuje aplikaci získat přístup k telefonním funkcím zařízení. Toto oprávnění umožňuje aplikaci zjistit telefonní číslo telefonu, identifikační čísla zařízení, zda zrovna probíhá hovor, a vzdálené číslo, ke kterému je hovor připojen.</string>
+  <string name="permdesc_readPrecisePhoneState">Umožňuje aplikaci zjišťovat přesný stav telefonování a mobilních dat. Toto oprávnění aplikaci umožňuje zjistit skutečný stav volání, zda je volání aktivní nebo na pozadí, zda volání selhalo, přesný stav datového připojení a zda datové připojení selhalo.</string>
   <string name="permdesc_readProfile">Umožňuje aplikaci číst údaje v osobním profilu uložené v zařízení, například jméno nebo kontaktní údaje. Znamená to, že vás aplikace může identifikovat a odeslat údaje z profilu dalším aplikacím.</string>
   <string name="permdesc_readSms">Umožňuje aplikaci číst zprávy SMS uložené v telefonu nebo na SIM kartě. Toto oprávnění umožňuje aplikaci číst zprávy SMS bez ohledu na jejich obsah nebo důvěrnost.</string>
   <string name="permdesc_readSocialStream">Umožňuje aplikaci získat přístup k sociálním aktualizacím od vašich přátel a synchronizaci těchto aktualizací. Při sdílení informací buďte opatrní – toto oprávnění umožňuje aplikaci číst komunikaci mezi vámi a vašimi přáteli v sociálních sítích bez ohledu na její důvěrnost. Poznámka: Toto oprávnění nemusí platit pro všechny sociální sítě.</string>
   <string name="permdesc_readSyncSettings">Umožňuje aplikaci číst nastavení synchronizace v účtu. Může například určit, zda je s účtem synchronizována aplikace Lidé.</string>
   <string name="permdesc_readSyncStats">Umožňuje aplikaci číst statistické informace o synchronizaci v účtu, včetně historie uskutečněných synchronizací a informací o množství synchronizovaných dat.</string>
+  <string name="permdesc_readVoicemail">Povoluje aplikaci číst hlasové zprávy.</string>
   <string name="permdesc_reboot">Umožňuje aplikaci vynutit restartování telefonu.</string>
+  <string name="permdesc_receiveBluetoothMap">Umožňuje aplikaci přijímat a zpracovat zprávy Bluetooth MAP. To znamená, že aplikace může sledovat a mazat zprávy odeslané do zařízení, aniž by vám je zobrazila.</string>
   <string name="permdesc_receiveBootCompleted">Umožňuje aplikaci spuštění ihned po spuštění systému. Toto oprávnění může zpomalit spuštění telefonu a umožnit aplikaci celkově zpomalit telefon, protože bude neustále spuštěna.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Umožňuje aplikaci přijmout a zpracovat zprávy tísňového vysílání. Toto oprávnění je dostupné pouze pro systémové aplikace.</string>
   <string name="permdesc_receiveMms">Umožňuje aplikaci přijmout a zpracovat zprávy MMS. Znamená to, že aplikace může sledovat zprávy odeslané do vašeho zařízení nebo je smazat, aniž by se vám zobrazily.</string>
   <string name="permdesc_receiveSms">Umožňuje aplikaci přijmout a zpracovat zprávy SMS. Znamená to, že aplikace může sledovat zprávy odeslané do vašeho zařízení nebo je smazat, aniž by se vám zobrazily.</string>
   <string name="permdesc_receiveWapPush">Umožňuje aplikaci přijmout a zpracovat zprávy WAP. Toto oprávnění umožňuje sledovat přijaté zprávy nebo je smazat, aniž by se vám zobrazily.</string>
   <string name="permdesc_recordAudio">Umožňuje aplikaci zaznamenat zvuk pomocí mikrofonu. Toto oprávnění umožňuje aplikaci kdykoliv zaznamenat zvuk bez vašeho svolení.</string>
+  <string name="permdesc_recovery">Umožňuje aplikaci interakci se systémem obnovení a s aktualizacemi systému.</string>
+  <string name="permdesc_removeDrmCertificates">Povoluje aplikaci odstranit certifikáty DRM. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_removeTasks">Umožňuje aplikaci odstranit úlohy a ukončit jejich aplikace. Škodlivé aplikace mohou narušit chování ostatních aplikací.</string>
   <string name="permdesc_reorderTasks">Umožňuje aplikaci přesunout úlohy na popředí nebo pozadí. Aplikace tak může činit bez vašeho zásahu.</string>
+  <string name="permdesc_retrieveWindowToken">Umožňuje aplikaci načíst token okna. Škodlivé aplikace se mohou vydávat za systém a provádět s oknem aplikace neoprávněné interakce.</string>
   <string name="permdesc_retrieve_window_content">Umožňuje aplikaci načíst obsah aktivního okna. Škodlivé aplikace mohou načíst obsah celého okna a prozkoumat všechen text kromě hesel.</string>
-  <string name="permdesc_retrieve_window_info">Umožňuje aplikaci načíst informace o oknech ze správce oken. Škodlivé aplikace mnohou načíst informace, které slouží k internímu systémovému využití.</string>
   <string name="permdesc_route_media_output">Umožňuje aplikaci směrovat výstup médií do dalších externích zařízení.</string>
   <string name="permdesc_runSetActivityWatcher">Umožňuje aplikaci sledovat a řídit spouštění činností systémem. Škodlivé aplikace mohou systém zcela ovládnout. Toto oprávnění je požadováno pouze pro účely vývoje, nikdy pro běžné použití.</string>
+  <string name="permdesc_scoreNetworks">Umožňuje aplikaci hodnotit sítě a ovlivňovat, které sítě by měl telefon preferovat.</string>
   <string name="permdesc_sdcardAccessAll">Umožňuje aplikaci přistupovat k externímu úložišti pro všechny uživatele.</string>
   <string name="permdesc_sdcardRead">Umožňuje aplikaci čtení obsahu USB.</string>
   <string name="permdesc_sdcardWrite">Umožňuje aplikaci zapisovat do úložiště USB.</string>
@@ -826,6 +898,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_setAlwaysFinish">Umožňuje aplikaci ovládat, zda budou činnosti po přechodu na pozadí vždy ukončeny. Běžné aplikace toto oprávnění nikdy nepožadují.</string>
   <string name="permdesc_setAnimationScale">Umožňuje aplikaci kdykoliv globálně změnit rychlost animací (rychlejší či pomalejší animace).</string>
   <string name="permdesc_setDebugApp">Umožňuje aplikaci zapnout ladění jiné aplikace. Škodlivé aplikace mohou toto oprávnění použít k ukončení ostatních aplikací.</string>
+  <string name="permdesc_setInputCalibration">Umožňuje aplikaci měnit parametry kalibrace dotykové obrazovky. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_setKeyboardLayout">Umožňuje aplikaci změnit rozložení klávesnice. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_setOrientation">Umožňuje aplikaci kdykoli změnit otočení obrazovky. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_setPointerSpeed">Umožňuje aplikaci kdykoli změnit rychlost ukazatele myši nebo touchpadu. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
@@ -838,7 +911,9 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_setWallpaperHints">Umožňuje aplikaci nastavit nápovědu pro velikost tapety systému.</string>
   <string name="permdesc_shutdown">Uvede správce činností do vypnutého stavu. Nedojde však k úplnému vypnutí.</string>
   <string name="permdesc_signalPersistentProcesses">Umožňuje aplikaci vyžádat zaslání poskytnutého signálu všem trvalým procesům.</string>
+  <string name="permdesc_sim_communication">Umožňuje aplikaci odesílat příkazy na kartu SIM. Toto oprávnění je velmi nebezpečné.</string>
   <string name="permdesc_startAnyActivity">Umožňuje aplikaci zahájit libovolnou aktivitu bez ohledu na ochranu pomocí oprávnění či exportovaný stav.</string>
+  <string name="permdesc_startTasksFromRecents">Povoluje aplikaci spustit pomocí objektu ActivityManager.RecentTaskInfo zaniklou úlohu, kterou vrátil příkaz ActivityManager.getRecentTaskList().</string>
   <string name="permdesc_statusBar">Umožňuje aplikaci zakázat stavový řádek nebo přidat či odebrat systémové ikony.</string>
   <string name="permdesc_statusBarService">Umožňuje aplikaci být stavovým řádkem.</string>
   <string name="permdesc_stopAppSwitches">Zabrání uživateli přepnout na jinou aplikaci.</string>
@@ -847,12 +922,14 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_systemAlertWindow">Umožňuje aplikaci vykreslování nad jinými aplikacemi nebo částmi uživatelského rozhraní. Tato funkce může zasahovat do vašeho používání rozhraní jiné aplikace nebo měnit zobrazovaný obsah v jiných aplikacích.</string>
   <string name="permdesc_temporary_enable_accessibility">Umožňuje aplikaci dočasně aktivovat usnadnění přístupu v zařízení. Škodlivé aplikace mohou usnadnění přístupu aktivovat bez souhlasu uživatele.</string>
   <string name="permdesc_transmitIr">Umožňuje aplikaci využívat infračervený vysílač telefonu.</string>
+  <string name="permdesc_trust_listener">Umožňuje aplikaci naslouchat změnám ve stavu důvěryhodnosti.</string>
   <string name="permdesc_uninstall_shortcut">Umožňuje aplikaci odebrat zástupce z plochy bez zásahu uživatele.</string>
   <string name="permdesc_updateAppOpsStats">Umožňuje aplikaci upravit shromážděné statistiky operací aplikace. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_updateBatteryStats">Umožňuje aplikaci upravit shromážděné statistiky o baterii. Toto oprávnění není určeno pro běžné aplikace.</string>
   <string name="permdesc_updateLock">Umožňuje držiteli navrhnout systému informace o vhodné době pro upgrade zařízení neinteraktivním restartováním.</string>
   <string name="permdesc_useCredentials">Umožňuje aplikaci požadovat ověřovací tokeny.</string>
   <string name="permdesc_use_sip">Umožňuje aplikaci uskutečnit a přijímat internetové hovory pomocí služby SIP.</string>
+  <string name="permdesc_userActivity">Umožňuje aplikaci resetovat časový limit displeje.</string>
   <string name="permdesc_vibrate">Umožňuje aplikaci ovládat vibrace.</string>
   <string name="permdesc_wakeLock">Umožňuje aplikaci zabránit přechodu telefonu do režimu spánku.</string>
   <string name="permdesc_writeApnSettings">Umožňuje aplikaci změnit nastavení sítě a zachytit a prozkoumat síťové přenosy, například za účelem změny serveru proxy a portu jakéhokoli názvu přístupového bodu. Škodlivé aplikace mohou bez vašeho vědomí sledovat, přesměrovat nebo upravit síťové pakety.</string>
@@ -869,6 +946,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_writeSms">Umožňuje aplikaci zapisování do zpráv SMS uložených v telefonu nebo na SIM kartě. Škodlivé aplikace mohou vaše zprávy smazat.</string>
   <string name="permdesc_writeSocialStream">Umožňuje aplikaci zobrazit sociální aktualizace od vašich přátel. Při sdílení informací buďte opatrní – aplikace s tímto oprávněním může vytvářet zprávy, které zdánlivě pochází od vašich přátel. Poznámka: Toto oprávnění nemusí platit pro všechny sociální sítě.</string>
   <string name="permdesc_writeSyncSettings">Umožňuje aplikaci změnit nastavení synchronizace v účtu. Pomocí tohoto oprávnění lze například zapnout synchronizaci aplikace Lidé s účtem.</string>
+  <string name="permdesc_writeVoicemail">Povoluje aplikaci upravit a odebrat zprávy z hlasové schránky.</string>
   <string name="permgroupdesc_accessibilityFeatures">Funkce, o které může asistenční technologie požádat.</string>
   <string name="permgroupdesc_accounts">Přístup k dostupným účtům.</string>
   <string name="permgroupdesc_affectsBattery">Používání funkcí, které mohou rychle vyčerpat baterii</string>
@@ -931,12 +1009,16 @@ Zkuste to znovu za %d s."</string>
   <string name="permgrouplab_voicemail">Hlasová schránka</string>
   <string name="permgrouplab_wallpaper">Tapeta</string>
   <string name="permgrouplab_writeDictionary">Zápis do uživatelského slovníku</string>
+  <string name="permission">Povolenie</string>
+  <string name="permission_remember_choice">Viac sa nepýtať</string>
   <string name="permission_request_notification_title">Požadováno oprávnění</string>
   <string name="permission_request_notification_with_subtitle">"Požadováno oprávnění
 pro účet %s."</string>
   <string name="permlab_accessCoarseLocation">přibližná poloha (pomocí sítě)</string>
   <string name="permlab_accessContentProvidersExternally">externí přístup k poskytovatelům obsahu</string>
+  <string name="permlab_accessDrmCertificates">přístup k certifikátům DRM</string>
   <string name="permlab_accessFineLocation">přesná poloha (pomocí GPS a sítě)</string>
+  <string name="permlab_accessInputFlinger">přístup k funkci InputFlinger</string>
   <string name="permlab_accessLocationExtraCommands">přístup k dalším příkazům poskytovatele polohy</string>
   <string name="permlab_accessMockLocation">simulace zdrojů polohy pro účely testování</string>
   <string name="permlab_accessMtp">implementace protokolu MTP</string>
@@ -959,9 +1041,12 @@ pro účet %s."</string>
   <string name="permlab_backup">ovládání zálohování a obnovy systému</string>
   <string name="permlab_batteryStats">čtení statistických údajů o baterii</string>
   <string name="permlab_bindAccessibilityService">navázat se na službu usnadnění přístupu</string>
+  <string name="permlab_bindConditionProviderService">navázání na službu poskytovatele podmínky</string>
   <string name="permlab_bindDeviceAdmin">komunikovat se správcem zařízení</string>
+  <string name="permlab_bindDreamService">navázat se na službu spořiče</string>
   <string name="permlab_bindGadget">zvolit widgety</string>
   <string name="permlab_bindInputMethod">vazba k metodě zadávání dat</string>
+  <string name="permlab_bindJobService">spustit naplánovanou práci aplikace na pozadí</string>
   <string name="permlab_bindNfcService">navázat se na službu NFC</string>
   <string name="permlab_bindNotificationListenerService">navázání na službu pro poslouchání oznámení</string>
   <string name="permlab_bindPackageVerifier">navázat na ověřovatele balíčků</string>
@@ -970,14 +1055,21 @@ pro účet %s."</string>
   <string name="permlab_bindRemoteDisplay">připojit se ke vzdálenému displeji</string>
   <string name="permlab_bindRemoteViews">navázat se na službu widgetu</string>
   <string name="permlab_bindTextService">navázat se na textovou službu</string>
+  <string name="permlab_bindTvInput">navázání na televizní vstup</string>
+  <string name="permlab_bindVoiceInteraction">navázání na hlasovou interakci</string>
   <string name="permlab_bindVpnService">navázat se na službu VPN</string>
   <string name="permlab_bindWallpaper">vazba na tapetu</string>
-  <string name="permlab_bind_call_service">interakce s obrazovkou příchozího hovoru</string>
+  <string name="permlab_bind_connection_service">komunikace s telefonními službami</string>
+  <string name="permlab_bind_incall_service">interakce s obrazovkou příchozího hovoru</string>
+  <string name="permlab_bind_trust_agent_service">Vázat se na službu agent důvěry</string>
   <string name="permlab_bluetooth">párování se zařízeními Bluetooth</string>
   <string name="permlab_bluetoothAdmin">přístup do nastavení Bluetooth</string>
+  <string name="permlab_bluetoothMap">přístup k datům Bluetooth MAP</string>
   <string name="permlab_bluetoothPriv">povolit párování Bluetooth prostřednictvím aplikace</string>
+  <string name="permlab_bodySensors">tělesné senzory (například snímače tepu)</string>
   <string name="permlab_brick">trvalé vypnutí telefonu</string>
   <string name="permlab_broadcastPackageRemoved">odeslání vysílání o odstranění balíčku</string>
+  <string name="permlab_broadcastScoreNetworks">send score networks broadcast</string>
   <string name="permlab_broadcastSmsReceived">odeslání vysílání o přijaté zprávě SMS</string>
   <string name="permlab_broadcastSticky">odeslání trvalého vysílání</string>
   <string name="permlab_broadcastWapPush">odeslání vysílání typu WAP-PUSH-received</string>
@@ -1004,6 +1096,7 @@ pro účet %s."</string>
   <string name="permlab_configureWifiDisplay">konfigurovat displeje přes Wi-Fi</string>
   <string name="permlab_confirm_full_backup">potvrzení operace úplné zálohy nebo úplného obnovení</string>
   <string name="permlab_controlWifiDisplay">ovládat displeje přes Wi-Fi</string>
+  <string name="permlab_control_incall_experience">zobrazení uživatelského prostředí během hovoru</string>
   <string name="permlab_control_keyguard">Ovládání zobrazování a skrývání zámku obrazovky</string>
   <string name="permlab_copyProtectedData">kopírování obsahu</string>
   <string name="permlab_createNetworkSockets">úplný přístup k síti</string>
@@ -1020,6 +1113,7 @@ pro účet %s."</string>
   <string name="permlab_flashlight">ovládání kontrolky</string>
   <string name="permlab_forceBack">vynucení zavření aplikace</string>
   <string name="permlab_forceStopPackages">vynucení zastavení jiných aplikací</string>
+  <string name="permlab_frameStats">načíst statistiky rámců</string>
   <string name="permlab_freezeScreen">zmrazit obrazovku</string>
   <string name="permlab_getAccounts">vyhledávání účtů v zařízení</string>
   <string name="permlab_getAppOpsStats">načtení statistik operací aplikace</string>
@@ -1028,6 +1122,7 @@ pro účet %s."</string>
   <string name="permlab_getTasks">načtení spuštěných aplikací</string>
   <string name="permlab_getTopActivityInfo">získat informace o aktuální aplikaci</string>
   <string name="permlab_grantRevokePermissions">udělení nebo odebrání oprávnění</string>
+  <string name="permlab_handoverStatus">Příjem stavu přenosů Android Beam</string>
   <string name="permlab_hardware_test">testování hardwaru</string>
   <string name="permlab_injectEvents">používání kláves a tlačítek</string>
   <string name="permlab_installLocationProvider">oprávnění k instalaci poskytovatele polohy</string>
@@ -1038,23 +1133,26 @@ pro účet %s."</string>
   <string name="permlab_internalSystemWindow">zobrazení nepovolených oken</string>
   <string name="permlab_invokeCarrierSetup">vyvolat konfigurační aplikaci poskytnutou operátorem</string>
   <string name="permlab_killBackgroundProcesses">zavření ostatních aplikací</string>
+  <string name="permlab_launch_trust_agent_settings">Spustit nabídku nastavení agenta důvěry</string>
   <string name="permlab_locationUpdates">ovládání oznámení o aktualizaci polohy</string>
-  <string name="permlab_magnify_display">zvětšit zobrazení</string>
   <string name="permlab_manageAccounts">přidávání nebo odebírání účtů</string>
   <string name="permlab_manageActivityStacks">spravovat zásobníky aktivit</string>
   <string name="permlab_manageAppTokens">správa aplikačních tokenů</string>
   <string name="permlab_manageCaCertificates">správa důvěryhodných identifikačních údajů</string>
   <string name="permlab_manageDeviceAdmins">přidat nebo odebrat správce zařízení</string>
   <string name="permlab_manageDocs">spravovat úložiště dokumentů</string>
+  <string name="permlab_manageMediaProjection">Správa relací promítání médií</string>
   <string name="permlab_manageNetworkPolicy">spravovat zásady sítě</string>
   <string name="permlab_manageUsb">spravovat nastavení a oprávnění pro zařízení USB</string>
   <string name="permlab_manageUsers">správa uživatelů</string>
-  <string name="permlab_markNetworkSocket">upravit značky soketů</string>
+  <string name="permlab_manageVoiceKeyphrases">správa klíčových hlasových frází</string>
   <string name="permlab_masterClear">obnovení továrního nastavení systému</string>
   <string name="permlab_mediaContentControl">řízení přehrávání médií a přístup k metadatům</string>
   <string name="permlab_mediaStorageWrite">Upravit/smazat interní úlož.</string>
+  <string name="permlab_modifyAudioRouting">Směrování zvuku</string>
   <string name="permlab_modifyAudioSettings">změna nastavení zvuku</string>
   <string name="permlab_modifyNetworkAccounting">upravit kontrolu používání sítě</string>
+  <string name="permlab_modifyParentalControls">úprava rodičovské kontroly</string>
   <string name="permlab_modifyPhoneState">změna stavu telefonu</string>
   <string name="permlab_mount_format_filesystems">smazání úložiště USB</string>
   <string name="permlab_mount_unmount_filesystems">přístup k systému souborů v úložišti USB</string>
@@ -1065,6 +1163,7 @@ pro účet %s."</string>
   <string name="permlab_persistentActivity">trvalé spuštění aplikace</string>
   <string name="permlab_pkgUsageStats">aktualizovat statistiku použití součástí</string>
   <string name="permlab_processOutgoingCalls">přesměrování odchozích hovorů</string>
+  <string name="permlab_provide_trust_agent">Poskytovat agenta důvěry</string>
   <string name="permlab_readCalendar">čtení událostí kalendáře a důvěrné informace</string>
   <string name="permlab_readCallLog">čtení seznamu hovorů</string>
   <string name="permlab_readCellBroadcasts">čtení zpráv informační služby</string>
@@ -1073,27 +1172,34 @@ pro účet %s."</string>
   <string name="permlab_readFrameBuffer">čtení vyrovnávací paměti snímků</string>
   <string name="permlab_readHistoryBookmarks">čtení webových záložek a historie</string>
   <string name="permlab_readInputState">zaznamenání psaného textu a prováděných činností</string>
+  <string name="permlab_readInstallSessions">Čtení instalačních relací</string>
   <string name="permlab_readLogs">čtení citlivých dat v protokolech</string>
   <string name="permlab_readNetworkUsageHistory">číst využití sítě v historii</string>
   <string name="permlab_readPhoneState">čtení stavu a identity telefonu</string>
+  <string name="permlab_readPrecisePhoneState">čtení přesného stavu telefonování</string>
   <string name="permlab_readProfile">čtení vaší vlastní vizitky</string>
   <string name="permlab_readSms">čtení textových zpráv (SMS nebo MMS)</string>
   <string name="permlab_readSocialStream">čtení vašeho sociálního streamu</string>
   <string name="permlab_readSyncSettings">čtení nastavení synchronizace</string>
   <string name="permlab_readSyncStats">čtení statistických údajů o synchronizaci</string>
+  <string name="permlab_readVoicemail">čtení hlasových zpráv</string>
   <string name="permlab_reboot">vynucení restartování telefonu</string>
+  <string name="permlab_receiveBluetoothMap">příjem zpráv Bluetooth (MAP)</string>
   <string name="permlab_receiveBootCompleted">spuštění při startu</string>
   <string name="permlab_receiveEmergencyBroadcast">příjem nouzového vysílání</string>
   <string name="permlab_receiveMms">příjem textových zpráv (MMS)</string>
   <string name="permlab_receiveSms">příjem textových zpráv (SMS)</string>
   <string name="permlab_receiveWapPush">příjem textových zpráv (WAP)</string>
   <string name="permlab_recordAudio">nahrávání zvuku</string>
+  <string name="permlab_recovery">Interakce se systémem aktualizací a obnovení</string>
+  <string name="permlab_removeDrmCertificates">odstranění certifikátů DRM</string>
   <string name="permlab_removeTasks">zastavení činnosti aplikací</string>
   <string name="permlab_reorderTasks">změna uspořádání spuštěných aplikací</string>
+  <string name="permlab_retrieveWindowToken">načíst token okna</string>
   <string name="permlab_retrieve_window_content">načtení obsahu obrazovky</string>
-  <string name="permlab_retrieve_window_info">načítání informací o oknech</string>
   <string name="permlab_route_media_output">Směrování výstupu médií</string>
   <string name="permlab_runSetActivityWatcher">sledování a řízení spouštění všech aplikací</string>
+  <string name="permlab_scoreNetworks">zadání skóre sítí</string>
   <string name="permlab_sdcardAccessAll">přístup k externímu úložišti všech uživatelů</string>
   <string name="permlab_sdcardRead">čtení obsahu v úložišti USB</string>
   <string name="permlab_sdcardWrite">úprava nebo mazání obsahu v úložišti USB</string>
@@ -1104,6 +1210,7 @@ pro účet %s."</string>
   <string name="permlab_setAlwaysFinish">vynucení zavření aplikací na pozadí</string>
   <string name="permlab_setAnimationScale">změna globální rychlosti animace</string>
   <string name="permlab_setDebugApp">povolení ladění aplikací</string>
+  <string name="permlab_setInputCalibration">měnit kalibraci vstupního zařízení</string>
   <string name="permlab_setKeyboardLayout">změnit rozložení klávesnice</string>
   <string name="permlab_setOrientation">změna orientace obrazovky</string>
   <string name="permlab_setPointerSpeed">změna rychlosti kurzoru</string>
@@ -1116,7 +1223,9 @@ pro účet %s."</string>
   <string name="permlab_setWallpaperHints">úprava velikosti tapety</string>
   <string name="permlab_shutdown">částečné vypnutí</string>
   <string name="permlab_signalPersistentProcesses">odeslání signálů systému Linux aplikacím</string>
+  <string name="permlab_sim_communication">komunikace s kartou SIM</string>
   <string name="permlab_startAnyActivity">zahájení libovolné činnosti</string>
+  <string name="permlab_startTasksFromRecents">spuštění úlohy ze seznamu posledních úloh</string>
   <string name="permlab_statusBar">zakázání či změny stavového řádku</string>
   <string name="permlab_statusBarService">stavový řádek</string>
   <string name="permlab_stopAppSwitches">zabránění přepínání aplikací</string>
@@ -1125,12 +1234,14 @@ pro účet %s."</string>
   <string name="permlab_systemAlertWindow">vykreslení přes další aplikace</string>
   <string name="permlab_temporary_enable_accessibility">dočasná aktivace usnadnění přístupu</string>
   <string name="permlab_transmitIr">Infračervený přenos</string>
+  <string name="permlab_trust_listener">Naslouchat změnám stavu důvěryhodnosti</string>
   <string name="permlab_uninstall_shortcut">odinstalace zástupců</string>
   <string name="permlab_updateAppOpsStats">upravit statistiky operací aplikace</string>
   <string name="permlab_updateBatteryStats">změna statistických údajů o baterii</string>
   <string name="permlab_updateLock">varovat před automatickou aktualizací</string>
   <string name="permlab_useCredentials">používání účtů v zařízení</string>
   <string name="permlab_use_sip">uskutečňovat a přijímat internetové hovory</string>
+  <string name="permlab_userActivity">resetování časového limitu displeje</string>
   <string name="permlab_vibrate">ovládání vibrací</string>
   <string name="permlab_wakeLock">bránění přechodu telefonu do režimu spánku</string>
   <string name="permlab_writeApnSettings">měnit/zachytávat nastavení sítě a síťové přenosy</string>
@@ -1147,6 +1258,7 @@ pro účet %s."</string>
   <string name="permlab_writeSms">úprava textových zpráv (SMS nebo MMS)</string>
   <string name="permlab_writeSocialStream">zápis do sociálního streamu</string>
   <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
+  <string name="permlab_writeVoicemail">zápis do hlasové schránky</string>
   <string name="perms_description_app">Poskytuje: %1$s.</string>
   <string name="perms_new_perm_prefix">" "Nové" "</string>
   <string name="petabyteShort">PB</string>
@@ -1204,13 +1316,15 @@ pro účet %s."</string>
   <string name="print_service_installed_message">Klepnutím povolíte</string>
   <string name="print_service_installed_title">Služba %s byla nainstalována</string>
   <string name="progress_erasing">Mazání úložiště USB...</string>
+  <string name="progress_nomediapresent">Žádné připojené úložiště...</string>
   <string name="progress_unmounting">Odpojování úložiště USB...</string>
+  <string name="quick_contacts_not_available">Nebyla nalezena žádná aplikace, pomocí které by tento kontakt bylo možné zobrazit.</string>
   <string name="reason_service_unavailable">Tisková služba není povolena</string>
   <string name="reason_unknown">neznámé</string>
   <string name="reboot_confirm">Telefon se restartuje</string>
-  <string name="reboot_progress">Restartování...</string>
   <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
   <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
+  <string name="reboot_title">Restart</string>
   <string name="recent_tasks_title">Nejnovější</string>
   <string name="relationTypeAssistant">Asistent</string>
   <string name="relationTypeBrother">Bratr</string>
@@ -1263,6 +1377,7 @@ pro účet %s."</string>
   <string name="roamingTextSearching">Vyhledávání služby</string>
   <string name="safeMode">Nouzový režim</string>
   <string name="safe_media_volume_warning">"Zvýšit hlasitost nad doporučenou úroveň?
+
 Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="save_password_label">Potvrdit</string>
   <string name="save_password_message">Chcete, aby si prohlížeč zapamatoval toto heslo?</string>
@@ -1284,9 +1399,13 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="selectAll">Vše</string>
   <string name="selectTextMode">Vybrat text</string>
   <string name="select_character">Vkládání znaků</string>
+  <string name="select_day">Vyberte měsíc a den</string>
+  <string name="select_hours">Zvolte hodiny</string>
   <string name="select_input_method">Vybrat metodu zadávání</string>
   <string name="select_keyboard_layout_notification_message">Dotykem vyberte rozložení klávesnice.</string>
   <string name="select_keyboard_layout_notification_title">Výběr rozložení klávesnice</string>
+  <string name="select_minutes">Zvolte minuty</string>
+  <string name="select_year">Vyberte rok</string>
   <string name="sendText">Vyberte akci pro text</string>
   <string name="sending">Odesílání...</string>
   <string name="serial_number">Sériové číslo:</string>
@@ -1311,6 +1430,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="share_action_provider_share_with">Sdílet s</string>
   <string name="shareactionprovider_share_with">Sdílet s</string>
   <string name="shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+  <string name="show_ime">Zobrazit metodu zadávání</string>
   <string name="shutdown_confirm">Váš telefon bude vypnut.</string>
   <string name="shutdown_confirm_question">Chcete zařízení vypnout?</string>
   <string name="shutdown_progress">Vypínání...</string>
@@ -1350,8 +1470,15 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="ssl_certificate">Certifikát zabezpečení</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Interní úložiště</string>
   <string name="storage_sd_card">SD karta</string>
+  <string name="storage_uicc">UICC storage</string>
   <string name="storage_usb">Úložiště USB</string>
   <string name="submit">Odeslat</string>
   <string name="sync_binding_label">Synchronizace</string>
@@ -1362,13 +1489,12 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sync_undo_deletes">Vrátit mazání zpět</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotykem nastavíte.</string>
+  <string name="tethered_notification_multi_device_message">Připojených: %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikdo není připojen</string>
+  <string name="tethered_notification_one_device_message">Připojených: %1$s</string>
   <string name="tethered_notification_title">Je aktivní tethering nebo hotspot</string>
   <string name="textSelectionCABTitle">Výběr textu</string>
   <string name="text_copied">Text byl zkopírován do schránky.</string>
-  <string name="throttle_warning_notification_message">Dotykem zobrazíte další informace o využití mobilních dat.</string>
-  <string name="throttle_warning_notification_title">Vysoké využití mobilních dat</string>
-  <string name="throttled_notification_message">Dotykem zobrazíte další informace o využití mobilních dat.</string>
-  <string name="throttled_notification_title">Byl překročen limit mobilních dat</string>
   <string name="time_of_day" formatted="false">%-k:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Ubrat hodinu</string>
   <string name="time_picker_decrement_minute_button">Ubrat minutu</string>
@@ -1385,6 +1511,8 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="upload_file">Zvolit soubor</string>
   <string name="usb_accessory_notification_title">Připojeno k perifernímu zařízení USB</string>
   <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>
+  <string name="usb_charging_notification_title">Připojeno v režimu nabíjení</string>
+  <string name="usb_choose_notification_title">Dotykem změníte USB připojení.</string>
   <string name="usb_mtp_notification_title">Připojeno jako mediální zařízení</string>
   <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
   <string name="usb_ptp_notification_title">Připojeno jako fotoaparát</string>
@@ -1401,8 +1529,10 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="usb_storage_stop_notification_title">Vypnout úložiště USB</string>
   <string name="usb_storage_stop_title">Úložiště USB je používáno</string>
   <string name="usb_storage_title">USB připojeno</string>
-  <string name="use_physical_keyboard">Fyzická klávesnice</string>
+  <string name="use_a_different_app">Použít jinou aplikaci</string>
+  <string name="user_owner_label">Osobní aplikace</string>
   <string name="user_switched">Aktuální uživatel je %1$s.</string>
+  <string name="user_switching_message">Přepínání na účet %1$s…</string>
   <string name="validity_period">Platnost:</string>
   <string name="volume_alarm">Hlasitost budíku</string>
   <string name="volume_bluetooth_call">Hlasitost příchozích hovorů při připojení Bluetooth</string>
@@ -1428,54 +1558,24 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="vpn_title_long">Aplikace %s aktivovala síť VPN</string>
   <string name="wait">Počkat</string>
   <string name="wallpaper_binding_label">Tapeta</string>
+  <string name="web_user_agent_target_content">"Mobile "</string>
   <string name="webpage_unresponsive">"Stránka nereaguje.
 
 Chcete ji zavřít?"</string>
   <string name="websearch">Vyhledat</string>
-  <string name="webviewchromium_accessibility_content_view">Webové zobrazení</string>
-  <string name="webviewchromium_accessibility_date_picker_month">Měsíc</string>
-  <string name="webviewchromium_accessibility_date_picker_week">Týden</string>
-  <string name="webviewchromium_accessibility_date_picker_year">Rok</string>
-  <string name="webviewchromium_accessibility_datetime_picker_date">Datum</string>
-  <string name="webviewchromium_accessibility_datetime_picker_time">Čas</string>
-  <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
-  <string name="webviewchromium_accessibility_time_picker_hour">Hodina</string>
-  <string name="webviewchromium_accessibility_time_picker_milli">Milisekunda</string>
-  <string name="webviewchromium_accessibility_time_picker_minute">Minuta</string>
-  <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
-  <string name="webviewchromium_actionbar_share">Sdílet</string>
-  <string name="webviewchromium_actionbar_web_search">Vyhledávání</string>
-  <string name="webviewchromium_color_picker_button_cancel">Zrušit</string>
-  <string name="webviewchromium_color_picker_button_more">Více</string>
-  <string name="webviewchromium_color_picker_button_set">Nastavit</string>
-  <string name="webviewchromium_color_picker_dialog_title">Výběr barvy</string>
-  <string name="webviewchromium_color_picker_hue">Odstín</string>
-  <string name="webviewchromium_color_picker_saturation">Sytost</string>
-  <string name="webviewchromium_color_picker_value">Hodnota</string>
-  <string name="webviewchromium_date_picker_dialog_clear">Vymazat</string>
-  <string name="webviewchromium_date_picker_dialog_set">Nastavit</string>
-  <string name="webviewchromium_date_picker_dialog_title">Nastavení data</string>
-  <string name="webviewchromium_date_time_picker_dialog_title">Nastavení data a času</string>
-  <string name="webviewchromium_low_memory_error">Předchozí operaci se nepodařilo dokončit z důvodu nedostatku paměti.</string>
-  <string name="webviewchromium_media_player_error_button">OK</string>
-  <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Omlouváme se, ale toto video nelze streamovat do tohoto zařízení.</string>
-  <string name="webviewchromium_media_player_error_text_unknown">Toto video bohužel nelze přehrát.</string>
-  <string name="webviewchromium_media_player_error_title">Video nelze přehrát</string>
-  <string name="webviewchromium_media_player_loading_video">Načítání videa</string>
-  <string name="webviewchromium_month_picker_dialog_title">Nastavení měsíce</string>
-  <string name="webviewchromium_opening_file_error">Vybraný soubor nelze otevřít</string>
-  <string name="webviewchromium_private_browsing_warning">Tuto funkci daná verze systému Android nepodporuje.</string>
-  <string name="webviewchromium_week_picker_dialog_title">Nastavení týdne</string>
   <string name="week">týden</string>
   <string name="weeks">týd.</string>
   <string name="whichApplication">Dokončit akci pomocí aplikace</string>
+  <string name="whichApplicationNamed">Dokončit akci pomocí aplikace %1$s</string>
+  <string name="whichEditApplication">Upravit v aplikaci</string>
+  <string name="whichEditApplicationNamed">Upravit v aplikaci %1$s</string>
   <string name="whichHomeApplication">Vyberte domovskou aplikaci</string>
+  <string name="whichHomeApplicationNamed">Jako plochu používat aplikaci %1$s.</string>
+  <string name="whichSendApplication">Sdílet v aplikaci</string>
+  <string name="whichSendApplicationNamed">Sdílet v aplikaci %1$s</string>
+  <string name="whichViewApplication">Otevřít v aplikaci</string>
+  <string name="whichViewApplicationNamed">Otevřít v aplikaci %1$s</string>
   <string name="wifi_available_sign_in">Přihlásit se k síti Wi-Fi</string>
-  <string name="wifi_display_notification_connected_message">Připojeno k obrazovce %1$s</string>
-  <string name="wifi_display_notification_connected_title">Odesílání obsahu obrazovky</string>
-  <string name="wifi_display_notification_connecting_message">Připojování k obrazovce %1$s</string>
-  <string name="wifi_display_notification_connecting_title">Odesílání obsahu obrazovky</string>
-  <string name="wifi_display_notification_disconnect">Odpojit</string>
   <string name="wifi_p2p_dialog_title">Přímé připojení sítě Wi-Fi</string>
   <string name="wifi_p2p_enabled_notification_message">Nastavení otevřete dotykem</string>
   <string name="wifi_p2p_enabled_notification_title">Přímé připojení sítě Wi-Fi je zapnuto</string>
@@ -1488,12 +1588,15 @@ Chcete ji zavřít?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Komu:</string>
   <string name="wifi_p2p_turnon_message">Spustit přímé připojení sítě Wi-Fi. Tato možnost vypne provoz sítě Wi-Fi v režimu klient/hotspot.</string>
+  <string name="wifi_tether_configure_ssid_default">Xiaomi-AP</string>
   <string name="wifi_watchdog_network_disabled">Připojení k síti Wi-Fi se nezdařilo</string>
   <string name="wifi_watchdog_network_disabled_detailed">" má pomalé připojení k internetu."</string>
   <string name="wireless_display_route_description">Bezdrátový displej</string>
   <string name="write_fail_reason_cancelled">Zrušeno</string>
   <string name="write_fail_reason_cannot_write">Při zápisu obsahu došlo k chybě</string>
   <string name="year">rokem</string>
+  <string name="year_picker_description">Seznam roků</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
+  <string name="zen_mode_forever">Na dobu neurčitou</string>
 </resources>

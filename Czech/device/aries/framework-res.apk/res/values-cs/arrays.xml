@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
     <string-array name="emailAddressTypes">
         <item>Domů</item>
@@ -46,42 +45,65 @@
         <item>Vlastní</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o použití vibrací</item>
-        <item>Pokus o čtení kontaktů</item>
-        <item>Pokus o úpravu kontaktů</item>
-        <item>Pokus o čtení záznamu o volání</item>
-        <item>Pokus o úpravu záznamu o volání</item>
-        <item>Pokus o čtení kalendáře</item>
-        <item>Pokus o úpravu kalendáře</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o notifikace</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o hovor</item>
-        <item>Pokus o čtení SMS</item>
-        <item>Pokus o psaní/úpravu SMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o přijetí MMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o odeslání SMS</item>
-        <item>Pokus o čtení SMS</item>
-        <item>Pokus o psaní/úpravu SMS</item>
-        <item>Pokus o změnu nastavení</item>
-        <item>Pokus o draw on top</item>
-        <item>Pokus o přístup k notifikacím</item>
-        <item>Pokus o přístup k fotoaparátu</item>
-        <item>Pokus o nahrávání zvuku</item>
-        <item>Pokus o přehrání zvuku</item>
-        <item>Pokus o čtení schránky</item>
-        <item>Pokus o úpravu schránky</item>
-        <item>Pokus o zap./vyp. Wi-Fi</item>
-        <item>Pokus o zap./vyp. bluetooth</item>
-        <item>Pokus o zap./vyp. mobilních dat</item>
-        <item>Pokus o odeslání MMS</item>
-        <item>Pokus o čtení MMS</item>
-        <item>Pokus o psaní MMS</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrace</item>
+        <item>Čtení kontaktů</item>
+        <item>Úprava kontaktů</item>
+        <item>Čtení seznamu hovorů</item>
+        <item>Úprava seznamu hovorů</item>
+        <item>Čtení kalendáře</item>
+        <item>Úprava kalendáře</item>
+        <item>Poloha</item>
+        <item>Upozornění na příspěvek</item>
+        <item>Poloha</item>
+        <item>Volání na telefon</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Odesílání SMS/MMS</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslení navrch</item>
+        <item>Přístup k oznámením</item>
+        <item>Fotoaparát</item>
+        <item>Nahrávání zvuku</item>
+        <item>Přehrávání zvuku</item>
+        <item>Číst obsah schránky</item>
+        <item>Upravit obsah schránky</item>
+        <item>Tlačítka médií</item>
+        <item>Zaměření zvuku</item>
+        <item>Hlavní hlasitost</item>
+        <item>Hlasitost hlasu</item>
+        <item>Hlasitost vyzvánění</item>
+        <item>Hlasitost médií</item>
+        <item>Hlasitost budíku</item>
+        <item>Hlasitost oznámení</item>
+        <item>Hlasitost Bluetooth</item>
+        <item>Zakázat režim spánku</item>
+        <item>Poloha</item>
+        <item>Určování polohy</item>
+        <item>Načíst statistiky využití</item>
+        <item>Vypnout nebo zapnout zvuk mikrofonu</item>
+        <item>Vyskakovací okna</item>
+        <item>Odesílat média</item>
+        <item>Aktivovat VPN</item>
+        <item>Změnit Wi-Fi</item>
+        <item>Změnit Bluetooth</item>
+        <item>Odeslat MMS</item>
+        <item>Číst MMS</item>
+        <item>Psát MMS</item>
+        <item>Auto. spuštění</item>
+        <item>Změnit NFC</item>
+        <item>Vymazat SMS</item>
+        <item>Vymazat MMS</item>
+        <item>Vymazat kontakty</item>
+        <item>Vymazat seznam hovorů</item>
+        <item>Změnit 2G/3G</item>
     </string-array>
 </resources>
