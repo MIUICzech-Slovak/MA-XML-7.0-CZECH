@@ -4,7 +4,7 @@
     <string-array name="emailAddressTypes">
         <item>Domů</item>
         <item>Práce</item>
-        <item>(další)</item>
+        <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
     <string-array name="imProtocols">
