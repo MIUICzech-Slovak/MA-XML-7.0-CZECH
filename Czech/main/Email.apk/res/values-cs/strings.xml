@@ -904,4 +904,5 @@ Velikost aplikace: %2$s"</string>
   <string name="open_proxy_in_settings">Gmail není dostupný ve vaší lokalitě. Je možné odesílat a přijímat zprávy pomocí proxy serveru. Toto nastavení můžete změnit v nastavení e-mailu.</string>
   <string name="upload_log_yes">Odeslat</string>
   <string name="upload_log_no">Zrušit</string>
+  <string name="download_before_view">Tato zpráva nebyla stažena.</string>
 </resources>

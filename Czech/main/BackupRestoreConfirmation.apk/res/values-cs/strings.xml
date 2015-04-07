@@ -24,4 +24,5 @@ Pokud jste o obnovení nepožádali Vy, operaci nepovolujte. Vymažou se všechn
   <string name="toast_restore_ended">Obnovení skončilo</string>
   <string name="toast_restore_started">Probíhá obnovování...</string>
   <string name="toast_timeout">Časový limit operace vypršel</string>
+  <string name="backup_enc_password_required">Protože je vaše zařízení šifrováno, musíte zašifrovat i svoji zálohu. Zadejte heslo níže:</string>
 </resources>

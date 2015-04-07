@@ -178,4 +178,10 @@
   <string name="upload_succ_line5">Soubor byl odeslán</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odeslání dokončeno.</string>
+  <string name="airplane_can_not_share">V režimu Letadlo nelze použít Bluetooth pro sdílení souborů.</string>
+  <string name="bluetooth_in_airplane_mode">V režimu Letadlo</string>
+  <string name="incoming_line1">Od</string>
+  <string name="incoming_line2">Název souboru</string>
+  <string name="incoming_line3">Velikost</string>
+  <string name="upload_fail_waiting">Připravuje se soubor na odeslání.</string>
 </resources>

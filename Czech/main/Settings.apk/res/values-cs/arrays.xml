@@ -555,21 +555,6 @@ Postupujte dle pokynů"</item>
         <item>@string/msd_install_retry_connect</item>
         <item>Preinštalovať MiPhoneManager.</item>
     </array>
-    <string-array name="change_security_lock_picker">
-        <item>Odblokování tváří</item>
-        <item>Vzor</item>
-        <item>PIN</item>
-        <item>Heslo</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Přirozené</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Krátká prodleva</item>
-        <item>Standard</item>
-        <item>Lepší kvalita</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Použijte nástroj pro instalaci \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
         <item>Vytvořte složku \"mkdir\" /media/mtp</item>
@@ -579,19 +564,49 @@ Postupujte dle pokynů"</item>
         <item>"Odinstalace zařízení fusermount -u /media/mtp
  Poznámka: Pro Ubuntu 8.04"</item>
     </string-array>
-    <string-array name="network_speed_slow_summary">
-    	<item>Síť je pomalá z důvodu jejího přetížení</item>
-    	<item>Síť je pomalá z důvodu slabého signálu</item>
-    	<item>Přesouvání...</item>
+    <string-array name="screen_color_title">
+        <item>Teplé barvy</item>
+        <item>Přirozené barvy</item>
+        <item>Studené barvy</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilliant</item>
+        <item>Standard</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Povolit</item>
         <item>Zeptat se</item>
         <item>Zakázat</item>
     </string-array>
+    <string-array name="startup_hips_action">
+        <item>Povolit</item>
+        <item>Zakázat</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Přirozené</item>
+    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Jedním mikrofonem</item>
         <item>Dvěma mikrofony</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Odblokování tváří</item>
+        <item>Vzor</item>
+        <item>PIN</item>
+        <item>Heslo</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automaticky připojit</item>
+        <item>Manuálně připojit</item>
+        <item>Vždy se zeptat</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>Bez omezení</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -603,34 +618,19 @@ Postupujte dle pokynů"</item>
         <item>Hudba</item>
         <item>Email</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Síť je pomalá z důvodu přetížení</item>
+        <item>Síť je pomalá z důvodu slabého signálu</item>
+        <item>Přesouvání...</item>
+    </string-array>
     <string-array name="priority_storage_entries">
-        <item>Interní úložiště</item>
-        <item>Externí úložiště</item>
+        <item>Interné úložiště</item>
+        <item>Externé úložiště</item>
     </string-array>
-    <string-array name="screen_color_title">
-        <item>Teplé barvy</item>
-        <item>Přirozené barvy</item>
-        <item>Studené barvy</item>
-    </string-array>
-    <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
+    <string-array name="miracast_policies">
+        <item>Krátké zpoždění</item>
         <item>Standard</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minut</item>
-        <item>15 minut</item>
-        <item>30 minut</item>
-        <item>1 hodina</item>
-        <item>Bez omezení</item>
-    </string-array>
-     <string-array name="startup_hips_action">
-        <item>Povolit</item>
-        <item>Zakázat</item>
-    </string-array>
-    <string-array name="wifi_connect_type_entries">
-        <item>Automaticky připojit</item>
-        <item>Manuálně připojit</item>
-        <item>Vždy se zeptat</item>
+        <item>Lepší kvalita</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Zobrazit naposledy spuštěné apl.</item>

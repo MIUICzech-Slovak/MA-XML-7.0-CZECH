@@ -65,4 +65,8 @@
         <item quantity="other">Počet kroků do nahlášení chyby: %1$d.</item>
         <item quantity="one">Počet kroků do nahlášení chyby: %1$d.</item>
     </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Počet aplikací poskytující podmínky: %d</item>
+        <item quantity="one">%d aplikace poskytuje podmínky</item>
+    </plurals>
 </resources>

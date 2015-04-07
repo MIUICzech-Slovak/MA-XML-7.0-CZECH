@@ -317,4 +317,5 @@
   <string name="sync_notice_ok">Povolit</string>
   <string name="sync_notice_ok_toast_message">Lokálně uložené události budou synchronizovány s MiCloud</string>
   <string name="sync_notice_title">Synchronizace</string>
+  <string name="action_label">Další</string>
 </resources>

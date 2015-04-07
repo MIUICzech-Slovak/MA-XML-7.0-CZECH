@@ -283,4 +283,6 @@ Vyplňte jej prosím následující úterý"</string>
 Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
   <string name="recovery_failed_title">Aktualizace selhala</string>
+  <string name="particular_build">Speciální</string>
+  <string name="reboot">Restart</string>
 </resources>
