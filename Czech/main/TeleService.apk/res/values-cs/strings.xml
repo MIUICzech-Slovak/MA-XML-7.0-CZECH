@@ -992,7 +992,6 @@ Může to trvat i 5 min."</string>
   <string name="menu_delete">Vymazat kontakt</string>
   <string name="menu_edit">Upravit kontakt</string>
   <string name="mismatchPin">Vámi zadané PINy se neshodují. Zkuste znovu.</string>
-  <string name="mismatchPin2">Vámi zadané PIN2 se neshodují. Zkuste znovu.</string>
   <string name="mmiCancelled">Kód MMI byl zrušen</string>
      <string name="mobile_data">"Mobilní data: "</string>
      <string name="mobile_data_off">vyp</string>
@@ -1032,7 +1031,7 @@ Může to trvat i 5 min."</string>
   <string name="onscreenSwapCallsText">Zaměnit</string>
   <string name="onscreenVideoCallText">Video hovor</string>
   <string name="pause_prompt_no">Ne</string>
-  <string name="pause_prompt_str">"Odesílání tónů"</string>
+  <string name="pause_prompt_str">"Odesílání tónů
 "</string>
   <string name="pause_prompt_yes">Ano</string>
      <string name="phone_account_settings">Nastavení účtu telefonu</string>
