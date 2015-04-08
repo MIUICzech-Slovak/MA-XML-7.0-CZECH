@@ -1123,9 +1123,9 @@ Počet zbývajících pokusů: %d."</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) z limitu %3$s pro období</string>
   <string name="throttle_help_subtext">Další informace o zásadách využití dat v mobilní síti Vašeho mobilního operátora</string>
   <string name="throttle_rate_subtext">V případě překročení limitu využití dat se přenosová rychlost sníží na %1$d kb/s</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d٪) z limitu %3$s pro období. Počet dní do začátku dalšího období: %4$d (%5$s)"</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) z limitu %3$s pro období. 
 Počet dní do začátku dalšího období: %4$d (%5$s)"</string>
-  <string name="throttle_time_frame_subtext">"Uplynulo %1$d٪ cyklu. Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
+  <string name="throttle_time_frame_subtext">"Uplynulo %1$d٪ cyklu. 
 Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
      <string name="tty_mode_not_allowed_vt_call">Změna TTY režimu není povolena během VT hovoru</string>
   <string name="updating_title">Nastavení hovorů</string>
