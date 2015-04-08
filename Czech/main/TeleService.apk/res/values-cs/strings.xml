@@ -1119,7 +1119,6 @@ Počet zbývajících pokusů: %d."</string>
   <string name="sum_fdn">Upravit Povolená telefonní čísla</string>
   <string name="sum_search_networks">Vyhledá všechny dostupné sítě</string>
   <string name="throttle_data_rate_reduced_subtext">"Byl překročen limit %1$s. Přenosová rychlost byla snížena na %2$d Kb/s"</string>
-Přenosová rychlost byla snížena na %2$d kB/s"</string>
   <string name="throttle_data_usage">Využití dat</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) z limitu %3$s pro období</string>
   <string name="throttle_help_subtext">Další informace o zásadách využití dat v mobilní síti Vašeho mobilního operátora</string>
