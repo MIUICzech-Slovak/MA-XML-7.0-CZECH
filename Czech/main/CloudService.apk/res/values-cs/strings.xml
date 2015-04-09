@@ -55,7 +55,8 @@
   <string name="find_device_disabled_title">Zjišťování polohy zařízení je vypnuté</string>
   <string name="find_device_disabling">Vypínání...</string>
   <string name="find_device_dspt">Zablokovat nebo vymazat toto zařízení na dálku.</string>
-  <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, jděte na "</string>
+  <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, můžete navštívit %s pro jeho vyhledání, zablokování nebo vymazání jeho obsahu. Tuto funkci můžete kdykoliv změnit v nastavení.
+"</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="find_device_dspt_provision_4">Pokud změníte SIM kartu, odešle se automaticky SMS zpráva pro aktivaci této funkce.</string>
@@ -66,7 +67,10 @@
   <string name="find_device_notice_p1">Navštivte</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
-  <string name="find_device_send_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
+  <string name="find_device_send_sms_alert">
+  
+  
+Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
   <string name="find_device_stop_noise">Zavřít</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
@@ -220,7 +224,7 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
   <string name="success_upgraded_space">%s přidáno</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
-  <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS nebo vyhledejte vaše zařízení.</string>
+  <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a historii hovorů. Přo přístup k zálohovaným údajům navštivte %s.</string>
   <string name="sync_dspt_entrance_provision_2">Více</string>
   <string name="sync_dspt_provision">"Synchr.
 Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "</string>
@@ -255,7 +259,7 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="upgrade_space_successful_total">Celkem %sGB</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Podmínky používání</string>
-  <string name="user_agreement_p6">"Souhlas s "</string>
+  <string name="user_agreement_p6">"Používáním souhlasíte s "</string>
   <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">Podmínky používání MiCloud</string>

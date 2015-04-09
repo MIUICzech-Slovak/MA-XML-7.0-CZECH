@@ -3569,4 +3569,22 @@ asistenta Wi-Fi"</string>
   <string name="zen_mode_when_every_night">Každou noc</string>
   <string name="zen_mode_when_never">Nikdy</string>
   <string name="zen_mode_when_weeknights">Víkendy</string>
+  <string name="country_name">%s (systém)</string>
+  <string name="install_preinstall_app">Načítání aplikací...</string>
+  <string name="locale_settings">Lokalita</string>
+  <string name="screen_paper_mode_adjust_level">Přizpůsobit čtecí režim</string>
+  <string name="screen_paper_mode_apps_loading">Načítání...</string>
+  <string name="screen_paper_mode_global_summary">Použít čtecí režim na všechny aplikace</string>
+  <string name="screen_paper_mode_global_title">Všechny aplikace</string>
+  <string name="screen_paper_mode_local_summary">Vybrat aplikace pro čtecí režim</string>
+  <string name="screen_paper_mode_local_title">Vybrané aplikace</string>
+  <string name="screen_paper_mode_range_title">Rozsah</string>
+  <string name="screen_paper_mode_set_apps_title">Vlastní čtecí režim</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Znovu se neptat</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Souhlasím</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pro aktualizaci seznamu aplikací, které mohou používat čtecí režim je nutné internetové připojení. Souhlasíte?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Podmínky používání</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizovat seznam aplikací, které mohou používat čtecí režim</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovat seznam</string>
+  <string name="skip_lock_screen_confirm_msg">Následující funkce nebudou dostupné pro zamykací obrazovku: Upozornění, fotoaparát gestem doprava a číselník gestem doleva.</string>
 </resources>
