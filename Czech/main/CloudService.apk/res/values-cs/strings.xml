@@ -310,11 +310,11 @@ To get more storage space, visit mi.com/micloud."</string>
 <string name="close_cloud_app_backup_cancel">Zrušit</string>
   <string name="close_cloud_app_backup_close">Zavřít</string>
   <string name="close_cloud_app_backup_local_backup">Zálohovat</string>
-  <string name="close_cloud_app_backup_message">Služba zálohy v MiCloud bude ukončena a vaše zálohovaná data budou vymazána 1.5.2015, zálohujte si svá data co nejdříve jiným způsobem.</string>
+  <string name="close_cloud_app_backup_message">Služba zálohy do MiCloud bude ukončena a vaše zálohovaná data budou vymazána 1.5.2015, zálohujte si svá data co nejdříve jiným způsobem.</string>
   <string name="close_cloud_app_backup_notification_message">Zobrazit více informací</string>
   <string name="close_cloud_app_backup_notification_title">Upozornění MiCloud zálohy</string>
   <string name="close_cloud_app_backup_title">Upozornění</string>
-  <string name="cloud_app_back_up_quit_notification_content1">Služba MiCloud záloha aplikací bude ukončena pro jiné aplikace, než MIUI. Všechna zálohovaná data doinstalovaných aplikací budou vymazána 1. května 2015. Pro zamezení ztráty dat doinstalovaných aplikací si zálohujte data lokálně.</string>
+  <string name="cloud_app_back_up_quit_notification_content1">Služba zálohy aplikací do MiCloud bude ukončena pro jiné aplikace, než MIUI. Všechna zálohovaná data doinstalovaných aplikací budou vymazána 1. května 2015. Pro zamezení ztráty dat doinstalovaných aplikací si zálohujte data lokálně.</string>
   <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatní MIUI aplikace budou i nadále zálohovány.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Zálohujte data aplikací</string>
 </resources>
