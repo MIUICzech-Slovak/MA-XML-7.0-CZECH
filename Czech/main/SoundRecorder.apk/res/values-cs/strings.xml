@@ -113,4 +113,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="preference_tip_rename">Zobrazit přejmenování souboru po ukončení nahrávání</string>
   <string name="record_picker_title">Vyberte nahrávku</string>
   <string name="rename_no_more_tip">Znovu se neptat</string>
+  <string name="record_mark_point">%sznačka</string>
 </resources>
