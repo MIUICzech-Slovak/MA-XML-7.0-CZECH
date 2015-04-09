@@ -131,8 +131,8 @@ mobilní internetové připojení"</string>
 Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
 Špička: %1$s%2$s zbývá | %3$s využito"</string>
-  <string name="main_secondary_message_traffic_over">nad limit</string>
-  <string name="main_secondary_message_traffic_remain">zbývá</string>
+  <string name="main_secondary_message_traffic_over">"nad limit "</string>
+  <string name="main_secondary_message_traffic_remain">"zbývá "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s využitých dat mimo špičku</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
@@ -456,4 +456,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="notify_setting_pkg_title_for_slotnum">Nastavit měsíční limit pro %s</string>
   <string name="add_miservice_dialog_content">"%s vyžaduje přidání MIUI service framework do výjimek. Budete přijímat upozornění od MIUI a ostatních aplikací."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
+  <string name="repair_loading_text">Načítání...</string>
 </resources>
