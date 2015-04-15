@@ -336,7 +336,7 @@
     <string name="setting_video_output_status">AV výstup</string>
     <string name="setting_video_quality">Kvalita</string>
     <string name="setting_video_resolution">Rozlišení</string>
-    <string name="setting_video_standard">Standardní</string>
+    <string name="setting_video_standard">Standard</string>
     <string name="setting_video_time_stamp">Časový vodoznak</string>
     <string name="setting_warp_enable">Korekce čočky</string>
     <string name="setting_wifi">Nastavení Wi-Fi</string>
