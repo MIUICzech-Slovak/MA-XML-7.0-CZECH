@@ -3578,7 +3578,7 @@ asistenta Wi-Fi"</string>
   <string name="screen_paper_mode_global_title">Všechny aplikace</string>
   <string name="screen_paper_mode_local_summary">Vybrat aplikace pro čtecí režim</string>
   <string name="screen_paper_mode_local_title">Vybrané aplikace</string>
-  <string name="screen_paper_mode_range_title">Rozsah</string>
+  <string name="screen_paper_mode_range_title">Nastavení</string>
   <string name="screen_paper_mode_set_apps_title">Vlastní čtecí režim</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Znovu se neptat</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Souhlasím</string>

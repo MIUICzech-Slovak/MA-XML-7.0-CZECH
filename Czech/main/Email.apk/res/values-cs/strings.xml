@@ -910,4 +910,8 @@ Velikost aplikace: %2$s"</string>
   <string name="toast_bar_invalid_account">Platnost účtu vypršela, přihlaste se znovu.</string>
   <string name="toast_bar_no_connection_network">Žádné připojení k síti, stiskněte pro nastavení.</string>
   <string name="toast_bar_open_gmail_synchronization">Více neblokovat Gmail, stiskněte pro používání</string>
+  <string name="SMTP_independent_verification_text">SMTP independent verification</string>
+  <string name="SMTP_password_text">Heslo</string>
+  <string name="SMTP_username_text">Jméno</string>
+  <string name="folder_synchronization_mail_settings">Nastavení synchr. složek</string>
 </resources>
