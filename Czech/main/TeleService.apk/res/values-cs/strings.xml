@@ -667,7 +667,7 @@ Může to trvat i 5 min."</string>
   <string name="respond_via_sms_canned_response_1">Teď nemůžu telefonovat, o co jde?</string>
   <string name="respond_via_sms_canned_response_2">Zavolám zpátky.</string>
   <string name="respond_via_sms_canned_response_3">Zavolám později.</string>
-  <string name="respond_via_sms_canned_response_4">Nemůžu telefonovat, volejte jindy.</string>
+  <string name="respond_via_sms_canned_response_4">Nemohu telefonovat, volejte jindy.</string>
   <string name="respond_via_sms_cannot_empty">Zpráva nesmí být prázdná</string>
   <string name="respond_via_sms_confirmation_format">Zpráva byla odeslána na číslo %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Rychlá odpověď</string>
