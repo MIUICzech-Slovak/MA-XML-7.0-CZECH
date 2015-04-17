@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="app_ops_categories">
+        <item>Poloha</item>
+        <item>Osobní</item>
+        <item>SMS a MMS</item>
+        <item>Média</item>
+        <item>Zařízení</item>
+	<item>Spuštění</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrace</item>
+        <item>Čtení kontaktů</item>
+        <item>Úprava kontaktů</item>
+        <item>Čtení seznamu hovorů</item>
+        <item>Úprava seznamu hovorů</item>
+        <item>Čtení kalendáře</item>
+        <item>Úprava kalendáře</item>
+        <item>Poloha</item>
+        <item>Upozornění na příspěvek</item>
+        <item>Poloha</item>
+        <item>Volání na telefon</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Odesílání SMS/MMS</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslení navrch</item>
+        <item>Přístup k oznámením</item>
+        <item>Fotoaparát</item>
+        <item>Nahrávání zvuku</item>
+        <item>Přehrávání zvuku</item>
+        <item>Číst obsah schránky</item>
+        <item>Upravit obsah schránky</item>
+        <item>Tlačítka médií</item>
+        <item>Zaměření zvuku</item>
+        <item>Hlavní hlasitost</item>
+        <item>Hlasitost hlasu</item>
+        <item>Hlasitost vyzvánění</item>
+        <item>Hlasitost médií</item>
+        <item>Hlasitost budíku</item>
+        <item>Hlasitost oznámení</item>
+        <item>Hlasitost Bluetooth</item>
+        <item>Zakázat režim spánku</item>
+        <item>Poloha</item>
+        <item>Určování polohy</item>
+        <item>Načíst statistiky využití</item>
+        <item>Vypnout nebo zapnout zvuk mikrofonu</item>
+        <item>Vyskakovací okna</item>
+        <item>Odesílat média</item>
+        <item>Aktivovat VPN</item>
+        <item>Změnit Wi-Fi</item>
+        <item>Změnit Bluetooth</item>
+        <item>Odeslat MMS</item>
+        <item>Číst MMS</item>
+        <item>Psát MMS</item>
+        <item>Auto. spuštění</item>
+        <item>Změnit NFC</item>
+        <item>Vymazat SMS</item>
+        <item>Vymazat MMS</item>
+        <item>Vymazat kontakty</item>
+        <item>Vymazat seznam hovorů</item>
+        <item>Změnit 2G/3G</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Povoleno</item>
+        <item>Zakázáno</item>
+        <item>Vždy se zeptat</item>
+     </string-array>
+    <string-array name="app_ops_summaries">
+        <item>přibližná poloha</item>
+        <item>přesná poloha</item>
+        <item>GPS</item>
+        <item>vibrace</item>
+        <item>čtení kontaktů</item>
+        <item>úprava kontaktů</item>
+        <item>čtení seznamu hovorů</item>
+        <item>úprava seznamu hovorů</item>
+        <item>čtení kalendáře</item>
+        <item>úprava kalendáře</item>
+        <item>vyhledání sítí Wi-Fi</item>
+        <item>oznámení</item>
+        <item>vyhledání vysílače mobilní sítě</item>
+        <item>volání na telefon</item>
+        <item>čtení zpráv SMS</item>
+        <item>psaní zpráv SMS</item>
+        <item>příjem zpráv SMS</item>
+        <item>příjem nouzových SMS</item>
+        <item>příjem zpráv MMS</item>
+        <item>příjem zpráv WAP push</item>
+        <item>odesílání zpráv SMS</item>
+        <item>čtení ICC SMS</item>
+        <item>psaní ICC SMS</item>
+        <item>úprava nastavení</item>
+        <item>vykreslení navrch</item>
+        <item>přístup k oznámením</item>
+        <item>fotoaparát</item>
+        <item>nahrávání zvuku</item>
+        <item>přehrávání zvuku</item>
+        <item>číst obsah schránky</item>
+        <item>upravit obsah schránky</item>
+        <item>tlačítka médií</item>
+        <item>zaměření zvuku</item>
+        <item>hlavní hlasitost</item>
+        <item>hlasitost hlasu</item>
+        <item>hlasitost vyzvánění</item>
+        <item>hlasitost médií</item>
+        <item>hlasitost budíku</item>
+        <item>hlasitost oznámení</item>
+        <item>hlasitost Bluetooth</item>
+        <item>Zakázat režim spánku</item>
+        <item>sledovat polohu</item>
+        <item>sledování energeticky náročného určování polohy</item>
+        <item>načíst statistiky využití</item>
+        <item>vypnout nebo zapnout zvuk mikrofonu</item>
+        <item>vyskakovací okna</item>
+        <item>odesílat média</item>
+        <item>aktivovat VPN</item>
+        <item>změnit Wi-Fi</item>
+        <item>změnit Bluetooth</item>
+        <item>odeslat MMS</item>
+        <item>číst MMS</item>
+        <item>psát MMS</item>
+        <item>auto. spouštění</item>
+        <item>změnit NFC</item>
+        <item>vymazat SMS</item>
+        <item>vymazat MMS</item>
+        <item>vymazat kontakty</item>
+        <item>vymazat seznam hovorů</item>
+        <item>změnit 2G/3G</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Výchozí</item>
+        <item>Žádný</item>
+        <item>Obrys</item>
+        <item>Stín</item>
+        <item>Reliéf</item>
+        <item>Rytina</item>
+    </string-array>
+<string-array name="captioning_preset_selector_titles">
+        <item>Použít výchozí</item>
+        <item>Bílé na černém</item>
+        <item>Černé na bílém</item>
+        <item>Žluté na černém</item>
+        <item>Žluté na modrém</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Posledních 30 dní</item>
+        <item>Zadat cyklus využití...</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Vypnuto</item>
+        <item>Zobrazit překreslované oblasti</item>
+        <item>Zobrazit oblasti pro deuteranomálii</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Vypnuto</item>
+        <item>Omezený počet vyrušení</item>
+        <item>Žádné vyrušení</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normální</item>
+        <item>Střední</item>
+        <item>Nízké</item>
+        <item>Kritické</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Trvalé</item>
+        <item>Nejvyšší aktivita</item>
+        <item>Důležité (v popředí)</item>
+        <item>Důležité (na pozadí)</item>
+        <item>Záloha</item>
+        <item>Těžká váha</item>
+        <item>Služba (spuštěno)</item>
+        <item>Služba (restartuje se)</item>
+        <item>Přijímač</item>
+        <item>Plocha</item>
+        <item>Poslední aktivita</item>
+        <item>V mezipaměti (aktivita)</item>
+        <item>V mezipaměti (klient aktivity)</item>
+        <item>V mezipaměti (prázdné)</item>
+    </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>64 kB na vyrovnávací paměť protokolů</item>
+        <item>256 kB na vyrovnávací paměť protokolů</item>
+        <item>1 MB na vyrovnávací paměť protokolů</item>
+        <item>4 MB na vyrovnávací paměť protokolů</item>
+        <item>16 MB na vyrovnávací paměť protokolů</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Poslední čtyři číslice</item>
+        <item>První čtyři číslice</item>
+    </string-array>
+    
+<string-array name="track_frame_time_entries">
+        <item>Vypnuto</item>
+        <item>Na obrazovce ve formě sloupců</item>
+        <item>adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Doba použití</item>
+        <item>Naposledy použito</item>
+        <item>Název aplikace</item>
+    </string-array>
+<string-array name="wifi_proxy_settings">
+        <item>Žádné</item>
+        <item>Ručně</item>
+        <item>Autom. konfigurace proxy</item>
+    </string-array>
+</resources>
