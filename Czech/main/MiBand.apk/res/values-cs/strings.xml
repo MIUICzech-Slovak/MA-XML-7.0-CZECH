@@ -17,7 +17,7 @@
   <string name="action_pingpong">Ping-Pong</string>
   <string name="action_pop_about">Informace</string>
   <string name="action_pop_lab">Fitness centrum</string>
-  <string name="action_pop_my_bracelet">Můj MiBand</string>
+  <string name="action_pop_my_bracelet">Má zařízení</string>
   <string name="action_pop_person_info">Můj profil</string>
   <string name="action_pop_sensorhub">Senzory</string>
   <string name="action_pop_service">Služby</string>
@@ -84,9 +84,9 @@ Souhlas: %2$s"</string>
   <string name="bind_bracelet_ok">MiBand je připojen</string>
   <string name="bind_devices">Připojit zařízení</string>
   <string name="bind_mi_band">Připojit MiBand</string>
-  <string name="bind_mi_band_about">http://www.miuios.cz/miband</string>
+  <string name="bind_mi_band_about">http://www.miuios.cz/mifit</string>
   <string name="bind_mi_weight">Propojit s váhou</string>
-  <string name="bind_mi_weight_about">http://www.mi.com</string>
+  <string name="bind_mi_weight_about">http://www.miuios.cz/mifit</string>
   <string name="bind_mi_weight_howto">Jak na to</string>
   <string name="bind_mi_weight_howto_tips">Jak používat váhu</string>
   <string name="bind_new_mili">Propojit nový MiBand</string>
@@ -133,7 +133,7 @@ Podmínky používání: %2$s"</string>
 Adresa: %2$s"</string>
   <string name="bracelet_login_info">Přihlásit se svým Xiaomi účtem</string>
   <string name="bracelet_login_info_2">"Přihlášením souhlasíte s "</string>
-  <string name="bracelet_login_title">Vítejte v MiBand</string>
+  <string name="bracelet_login_title">Vítejte v MiFit</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand není připojen.</string>
   <string name="bracelet_not_found_info">Když bliká LED, zkuste jej vyhledat znovu.</string>
   <string name="bracelet_not_found_title">MiBand nenalezen</string>
@@ -276,7 +276,7 @@ Byl dosažen váš cíl."</string>
   <string name="dynamic_title_step">Dnes</string>
   <string name="dynamic_title_weight">Váha</string>
   <string name="dynamic_title_weight_not_nearby">Weight not nearby</string>
-  <string name="dynamic_title_weight_unbind">Odpojit váhu</string>
+  <string name="dynamic_title_weight_unbind">Odpojená váha</string>
   <string name="enable_debug_log">Záznam chyb aktivní</string>
   <string name="enable_hidden_feature">Skrytá aktivita aktivována</string>
   <string name="equal_last_time">Hmotnost se nezměnila</string>
@@ -729,7 +729,7 @@ Pokračujte!"</string>
   <string name="search_weight_scale">Vyhledat váhu</string>
   <string name="search_weight_scale_info">Stůjte v blízkosti váhy</string>
   <string name="second">" s"</string>
-  <string name="select_devices">Vybrat zařízení</string>
+  <string name="select_devices">Vyberte zařízení</string>
   <string name="select_devices_info">Vyberte Xiaomi zařízení</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galerie</string>
