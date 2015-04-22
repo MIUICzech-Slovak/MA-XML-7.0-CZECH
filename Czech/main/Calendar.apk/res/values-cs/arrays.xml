@@ -291,4 +291,18 @@
         <item>Čas</item>
         <item>Odpočítávání</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Bez připomenutí</item>
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
 </resources>

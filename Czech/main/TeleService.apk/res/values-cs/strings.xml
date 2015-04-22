@@ -1143,4 +1143,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
      <string name="wifi_calling_use_call_assistant">Use call assistant</string>
      <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
      <string name="wild_prompt_str">Replace wild character with</string>
+     <string name="flash_when_ring_summary">Blikat LED bleskem při zvonění příchozího hovoru</string>
+     <string name="flash_when_ring_title">Blikat při zvonění</string>
 </resources>
