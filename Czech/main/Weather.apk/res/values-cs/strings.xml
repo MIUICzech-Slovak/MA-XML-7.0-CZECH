@@ -82,8 +82,8 @@
   <string name="share_menu_title">Sdílet</string>
   <string name="share_subject">Sdílet</string>
   <string name="share_title">Sdílet stav počasí</string>
-  <string name="share_weather_desc">\#MIUI Počasí# Dnes %1$s %2$s</string>
+  <string name="share_weather_desc">Počasí na dnes %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
-  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_desc_split">", "</string>
   <string name="share_weather_save_pic_fail">Nelze vytvořit screenshot</string>
 </resources>
