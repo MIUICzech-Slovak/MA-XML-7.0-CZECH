@@ -163,4 +163,5 @@
   <string name="txt_sleep_mode">Spánek</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobrazit seznam stanic</string>
+  <string name="notification_rec_title">Zobrazit nahrávky</string>
 </resources>

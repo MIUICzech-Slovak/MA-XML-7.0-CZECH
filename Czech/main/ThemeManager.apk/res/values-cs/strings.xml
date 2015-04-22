@@ -346,4 +346,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="gift_received_notification_title">"%s vám daroval/a téma"</string>
   <string name="resource_tab_to_view">Zobrazit</string>
   <string name="resource_tip_select_none">Žádné</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
 </resources>

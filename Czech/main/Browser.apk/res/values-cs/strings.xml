@@ -814,4 +814,9 @@ Chcete opustit tuto stránku?"</string>
   <string name="video_push_single_message">Aktualizovat na %1$d</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="action_menu_text_fullscreen">Celá obrazovka</string>
+  <string name="miuichromium_error_page_diagnostic">Diagnostika sítě</string>
+  <string name="sub_sync_item_browser_title_useful">Synchr. užitečné</string>
+  <string name="sub_sync_item_browser_title_useful_summary">Synchr. užitečné stránky</string>
+  <string name="sub_sync_item_browser_title_video">Synchr. historii videa</string>
+  <string name="sub_sync_item_browser_title_video_summary">Synchr. seznam přehraných videí</string>
 </resources>

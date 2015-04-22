@@ -65,4 +65,8 @@
         <item quantity="other">Můžete vybrat %d položek</item>
         <item quantity="one">Můžete vybrat %d položku</item>
     </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s nové tváře mohou patřit %2$s >></item>
+        <item quantity="one">%1$s nová tvář může patřit %2$s %2$s >></item>
+    </plurals>
 </resources>

@@ -1182,4 +1182,8 @@ Vyberte si z následujících možností:</string>
   <string name="resource_tab_to_view">Zobrazit</string>
   <string name="followed_yellowpage">Ověřené účty</string>
   <string name="yellowpage_navigation_more_items_title">Více služeb</string>
+  <string name="add_blacklist_dialog_title">Blokovat toto číslo?</string>
+  <string name="blacklist">Blokovat</string>
+  <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
 </resources>

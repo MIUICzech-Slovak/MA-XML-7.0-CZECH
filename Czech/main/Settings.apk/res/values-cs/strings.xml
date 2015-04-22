@@ -2225,7 +2225,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="title_color_calibration">Úprava barev</string>
   <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Písmo</string>
-  <string name="title_font_current">Používá se</string>
+  <string name="title_font_current">Vybrat písmo</string>
   <string name="title_font_size">Velikost písma</string>
   <string name="title_hdmi_color_calibration">Nastavení barev</string>
   <string name="title_layout_current">Použité rozložení</string>
@@ -3586,5 +3586,11 @@ asistenta Wi-Fi"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Podmínky používání</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizovat seznam aplikací, které mohou používat čtecí režim</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovat seznam</string>
-  <string name="skip_lock_screen_confirm_msg">Následující funkce nebudou dostupné pro zamykací obrazovku: Upozornění, fotoaparát gestem doprava a číselník gestem doleva.</string>
+  <string name="skip_lock_screen_confirm_msg">Pro zamykací obrazovku nebudou dostupná: Upozornění, fotoaparát posunem doprava a číselník posunem doleva.</string>
+  <string name="status_bar_app_disable_notification">Žádné</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zámek a roletka</string>
+  <string name="status_bar_app_enable_on_notificationBar">Roletka</string>
+  <string name="title_font2">Písmo</string>
+  <string name="title_font_current2">Vybrat písmo</string>
+  <string name="title_layout_current2">Velikost písma</string>
 </resources>
