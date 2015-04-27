@@ -123,4 +123,23 @@
         <item>BMI: Nadváha</item>
         <item>BMI: Obezita</item>
     </string-array>
+    <string-array name="running_months">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="phone_notify_tips">
+        <item>Vibrovat s MiBand během příchozího hovoru</item>
+        <item>Vibrovat s MiBand během buzení</item>
+        <item>Vibrovat s MiBand při přijetí SMS zprávy</item>
+    </string-array>
 </resources>
