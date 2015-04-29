@@ -44,4 +44,7 @@
   <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
   <string name="using_camera_confirm_title">Podmínky používání</string>
+  <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
+  <string name="calibrate_title">Kalibrování kompasu</string>
+  <string name="calibrate_rotate_again">Zkuste to znovu</string>
 </resources>

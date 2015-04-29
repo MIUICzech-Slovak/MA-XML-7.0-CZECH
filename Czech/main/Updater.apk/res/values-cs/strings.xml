@@ -285,4 +285,7 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="recovery_failed_title">Aktualizace selhala</string>
   <string name="particular_build">Speciální</string>
   <string name="reboot">Restart</string>
+  <string name="welcom_button">OK</string>
+  <string name="welcom_message">Dokončeno</string>
+  <string name="welcom_title">Vítejte v MIUI 6</string>
 </resources>

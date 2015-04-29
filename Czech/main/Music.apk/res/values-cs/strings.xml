@@ -319,4 +319,12 @@
   <string name="sort_by_language">Jazyk</string>
   <string name="sort_by_name">Název</string>
   <string name="sort_by_time">Datum</string>
+  <string name="i_know_it">OK</string>
+  <string name="service_stop">Služba byla ukončena</string>
+  <string name="upgrade_force">Ukončujeme poskytování online obsahu z důvodu porušování autorských práv.</string>
+  <string name="upgrade_immediate">Aktualizovat</string>
+  <string name="upgrade_nobeta">Ukončujeme poskytování online obsahu z důvodu porušování autorských práv. Omlouváme se za nepříjemnosti.</string>
+  <string name="upgrade_remind">Dostupná aktualizace</string>
+  <string name="upgrade_suggest">Ukončujeme poskytování online obsahu z důvodu porušování autorských práv.</string>
+  <string name="upgrade_waringing">Bude možné poslouchat pouze hudbu uloženou ve vašem zařízení.</string>
 </resources>

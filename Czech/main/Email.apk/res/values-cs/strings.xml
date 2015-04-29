@@ -679,7 +679,7 @@ přesahuje limit"</string>
   <string name="pop3_name">E-mail (POP3)</string>
   <string name="prefDialogTitle_conversationListIcon">Obrázek odesílatele</string>
   <string name="prefDialogTitle_removal_action">Akce archivace a smazání</string>
-  <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
+  <string name="preference_eas_tips">Na následující obrazovce potvrďte tlačítkem “Aktivovat”. Toto potvrzení je vyžadováno serverem.</string>
   <string name="preference_head_load_description">Stáhnout jen hlavičky zpráv přes mobilní data.</string>
   <string name="preference_head_load_title">Snížit spotřebu dat</string>
   <string name="preference_imap_tips"/>
@@ -914,4 +914,10 @@ Velikost aplikace: %2$s"</string>
   <string name="SMTP_password_text">Heslo</string>
   <string name="SMTP_username_text">Jméno</string>
   <string name="folder_synchronization_mail_settings">Nastavení synchr. složek</string>
+  <string name="mibill_privacy_policy_button1">Ne</string>
+  <string name="mibill_privacy_policy_button2">Ano</string>
+  <string name="mibill_privacy_policy_description">Tato funkce není podporována mimo Čínu! MiWallet bude analyzovat obsah zprávy a v případě doručení faktury, automaticky umožní její zaplacení.</string>
+  <string name="mibill_privacy_policy_link">Souhlasíte s &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Není podporováno mimo Čínu</string>
+  <string name="account_settings_mibill_resolve_label">Analyzovat obsah zprávy</string>
 </resources>

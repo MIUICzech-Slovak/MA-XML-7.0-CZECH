@@ -3593,4 +3593,5 @@ asistenta Wi-Fi"</string>
   <string name="title_font2">Písmo</string>
   <string name="title_font_current2">Vybrat písmo</string>
   <string name="title_layout_current2">Velikost písma</string>
+  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
 </resources>
