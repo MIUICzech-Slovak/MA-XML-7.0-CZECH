@@ -457,4 +457,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="add_miservice_dialog_content">"%s vyžaduje přidání MIUI service framework do výjimek. Budete přijímat upozornění od MIUI a ostatních aplikací."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="repair_loading_text">Načítání...</string>
+  <string name="root">Root</string>
 </resources>

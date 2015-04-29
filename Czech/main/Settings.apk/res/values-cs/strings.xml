@@ -3593,5 +3593,12 @@ asistenta Wi-Fi"</string>
   <string name="title_font2">Písmo</string>
   <string name="title_font_current2">Vybrat písmo</string>
   <string name="title_layout_current2">Velikost písma</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+  <string name="fluency_mode">Optimalizovat výkon</string>
+  <string name="fluency_mode_confirm_title">Restartovat?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Je nutné restartovat vaše zařízení pro aplikování těchto nastavení.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Zapnuté animace a zvýšená spotřeba RAM může způsobovat zpomalení systému na některých zařízeních s 1GB RAM.</string>
+  <string name="fluency_mode_enabled_name">Optimalizovat výkon</string>
+  <string name="fluency_mode_summary">Vypnout animace systému a tím snížit využití RAM</string>
+  <string name="gesture_wakeup_title">Probudit dvojitým poklepáním</string>
 </resources>
