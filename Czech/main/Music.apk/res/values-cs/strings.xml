@@ -54,7 +54,7 @@
   <string name="dialog_button_scan_tracks">Vyhledat hudbu v tomto zařízení</string>
   <string name="dialog_delete_descript">Vymazat %s?</string>
   <string name="dialog_hint_music_error">Žádné skladby</string>
-  <string name="dialog_hint_network_error">Síť je nedostupná. Připojte se k síti a zkuste to znovu.</string>
+  <string name="dialog_hint_network_error">Služba je nedostupná!</string>
   <string name="dialog_remove_descript">Vymazat %s?</string>
   <string name="dialog_title_add_playlist">Přidat Playlist</string>
   <string name="dialog_title_delete_tracks">Vymazat</string>
