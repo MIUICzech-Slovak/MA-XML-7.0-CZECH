@@ -509,4 +509,14 @@ Velikost: %2$s"</string>
   <string name="firmware_update_info">Verze FW</string>
   <string name="connect_camera_first">Nebyly nalezeny informace o verzi FW, připojte kameru.</string>
   <string name="check_failed">Kontrola selhala, zkontrolujte nastavení sítě.</string>
+  <string name="firmware_downloading_message">Firmware již byl stažen, chcete jej stáhnout znovu?</string>
+  <string name="firmware_downloading_title">Stahování firmware</string>
+  <string name="firware_upgrade_begin">Aktualizovat</string>
+  <string name="firware_upgrade_succeeded">Gratulujeme</string>
+  <string name="firware_upgrade_succeeded_tips">Firmware byl úspěšně odeslán</string>
+  <string name="setting_firmware_update">Odeslat Firmware</string>
+  <string name="setting_unbind_bluetooth_dev">Odpojte všechny bluetooth ovladače</string>
+  <string name="unbind_bluetooth_failed">Odpojení selhalo!</string>
+  <string name="unbind_bluetooth_succeeded">Odpojeno!</string>
+  <string name="unbind_bluetooth_unbinded">Nic nebylo nalezeno!</string>
 </resources>
