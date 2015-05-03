@@ -74,7 +74,7 @@
   <string name="error_device_id_message">Některé služby budou nedostupné</string>
   <string name="error_device_id_title">Nelze získat číslo IMEI</string>
   <string name="sim_unactivated_title">Vaše SIM karta není aktivovaná</string>
-  <string name="sync_notification_title_format">Synchronizuje: %1$s</string>
+  <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Budou odeslány 2 mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>

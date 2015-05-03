@@ -236,11 +236,11 @@ společně!"</string>
   <string name="filllight">Osvětlit</string>
   <string name="fisheye">Rybí oko</string>
   <string name="flash">Blesk</string>
-  <string name="flash_off">Vypnutý blesk</string>
-  <string name="flash_on">Zapnutý blesk</string>
+  <string name="flash_off">Bez blesku</string>
+  <string name="flash_on">S bleskem</string>
   <string name="flip">Převrátit</string>
   <string name="flip_tooltip">Potáhněte snímek pro jeho převrácení</string>
-  <string name="focal_length">Ohnisková vzdálenost</string>
+  <string name="focal_length">Ohnisk. vzdál.</string>
   <string name="folder_holder_file">Tento soubor by měl být vymazán</string>
   <string name="frame_black">Černý</string>
   <string name="frame_button">Rámeček</string>
@@ -316,7 +316,7 @@ společně!"</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Podržte pro přeostření</string>
   <string name="make_download_dir_fail">Vytvoření složky pro soubory selhalo</string>
-  <string name="maker">Tvůrce</string>
+  <string name="maker">Výrobce</string>
   <string name="manual">Manuál</string>
   <string name="me">Já</string>
   <string name="menu_item_sort">Třídit</string>
@@ -344,7 +344,7 @@ společně!"</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
   <string name="miui_wallpaper">Tapeta</string>
-  <string name="modified_time">Upravené</string>
+  <string name="modified_time">Upraveno</string>
   <string name="moman">MomanCamera</string>
   <string name="moman_camera_drawing">Moman Camera drawing</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>

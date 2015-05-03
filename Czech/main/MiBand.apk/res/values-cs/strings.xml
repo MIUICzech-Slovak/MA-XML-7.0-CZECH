@@ -277,7 +277,7 @@ Byl dosažen váš cíl."</string>
   <string name="dynamic_title_step">Dnes</string>
   <string name="dynamic_title_weight">Váha</string>
   <string name="dynamic_title_weight_not_nearby">Weight not nearby</string>
-  <string name="dynamic_title_weight_unbind">Odpojená váha</string>
+  <string name="dynamic_title_weight_unbind">Váha není připojena</string>
   <string name="enable_debug_log">Záznam chyb aktivní</string>
   <string name="enable_hidden_feature">Skrytá aktivita aktivována</string>
   <string name="equal_last_time">Hmotnost se nezměnila</string>
