@@ -705,4 +705,6 @@
   <string name="select_voice_call_sim">Vyberte SIM kartu</string>
   <string name="separate_from_conference">Odpojit hovor</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+  <string name="call_extension_conference_mode">Konference</string>
+  <string name="onscreen_audio_mode_conference">Konference</string>
 </resources>

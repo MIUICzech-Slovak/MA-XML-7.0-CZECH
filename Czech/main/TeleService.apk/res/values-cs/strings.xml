@@ -1145,4 +1145,12 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
      <string name="wild_prompt_str">Replace wild character with</string>
      <string name="flash_when_ring_summary">Blikat LED bleskem při zvonění příchozího hovoru</string>
      <string name="flash_when_ring_title">Blikat při zvonění</string>
+    <string name="change_default_data">Změnit</string>
+  <string name="cdma_alert_title">Karta UIM musí být výchozí</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_title">Karta UIM musí být výchozí</string>
+  <string name="confirm_change_default_data">Změnit</string>
+  <string name="not_change_default_data">Neměnit</string>
+  <string name="remind_another_time">Znovu se neptat</string>
 </resources>
