@@ -82,9 +82,9 @@
   <string name="revert">Vrátit zpět</string>
   <string name="set_alarm">Nastavit budík</string>
   <string name="settings">Nastavení</string>
-  <string name="shutdown_alarm_disable_summary">Upozornění není povoleno</string>
-  <string name="shutdown_alarm_enable_summary">Upozornění je povoleno</string>
-  <string name="shutdown_alarm_title">Upozornit při vypínání</string>
+  <string name="shutdown_alarm_disable_summary">Budík je zakázán</string>
+  <string name="shutdown_alarm_enable_summary">Budík je povolen</string>
+  <string name="shutdown_alarm_title">Zapnout zařízení před buzením</string>
   <string name="silent_alarm_summary">Tichý</string>
   <string name="slider_text">Potáhněte nahoru</string>
   <string name="snooze_confirm_cancel">Zrušit budík</string>
