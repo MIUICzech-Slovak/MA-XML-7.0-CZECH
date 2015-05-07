@@ -94,4 +94,6 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
+  <string name="dlg_appstore_notice">Stáhněte si tuto aplikaci z oficiálního Obchodu Play.</string>
+  <string name="lift_ban_once">Povolit jednou</string>
 </resources>

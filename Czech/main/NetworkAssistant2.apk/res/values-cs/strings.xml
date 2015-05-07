@@ -457,5 +457,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="add_miservice_dialog_content">"%s vyžaduje přidání MIUI service framework do výjimek. Budete přijímat upozornění od MIUI a ostatních aplikací."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="repair_loading_text">Načítání...</string>
-  <string name="root">Root</string>
+  <string name="root">Root práva</string>
+  <string name="firewall_network_restrict_notify_message">Změnit nastavení</string>
+  <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k %2$s.</string>
+  <string name="traffic_correction_success_notify_message">Zobrazit podrobnosti</string>
 </resources>

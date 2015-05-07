@@ -3602,4 +3602,6 @@ asistenta Wi-Fi"</string>
   <string name="fluency_mode_summary">Vypnout animace systému a tím snížit využití RAM</string>
   <string name="gesture_wakeup_title">Probudit dvojitým poklepáním</string>
   <string name="search_fluency_mode">Optimalizovat výkon</string>
+  <string name="install_no_market_app_summary">Povolit instalaci aplikací stažených mimo oficiální Obchod Play</string>
+  <string name="install_no_market_app_title">Neznámé zdroje</string>
 </resources>
