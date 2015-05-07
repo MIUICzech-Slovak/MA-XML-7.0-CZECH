@@ -920,4 +920,12 @@ Velikost aplikace: %2$s"</string>
   <string name="mibill_privacy_policy_link">Souhlasím s Credit Card Bill Service</string>
   <string name="mibill_privacy_policy_title">Není podporováno mimo Čínu</string>
   <string name="account_settings_mibill_resolve_label">Analyzovat obsah zprávy</string>
+  <string name="account_settings_using_ringtone">Zvonění</string>
+  <string name="folder_list_display_all">Zobrazit všechny složky</string>
+  <string name="folder_list_display_only_import">Zobrazit jen důležité složky</string>
+  <string name="imap_password_error">Heslo pro server příchozí pošty není správné</string>
+  <string name="outbox_alert_description_cannot_authenticate">Chyba přihlášení na %s</string>
+  <string name="outbox_alert_description_reject_by_server">Odmítnuto %s</string>
+  <string name="outbox_alert_description_time_out">Chyba připojení</string>
+  <string name="smtp_password_error">Heslo pro server odchozí pošty není správné</string>
 </resources>
