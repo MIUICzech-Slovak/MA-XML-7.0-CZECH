@@ -31,7 +31,7 @@
   <string name="delete">Vymazat</string>
   <string name="do_not_remind_me">Znovu se neptat</string>
   <string name="dont_enable">Zakázat</string>
-  <string name="download_completed">Stahování dokončeno！Cesta na SD kartě: %s</string>
+  <string name="download_completed">Stahování dokončeno! Cesta na SD kartě: %s</string>
   <string name="download_failed">Stahování selhalo</string>
   <string name="download_failed_blocked">Stahování selhalo, cannot connect to network</string>
   <string name="download_failed_cannot_resume">Stahování selhalo, zkuste to později</string>
@@ -190,4 +190,5 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_website">Oficiální stránka</string>
   <string name="account_yellowpage_followed">Ověřené účty</string>
   <string name="express_inquiry_logistics_prefix">Kurýrní služba: %s</string>
+  <string name="network_access_denied">Přístup k síti zamítnut</string>
 </resources>
