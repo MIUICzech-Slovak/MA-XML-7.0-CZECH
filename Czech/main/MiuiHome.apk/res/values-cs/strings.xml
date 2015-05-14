@@ -231,7 +231,7 @@
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="status_downloaded">stáhnuto</string>
+  <string name="status_downloaded">staženo</string>
   <string name="status_downloading">stahuje se</string>
   <string name="status_installing">instaluje se</string>
   <string name="status_paused">pozastaveno</string>

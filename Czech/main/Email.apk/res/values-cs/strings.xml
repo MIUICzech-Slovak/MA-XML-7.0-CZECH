@@ -377,7 +377,7 @@
   <string name="downlaod_nonWifi_confirm_message">Stahování přes mobilní síť může být zpoplatněno, pokračovat?</string>
   <string name="downlaod_nonWifi_confirm_title">Stáhnout tuto přílohu?</string>
   <string name="download_again">Stáhnout znovu</string>
-  <string name="download_before_sharing">" není stáhnuto! Před sdílením musíte stáhnout!"</string>
+  <string name="download_before_sharing">" není staženo! Před sdílením musíte stáhnout!"</string>
   <string name="download_cancel_confirm_message">Stahování bude zastaveno</string>
   <string name="download_cancel_confirm_title">Zrušit stahování?</string>
   <string name="download_complete_not_cancel">Stahování dokončeno, zrušení selhalo!</string>

@@ -76,7 +76,7 @@
   <string name="device_type">Typ</string>
   <string name="di"/>
   <string name="dining_room">Restaurace</string>
-  <string name="download_times">Stáhnuto: %1$d</string>
+  <string name="download_times">Staženo: %1$d</string>
   <string name="dpad_down">Dolů</string>
   <string name="dpad_left">Vlevo</string>
   <string name="dpad_ok">OK</string>
@@ -226,7 +226,7 @@
   <string name="share_action_cancel">Zrušit</string>
   <string name="share_action_confirm">Sdílet</string>
   <string name="share_app_category">Kategorie:</string>
-  <string name="share_app_downloads">Stáhnuto:</string>
+  <string name="share_app_downloads">Staženo:</string>
   <string name="share_comment_hint">Přidejte komentář...</string>
   <string name="share_content_device_box_to_sina_weibo">MiBox</string>
   <string name="share_content_device_other_to_sina_weibo">Xiaomi</string>

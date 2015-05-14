@@ -707,4 +707,5 @@
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="call_extension_conference_mode">Konference</string>
   <string name="onscreen_audio_mode_conference">Konference</string>
+  <string name="livetalk_left_minute">Zbývá %smin</string>
 </resources>

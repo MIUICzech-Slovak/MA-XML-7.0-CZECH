@@ -34,7 +34,7 @@
   <string name="device_name_tip">Zadejte název zařízení.</string>
   <string name="doc">Dokumenty</string>
   <string name="download">Stáhnout</string>
-  <string name="download_complete">%1$s | %2$s stáhnuto od: %3$s</string>
+  <string name="download_complete">%1$s | %2$s staženo od: %3$s</string>
   <string name="download_failed_msg">Stahování souboru selhalo!</string>
   <string name="download_succeed">Stahování dokončeno</string>
   <string name="editmode_menu_delete">Vymazat</string>
@@ -77,7 +77,7 @@
   <string name="history">Historie přenosu souborů</string>
   <string name="history_all">Celá historie</string>
   <string name="history_receive">Přijaté soubory</string>
-  <string name="history_received_fileinfo">%1$s | stáhnuto od: %2$s</string>
+  <string name="history_received_fileinfo">%1$s | staženo od: %2$s</string>
   <string name="history_send">Odeslané soubory</string>
   <string name="init_xiaomi_account">Inicializace Xiaomi účtu...</string>
   <string name="input_device_name">Vložit název zařízení</string>

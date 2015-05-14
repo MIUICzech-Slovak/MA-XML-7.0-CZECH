@@ -137,4 +137,10 @@
   <string name="toast_feedback_collect_store">Vytváření záznamu...</string>
   <string name="network_disconnected">Žádná síť</string>
   <string name="toast_fill_brackets">Vyplňte v závorkách</string>
+  <string name="bugreport_tool_log">Vytvořit záznam o chybě</string>
+  <string name="modem_tool_log">Vytvořit záznam modemu</string>
+  <string name="modem_tool_log_start">Spustit</string>
+  <string name="modem_tool_log_start_toast">Záznam o modemu bude uložen do %s</string>
+  <string name="modem_tool_log_stop">Zastavit</string>
+  <string name="modem_tool_log_stop_toast">Zastavit záznam modemu z %s</string>
 </resources>

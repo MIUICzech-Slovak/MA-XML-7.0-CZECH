@@ -58,4 +58,6 @@ Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+  <string name="notification_download_failed_more">Stahování %1$d selhalo</string>
+  <string name="notification_download_success_more">Staženo: %1$d</string>
 </resources>

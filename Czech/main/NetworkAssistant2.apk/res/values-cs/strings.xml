@@ -446,7 +446,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="replace_dns">Automaticky nahradit</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="signal_exception_summary">Nelze se připojit k síti.</string>
-  <string name="signal_exception_title">Slabý signál sítě</string>
+  <string name="signal_exception_title">Testovat sílu signálu</string>
   <string name="unable_connect_internet">Nelze se připojit k síti</string>
   <string name="usbsharenet_exception_summary">Nelze zkontrolovat připojení přes MiPCsuite.</string>
   <string name="usbsharenet_exception_title">Zkontrolovat síť přes USB</string>
@@ -461,4 +461,56 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="firewall_network_restrict_notify_message">Změnit nastavení</string>
   <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k %2$s.</string>
   <string name="traffic_correction_success_notify_message">Zobrazit podrobnosti</string>
+  <string name="captive_portal_exception_title">Připojit na veřejnou síť</string>
+  <string name="data_network_blocked_notification_title">Žádné připojení</string>
+  <string name="dialog_roaming_apps_sorted_title">Seřadit podle</string>
+  <string name="hints_input_roaming_daily_limit">Zadejte denní limit mobilních dat</string>
+  <string name="hints_install_apps_new">Nikdy nepoužito</string>
+  <string name="hints_install_apps_today">Použito dnes</string>
+  <string name="ip_address_exception_summary">Nepodařilo se získat IP adresu. Pokud se tato chyba opakuje, zkuste nastavit pevnou IP adresu.</string>
+  <string name="local_ip_exception_summary">Nepodařilo se získat IP adresu. Doporučujeme odeslat záznam o chybě přes aplikaci Hlášení chyb.</string>
+  <string name="mian_page_primary_txt">Mezinárodní roaming</string>
+  <string name="network_blocked_connected_open_wifi">Připojit na veřejnou síť</string>
+  <string name="network_blocked_notification_summary">Zobrazit podrobnosti.</string>
+  <string name="network_blocked_switch_wifi">Přepnout sítě</string>
+  <string name="network_mobile_exception_detail">"Vaše zařízení se nemůže připojit na internet:
+
+ 1. Zkontrolujte, zda nebylo dosaženo datového limitu u vašeho operátora.
+ 2. Pokud byl limit právě navýšen, zkuste restartovat vaše zařízení.
+ 3. Signál vašeho operátora je možná příliš slabý v této lokalitě."</string>
+  <string name="network_operator_exception_summary">Nebylo možné aktivovat vaši SIM kartu. Zkontrolujte, zda byla správně vložena SIM karta a mobilní data jsou aktivována u vašeho operátora.</string>
+  <string name="network_permission_exception_tips">Nelze použít mobilní data.</string>
+  <string name="network_roaming_exception_tips">Nelze použít mobilní data v roamingu.</string>
+  <string name="network_route_exception_detail">"Může být problém s routerem, na kterém jste připojeni:
+
+
+"&lt;b&gt;"1. Veřejná Wi-Fi síť
+"&lt;/b&gt;"Pokud jste připojeni k Wi-Fi síti, množství připojených uživatelů může způsobovat snížení rychlosti a nestabilitu připojení. Zkuste zvolit jinou Wi-Fi síť.
+"&lt;b&gt;"2. Chyba poskytovatele internetového připojení
+"&lt;/b&gt;"Ujistěte se, že máte správně nastaveno internetové připojení podle vašeho poskytovatele.
+"&lt;b&gt;"3. Chyba routeru
+"&lt;/b&gt;"Zkuste restartovat váš router nebo zkontrolovat jeho nastavení.
+"&lt;b&gt;"4. Jiné problémy s vašim routerem
+"&lt;/b&gt;"Obnovte tovární nastavení routeru.
+"&lt;b&gt;"5. Ujistěte se, že je router správně připojen
+"&lt;/b&gt;"Zkuste použít jiný internetový kabel pro připojení routeru. Pokud si myslíte, že máte problém s internetovým připojením vašeho routeru, kontaktujte poskytovatele internetových služeb."</string>
+  <string name="network_sim_exception_detail">"Může být problém s vaší SIM kartou:
+
+ 1. Zkontrolujte nastavení mobilního datového připojení s nastavením u vašeho operátora. Zkuste použít jinou SIM kartu.
+ 2. Pokud používáte dvě SIM karty, zkuste je prohodit ve slotech zařízení.
+ 3. Zkontrolujte, zda máte správně vloženou SIM kartu do zařízení a není poškozena."</string>
+  <string name="open_now">Povolit apl. používání mobilních dat</string>
+  <string name="other_exception_summary">Nemáte internetové připojení</string>
+  <string name="other_exception_title">Kontrola ostatních chyb</string>
+  <string name="pref_roaming_daily_limit_setting">Denní limit dat pro roaming</string>
+  <string name="protocol_exception_title">Diagnostika sítě</string>
+  <string name="protocol_loop_back_exception_summary">Test selhal. Doporučujeme odeslat záznam o chybě přes aplikaci Hlášení chyb.</string>
+  <string name="renew_ip">Znovu</string>
+  <string name="roaming_limit_dialog_message">Dosaženo denního limitu dat v roamingu.</string>
+  <string name="roaming_limit_network_notification_body">Zobrazit dostupné sítě</string>
+  <string name="roaming_limit_notification_title">Dosaženo denního limitu dat v roamingu</string>
+  <string name="roaming_limit_warning_notification_body">Zobrazit spotřebu dat.</string>
+  <string name="sim_state_exception_summary">Něco je v nepořádku s vaší SIM kartou.</string>
+  <string name="usbsharenet_pc_exception_summary">Nelze se připojit k síti přes sdílené připojení. Zkontrolujte připojení vašeho PC.</string>
+  <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
 </resources>
