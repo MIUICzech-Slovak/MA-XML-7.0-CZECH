@@ -928,4 +928,13 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_description_reject_by_server">Odmítnuto %s</string>
   <string name="outbox_alert_description_time_out">Chyba připojení</string>
   <string name="smtp_password_error">Heslo pro server odchozí pošty není správné</string>
+  <string name="contact_edit_set_black_list">Černá listina</string>
+  <string name="contact_edit_set_phone_contact">Upravit kontakt</string>
+  <string name="contact_edit_set_pop_up_tips">Upozornění</string>
+  <string name="contact_edit_set_unread_top">Zobrazit nejdříve nepřečtené zprávy</string>
+  <string name="contact_edit_set_vip">VIP</string>
+  <string name="contact_edit_title_permission">Práva kontaktu</string>
+  <string name="contact_edit_title_phone_contact">Seznam kontaktů</string>
+  <string name="re_download_message_button">Stáhnout znovu</string>
+  <string name="re_download_message_info">Stahování zprávy selhalo</string>
 </resources>

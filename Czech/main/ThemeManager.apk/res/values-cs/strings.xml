@@ -347,4 +347,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_tab_to_view">Zobrazit</string>
   <string name="resource_tip_select_none">Žádné</string>
   <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
+  <string name="theme_is_external_priority_storage">Uložit na SD kartu</string>
+  <string name="theme_is_external_priority_storage_summary">Aplikace Témata bude automaticky znovu spuštěna pro aplikování změn</string>
 </resources>

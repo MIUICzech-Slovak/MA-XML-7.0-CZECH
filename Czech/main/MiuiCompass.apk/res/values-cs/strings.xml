@@ -47,4 +47,6 @@
   <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
   <string name="calibrate_title">Kalibrování kompasu</string>
   <string name="calibrate_rotate_again">Zkuste to znovu</string>
+  <string name="first_using_dialog_message">Kompas používá vaše internetové připojení, fotoaparát a vaši polohu.</string>
+  <string name="first_using_dialog_title">Podmínky používání</string>
 </resources>

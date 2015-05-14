@@ -676,4 +676,12 @@ Postupujte dle pokynů"</item>
         <item>Zeptat se</item>
         <item>Povoleno</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Okamžitě</item>
+        <item>1 min.</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+    </string-array>
 </resources>

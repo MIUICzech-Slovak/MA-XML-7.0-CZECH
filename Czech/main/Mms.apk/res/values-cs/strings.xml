@@ -569,4 +569,9 @@ Pokus: %s."</string>
   <string name="pref_title_send_delivery_reports">Odeslat oznámení o doručení</string>
   <string name="pref_summary_send_delivery_reports">Odeslat oznámení o doručení zprávy</string>
   <string name="storage_unavailable">Není dostatek volného místa</string>
+  <string name="security_alert_desc">"Odesílatel není ve vašem seznamu kontaktů. "&lt;u&gt;&lt;font color="red"&gt;Nahlásit toto číslo&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_dialog_desc">Nahlásit toto číslo (%s) a zprávu společnosti Xiaomi pro další analýzu.</string>
+  <string name="security_alert_dialog_title">Nahlásit</string>
+  <string name="sms_report_failed">Nebylo možné odeslat hlášení</string>
+  <string name="sms_report_success">Hlášení odesláno</string>
 </resources>

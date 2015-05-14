@@ -759,7 +759,7 @@ Normální"</string>
   <string name="get_wifi_scan_result_error">Nebyla nalezena Wi-Fi síť</string>
   <string name="company_name">Xiaoyi tech Co,.Ltd</string>
   <string name="device_is_bind_by_other_user">Zařízení je již připojeno k jinému účtu!</string>
-  <string name="fail_to_open_camera">Otevírání kamery selhalo.</string>
+  <string name="fail_to_open_camera">"Připojování selhalo. "</string>
   <string name="firmware_version_number">Verze firmware:</string>
   <string name="migrate_conflict">"Migrace je dokončena.
 Některé zařízení nebylo migrované. Restartujte zařízení a přidejte nový účet.

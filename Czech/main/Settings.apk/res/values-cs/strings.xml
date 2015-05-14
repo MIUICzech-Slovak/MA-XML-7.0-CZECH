@@ -345,7 +345,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="bluetooth_device_context_pair_connect">Párovat a připojit</string>
   <string name="bluetooth_device_context_unpair">Zrušit párování</string>
   <string name="bluetooth_device_details">Nastavení zařízení</string>
-  <string name="bluetooth_device_name">Název zařízení</string>
+  <string name="bluetooth_device_name">"Název zařízení: "</string>
   <string name="bluetooth_device_searchable">Viditelné zařízení</string>
   <string name="bluetooth_devices">Zařízení Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Toto nastavení vypne profil: %1$s Zařízení:%2$s</string>
@@ -2333,11 +2333,11 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="unlock_set_unlock_none_title">Tažením</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Žádný</string>
-  <string name="unlock_set_unlock_password_summary">Vysoké zabezpečení</string>
+  <string name="unlock_set_unlock_password_summary">Mix písmen a čísel</string>
   <string name="unlock_set_unlock_password_title">Heslo</string>
-  <string name="unlock_set_unlock_pattern_summary">Střední zabezpečení</string>
+  <string name="unlock_set_unlock_pattern_summary">Propojení alespoň 4 bodů</string>
   <string name="unlock_set_unlock_pattern_title">Gesto</string>
-  <string name="unlock_set_unlock_pin_summary">Střední až vysoké zabezpečení</string>
+  <string name="unlock_set_unlock_pin_summary">4 číselný PIN</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Povolte prosím heslo displeje pro nastavení ochrany heslem</string>
   <string name="unmount_inform_text">Úložiště USB bude odpojeno.</string>
@@ -2925,8 +2925,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_datanetwork_switch_not_remind">Znovu nezobrazovat</string>
   <string name="bluetooth_unlock_state_disconnected">Odpojeno</string>
   <string name="bluetooth_unlock_state_key_error">Chyba klíče</string>
-  <string name="bluetooth_unlock_state_label">Stav:</string>
-  <string name="bluetooth_unlock_state_ok">Úspěšné</string>
+  <string name="bluetooth_unlock_state_label">"Stav: "</string>
+  <string name="bluetooth_unlock_state_ok">Připojeno</string>
   <string name="bluetooth_unlock_state_too_far">Není v dosahu</string>
   <string name="device_security_settings_title">Bezpečnost</string>
   <string name="enable_crypt_keeper_encrypt">Povolit šifrování</string>
@@ -3604,4 +3604,7 @@ asistenta Wi-Fi"</string>
   <string name="search_fluency_mode">Optimalizovat výkon</string>
   <string name="install_no_market_app_summary">Povolit instalaci aplikací stažených mimo oficiální Obchod Play</string>
   <string name="install_no_market_app_title">Neznámé zdroje</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Vyžadovat heslo okamžitě</string>
+  <string name="lock_screen_secure_after_timeout_summary">Vyžadovat heslo po %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Vyžadovat heslo</string>
 </resources>

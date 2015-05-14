@@ -274,4 +274,6 @@
   <string name="configure_wallpaper">Nastavení</string>
   <string name="failed_to_load_image">Nelze načíst obrázek</string>
   <string name="mtzgadget_missing_text">Již není dostupný</string>
+  <string name="download_action">Stáhnout</string>
+  <string name="loading_wallpaper">Načítání...</string>
 </resources>
