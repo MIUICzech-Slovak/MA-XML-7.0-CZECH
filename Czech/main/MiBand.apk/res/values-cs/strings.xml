@@ -184,7 +184,7 @@ trvání"</string>
   <string name="continue_reach_goal_new_record">Vytvořen nový rekord</string>
   <string name="continue_tips_format">Pokračujte %1$s dní pro dosažení cíle</string>
   <string name="contour_track_failed_to_create">Sdílení selhalo, zkontrolujte úložiště.</string>
-  <string name="current_weight">Aktuální hmotnost</string>
+  <string name="current_weight">"Aktuální hmotnost "</string>
   <string name="daily_consume">Spáleno dnes
 （kcal）</string>
   <string name="daily_sport_report">Denní výsledky</string>
@@ -276,7 +276,7 @@ Byl dosažen váš cíl."</string>
   <string name="dynamic_title_sleep">Předchozí noc</string>
   <string name="dynamic_title_step">Dnes</string>
   <string name="dynamic_title_weight">Váha</string>
-  <string name="dynamic_title_weight_not_nearby">Weight not nearby</string>
+  <string name="dynamic_title_weight_not_nearby">Váha není v dosahu</string>
   <string name="dynamic_title_weight_unbind">Váha není připojena</string>
   <string name="enable_debug_log">Záznam chyb aktivní</string>
   <string name="enable_hidden_feature">Skrytá aktivita aktivována</string>
@@ -393,10 +393,10 @@ Bylo dosaženo vašeho cíle</string>
 oběma nohama do středu váhy"</string>
   <string name="instruction_weight_page6_t3">Položte váhu na rovnou podlahu.</string>
   <string name="instruction_weight_tips1_1">Můžete připojit váhu s vícero zařízeními.</string>
-  <string name="instruction_weight_tips1_2">Po připojení zařízení se váhy automaticky sesynchronizují.</string>
+  <string name="instruction_weight_tips1_2">Po připojení zařízení se hmotnosti automaticky sesynchronizují.</string>
   <string name="instruction_weight_tips1_3">Zvolte jednotku hmotnosti.</string>
   <string name="instruction_weight_tips1_4">Pokud takto blikají LED na váze, je nutné vyměnit baterie.</string>
-  <string name="instruction_weight_tips1_5">Pokud takto blikají LED na váze, byla překročena maximální nosnost váhy.</string>
+  <string name="instruction_weight_tips1_5">Pokud bliká nápis OL na váze, byla překročena maximální nosnost váhy.</string>
   <string name="instruction_weight_tips1_6">Položte váhu na suchou podlahu.</string>
   <string name="instruction_weight_tips2_2">Spusťte aplikaci MiFit a držte se v blízkosti váhy.</string>
   <string name="instruction_weight_tips2_4">Po výměně baterií se váha automaticky restartuje.</string>
@@ -547,7 +547,7 @@ oběma nohama do středu váhy"</string>
   <string name="label_step_with_unit">%s Krok</string>
   <string name="label_uid">MI ID : %1$s</string>
   <string name="label_update_time">Aktualizováno v %s</string>
-  <string name="label_weight">Aktuální hmotnost</string>
+  <string name="label_weight">"Aktuální hmotnost "</string>
   <string name="lable_qrcode_is_myself">"Can't add yourself as a friend!"</string>
   <string name="larger_than_normal_with_value">%1$s je více než standardní hodnota</string>
   <string name="left_hand">Levá ruka</string>
@@ -756,7 +756,7 @@ odeslán na server."</string>
   <string name="set_weight_goal_no">Nenastavovat</string>
   <string name="set_weight_goal_tips">%1$s, nastavte vaši cílovou hmotnost</string>
   <string name="set_weight_goal_yes">Cílová hmotnost</string>
-  <string name="set_weight_unit">Jednotka váhy</string>
+  <string name="set_weight_unit">Jednotka hmotnosti</string>
   <string name="setgoalafterweight">Po zvážení si nastavte svoji cílovou hmotnost.</string>
   <string name="setting_about_app">"Verze apl.: 
 Překlad: miuios.cz/miband"</string>
@@ -1195,7 +1195,7 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="weight_unit_british">Palce (pound)</string>
   <string name="weight_unit_metric">Metrické (kilogramy, kg)</string>
   <string name="weight_unit_shijin">Jin (Čína, 1jin = 500g)</string>
-  <string name="weight_unit_text_info">Váha je připojena. Otevřete kryt baterií na spodní straně váhy a nastavte jednotky hmotnosti.</string>
+  <string name="weight_unit_text_info">Otevřete kryt baterií na spodní straně váhy a nastavte jednotky hmotnosti.</string>
   <string name="weight_weighting_now">Vážení...</string>
   <string name="weighting_failed">Čekejte, dokud nepřestanou blikat LED na váze.</string>
   <string name="welcom_back">Vítejte zpět!</string>
@@ -1209,7 +1209,7 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="action_settings">Nastavení</string>
    <string name="alarm_notify">Upozornění na budík</string>
    <string name="alarm_notify_tips2">MiBand musí být připojen k vašemu zařízení přes Bluetooth pro vibrování při buzení</string>
-   <string name="body_standard_ref">Weight standard reference</string>
+   <string name="body_standard_ref"/>
    <string name="chart_info_step">Aktivita</string>
    <string name="chart_info_step_average">Prům. aktivita</string>
    <string name="chart_info_step_piece">Aktuální aktivita</string>
