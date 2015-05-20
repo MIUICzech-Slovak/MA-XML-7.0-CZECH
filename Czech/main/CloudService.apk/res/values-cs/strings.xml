@@ -322,4 +322,20 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatní MIUI aplikace budou i nadále zálohovány.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Zálohujte data aplikací</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="deskclock_backup">Záloha hodin a budíků</string>
+  <string name="micloud_main_suggest_setting">"Čeká se na Wi-Fi síť pro synchr.
+Stiskněte tlačítko Nastavení pro více možností"</string>
+  <string name="micloud_main_sync_setting">Nastavení synchr.</string>
+  <string name="micloud_main_title_sync_fail">Nelze synchr.</string>
+  <string name="micloud_main_title_sync_off">Synchr. vypnuta</string>
+  <string name="micloud_main_title_sync_on_wifi">Použít Wi-Fi</string>
+  <string name="micloud_member">Premiuim</string>
+  <string name="micloud_member_advantage">Získat více úložného prostoru.</string>
+  <string name="micloud_setting_deskclock_summary">Nastavení hodin</string>
+  <string name="micloud_storage">Úložiště</string>
+  <string name="micloud_sync_alert_dialog_message">Synchr. vaše fotografie, kontakty, poznámky a mnohem více.</string>
+  <string name="micloud_sync_alert_dialog_negative">Zrušit</string>
+  <string name="micloud_sync_alert_dialog_positive">OK</string>
+  <string name="micloud_sync_alert_dialog_title">Použít MiCloud</string>
+  <string name="settings_backup_title">Zálohovat nastavení systému</string>
 </resources>

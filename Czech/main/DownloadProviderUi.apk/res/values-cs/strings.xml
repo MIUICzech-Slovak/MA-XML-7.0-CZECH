@@ -150,14 +150,14 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
   <string name="dialog_not_show_again">Znovu nezobrazovat</string>
-  <string name="recommend_downloading">Stahování</string>
+  <string name="recommend_downloading">Stahování...</string>
   <string name="recommend_failed">Selhalo</string>
   <string name="recommend_install">Instalovat</string>
-  <string name="recommend_installing">Instaluje se</string>
+  <string name="recommend_installing">Instaluje se...</string>
   <string name="recommend_loading">Načítání...</string>
   <string name="recommend_open">Otevřít</string>
   <string name="recommend_other_downloads">Top</string>
   <string name="recommend_paused">Pozastaveno</string>
-  <string name="recommend_prepare">V pořadí</string>
-  <string name="recommend_show_other_downloads">Zobrazit top</string>
+  <string name="recommend_prepare">V pořadí...</string>
+  <string name="recommend_show_other_downloads">Zobrazit populární</string>
 </resources>

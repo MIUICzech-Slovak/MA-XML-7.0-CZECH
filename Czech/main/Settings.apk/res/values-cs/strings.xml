@@ -3,16 +3,16 @@
 <resources>
   <string name="about_settings">Informace o zařízení</string>
   <string name="about_settings_summary">Zobrazí právní informace, stav a verzi softwaru</string>
-  <string name="ac_enable_title">Zapnout kontrolu přístupu</string>
+  <string name="ac_enable_title">Uzamknout jednotlivé apl.</string>
   <string name="ac_privacy_mode_sum">Pro deaktivaci soukromého režimu vložte Vaše přístupové heslo</string>
   <string name="ac_privacy_mode_title">Chránit režim soukromí</string>
-  <string name="ac_set_apps_title">Chráněné aplikace</string>
+  <string name="ac_set_apps_title">Vybrat apl. pro uzamknutí</string>
   <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_title">Autom. otočení obrazovky</string>
   <string name="access_control_app_entry_multiple">Otevřít %s</string>
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
-  <string name="access_control_need_password">"%s je zabezpečeno
+  <string name="access_control_need_password">"%s - uzamknuto
 "</string>
   <string name="access_control_need_to_unlock">Pro odemknutí požadováno heslo</string>
   <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>
@@ -1667,7 +1667,7 @@ Zvolte Váš operační systém:"</string>
   <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
   <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
   <string name="priority_storage_title">Nastavení úložiště</string>
-  <string name="privacy_mode_dialog_message">Hovory, poznámky, obrázky, zprávy a nastavení plochy budou skryty</string>
+  <string name="privacy_mode_dialog_message">Skrýt příchozí hovory a zprávy, poznámky, fotografie a nastavení plochy</string>
   <string name="privacy_mode_dialog_title">Režim Návštěvník</string>
   <string name="privacy_mode_enable_sum">Skrýt seznam hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
   <string name="privacy_mode_enable_title">Zapnout režim soukromí</string>
@@ -2932,8 +2932,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="enable_crypt_keeper_encrypt">Povolit šifrování</string>
   <string name="location_access_off">Vyp</string>
   <string name="location_access_on">Zap</string>
-  <string name="privacy_mode_summary">Uživatelská data budou skryta</string>
-  <string name="privacy_mode_title">Povolení</string>
+  <string name="privacy_mode_summary">Uzamknout jednotlivé apl. nebo skrýt osobní informace</string>
+  <string name="privacy_mode_title">Nastavení soukromí</string>
   <string name="agps_roaming">A-GPS v roamingu</string>
   <string name="agps_roaming_dia">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
   <string name="agps_roaming_dia_title">Pooužít A-GPS v roamingu</string>
@@ -3607,4 +3607,6 @@ asistenta Wi-Fi"</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Vyžadovat heslo okamžitě</string>
   <string name="lock_screen_secure_after_timeout_summary">Vyžadovat heslo po %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Vyžadovat heslo</string>
+  <string name="fluency_mode_confirm_and_reboot">Restartovat</string>
+  <string name="performance_category">Výkon</string>
 </resources>

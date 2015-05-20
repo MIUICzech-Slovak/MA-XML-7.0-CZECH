@@ -8,7 +8,7 @@
     <string name="retry">Znovu</string>
     <string name="cloud_app_current_device">Toto zařízení</string>
     <string name="cloud_app_other_devices">Ostatní zařízení</string>
-    <string name="cloud_app_restore_app_and_data">Obnovit rozložení domácí obr.</string>
+    <string name="cloud_app_restore_app_and_data">Obnovit z MiCloud</string>
     <string name="cloud_app_restore_data">Obnovit nainstalované aplikace</string>
     <string name="cloud_app_dont_restore">Neobnovovat</string>
     <string name="cloud_app_restore_wifi_prompt">Pro obnovení aplikací se připojte k Wi-Fi.</string>
@@ -68,4 +68,8 @@
     <string name="remove_task_in_process">mazání</string>
     <string name="remove_task_unfinished">mazání není dokončeno</string>
     <string name="back_up_task_unfinished">obnovení nebylo dokončeno</string>
+    <string name="deskclock_backup">Hodiny</string>
+    <string name="recover_home_settings">Obnovit nastavení plochy</string>
+    <string name="recover_miui_settings">Obnovit nastavení MIUI</string>
+    <string name="settings_backup">Nastavení systému</string>
 </resources>
