@@ -206,7 +206,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukce pruhů na displeji</string>
-  <string name="pref_camera_asd_night_title">Automatické vylepšení noční fotografie</string>
+  <string name="pref_camera_asd_night_title">Autom. vylepšit noční fotografii</string>
   <string name="pref_camera_asd_popup_title">Upozornit na nutný blesk</string>
   <string name="pref_camera_asd_title">Autom. rozpoznat scénu</string>
   <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
