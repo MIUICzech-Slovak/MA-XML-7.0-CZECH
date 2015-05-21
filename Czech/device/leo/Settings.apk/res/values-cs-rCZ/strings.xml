@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+  <string name="bluetooth_enter_pin_msg">Zařízení</string>
+  <string name="bluetooth_enter_pin_msg_hs">Zařízení vyžaduje 16 místné heslo</string>
+  <string name="bluetooth_enter_passkey_msg">"Zadejte párovací kód a potom stiskněte tlačítko Return nebo Enter"</string>
+</resources>

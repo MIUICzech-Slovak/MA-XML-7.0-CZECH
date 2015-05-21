@@ -96,7 +96,6 @@ Please check tracking number"</string>
   <string name="login_ok">Přihlásit</string>
   <string name="mark_number_custom_dialog_maintitle">Souhlasíte nebo chcete upravit označení?</string>
   <string name="mark_number_dialog_maintitle">Označit jako spam a odeslat</string>
-  <string name="mark_number_dialog_subtitle"/>
   <string name="mark_title_null_hint">Input should not be empty</string>
   <string name="menu_about_yellow_page">Co je to</string>
   <string name="menu_add_black_list">Přidat na černou listinu</string>
