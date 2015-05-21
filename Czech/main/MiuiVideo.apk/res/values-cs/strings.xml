@@ -109,7 +109,7 @@
   <string name="download_finished">Finished</string>
   <string name="download_geturl_fail">Získání URL selhalo.</string>
   <string name="download_is_in_tasklist">Je v seznamu načítání</string>
-  <string name="download_paused">Pozastavené</string>
+  <string name="download_paused">Pozastaveno</string>
   <string name="download_percent_hint">Stahování %d%%</string>
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Fetching address</string>
