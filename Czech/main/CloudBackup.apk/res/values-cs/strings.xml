@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Záloha domácí obrazovky</string>
+    <string name="app_name">Záloha aplikací</string>
     <string name="button_cancel">Zrušit</string>
     <string name="button_next">Další</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
