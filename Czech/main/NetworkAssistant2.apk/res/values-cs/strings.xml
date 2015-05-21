@@ -262,7 +262,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Aplikace v seznamu výjimek budou mít přístup k mobilním datům v roamingu.</string>
   <string name="roaming_not_start_title">Mezinárodní roaming</string>
-  <string name="roaming_start_body">Povolit aplikacím v seznamu výjimek připojit se k mobilním datům v roamingu.</string>
+  <string name="roaming_start_body">Povolit aplikacím datové připojení.</string>
   <string name="roaming_start_title">Mezinárodní roaming</string>
   <string name="sc_allow_network_dialog_message">Je nutné povolit této aplikaci přístup k síťovému připojení.</string>
   <string name="sc_allow_network_dialog_tiltle">Nelze využívat úsporu dat</string>

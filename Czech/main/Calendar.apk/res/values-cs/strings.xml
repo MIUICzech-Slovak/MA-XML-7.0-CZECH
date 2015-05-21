@@ -318,4 +318,6 @@
   <string name="sync_notice_ok_toast_message">Lokálně uložené události budou synchronizovány s MiCloud</string>
   <string name="sync_notice_title">Synchronizace</string>
   <string name="action_label">Další</string>
+  <string name="select_date">Vybrat datum</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Kupte květy nebo dortu pro TA</string>
 </resources>

@@ -375,7 +375,7 @@ společně!"</string>
   <string name="not_auto_create_recent_album">Nevytvářet automaticky často zobrazená alba</string>
   <string name="not_now">Později</string>
   <string name="not_show_hidden_albums">"Nezobrazovat skrytá alba"</string>
-  <string name="only_show_camera_in_first_page">Zobrazit pouze fotografie z alba na první straně</string>
+  <string name="only_show_camera_in_first_page">Fotografie z alba na první straně</string>
   <string name="only_show_camera_in_first_page_summary">Pokud je deaktivováno, budou zobrazeny fotografie ze všech alb v cloudu.</string>
   <string name="open">Otevřít</string>
   <string name="open_public_message">Vytvořit URL a odeslat ostatním</string>
@@ -684,4 +684,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="ubifocus_data_invalid">Některá data pro tento obrázek jsou poškozena</string>
   <string name="ubifocus_refocus_data_invalid">Nelze použít Refocus, protože některá data pro tento obrázek jsou poškozena</string>
   <string name="videos">Videa</string>
+  <string name="cant_delete_system_album">Vymazání selhalo: %s je systémové album nebo je sdílené jiným uživatelem.</string>
+  <string name="paint_highlight_cancel_context">Uložit zvýrazněný obrázek?</string>
+  <string name="paint_highlight_cancel_title">Zrušit změny</string>
 </resources>

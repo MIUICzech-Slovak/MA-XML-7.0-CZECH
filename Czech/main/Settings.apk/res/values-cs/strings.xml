@@ -3609,4 +3609,5 @@ asistenta Wi-Fi"</string>
   <string name="lock_screen_secure_after_timeout_title">Vyžadovat heslo</string>
   <string name="fluency_mode_confirm_and_reboot">Restartovat</string>
   <string name="performance_category">Výkon</string>
+  <string name="cell_broadcast_settings_summary">Vyberte typ nouzových zpráv pro zobrazení</string>
 </resources>

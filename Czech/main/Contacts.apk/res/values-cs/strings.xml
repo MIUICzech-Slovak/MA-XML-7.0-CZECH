@@ -1187,4 +1187,5 @@ Vyberte si z následujících možností:</string>
   <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
   <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
   <string name="preference_contacts_recovery_introduction">Obnovit kontakty</string>
+  <string name="group_sms_error_message">Chyba skupinové SMS: %s nad limit</string>
 </resources>
