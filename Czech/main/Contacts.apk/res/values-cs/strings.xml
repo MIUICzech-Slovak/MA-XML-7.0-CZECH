@@ -585,7 +585,7 @@ Chyba: \"%s\""</string>
   <string name="nickname_picker_name_column">Jméno kontaktu</string>
   <string name="nickname_picker_nickname_column">Titul</string>
   <string name="noAccounts">Aby bylo možné vytvořit skupiny, musí výt vytvořen účet</string>
-  <string name="noContactHelpTextAccountsInfo">Synchr. kontakty</string>
+  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví data zálohována na účtu Xiaomi</string>
   <string name="noContacts">Žádné kontakty</string>
   <string name="noContactsHelpText">"Nemáte žádné kontakty k zobrazení.

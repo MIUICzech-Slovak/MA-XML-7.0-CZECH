@@ -352,4 +352,5 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_member_webload_fail_error_message">Chyba sítě</string>
   <string name="micloud_member_webload_fail_toast_4xx">Stránku nebylo možné načíst</string>
   <string name="micloud_member_webload_fail_toast_5xx">Chyba serveru</string>
+  <string name="micloud_main_space_low">Dochází volné místo...</string>
 </resources>

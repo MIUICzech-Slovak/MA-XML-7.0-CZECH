@@ -3610,4 +3610,7 @@ asistenta Wi-Fi"</string>
   <string name="fluency_mode_confirm_and_reboot">Restartovat</string>
   <string name="performance_category">Výkon</string>
   <string name="cell_broadcast_settings_summary">Vyberte typ nouzových zpráv pro zobrazení</string>
+  <string name="virtual_sim_category_title">Virtuální SIM</string>
+  <string name="virtual_sim_description">SIM virtuálního operátora</string>
+  <string name="virtual_sim_title">Roaming datové sítě</string>
 </resources>

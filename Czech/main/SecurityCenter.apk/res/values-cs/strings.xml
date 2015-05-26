@@ -751,4 +751,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="cmcc_app_check_dialog_positive">Restartovat</string>
   <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
   <string name="toast_resolve_apk_error">Opravit chybu apk</string>
+  <string name="app_not_installed_toast">Aplikace není nainstalována.</string>
 </resources>

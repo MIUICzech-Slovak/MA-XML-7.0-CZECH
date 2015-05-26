@@ -171,7 +171,7 @@
   <string name="login_tip_title">Přihlásit</string>
   <string name="media_name_comment">%s komentář</string>
   <string name="memory_mode_desc">Save memory usage</string>
-  <string name="menu_item_enable_audio_enhance">Vylepšení zvuku</string>
+  <string name="menu_item_enable_audio_enhance">Vylepšit zvuk</string>
   <string name="menu_item_disable_audio_enhance">Nevylepšovat zvuk</string>
   <string name="menu_name">Menu</string>
   <string name="mine_info_account_summary_none">Not login</string>
