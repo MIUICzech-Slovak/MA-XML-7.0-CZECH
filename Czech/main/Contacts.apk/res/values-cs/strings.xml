@@ -1188,4 +1188,8 @@ Vyberte si z následujících možností:</string>
   <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
   <string name="preference_contacts_recovery_introduction">Obnovit kontakty</string>
   <string name="group_sms_error_message">Chyba skupinové SMS: %s nad limit</string>
+  <string name="export_sim_contact_finish_msg">%1$d přenesených | %2$d přeskočených | %3$d zbývá</string>
+  <string name="deleting_sim_entry_miui_prepare">Příprava na vymazání...</string>
+  <string name="importing_sim_contacts_miui_prepare">Příprava na import...</string>
+  <string name="loading_accounts">Načítání SIM...</string>
 </resources>

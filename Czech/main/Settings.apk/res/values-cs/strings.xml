@@ -3613,4 +3613,8 @@ asistenta Wi-Fi"</string>
   <string name="virtual_sim_category_title">Virtuální SIM</string>
   <string name="virtual_sim_description">SIM virtuálního operátora</string>
   <string name="virtual_sim_title">Roaming datové sítě</string>
+  <string name="status_bar_settings_manage_notification">Spravovat upozornění</string>
+  <string name="virtual_sim_category_title">Virtual Sim</string>
+  <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_title">Roaming data network</string>
 </resources>
