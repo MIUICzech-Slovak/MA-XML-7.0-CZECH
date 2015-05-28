@@ -779,4 +779,20 @@ Některé zařízení nebylo migrované. Restartujte zařízení a přidejte nov
   <string name="setting_app_feedback">Zpětná vazba</string>
   <string name="stop_bind_device_tip">Registrace nového zařízení s jiným, než Xiaomi účtem, již není podporována. Přihlaste se svým Xiaomi účtem.</string>
   <string name="udp_ready_receive">Příprava zařízení</string>
+  <string name="use_barcode_bind">Zkuste nastavení QR kódem</string>
+  <string name="use_barcode_bindkey_error">Generování QR kódu selhalo. Zkuste to znovu.</string>
+  <string name="use_barcode_bindkey_expire">Platnost QR kódu vypršela</string>
+  <string name="use_barcode_click">QR kód se zobrazí v dalším kroku</string>
+  <string name="use_barcode_connect_success">Kamera byla úspěšně nastavena!</string>
+  <string name="use_barcode_continue">Pokračovat</string>
+  <string name="use_barcode_dialog_msg">"Nastavení QR kódem je podporováno u zařízení s nočním viděním, 
+ostatní zařízení budou podporována později."</string>
+  <string name="use_barcode_heard">Byl slyšet oznamovací zvuk \"Připojování, čekejte prosím\"</string>
+  <string name="use_barcode_heard_connecting">Byl slyšet oznamovací zvuk \"Připojování, čekejte prosím\"?</string>
+  <string name="use_barcode_heard_nothing">Nebyl slyšet oznamovací zvuk?</string>
+  <string name="use_barcode_read_success">Skenování QR kódu úspěšné</string>
+  <string name="use_barcode_retry">Nastavit znovu</string>
+  <string name="use_barcode_startuse">Začít používat</string>
+  <string name="use_barcode_use_tip">"Zobrazený QR kód ukažte na kameru
+a čekejte na jeho načtení"</string>
 </resources>
