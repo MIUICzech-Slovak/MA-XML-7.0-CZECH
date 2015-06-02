@@ -86,5 +86,4 @@
   <string name="activate_popup_desc_failed_server">Chyba serveru. Zkontrolujte síťové připojení.</string>
   <string name="activate_popup_desc_intl_sim_card">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
   <string name="activate_popup_desc_mixed_sim_cards">Bude odeslána SMS a mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
-  <string name="activate_sms_postfix">[Tato SMS zpráva je použita na aktivaci vašeho účtu.]</string>
 </resources>
