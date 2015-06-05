@@ -631,7 +631,7 @@ společně!"</string>
   <string name="face_album_rename_hint">Zadejte jméno</string>
   <string name="face_albumset_detecting_tip">Rozpoznávání tváří...</string>
   <string name="face_albumset_empty">Žádná tvář nebyla rozpoznána</string>
-  <string name="face_albumset_use_tip">"Pomožte vyhledat tyto tváře,
+  <string name="face_albumset_use_tip">"Vyhledat tváře na fotografiích,
 ulehčí vám to prohlížení a správu vašich fotografií"</string>  
   <string name="face_move_dialog_title">Vyberte album</string>
   <string name="home_page_tab_face">Tvář</string>
@@ -645,7 +645,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="rename_face_album">Změnit jméno</string>
   <string name="rename_fail_msg">Selhalo</string> 
   <string name="rise">Rise</string>
-  <string name="start_to_use_face_albumset">Začněte používat album tváří</string>
+  <string name="start_to_use_face_albumset">Použít album tváří</string>
   <string name="view_face_album">Zobrazit album</string>
   <string name="who_is_this">Kdo je to?</string>
   <string name="effect">Filtry</string>
@@ -662,7 +662,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="confirm_all_photo_not_this_people_face">Není na všech fotografiích?</string>
   <string name="confirm_face">Označit</string>
   <string name="confirm_left_photo_will_move_out">Ostatní fotografie budou přesunuty mimo tohoto alba</string>
-  <string name="enabling_face_feature">Zapínání...</string>
+  <string name="enabling_face_feature">Kontrola...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie se uspořádají až po připojení k Wi-Fi</string>
   <string name="ignore_album">Ignorovat</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">V galerii dlouze podržte prst na fotografii a můžete ji přidat do skrytého alba.</string>
@@ -687,7 +687,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="cant_delete_system_album">Vymazání selhalo: %s je systémové album nebo je sdílené jiným uživatelem.</string>
   <string name="paint_highlight_cancel_context">Uložit zvýrazněný obrázek?</string>
   <string name="paint_highlight_cancel_title">Zrušit změny</string>
-  <string name="add_event">Přidat událost</string>
+  <string name="add_event">Název</string>
   <string name="add_event_hint">Zadejte název</string>
   <string name="confirm_all_photo_are_this_people_face">Všechny nalezené?</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojit tato alba s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
