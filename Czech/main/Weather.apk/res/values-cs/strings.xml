@@ -288,4 +288,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
   <string name="to_activate_the_account">Aktivovat Xiaomi účet.</string>
+  <string name="act_weather_find_city_china">Čína</string>
 </resources>
