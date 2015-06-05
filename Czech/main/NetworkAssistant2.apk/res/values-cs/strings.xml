@@ -446,7 +446,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="replace_dns">Automaticky nahradit</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="signal_exception_summary">Nelze se připojit k síti.</string>
-  <string name="signal_exception_title">Testovat sílu signálu</string>
+  <string name="signal_exception_title">Kontrola síly signálu</string>
   <string name="unable_connect_internet">Nelze se připojit k síti</string>
   <string name="usbsharenet_exception_summary">Nelze zkontrolovat připojení přes MiPCsuite.</string>
   <string name="usbsharenet_exception_title">Zkontrolovat síť přes USB</string>

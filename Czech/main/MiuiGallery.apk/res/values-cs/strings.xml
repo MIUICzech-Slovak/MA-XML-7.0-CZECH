@@ -629,23 +629,23 @@ společně!"</string>
   <string name="face_album">Album lidí</string>
   <string name="face_album_not_named">Beze jména</string>
   <string name="face_album_rename_hint">Zadejte jméno</string>
-  <string name="face_albumset_detecting_tip">Rozpoznávání tváří...</string>
-  <string name="face_albumset_empty">Žádná tvář nebyla rozpoznána</string>
-  <string name="face_albumset_use_tip">"Vyhledat tváře na fotografiích,
+  <string name="face_albumset_detecting_tip">Rozpoznávání lidí...</string>
+  <string name="face_albumset_empty">Žádná osoba nebyla rozpoznána</string>
+  <string name="face_albumset_use_tip">"Vyhledat osoby na fotografiích,
 ulehčí vám to prohlížení a správu vašich fotografií"</string>  
   <string name="face_move_dialog_title">Vyberte album</string>
-  <string name="home_page_tab_face">Tvář</string>
-  <string name="ignore_face">Ignorovat tuto tvář</string>
+  <string name="home_page_tab_face">Lidé</string>
+  <string name="ignore_face">Ignorovat tuto osobu</string>
   <string name="merge_album_positive_button_text">Spojit</string>
   <string name="name_wrong">Ne %s</string>
   <string name="old">​Stará</string>
-  <string name="operation_remove_from_face_album">Odstranit tvář</string>
+  <string name="operation_remove_from_face_album">Odstranit osobu</string>
   <string name="photo_save_succeed">Uloženo</string>
   <string name="preparing_data">Spracovávání dat...</string>
   <string name="rename_face_album">Změnit jméno</string>
   <string name="rename_fail_msg">Selhalo</string> 
   <string name="rise">Rise</string>
-  <string name="start_to_use_face_albumset">Použít album tváří</string>
+  <string name="start_to_use_face_albumset">Album lidí</string>
   <string name="view_face_album">Zobrazit album</string>
   <string name="who_is_this">Kdo je to?</string>
   <string name="effect">Filtry</string>
@@ -694,6 +694,8 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="event_manage_photos">Spravovat fotografie</string>
   <string name="face_albumset_loading_data">Načítání...</string>
   <string name="merge_album">Spojit</string>
-  <string name="merge_album_title">Spojit alba</string>
+  <string name="merge_album_title">Spojit alba do</string>
   <string name="pick_from_contact">Vybrat z kontaktů</string>
+  <string name="face_album_long_tap_tip">Pro vybrání vícero osob nebo změnu nastavení skupiny, stiskněte a podržte obrázek profilu</string>
+  <string name="ignore_alert_title">Pokud bude ignorované, znovu se již nezobrazí. Chcete ignorovat?</string>
 </resources>
