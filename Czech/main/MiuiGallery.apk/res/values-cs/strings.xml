@@ -265,14 +265,14 @@ společně!"</string>
   <string name="has_invalid_recipient">Neplatní příjemci:%1$s</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
-  <string name="home_my_captured_items">" snímků"</string>
+  <string name="home_my_captured_items">" Snímků"</string>
   <string name="home_page_tab_cloud">MiCloud</string>
   <string name="home_page_tab_local">Lokální</string>
   <string name="home_page_tab_photo">Fotografie</string>
-  <string name="how_many_pics">%d\u0020obrázků</string>
+  <string name="how_many_pics">%d Snímků</string>
   <string name="how_many_sub_folders">%d\u0020složek</string>
   <string name="how_many_videos">%d\u0020videí</string>
-  <string name="image_download_item_title">Stahování obrázku(%s)</string>
+  <string name="image_download_item_title">Stahování obrázku (%s)</string>
   <string name="image_quota_fulfiled">"Nelze vytvořit obrázek, Počet obrázků přesáhnul limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletní</string>
