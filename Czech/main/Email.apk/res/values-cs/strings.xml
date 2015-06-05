@@ -298,7 +298,7 @@
   <string name="compose_help_context">Text zprávy</string>
   <string name="compose_send">Odeslat</string>
   <string name="compose_sent">Odesláno</string>
-  <string name="confirm">potvrdit</string>
+  <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazat tento e-mail?</string>
   <string name="confirm_delete_conversation_title">Vymazat</string>
   <string name="confirm_discard_text">Zahodit tuto zprávu?</string>

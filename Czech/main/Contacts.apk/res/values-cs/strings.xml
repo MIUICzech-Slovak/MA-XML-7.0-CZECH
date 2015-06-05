@@ -681,8 +681,8 @@ Synchronizujte je nyní."</string>
   <string name="phone_primary">Primární</string>
   <string name="photoPickerNotFoundText">V telefonu nejsou k dispozici žádné obrázky.</string>
   <string name="photo_package_activity_title">Balíček fotek</string>
-  <string name="pick_new_photo">Vyberte novou fotku z Galerie</string>
-  <string name="pick_photo">Vybrat novou fotku z Galerie</string>
+  <string name="pick_new_photo">Vybrat z Galerie</string>
+  <string name="pick_photo">Vybrat z Galerie</string>
   <string name="pickerNewContactHeader">Vytvořit nový kontakt</string>
   <string name="pickerNewContactText">Vytvořit nový kontakt</string>
   <string name="picker_all_list_empty">Žádné kontakty</string>
