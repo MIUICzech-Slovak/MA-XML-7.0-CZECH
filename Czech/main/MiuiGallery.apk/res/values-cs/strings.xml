@@ -624,7 +624,7 @@ společně!"</string>
   <string name="confirm_merge_face_albums">" "Spojit toto album s %s?" "</string>
   <string name="cool">​Cool</string>
   <string name="cool_portrait">CoolPortrét</string>
-  <string name="create_new_face">Nová tvář</string>
+  <string name="create_new_face">Nová osoba</string>
   <string name="early_bird">Earlybird</string>
   <string name="face_album">Album lidí</string>
   <string name="face_album_not_named">Beze jména</string>
@@ -698,4 +698,5 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="pick_from_contact">Vybrat z kontaktů</string>
   <string name="face_album_long_tap_tip">Pro vybrání vícero osob nebo změnu nastavení skupiny, stiskněte a podržte obrázek profilu</string>
   <string name="ignore_alert_title">Pokud bude ignorované, znovu se již nezobrazí. Chcete ignorovat?</string>
+  <string name="confirm_not_face">Tato osoba ne</string>
 </resources>
