@@ -9,19 +9,19 @@
   <string name="activity_not_found">Není dostupná žádná aplikace k dokončení akce.</string>
   <string name="add_account">Přidat účet</string>
   <string name="add_sharer">Přidat člena</string>
-  <string name="add_to_cloud_album">Přidat do Cloudu</string>
+  <string name="add_to_cloud_album">Přidat do MiCloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">Soubor je příliš velký.</string>
   <string name="add_to_cloud_fail_too_many_items">Operaci není možné dokončit, je zvoleno příliš mnoho položek</string>
-  <string name="add_to_cloud_failed_message_with_count">%2$s souborů nelze přidat do cloudu: %1$s</string>
+  <string name="add_to_cloud_failed_message_with_count">%2$s souborů nelze přidat do MiCloud: %1$s</string>
   <string name="add_to_cloud_file_exist_message">Fotografie již existuje v tomto albu.</string>
-  <string name="add_to_cloud_folder">Přidat do Cloud složky</string>
+  <string name="add_to_cloud_folder">Přidat do MiCloud složky</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Překročen limit obrázků.</string>
   <string name="add_to_cloud_local_space_full_message">Úložiště je plné.</string>
   <string name="add_to_cloud_reasons"/>
-  <string name="add_to_cloud_space_full_message">Cloud album je plné.</string>
-  <string name="add_to_cloud_successfully_message">Přidáno do cloudu.</string>
+  <string name="add_to_cloud_space_full_message">MiCloud album je plné.</string>
+  <string name="add_to_cloud_successfully_message">Přidáno do MiCloud.</string>
   <string name="add_to_cloud_type_not_support_message">Typ souboru není podporován.</string>
-  <string name="add_to_cloud_unfinished_message_with_count">Není cloudu: %1$s</string>
+  <string name="add_to_cloud_unfinished_message_with_count">Není MiCloud: %1$s</string>
   <string name="add_to_cloud_unknow_reasons">Neznámá chyba</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s položek nebylo přidáno do tajných: %1$s."</string>
   <string name="add_to_secret_successfully_message">Přidáno do tajného alba</string>
@@ -47,7 +47,7 @@
   <string name="alert_init_merged_message">Fotografie, které máte ve svém zařízení a v MiCloud, se zobrazí na jednom místě.</string>
   <string name="alert_init_merged_title">Všechny fotografie na jednom místě</string>
   <string name="alert_message_open_sync">Vyžaduje se synchronizace, přejete si synchronizovat nyní?</string>
-  <string name="alert_secret_album_message">Posuňte prstem shora dolů v cloud albech, pro zobrazení tajného alba. Pro jeho ochranu je zapotřebí nastavit vzor</string>
+  <string name="alert_secret_album_message">Posuňte prstem shora dolů v MiCloud albech, pro zobrazení tajného alba. Pro jeho ochranu je zapotřebí nastavit vzor</string>
   <string name="alert_secret_album_set_pattern">Nastavit vzor</string>
   <string name="alert_secret_album_title">Přidáno do tajného alba</string>
   <string name="already_apply_album">Otevřít %1$s?</string>
@@ -101,7 +101,7 @@
   <string name="click_to_enter_camera">Otevřít fotoaparát</string>
   <string name="click_top_right">Stiskněte ikonu vpravo nahoře</string>
   <string name="close">Zavřít</string>
-  <string name="cloud_album_more_settings">Cloud alba a auto upload</string>
+  <string name="cloud_album_more_settings">MiCloud alba a auto upload</string>
   <string name="cloud_album_set_create">Složka</string>
   <string name="cloud_album_set_scan_qr_code">QR kód</string>
   <string name="cloud_albums">Cloudová Alba</string>
@@ -109,8 +109,8 @@
   <string name="cloud_be_shared_guide_title">Toto album je od přítele</string>
   <string name="cloud_camera_display_name">Fotografie</string>
   <string name="cloud_gallery_no_pictures">Žádné fotografie v MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Koš v Cloudu je plný, vyprázdněte ho na stránce i.mi.com</string>
-  <string name="cloud_gallery_space_full">Nahrávání selhalo!, Cloud úložiště galerie je plné</string>
+  <string name="cloud_gallery_recyclebin_full">Koš v MiCloud je plný, vyprázdněte ho na stránce i.mi.com</string>
+  <string name="cloud_gallery_space_full">Nahrávání selhalo!, MiCloud úložiště galerie je plné</string>
   <string name="cloud_media_set_set">Cloudová alba</string>
   <string name="cloud_owner_album_share_guide">Můžete sdílet toto album s přáteli</string>
   <string name="cloud_screenshots_display_name">Screenshoty</string>
@@ -122,7 +122,7 @@ společně!"</string>
   <string name="cloud_tab_albums">Alba</string>
   <string name="cloud_tab_all">Vše</string>
   <string name="cloud_tab_locations">Polohy</string>
-  <string name="cloudfolder_already_exists">Složka Cloud už existuje</string>
+  <string name="cloudfolder_already_exists">Složka MiCloud už existuje</string>
   <string name="cloudfolder_cannot_start_with">"Název složky nesmí začínat na '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Název složky nesmí obsahovat '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">Načítání dat selhalo z neznámého důvodu, zkuste to znovu...</string>
@@ -137,7 +137,7 @@ společně!"</string>
   <string name="confirm_delete_has_cloud_image_video">Vymazat (%s) fotografií z vašeho zařízení a MiCloud?</string>
   <string name="confirm_delete_has_cloud_local_image_video">Vymazat položky (%s) z vašeho zařízení a MiCloud?</string>
   <string name="confirm_delete_has_local_image_video">Vymazat položky (%s)?</string>
-  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a cloudu?</string>
+  <string name="confirm_delete_home_merge_item">Vymazat obrázky (%s) v zařízení a MiCloud?</string>
   <string name="confirm_delete_init_message">Obrázky budou vymazány z MiCloudu a také z vašeho zařízení. Pokud je chcete vymazat pouze z vašeho zařízení, přejděte na složku Lokální.</string>
   <string name="confirm_delete_init_title">Poznámka</string>
   <string name="confirm_delete_pictures">Vymazat obrázky (%s)</string>
@@ -153,7 +153,7 @@ společně!"</string>
   <string name="context_menu_copy">Kopírovat</string>
   <string name="context_menu_copy_notice">Zkopírováno do schránky</string>
   <string name="contrast">Kontrast</string>
-  <string name="create_new_cloud_folder">Vytvořit novou složku v Cloudu</string>
+  <string name="create_new_cloud_folder">Vytvořit novou složku v MiCloud</string>
   <string name="crop">Ořezat</string>
   <string name="crop_fail_to_load_image">Načítání obrázku pro ořezání selhalo.</string>
   <string name="crop_label">Ořezat obrázek</string>
@@ -201,7 +201,7 @@ společně!"</string>
   <string name="enable_cloud_for_sharing">Je nutné povolit cloudové album pro zobrazení sdílených fotografií.</string>
   <string name="enter_email_hint">"Zadejte e-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
-  <string name="error_cloud_not_active">Cloud album se nepoužívá</string>
+  <string name="error_cloud_not_active">MiCloud album se nepoužívá</string>
   <string name="error_forbidden">Vyskytly se problémy s vaším účtem: synchr. deaktivována.</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požádejte vlastníka o vytvoření nového odkazu.</string>
   <string name="error_not_acceptable">Chyba serveru: synchr. deaktivována.</string>
@@ -266,7 +266,7 @@ společně!"</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
   <string name="home_my_captured_items">" snímků"</string>
-  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_cloud">MiCloud</string>
   <string name="home_page_tab_local">Lokální</string>
   <string name="home_page_tab_photo">Fotografie</string>
   <string name="how_many_pics">%d\u0020obrázků</string>
@@ -284,8 +284,8 @@ společně!"</string>
   <string name="impunity_declaration_title">Připojení k síti</string>
   <string name="initial_cloud_button_text">Přihlásit se</string>
   <string name="initial_cloud_text">Kdykoli a kdekoli můžete mít vaše fotografie vždy při sobě</string>
-  <string name="initializing_cloud">Vytváření Cloud Alba...</string>
-  <string name="input_cloudfolder_name">Název složky v Cloudu</string>
+  <string name="initializing_cloud">Vytváření MiCloud Alba...</string>
+  <string name="input_cloudfolder_name">Název složky v MiCloud</string>
   <string name="internal_camera_folder_display_name">Interní fotografie</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interní screenshoty</string>
   <string name="internal_sd_card">Interní úložiště</string>
@@ -351,7 +351,7 @@ společně!"</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">Více</string>
   <string name="move">Přesunout</string>
-  <string name="move_to_cloud_album">Přemístit do Cloudu</string>
+  <string name="move_to_cloud_album">Přemístit do MiCloud</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Vyber plochu pro začátek.</string>
@@ -376,7 +376,7 @@ společně!"</string>
   <string name="not_now">Později</string>
   <string name="not_show_hidden_albums">"Nezobrazovat skrytá alba"</string>
   <string name="only_show_camera_in_first_page">Fotografie z alba na první straně</string>
-  <string name="only_show_camera_in_first_page_summary">Pokud je deaktivováno, budou zobrazeny fotografie ze všech alb v cloudu.</string>
+  <string name="only_show_camera_in_first_page_summary">Pokud je deaktivováno, budou zobrazeny fotografie ze všech alb v MiCloud.</string>
   <string name="open">Otevřít</string>
   <string name="open_public_message">Vytvořit URL a odeslat ostatním</string>
   <string name="open_public_title">Sdílet veřejně</string>
@@ -490,7 +490,7 @@ společně!"</string>
   <string name="secret_album_display_name">Tajné album</string>
   <string name="select_album">Vybrat album</string>
   <string name="select_all">Vybrat vše</string>
-  <string name="select_auto_upload_albums">Vyberte alba pro nahrání do cloudu</string>
+  <string name="select_auto_upload_albums">Vyberte alba pro nahrání do MiCloud</string>
   <string name="select_image">Vybrat snímek</string>
   <string name="select_item">Vybrat položku</string>
   <string name="select_too_much_to_send_tips">Bylo zvoleno příliš mnoho fotografií na odeslání. Zvolte maximálně %d.</string>
@@ -513,7 +513,7 @@ společně!"</string>
   <string name="set_screensaver_path_title">Prezentace</string>
   <string name="set_wallpaper">Nastavuji tapetu plochy...</string>
   <string name="settings">Nastavení</string>
-  <string name="settings_i_xiaomi_com">Váš cloud je na adrese i.mi.com</string>
+  <string name="settings_i_xiaomi_com">Váš MiCloud je na adrese i.mi.com</string>
   <string name="shadow">Stíny</string>
   <string name="share_album">Sdílet album</string>
   <string name="share_album_owner">Vlastník</string>
