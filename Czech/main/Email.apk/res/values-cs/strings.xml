@@ -937,7 +937,7 @@ Velikost aplikace: %2$s"</string>
   <string name="contact_edit_title_phone_contact">Seznam kontaktů</string>
   <string name="re_download_message_button">Stáhnout znovu</string>
   <string name="re_download_message_info">Stahování zprávy selhalo</string>
-  <string name="account_setup_incoming_username_label_default_hint">Obsahuje doménu</string>
+  <string name="account_setup_incoming_username_label_default_hint">Může obsahovat i doménu</string>
   <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnuta, nelze přijímat nové zprávy.</string>
   <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnuta, nelze přijímat nové zprávy.</string>
   <string name="oauth_error_description">Nepodařilo se autorizovat</string>

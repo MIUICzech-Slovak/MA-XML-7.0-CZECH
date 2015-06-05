@@ -513,4 +513,15 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="sim_state_exception_summary">Něco je v nepořádku s vaší SIM kartou.</string>
   <string name="usbsharenet_pc_exception_summary">Nelze se připojit k síti přes sdílené připojení. Zkontrolujte připojení vašeho PC.</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
+  <string name="miuishare_title_more">Více</string>
+  <string name="miuishare_title_share">Sdílet</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_connected_exception_title">Zkontrolovat síť</string>
+  <string name="network_not_available">Nelze se připojit k síti</string>
+  <string name="networkchanged_exception_summary">Připojení k síti bylo změněno. Zkontrolujte jej znovu.</string>
+  <string name="networkchanged_exception_title">Připojení omezeno</string>
+  <string name="no_network_btn">Zkusit znovu</string>
+  <string name="permission_exception_summary">Některé aplikace nemají povolení na připojení k internetu</string>
+  <string name="permission_exception_title">Zobrazit povolení sítě</string>
 </resources>

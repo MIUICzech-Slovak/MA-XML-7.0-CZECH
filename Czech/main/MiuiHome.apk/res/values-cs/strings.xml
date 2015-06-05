@@ -276,4 +276,5 @@
   <string name="mtzgadget_missing_text">Již není dostupný</string>
   <string name="download_action">Stáhnout</string>
   <string name="loading_wallpaper">Načítání...</string>
+  <string name="is_setting_wallpaper_message">Nastavování tapety...</string>
 </resources>

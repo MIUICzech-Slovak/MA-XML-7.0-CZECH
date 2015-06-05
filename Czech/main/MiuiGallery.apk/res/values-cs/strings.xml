@@ -687,4 +687,13 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="cant_delete_system_album">Vymazání selhalo: %s je systémové album nebo je sdílené jiným uživatelem.</string>
   <string name="paint_highlight_cancel_context">Uložit zvýrazněný obrázek?</string>
   <string name="paint_highlight_cancel_title">Zrušit změny</string>
+  <string name="add_event">Přidat událost</string>
+  <string name="add_event_hint">Zadejte název</string>
+  <string name="confirm_all_photo_are_this_people_face">Všechny nalezené?</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojit tato alba s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="event_manage_photos">Spravovat fotografie</string>
+  <string name="face_albumset_loading_data">Načítání...</string>
+  <string name="merge_album">Spojit</string>
+  <string name="merge_album_title">Spojit alba</string>
+  <string name="pick_from_contact">Vybrat z kontaktů</string>
 </resources>

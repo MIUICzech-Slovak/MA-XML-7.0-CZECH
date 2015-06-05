@@ -80,4 +80,6 @@
   <string name="unknown_caller">Neznámé číslo</string>
   <string name="handy_mode_summary">Dotykem na prázdné místo jej ukončíte</string>
   <string name="handy_mode_title">Ovládání jednou rukou</string>
+  <string name="perm_send_push_dspt">Povolit MiPush zprávy</string>
+  <string name="perm_send_push_lab">Odeslat push zprávu</string>
 </resources>
