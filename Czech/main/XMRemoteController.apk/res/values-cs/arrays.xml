@@ -69,4 +69,13 @@
         <item>Odvlhčování</item>
         <item>Ventilátor</item>
     </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+    </string-array>
 </resources>
