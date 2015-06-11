@@ -6,4 +6,5 @@
     <string name="label_shutdown">Vypnout</string>
     <string name="label_alert_reboot">Restart</string>
     <string name="label_alert_shutdown">Vypnout</string>
+    <string name="label_blank">Zpět</string>
 </resources>
