@@ -96,4 +96,13 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="dlg_appstore_notice">Stáhněte si tuto aplikaci z oficiálního Obchodu Play.</string>
   <string name="lift_ban_once">Povolit jednou</string>
+  <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
+  <string name="button_text_cancel">Zrušit</string>
+  <string name="button_text_delete">Vymazat</string>
+  <string name="button_text_delete_timer">Vymazat (%d)</string>
+  <string name="button_text_next_step">Další</string>
+  <string name="button_text_next_step_timer">Další (%d)</string>
+  <string name="package_delete_confirm_step_1">Vymazat %s?</string>
+  <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu vašeho systému.</string>
+  <string name="package_delete_confirm_step_3">Po vymazání nebude možné tuto aplikaci spustit.</string>
 </resources>
