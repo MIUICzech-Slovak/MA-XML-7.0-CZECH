@@ -343,7 +343,7 @@
   <string name="miui_search_notification_message">Otevřít rychlé hledání na internetu</string>
   <string name="miui_search_notification_title">Rychlé hledání</string>
   <string name="miuichromium_error_page_mobile">Mobilní síť</string>
-  <string name="miuichromium_error_page_reason_network">Chyba v URL</string>
+  <string name="miuichromium_error_page_reason_network">Tuto stránku nelze načíst</string>
   <string name="miuichromium_error_page_reason_server">Tuto stránku nelze načíst</string>
   <string name="miuichromium_error_page_reload">Obnovit</string>
   <string name="miuichromium_error_page_title">Tuto stránku nelze načíst</string>
