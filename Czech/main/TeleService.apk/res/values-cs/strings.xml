@@ -1155,4 +1155,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="remind_another_time">Znovu se neptat</string>
   <string name="incall_error_sim_deactive">SIM karta není aktivní</string>
   <string name="ivr_parameter_settings">IVR nastavení (Čína)</string>
+  <string name="can_not_use_for_not_data_sim">(Nelze použít: Musí být nastavena jako výchozí SIM pro data)</string>
+  <string name="config_default_data_sim">Nastavení</string>
+  <string name="got_it">OK</string>
 </resources>
