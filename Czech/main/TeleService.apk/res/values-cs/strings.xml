@@ -688,8 +688,8 @@ Může to trvat i 5 min."</string>
   <string name="rnw2_unlock_failed">Požadavek na odemknutí UIM sítě 2 nebyl úspěšný.</string>
   <string name="rnw2_unlock_success">Požadavek na odemknutí RUIM sítě 1 byl úspěšný.</string>
   <string name="roaming">Data při roamingu</string>
-  <string name="roaming_disable">Datové přenosy při roamingu jsou ZAKÁZÁNY</string>
-  <string name="roaming_enable">Datové přenosy při roamingu jsou POVOLENY</string>
+  <string name="roaming_disable">Datové přenosy v roamingu</string>
+  <string name="roaming_enable">Datové přenosy v roamingu</string>
   <string name="roaming_reenable_message">Připojení datových služeb bylo přerušeno, protože jste opustili domovskou síť a datové služby při roamingu máte vypnuty.</string>
   <string name="roaming_warning">Opravdu chcete povolit datové služby při roamingu? Vystavujete se nebezpečí vysokých poplatků.</string>
   <string name="rsp_unlock_failed">Požadavek na odemknutí poskytovatele sítě UIM nebyl úspěšný.</string>
