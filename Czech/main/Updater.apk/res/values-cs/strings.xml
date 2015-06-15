@@ -309,4 +309,25 @@ Nie je možné odoslať váš názor"</string>
   <string name="vote_not_recommend">Neodporúčam túto verziu MIUI</string>
   <string name="vote_recommend">Odporúčam túto verziu MIUI</string>
   <string name="vote_submit">Odoslať</string>
+  <string name="download_success_reboot_immediately">Restartujte do nové verze</string>
+  <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
+  <string name="update_success_reboot_immediately">Zařízení je aktualizováno</string>
+  <string name="updater_wait_for_unzip">Rozbalování aktualizace...</string>
+  <string name="vote_beta">Beta Feedback Program</string>
+  <string name="vote_error1">"Zřejmě nejste členem 
+BETA Feedback Programu"</string>
+  <string name="vote_error2">"Nelze odeslat váš názor.
+Aktualizujte své zařízení a zkuste to znovu"</string>
+  <string name="vote_error3">"Nelze se přihlásit.
+Zkuste se znovu přihlásit svým Xiaomi účtem."</string>
+  <string name="vote_error4">Váš názor již byl odeslán</string>
+  <string name="vote_error5">"Nastala chyba,
+Nelze odeslat váš názor názor"</string>
+  <string name="vote_error_nonetwork">Nelze se připojit k síti</string>
+  <string name="vote_experience">Forum experience</string>
+  <string name="vote_hint">Získejte 20 bodů na fóru en.miui.com za hlasování</string>
+  <string name="vote_join">Už bylo odhlasováno</string>
+  <string name="vote_not_recommend">Nedoporučuji tuto verzi MIUI</string>
+  <string name="vote_recommend">Doporučuji tuto verzi MIUI</string>
+  <string name="vote_submit">Odeslat</string>
 </resources>
