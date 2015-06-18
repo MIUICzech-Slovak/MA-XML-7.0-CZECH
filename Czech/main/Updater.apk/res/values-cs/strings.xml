@@ -251,10 +251,10 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="update_feedback_need_network">Připojte se k síti</string>
   <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
   <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
-  <string name="update_general">Není špatná</string>
+  <string name="update_general">Průměrná</string>
   <string name="update_happy">Výborná</string>
   <string name="update_monthly_build_only">Aktualizovat pouze měsíční sestavení</string>
-  <string name="update_sad">Nic moc</string>
+  <string name="update_sad">Zklamání</string>
   <string name="update_success">Aktualizace proběhla úspěšně</string>
   <string name="update_success_body">na verzi %s</string>
   <string name="update_success_title">MIUI byla aktualizována</string>

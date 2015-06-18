@@ -659,9 +659,9 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="saturation_abbr">S</string>
   <string name="sports_camera">YiSports Camera</string>
   <string name="all_video_album_display_name">Všechna videa</string>
-  <string name="confirm_all_photo_not_this_people_face">Není na všech fotografiích?</string>
+  <string name="confirm_all_photo_not_this_people_face">%s není na všech fotografiích?</string>
   <string name="confirm_face">Označit</string>
-  <string name="confirm_left_photo_will_move_out">Na fotografii tato osoba není?</string>
+  <string name="confirm_left_photo_will_move_out">Na fotografii %s není?</string>
   <string name="enabling_face_feature">Kontrola...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie se uspořádají až po připojení k Wi-Fi</string>
   <string name="ignore_album">Nezobrazovat</string>
@@ -678,7 +678,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="project_available_tip">Nalezen projektor</string>
   <string name="return_to_top">Dotkněte se \"Fotografie\" pro návrat nahoru</string>
   <string name="script">skript</string>
-  <string name="select_item_face">Fotografie, kde je %1</string>
+  <string name="select_item_face">Fotografie, kde je %s</string>
   <string name="single_device_project_dialog_checkbox_text">Zapamatovat tento projektor</string>
   <string name="single_device_project_dialog_title">Odeslat na %s</string>
   <string name="ubifocus_data_invalid">Některá data pro tento obrázek jsou poškozena</string>
@@ -689,7 +689,7 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="paint_highlight_cancel_title">Zrušit změny</string>
   <string name="add_event">Název</string>
   <string name="add_event_hint">Zadejte název</string>
-  <string name="confirm_all_photo_are_this_people_face">Přiřadit všechny fotografie k této osobě?</string>
+  <string name="confirm_all_photo_are_this_people_face">Přiřadit všechny fotografie k %s?</string>
   <string name="confirm_merge_many_face_albums">" "Spojit toto album s %s?" "</string>
   <string name="event_manage_photos">Spravovat fotografie</string>
   <string name="face_albumset_loading_data">Načítání...</string>
@@ -699,4 +699,10 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="face_album_long_tap_tip">Pro vybrání vícero osob nebo změnu nastavení skupiny, stiskněte a podržte obrázek profilu</string>
   <string name="ignore_alert_title">Pokud bude ignorované, znovu se již nezobrazí. Chcete ignorovat?</string>
   <string name="confirm_not_face">Tato osoba ne</string>
+  <string name="confirm_left_photo_will_move_in">Je %s na všech ostatních fotografiích?</string>
+  <string name="event_create_long_photo">Vytváření fotografie...</string>
+  <string name="not_is">%s ne?</string>
+  <string name="rename_event">Přejmenovat událost</string>
+  <string name="share_title_more">Více</string>
+  <string name="wechat_timeline_title">WeChat</string>
 </resources>
