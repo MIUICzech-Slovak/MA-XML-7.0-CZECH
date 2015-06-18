@@ -154,7 +154,7 @@
   <string name="higher_quality_music">Vysoká kvalita hudby</string>
   <string name="higher_quality_music_summary">Poslouchejte a stahujte hudbu vysoké kvality</string>
   <string name="i_know">OK</string>
-  <string name="impunity_declaration">"Používáním Baidu online hudby souhlasíte s Podmínkami používání - http://music.baidu.com/doc/agreement.</string>
+  <string name="impunity_declaration">Tato aplikace vyžaduje připojení na internet pro správné fungování streamovaného obsahu.</string>
   <string name="impunity_declaration_ignore">Znovu se neptat</string>
   <string name="impunity_declaration_settings">Zobrazit Podmínky používání</string>
   <string name="impunity_declaration_summary">Zobrazit Podmínky používání pro Baidu Online Music Service vždy při otevření aplikace</string>
@@ -330,4 +330,5 @@
   <string name="preset_music_playlist">MiMusic playlist</string>
   <string name="set_id3_not_have_read_or_write_permission">Nemáte povolení upravovat tento soubor</string>
   <string name="set_id3_not_support_format">Tento formát souboru nelze upravit</string>
+  <string name="atmd_music">Ultimate</string>
 </resources>

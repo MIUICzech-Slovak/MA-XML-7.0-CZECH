@@ -288,7 +288,7 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="micloud_single_dspt">Používejte MiCloud pro synchr., vyhledávání svého zařízení a sdílení s přáteli.</string>
   <string name="micloud_space_duokan_detail">Spravovat váš obsah v Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_setting_antispam_summary">Výjimky pro režim Nerušit a blokované tel. čísla.</string>
+  <string name="micloud_setting_antispam_summary">Výjimky a blokovaná tel. čísla.</string>
   <string name="micloud_main_sync_init">Získávání informací</string>
   <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
   <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
@@ -301,11 +301,11 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">1 den</string>
   <string name="cloud_back_up_network_unavailable">Nelze odebrat. Připojte se k Wi-Fi síti.</string>
-  <string name="cloud_back_up_open_info">"Zálohovat nastavení domácí obrazovky a aplikací jednou za %1$s, když je dostupná Wi-Fi
+  <string name="cloud_back_up_open_info">"Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi
 Naposledy: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Zálohovat nastavení domácí obrazovky a aplikací jednou za %1$s, když je dostupná Wi-Fi</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Záloha vymazána</string>
-  <string name="cloud_back_up_title">Domácí obrazovka</string>
+  <string name="cloud_back_up_title">Aplikace</string>
   <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
   <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
 You need a Mainland China bank card to purchase additional storage space."</string>
@@ -338,7 +338,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Použít MiCloud</string>
   <string name="settings_backup_title">Zálohovat nastavení systému</string>
-  <string name="micloud_buy_member">Změnit členství</string>
+  <string name="micloud_buy_member">Účet</string>
   <string name="micloud_member_buy_content" formatted="false">"Platné pro %s-%s-%s
 
 %s MiKreditů na rok"</string>
@@ -359,8 +359,8 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívat MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Přeskočit</string>
    <string name="internet_access_dspt">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
-  <string name="micloud_space_applist_detail">Manage your home screen space using the phone app.</string>
-  <string name="micloud_space_applist_title">Home screen Back up Space</string>
-  <string name="micloud_space_soundrecorder_detail">Manage your sound recorder content using the phone app.</string>
-  <string name="micloud_space_soundrecorder_title">SoundRecorder Space</string>
+  <string name="micloud_space_applist_detail">Spravovat apl. na vaší ploše.</string>
+  <string name="micloud_space_applist_title">Spravovat aplikace</string>
+  <string name="micloud_space_soundrecorder_detail">Spravovat nahrávky ve vašem zařízení</string>
+  <string name="micloud_space_soundrecorder_title">Nahrávky</string>
 </resources>

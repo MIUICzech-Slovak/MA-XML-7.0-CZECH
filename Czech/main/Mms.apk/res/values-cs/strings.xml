@@ -574,4 +574,10 @@ Pokus: %s."</string>
   <string name="security_alert_dialog_title">Nahlásit</string>
   <string name="sms_report_failed">Nebylo možné odeslat hlášení</string>
   <string name="sms_report_success">Hlášení odesláno</string>
+  <string name="found_wild_messages_guide_cloud_desc">Pro synchr. zpráv z MiCloud se přihlaste svým Xiaomi účtem a povolte synchr. SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Synchr. SMS zpráv z MiCould v nastavení SMS.</string>
+  <string name="found_wild_messages_title">Synchr. SMS zprávy z MiCloud</string>
+  <string name="pref_show_blocked_messages_summary">Zobrazit blokované SMS v konverzaci</string>
+  <string name="reply_button_msg">Odpovědět</string>
+  <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
 </resources>
