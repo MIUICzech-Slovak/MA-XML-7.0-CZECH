@@ -819,5 +819,21 @@ Chcete opustit tuto stránku?"</string>
   <string name="sub_sync_item_browser_title_useful_summary">Synchr. užitečné stránky</string>
   <string name="sub_sync_item_browser_title_video">Synchr. historii videa</string>
   <string name="sub_sync_item_browser_title_video_summary">Synchr. seznam přehraných videí</string>
-   <string name="video_buffering_percent_string">Načítání...</string>
+  <string name="video_buffering_percent_string">Načítání...</string>
+  <string name="miuishare_account_activate_confirmation">Je vyžadována aktivace</string>
+  <string name="miuishare_account_activate_ok">Aktivovat</string>
+  <string name="miuishare_account_login_cancel">Zrušit</string>
+  <string name="miuishare_account_login_confirmation">Je nutné se přihlásit</string>
+  <string name="miuishare_account_login_ok">Přihlásit</string>
+  <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
+  <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Síť pro sdílení je nedostupná</string>
+  <string name="miuishare_publish">Odeslat</string>
+  <string name="miuishare_share_done">Sdílený obsah je odeslán.</string>
+  <string name="miuishare_share_editor_title">Sdílet</string>
+  <string name="miuishare_title_more">Více</string>
+  <string name="miuishare_title_share">Sdílet</string>
+  <string name="miuishare_wechat_timeline_title">Wechat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
 </resources>

@@ -439,7 +439,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_capture_settings">Nastavení fotoaparátu</string>
   <string name="pref_exposure_title">Expozice</string>
   <string name="pref_face_beauty_title">Tón pleti</string>
-  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_auto">Auto (v případě rozpoznané tváře</string>
   <string name="pref_front_mirror_entry_off">Vyp</string>
   <string name="pref_front_mirror_entry_on">Zap</string>
   <string name="pref_front_mirror_title">Zrcadlit přední kameru</string>

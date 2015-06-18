@@ -22,7 +22,7 @@
   <string name="activity_title_large_file">Velké soubory</string>
   <string name="activity_title_license_manager">Povolení</string>
   <string name="activity_title_memory">Paměť</string>
-  <string name="activity_title_networkassistants">Využití dat</string>
+  <string name="activity_title_networkassistants">Spotřeba dat</string>
   <string name="activity_title_notification_bar_manager">Správa notifikační lišty</string>
   <string name="activity_title_perm_manager">Oprávnění</string>
   <string name="activity_title_permission_manager">Správa povolení</string>

@@ -22,7 +22,7 @@
   <string name="chat_number">10 hodin</string>
   <string name="chat_uint">" hodin"</string>
   <string name="checkout_traffic_saving_history">Zobrazit historii</string>
-  <string name="daily_limit_network_available_body">Zobrazit využití dat</string>
+  <string name="daily_limit_network_available_body">Zobrazit spotřebu dat</string>
   <string name="daily_limit_over_message">Byl překročen denní limit</string>
   <string name="daily_pkg_traffic">Nastavte limit předplacených dat</string>
   <string name="data_usage_correction_timeout_body">Nastavit manuálně.</string>
@@ -118,7 +118,7 @@ mobilní internetové připojení"</string>
   <string name="main_button_usage_adjust_manual">Zadejte využitá data</string>
   <string name="main_button_usage_adjusting">Mění se...</string>
   <string name="main_button_usage_package_setting">Zadejte využitá data</string>
-  <string name="main_primary_message_traffic_cur_leisure">Využití dat mimo špičku</string>
+  <string name="main_primary_message_traffic_cur_leisure">Spotřeba dat mimo špičku</string>
   <string name="main_primary_message_traffic_cur_normal">Pod limitem dat</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Překročen limit dat</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Upozornění na využití dat</string>
@@ -260,9 +260,9 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="read_number">86 článků</string>
   <string name="read_unit">" článků"</string>
   <string name="right_precent">100%</string>
-  <string name="roaming_not_start_body">Aplikace v seznamu výjimek budou mít přístup k mobilním datům v roamingu.</string>
+  <string name="roaming_not_start_body">Zobrazit nastavení datového roamingu.</string>
   <string name="roaming_not_start_title">Mezinárodní roaming</string>
-  <string name="roaming_start_body">Povolit aplikacím datové připojení.</string>
+  <string name="roaming_start_body">Zobrazit výjimky datového roamingu.</string>
   <string name="roaming_start_title">Mezinárodní roaming</string>
   <string name="sc_allow_network_dialog_message">Je nutné povolit této aplikaci přístup k síťovému připojení.</string>
   <string name="sc_allow_network_dialog_tiltle">Nelze využívat úsporu dat</string>
@@ -407,7 +407,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_open">Zap</string>
   <string name="traffic_setting_step_num">Nastavení balíčku dat</string>
   <string name="traffic_setting_update_template_falure">Nelze se připojit k síti</string>
-  <string name="traffic_warning_purchase_title">Využití mobilních dat</string>
+  <string name="traffic_warning_purchase_title">Spotřeba mobilních dat</string>
   <string name="usage_sorted_activity_lable">Spotřeba dat</string>
   <string name="usage_sorted_empty_text">Prázdné</string>
   <string name="usage_sorted_loading_text">Načítání...</string>
