@@ -24,6 +24,7 @@
   <string name="acessibility_cal_notification">Oznámení kalendáře</string>
   <string name="acessibility_selected_marker_description">Vybrané události</string>
   <string name="acessibility_snooze_notification">Ztlumit upozornění</string>
+  <string name="action_label">Další</string>
   <string name="action_text_new_event">Nová událost</string>
   <string name="action_text_online">Online</string>
   <string name="action_text_today">Dnes</string>
@@ -47,6 +48,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Za 3 dny má %4$s (%3$s)!</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Kupte květy nebo dortu pro TA</string>
   <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mít %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
@@ -266,6 +268,7 @@
   <string name="search">Hledat</string>
   <string name="search_history_cleared">Historie vyhledávání vymazána.</string>
   <string name="search_title">Hledat v mých kalendářích</string>
+  <string name="select_date">Vybrat datum</string>
   <string name="select_synced_calendars_button">Kalendáře, které se mají synchronizovat</string>
   <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
   <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
@@ -278,6 +281,11 @@
   <string name="snooze_all_label">Odložit vše</string>
   <string name="snooze_label">Ztlumit</string>
   <string name="subscribe_all">Přihlásit</string>
+  <string name="sync_notice_cancel_toast_message">Lokálně uložené události nebudou synchronizovány s MiCloud</string>
+  <string name="sync_notice_message">Synchr. váš kalendář s MiCloud?</string>
+  <string name="sync_notice_ok">Povolit</string>
+  <string name="sync_notice_ok_toast_message">Lokálně uložené události budou synchronizovány s MiCloud</string>
+  <string name="sync_notice_title">Synchronizace</string>
   <string name="synced">synchronizován</string>
   <string name="tab_local">Lokální</string>
   <string name="tab_online">Online</string>
@@ -312,12 +320,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="sync_notice_cancel_toast_message">Lokálně uložené události nebudou synchronizovány s MiCloud</string>
-  <string name="sync_notice_message">Synchr. váš kalendář s MiCloud?</string>
-  <string name="sync_notice_ok">Povolit</string>
-  <string name="sync_notice_ok_toast_message">Lokálně uložené události budou synchronizovány s MiCloud</string>
-  <string name="sync_notice_title">Synchronizace</string>
-  <string name="action_label">Další</string>
-  <string name="select_date">Vybrat datum</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kupte květy nebo dortu pro TA</string>
 </resources>

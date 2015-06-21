@@ -38,6 +38,7 @@
   <string name="SMS_SERVICE">Blokování služeb</string>
   <string name="SMSpass">SMS</string>
   <string name="STRANGER_BLOCK">Černá listina</string>
+  <string name="action_source_sms_title">Blokované SMS</string>
   <string name="ad_block_hint">Blokované: %d</string>
   <string name="ad_install_monitor">Kontrola instalací</string>
   <string name="ad_install_monitor_hint">Instalovaná aplikace je kontrolována na přítomnost Adware</string>
@@ -51,6 +52,10 @@
   <string name="address_choose_hint">%1$s、%2$s a %3$d další</string>
   <string name="addwhitelist">Přidat do výjimek</string>
   <string name="all_address_choose_hint">Všechny regiony</string>
+  <string name="antispam_notificaiton_type_show_all">Všechna čísla</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Pokud není v černé listině</string>
+  <string name="antispam_notificaiton_type_show_none">Nikdy</string>
+  <string name="antispam_notification_setting_title">Upozornit na blokování</string>
   <string name="app_name">AntiSpam</string>
   <string name="backsound_set_hint">Nastavit zvuk na %s?</string>
   <string name="baidu_thanks"/>
@@ -140,8 +145,17 @@
   <string name="mark_fraud_block">Označeno jako podvodník</string>
   <string name="mark_meal">Donáška</string>
   <string name="mark_meal_block">Označeno jako donáška</string>
+  <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_banking">Pojišťovací agent</string>
+  <string name="mark_number_fraud">Otravný</string>
   <string name="mark_number_info">"
 Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla, která opravdu blokovat chcete."</string>
+  <string name="mark_number_sell">Prodejce</string>
+  <string name="mark_number_setting_guide_content1">Blokovat hovory z nahlášených čísel?</string>
+  <string name="mark_number_setting_guide_content2">Automaticky blokovat hovory z čísel nahlášených jinými uživateli</string>
+  <string name="mark_number_setting_guide_content3">Nahlásili jste číslo jako %1$s. Chcete blokovat hovory z čísel nahlášených jako %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Nastavení AntiSpam</string>
+  <string name="mark_number_setting_guide_title">Blokovat nahlášená čísla</string>
   <string name="mark_sell">Prodejce</string>
   <string name="mark_sell_block">Označeno jako Prodejce</string>
   <string name="marked_by_others">%d lidí označilo jako</string>
@@ -307,18 +321,4 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="user_define_title">Vlastní režim</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
-  <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_banking">Pojišťovací agent</string>
-  <string name="mark_number_fraud">Otravný</string>
-  <string name="mark_number_sell">Prodejce</string>
-  <string name="mark_number_setting_guide_content1">Blokovat hovory z nahlášených čísel?</string>
-  <string name="mark_number_setting_guide_content2">Automaticky blokovat hovory z čísel nahlášených jinými uživateli</string>
-  <string name="mark_number_setting_guide_content3">Nahlásili jste číslo jako %1$s. Chcete blokovat hovory z čísel nahlášených jako %2$s?</string>
-  <string name="mark_number_setting_guide_forward">Nastavení AntiSpam</string>
-  <string name="mark_number_setting_guide_title">Blokovat nahlášená čísla</string>
-  <string name="antispam_notificaiton_type_show_all">Všechna čísla</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist">Pokud není v černé listině</string>
-  <string name="antispam_notificaiton_type_show_none">Nikdy</string>
-  <string name="antispam_notification_setting_title">Upozornit na blokování</string>
-  <string name="action_source_sms_title">Blokované SMS</string>
 </resources>

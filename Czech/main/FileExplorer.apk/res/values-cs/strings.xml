@@ -4,6 +4,8 @@
   <string name="account_bind_prompt">"Migrování uživatelských dat. 
 Váš účet bude dočasně zablokovaný, 
 čekejte prosím..."</string>
+  <string name="action_mode_deselect_all">Odznačit</string>
+  <string name="action_mode_select_all">Vše</string>
   <string name="add_task">Přidat úlohu</string>
   <string name="adding_upload_tasks">Přidávání souborů pro nahrání.</string>
   <string name="already_signin_description">Podepsat se můžete pouze jednou za den, zkuste to opět zítra.</string>
@@ -16,6 +18,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Xiaomi účtem nebo MiDrive účtem</string>
   <string name="binded_accout_title">MiDrive účet</string>
   <string name="byteShort">B</string>
+  <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
   <string name="cancel">Zrušit</string>
   <string name="category">Kategorie</string>
   <string name="category_all">Vše</string>
@@ -70,6 +73,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="delete_files">" Opravdu chcete odstranit tyto soubory?"</string>
   <string name="delete_folder">" Opravdu chcete odstranit složku?"</string>
   <string name="delete_folders">" Opravdu chcete odstranit tyto složky?"</string>
+  <string name="delete_selected_tasks">Odstranit vybrané?</string>
   <string name="des_running_trans">Ještě %1$d souborů je zapotřebí přenést</string>
   <string name="dialog_select_type">Zvolte typ souboru</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -103,6 +107,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="file_loading">Nahrávám...</string>
   <string name="file_not_exist">Soubor neexistuje</string>
   <string name="file_too_large">Soubor je příliš velký</string>
+  <string name="files">Soubory</string>
   <string name="finished">Dokončeno</string>
   <string name="folder_exist">Složka již existuje</string>
   <string name="folder_name_illegal">Nesprávný název složky</string>
@@ -118,18 +123,33 @@ Váš účet bude dočasně zablokovaný,
   <string name="ftp_username_hint">Jméno</string>
   <string name="gbk_summary">Výchozí kódování pro Windows s tradiční čínštinou</string>
   <string name="gbk_title">GBK</string>
+  <string name="get_cloud_space">Přidat 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_download">Stáhnout</string>
   <string name="image_share">Sdílet</string>
   <string name="instruction">Zadejte do adresního řádku prohlížeče v PC:</string>
   <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí FTP protokolu.</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kp_category_all">Kategorie</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Text</string>
+  <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
+  <string name="kuaipan_create_shortcut_success">Odkaz vytvořen</string>
+  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_delete_guide_des">Odstranit uživatelský manuál?</string>
+  <string name="kuaipan_delete_success">Odstraněno</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Váš MiDrive nemá volné místo.</string>
+  <string name="kuaipan_photo_locate">Nalezeno %1$s</string>
   <string name="kuaipan_prompt">MiDrive Pomoc</string>
   <string name="kuaipan_prompt_message">"
 Server je momentálně nedostupný, zkuste to znovu později
 "</string>
+  <string name="kuaipan_root_fooder">Domů</string>
   <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
   <string name="load_err">Načítání selhalo</string>
   <string name="loading">Načítám...</string>
@@ -187,6 +207,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="never_notify_network_connect">Znovu se neptat</string>
   <string name="new_folder_name">Nová složka</string>
   <string name="no">Ne</string>
+  <string name="no_display_file">Nelze zobrazit %1$s</string>
   <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Odstraňte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
   <string name="no_enough_storage_title">Není dostatek místa</string>
   <string name="no_file">Žádné soubory</string>
@@ -328,25 +349,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
-  <string name="delete_selected_tasks">Odstranit vybrané?</string>
-  <string name="files">Soubory</string>
-  <string name="get_cloud_space">Přidat 500GB</string>
-  <string name="kp_category_all">Kategorie</string>
-  <string name="kp_category_doc">Word</string>
-  <string name="kp_category_excel">Excel</string>
-  <string name="kp_category_pdf">PDF</string>
-  <string name="kp_category_ppt">PowerPoint</string>
-  <string name="kp_category_txt">Text</string>
-  <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
-  <string name="kuaipan_create_shortcut_success">Odkaz vytvořen</string>
-  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
-  <string name="kuaipan_data_formater_without_year">d.M.</string>
-  <string name="kuaipan_delete_success">Odstraněno</string>
-  <string name="kuaipan_photo_locate">Nalezeno %1$s</string>
-  <string name="kuaipan_root_fooder">Domů</string>
-  <string name="no_display_file">Nelze zobrazit %1$s</string>
-   <string name="action_mode_deselect_all">Odznačit</string>
-  <string name="action_mode_select_all">Vše</string>
-  <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
-  <string name="kuaipan_delete_guide_des">Odstranit uživatelský manuál?</string>
 </resources>

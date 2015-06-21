@@ -19,6 +19,7 @@
   <string name="connect_wifi">Připojit k této síti</string>
   <string name="contact_details">Podrobnosti:</string>
   <string name="continue_access_web_url">Pokračovat na web stránku</string>
+  <string name="continue_to_website">Otevřít webstránku</string>
   <string name="copy">Kopírovat</string>
   <string name="copy_succeed">Zkopírováno</string>
   <string name="copy_text">Kopírovat text</string>
@@ -80,5 +81,4 @@
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že je tato síť bezpečná.</string>
-  <string name="continue_to_website">Otevřít webstránku</string>
 </resources>

@@ -72,6 +72,7 @@
   <string name="download_failed">Nebylo možné stáhnout</string>
   <string name="download_full">Stáhnout plnou verzi</string>
   <string name="download_ota_rom">Stáhnout (%s)</string>
+  <string name="download_success_reboot_immediately">Restartujte do nové verze</string>
   <string name="download_title">Stahování (%s)</string>
   <string name="download_title_first">Získávání informací...</string>
   <string name="download_title_full_download">Získávání informací...</string>
@@ -150,6 +151,7 @@
   <string name="no_wifi_title">Využití mobilních dat</string>
   <string name="not_open">Zakázat</string>
   <string name="not_recommend">"Nedoporučuji"</string>
+  <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
   <string name="notification_downloading">Stahování aktualizace...</string>
   <string name="notification_load_body_alpha">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
   <string name="notification_load_body_dev">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
@@ -170,17 +172,24 @@
   <string name="now">Restartovat</string>
   <string name="on_checking">Kontrola aktualizací</string>
   <string name="open_now">Povolit</string>
+  <string name="particular_build">Speciální</string>
   <string name="pause">Zastavit</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
   <string name="paused_queued_for_wifi">Čekání na Wi-Fi připojení</string>
   <string name="previous">Zpět</string>
   <string name="progress_title_checking">Kontrola aktualizací...</string>
+  <string name="reboot">Restart</string>
   <string name="reboot_later">Později</string>
   <string name="reboot_now">Restartovat</string>
   <string name="reboot_to_new_system">Restartovat systém</string>
   <string name="recommend">Doporučené</string>
   <string name="recommend_comment_hint">Důvod (volitelné)</string>
   <string name="recommend_vote_title">Anketa beta týmu MIUI</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_failed_msg">"Vaše zařízení nemá dostatek volného místa pro nainstalování aktualizace. 
+Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
+  <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
+  <string name="recovery_failed_title">Aktualizace selhala</string>
   <string name="refuse_recommend_reason">Prosím vyplňte důvod</string>
   <string name="repeat">Znovu</string>
   <string name="sdcard_has_no_space_dialog_body">Na SD kartě není dost volného místa, uvolněte jej a znovu stáhněte Aktualizaci.</string>
@@ -257,11 +266,13 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="update_sad">Zklamání</string>
   <string name="update_success">Aktualizace proběhla úspěšně</string>
   <string name="update_success_body">na verzi %s</string>
+  <string name="update_success_reboot_immediately">Zařízení je aktualizováno</string>
   <string name="update_success_title">MIUI byla aktualizována</string>
   <string name="updater_finish_download">Stahování ROM je dokončeno</string>
   <string name="updater_nolog">Seznam změn není dostupný</string>
   <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
   <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
+  <string name="updater_wait_for_unzip">Rozbalování aktualizace...</string>
   <string name="upgrade_close">Zavřít</string>
   <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
   <string name="upgrade_kernel_msg">"Aktuální verze kernelu nesouhlasí s MIUI ROM. Musíte aktualizovat kernel manuálně. Viz kurz aktualizace:"</string>
@@ -274,24 +285,6 @@ Vyplňte jej prosím následující úterý"</string>
   <string name="verify_and_apply_dialog_title">Kontrola integrity dat</string>
   <string name="view_install_log">Zobrazit záznam</string>
   <string name="view_upgrade_tutorial">Prohlédnout návod</string>
-  <string name="weekly_build">Týdenní verze</string>
-  <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
-  <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
-  <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Vaše zařízení nemá dostatek volného místa pro nainstalování aktualizace. 
-Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
-  <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
-  <string name="recovery_failed_title">Aktualizace selhala</string>
-  <string name="particular_build">Speciální</string>
-  <string name="reboot">Restart</string>
-  <string name="welcom_button">OK</string>
-  <string name="welcom_message">Dokončeno</string>
-  <string name="welcom_title">Vítejte v MIUI 6</string>
-  <string name="download_success_reboot_immediately">Restartujte do nové verze</string>
-  <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
-  <string name="update_success_reboot_immediately">Zařízení je aktualizováno</string>
-  <string name="updater_wait_for_unzip">Rozbalování aktualizace...</string>
   <string name="vote_beta">Beta Feedback Program</string>
   <string name="vote_error1">"Zřejmě nejste členem 
 BETA Feedback Programu"</string>
@@ -309,4 +302,11 @@ Nelze odeslat váš názor názor"</string>
   <string name="vote_not_recommend">Nedoporučuji tuto verzi MIUI</string>
   <string name="vote_recommend">Doporučuji tuto verzi MIUI</string>
   <string name="vote_submit">Odeslat</string>
+  <string name="weekly_build">Týdenní verze</string>
+  <string name="welcom_button">OK</string>
+  <string name="welcom_message">Dokončeno</string>
+  <string name="welcom_title">Vítejte v MIUI 6</string>
+  <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
+  <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
+  <string name="worst_update">Nejhorší aktualizace</string>
 </resources>

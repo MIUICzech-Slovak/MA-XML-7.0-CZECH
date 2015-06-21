@@ -18,6 +18,7 @@
   <string name="bugreport_dump_start_notification_summary">Trvá přibližně 1 minutu.</string>
   <string name="bugreport_dump_start_notification_title">Vytváření hlášení o chybě</string>
   <string name="bugreport_feedback_from">Od: %s</string>
+  <string name="bugreport_tool_log">Vytvořit záznam o chybě</string>
   <string name="bugreport_tool_log_toast">Záznam uložen do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváření záznamu o chybě (trvá zhruba 1 minutu)</string>
   <string name="button_feedback">Jiné</string>
@@ -72,6 +73,12 @@
   <string name="menu_copy">Kopírovat</string>
   <string name="menu_discard">Zrušit</string>
   <string name="menu_send">Odeslat hlášení</string>
+  <string name="modem_tool_log">Vytvořit záznam modemu</string>
+  <string name="modem_tool_log_start">Spustit</string>
+  <string name="modem_tool_log_start_toast">Záznam o modemu bude uložen do %s</string>
+  <string name="modem_tool_log_stop">Zastavit</string>
+  <string name="modem_tool_log_stop_toast">Zastavit záznam modemu z %s</string>
+  <string name="network_disconnected">Žádná síť</string>
   <string name="network_err">Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste znovu.</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Vaše hlášení bude odesláno, jakmile se připojíte na síť</string>
@@ -103,6 +110,7 @@
   <string name="submit_dialog_cancel">Zrušit</string>
   <string name="submit_dialog_confirm">Odeslat</string>
   <string name="submit_dialog_content">Vaše hlášení bude odesláno na server Xiaomi.</string>
+  <string name="submit_dialog_not_wifi_content">Vaše hlášení bude odesláno na server Xiaomi ihned po připojení k Wi-Fi.</string>
   <string name="submit_dialog_title">Odeslat hlášení</string>
   <string name="suggestion_description">Napište návrh na novou funkci (v angličtině)...</string>
   <string name="suggestion_problem1">Doufám, že přidáte tuto funkci nebo...</string>
@@ -113,11 +121,13 @@
   <string name="title_nonsystem_app">Jiné apl.</string>
   <string name="title_system_app">MIUI apl.</string>
   <string name="toast_description_required">Musíte zadat nějaký popis!</string>
+  <string name="toast_feedback_collect_store">Vytváření záznamu...</string>
   <string name="toast_feedback_network_unavailable">Nelze se připojit k síti</string>
   <string name="toast_feedback_pending_wlan">Vaše hlášení bude odesláno, jakmile se připojíte k Wi-Fi</string>
   <string name="toast_feedback_submitted">Vaše hlášení bylo úspěšně odesláno</string>
   <string name="toast_feedback_submitting">Odesílání...</string>
   <string name="toast_feedbackservice_in_submit">Odesílání předchozího hlášení...</string>
+  <string name="toast_fill_brackets">Vyplňte v závorkách</string>
   <string name="toast_network_unavailable">Nelze odeslat. Připojte se k síti.</string>
   <string name="toast_pending_log_collection">Shromažďování záznamů, čekejte prosím</string>
   <string name="toast_report_copied_to_clipboard">Hlášení zkopírováno do schránky</string>
@@ -133,14 +143,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odeslat</string>
   <string name="wlan_unavailable_dialog_content">Bude odesláno %s skrze 2G/3G data, stiskněte OK pro odeslání přes Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="submit_dialog_not_wifi_content">Vaše hlášení bude odesláno na server Xiaomi ihned po připojení k Wi-Fi.</string>
-  <string name="toast_feedback_collect_store">Vytváření záznamu...</string>
-  <string name="network_disconnected">Žádná síť</string>
-  <string name="toast_fill_brackets">Vyplňte v závorkách</string>
-  <string name="bugreport_tool_log">Vytvořit záznam o chybě</string>
-  <string name="modem_tool_log">Vytvořit záznam modemu</string>
-  <string name="modem_tool_log_start">Spustit</string>
-  <string name="modem_tool_log_start_toast">Záznam o modemu bude uložen do %s</string>
-  <string name="modem_tool_log_stop">Zastavit</string>
-  <string name="modem_tool_log_stop_toast">Zastavit záznam modemu z %s</string>
 </resources>

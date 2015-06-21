@@ -18,6 +18,7 @@
   <string name="accessibility_panorama_review_cancel">Zrušit</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
+  <string name="accessibility_setting_button">Další nastavení</string>
   <string name="accessibility_show_setting_panel_button">Nastavení</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
   <string name="accessibility_skin_beautify_button">Vylepšení pleti</string>
@@ -47,6 +48,7 @@
   <string name="confirm_change_mode_title">Přepnout režim</string>
   <string name="confirm_change_to_expert_mode_message">Přepnout na rozšířený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Přepnout na základní režim?</string>
+  <string name="confirm_location_alert">Ukládání polohy</string>
   <string name="confirm_location_message">Fotoaparát umí ukládat Vaši polohu
 ve fotografii. Chcete polohu ukládat?</string>
   <string name="confirm_location_title">Ukládání polohy</string>
@@ -289,6 +291,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_focusmode_entry_normal">Normální</string>
   <string name="pref_camera_focusmode_title">Režim ostření</string>
   <string name="pref_camera_front_fb_title">Vylepšit barvu pleti</string>
+  <string name="pref_camera_gradienter_title">Vodováha</string>
   <string name="pref_camera_hand_night_title">Noční režim</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Živé</string>
@@ -340,6 +343,9 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dvě tváře</string>
   <string name="pref_camera_multiple_face_beauty_title">Vylepšení tváře</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_peak_entry_off">Vyp</string>
+  <string name="pref_camera_peak_entry_on">Zap</string>
+  <string name="pref_camera_peak_title">Peaking Focus</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Formát fotografie</string>
@@ -534,6 +540,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="simple_mode_button_text_delay_capture">Ukončit časovač</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit</string>
   <string name="simple_mode_button_text_fast_video">Ukončit</string>
+  <string name="simple_mode_button_text_gradienter">Ukončit</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
   <string name="simple_mode_button_text_manual">Ukončit</string>
@@ -550,6 +557,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
   <string name="snapshotsize_low_powermode">Rozlišení není podporováno v režimu nízké spotřeby. Pro fotografii bude použito rozlišení videa. Pro vybraní kvality snímku zvolte režim vysokého výkonu.</string>
   <string name="spaceIsLow_content">Dochází volné místo na SD kartě. Snižte kvalitu nebo vymažte nepotřebné soubory.</string>
+  <string name="start_capture">Zavřít</string>
   <string name="success_message_import_from_account">Úspěšně importováno</string>
   <string name="tags">Značky</string>
   <string name="tap_to_exposure">Dotykem nastavíte expozici</string>
@@ -596,12 +604,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="accessibility_setting_button">Další nastavení</string>
-  <string name="confirm_location_alert">Ukládání polohy</string>
-  <string name="start_capture">Zavřít</string>
-  <string name="pref_camera_peak_entry_off">Vyp</string>
-  <string name="pref_camera_peak_entry_on">Zap</string>
-  <string name="pref_camera_peak_title">Peaking Focus</string>
-  <string name="pref_camera_gradienter_title">Vodováha</string>
-  <string name="simple_mode_button_text_gradienter">Ukončit</string>
 </resources>

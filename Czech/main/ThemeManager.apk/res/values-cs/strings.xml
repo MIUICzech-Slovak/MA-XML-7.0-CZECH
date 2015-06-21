@@ -67,6 +67,7 @@
   <string name="gift_purchased_list_empty_with_received_list_empty">Žádné dary</string>
   <string name="gift_received_endnote">Od: %1$s (přijato %2$s)</string>
   <string name="gift_received_list_empty">Nebyly obdrženy žádné dary</string>
+  <string name="gift_received_notification_title">"%s vám daroval/a téma"</string>
   <string name="gift_share">Sdílet</string>
   <string name="gift_transfer">Přenos</string>
   <string name="gift_unbind_fail_dlg_title">Nelze vygenerovat kód</string>
@@ -232,6 +233,7 @@
   <string name="resource_see_more">Více</string>
   <string name="resource_select">Zvolit</string>
   <string name="resource_select_ringtone_confirm">Zvolit tento tón?</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
   <string name="resource_selected">Nejlepší</string>
   <string name="resource_send">Odeslat</string>
   <string name="resource_server_alert_dialog_title">Server je momentálně nedostupný</string>
@@ -240,6 +242,8 @@
   <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
   <string name="resource_share_title">Sdílet</string>
   <string name="resource_system_title">Systémové zdroje</string>
+  <string name="resource_tab_to_view">Zobrazit</string>
+  <string name="resource_tip_select_none">Žádné</string>
   <string name="resource_tip_select_ringtone">Nic nebylo vybráno</string>
   <string name="resource_title">Podrobnosti</string>
   <string name="resource_title_category">Kategorie</string>
@@ -314,6 +318,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_fresh_man_notifaction">Zkuste nějaká nová témata.</string>
   <string name="theme_immediately_apply_tip">Téma bylo aktualizováno, chcete jej nyní aplikovat?</string>
   <string name="theme_import_from_sdcard">Nahrát z úložiště</string>
+  <string name="theme_is_external_priority_storage">Uložit na SD kartu</string>
+  <string name="theme_is_external_priority_storage_summary">Aplikace Témata bude automaticky znovu spuštěna pro aplikování změn</string>
   <string name="theme_multiple_button_title_customize">Upravit téma</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Ne</string>
@@ -343,10 +349,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
-  <string name="gift_received_notification_title">"%s vám daroval/a téma"</string>
-  <string name="resource_tab_to_view">Zobrazit</string>
-  <string name="resource_tip_select_none">Žádné</string>
-  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
-  <string name="theme_is_external_priority_storage">Uložit na SD kartu</string>
-  <string name="theme_is_external_priority_storage_summary">Aplikace Témata bude automaticky znovu spuštěna pro aplikování změn</string>
 </resources>

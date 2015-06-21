@@ -23,6 +23,8 @@
   <string name="notif_title_single_downloading">%1$s</string>
   <string name="notification_download_complete">Stahování dokončeno</string>
   <string name="notification_download_failed">Stahování bylo neúspěšné</string>
+  <string name="notification_download_failed_more">Stahování %1$d selhalo</string>
+  <string name="notification_download_success_more">Staženo: %1$d</string>
   <string name="notification_need_wifi_for_size">Čekání na Wi-Fi připojení</string>
   <string name="notification_paused_in_background">Pozastaveno na pozadí</string>
   <string name="paused_waiting_for_network">Čekání na síť</string>
@@ -58,6 +60,4 @@ Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
-  <string name="notification_download_failed_more">Stahování %1$d selhalo</string>
-  <string name="notification_download_success_more">Staženo: %1$d</string>
 </resources>

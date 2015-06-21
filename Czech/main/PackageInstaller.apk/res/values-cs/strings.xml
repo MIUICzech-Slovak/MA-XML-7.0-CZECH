@@ -3,6 +3,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
   <string name="Parse_error_dlg_title">Chyba analýzy</string>
+  <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
   <string name="allow_source_dlg_text">"Aplikace %1$s chce instalovat další aplikace.
   
 Povolit nyní i v budoucnu?"</string>
@@ -11,6 +12,11 @@ Povolit nyní i v budoucnu?"</string>
   <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
   <string name="app_not_found_dlg_title">Aplikace nebyla nalezena</string>
   <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
+  <string name="button_text_cancel">Zrušit</string>
+  <string name="button_text_delete">Vymazat</string>
+  <string name="button_text_delete_timer">Vymazat (%d)</string>
+  <string name="button_text_next_step">Další</string>
+  <string name="button_text_next_step_timer">Další (%d)</string>
   <string name="caller_app">Vyvolané aplikací: %1$s</string>
   <string name="cancel">Zrušit</string>
   <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.
@@ -18,6 +24,7 @@ Povolit nyní i v budoucnu?"</string>
 Všechna dříve zadaná data uživatelů budou uložena."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí současnou verzi (%3$s). Vaše data budou zachována. Chcete pokračovat?"</string>
   <string name="dlg_app_replacement_title">Nahradit aplikaci</string>
+  <string name="dlg_appstore_notice">Stáhněte si tuto aplikaci z oficiálního Obchodu Play.</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikace. Opravdu ji chcete nahradit?
 
@@ -40,6 +47,7 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="installing">Probíhá instalace...</string>
   <string name="launch">Otevřít</string>
   <string name="lift_ban">Zrušit zákaz</string>
+  <string name="lift_ban_once">Povolit jednou</string>
   <string name="low_risk_perms">Bezpečná práva</string>
   <string name="manage_applications">Správa aplikací</string>
   <string name="manage_device_administrators">Spravovat správce zařízení</string>
@@ -47,6 +55,9 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="other_relative">Ostatní práva</string>
   <string name="out_of_space_dlg_text">Aplikaci %1$s nelze nainstalovat. Uvolněte místo v paměti a zkuste to znovu.</string>
   <string name="out_of_space_dlg_title">Nedostatek místa</string>
+  <string name="package_delete_confirm_step_1">Vymazat %s?</string>
+  <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu vašeho systému.</string>
+  <string name="package_delete_confirm_step_3">Po vymazání nebude možné tuto aplikaci spustit.</string>
   <string name="perm_action_accept">Povolit</string>
   <string name="perm_action_prompt">Zeptat se</string>
   <string name="perm_action_reject">Zakázat</string>
@@ -94,15 +105,4 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
-  <string name="dlg_appstore_notice">Stáhněte si tuto aplikaci z oficiálního Obchodu Play.</string>
-  <string name="lift_ban_once">Povolit jednou</string>
-  <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
-  <string name="button_text_cancel">Zrušit</string>
-  <string name="button_text_delete">Vymazat</string>
-  <string name="button_text_delete_timer">Vymazat (%d)</string>
-  <string name="button_text_next_step">Další</string>
-  <string name="button_text_next_step_timer">Další (%d)</string>
-  <string name="package_delete_confirm_step_1">Vymazat %s?</string>
-  <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu vašeho systému.</string>
-  <string name="package_delete_confirm_step_3">Po vymazání nebude možné tuto aplikaci spustit.</string>
 </resources>

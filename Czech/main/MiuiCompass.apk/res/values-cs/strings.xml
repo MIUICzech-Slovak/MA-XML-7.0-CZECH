@@ -8,7 +8,10 @@
   <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
   <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
   <string name="calibrate_failed_timeout">Kalibrace selhala: Čas připojení na server vypršel</string>
+  <string name="calibrate_rotate_again">Zkuste to znovu</string>
   <string name="calibrate_success">Kalibrace dokončena</string>
+  <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
+  <string name="calibrate_title">Kalibrování kompasu</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky...</string>
   <string name="dialog_title_no_network">Nelze se připojit k síti.</string>
@@ -21,6 +24,8 @@
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">Znovu nezobrazovat</string>
+  <string name="first_using_dialog_message">Kompas používá vaše internetové připojení, fotoaparát a vaši polohu.</string>
+  <string name="first_using_dialog_title">Podmínky používání</string>
   <string name="getting_location">Kalibrace...</string>
   <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
   <string name="latitude">LAT</string>
@@ -44,9 +49,4 @@
   <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
   <string name="using_camera_confirm_title">Podmínky používání</string>
-  <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
-  <string name="calibrate_title">Kalibrování kompasu</string>
-  <string name="calibrate_rotate_again">Zkuste to znovu</string>
-  <string name="first_using_dialog_message">Kompas používá vaše internetové připojení, fotoaparát a vaši polohu.</string>
-  <string name="first_using_dialog_title">Podmínky používání</string>
 </resources>

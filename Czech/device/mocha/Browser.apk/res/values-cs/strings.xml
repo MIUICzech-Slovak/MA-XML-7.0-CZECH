@@ -114,6 +114,8 @@
   <string name="find_in_page_edit_text_hint">Zadejte text</string>
   <string name="find_in_page_no_matches">Nic nebylo nalezeno</string>
   <string name="find_in_page_up_accessibility_text">najít</string>
+  <string name="find_next">Další</string>
+  <string name="find_previous">Předch.</string>
   <string name="frontedit_add">Přidat na úvodní stránku</string>
   <string name="geolocation_permissions_prompt_dont_share">Odmítnout</string>
   <string name="geolocation_permissions_prompt_message">chce znát Vaši polohu</string>
@@ -133,8 +135,17 @@
   <string name="history">Historie</string>
   <string name="incognito_mode">Režim inkognito</string>
   <string name="input_valid_url">Zadejte správnou URL</string>
+  <string name="js_dialog_before_unload">"%s 
+
+Chcete odejít z této stránky?"</string>
+  <string name="js_dialog_before_unload_negative_button">Zůstat na této stránce</string>
+  <string name="js_dialog_before_unload_positive_button">Odejít ze stránky</string>
+  <string name="js_dialog_before_unload_title">Potvrzení</string>
+  <string name="js_dialog_title">Stránka \" %s \" oznamuje:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Zakázání JavaScriptu může způsobit nesprávné zobrazení některých web stránek</string>
   <string name="js_disable_confirm_title">Zakázat JvaScript?</string>
+  <string name="last_month">Poslední měsíc</string>
   <string name="loading">Načítání...</string>
   <string name="loading_tips">Potáhněte dolů pro obnovení</string>
   <string name="low_memory_error">Nelze dokončit úlohu z důvodu nedostatku paměti</string>
@@ -145,6 +156,7 @@
   <string name="media_player_loading_video">Načítání videa</string>
   <string name="miui_content_copy">Kopírovat</string>
   <string name="miui_content_cut">Vyjmout</string>
+  <string name="miui_content_open_url">Otevřít URL</string>
   <string name="miui_content_paste">Vložit</string>
   <string name="miui_content_select">Vybrat</string>
   <string name="miui_content_select_all">Vše</string>
@@ -165,7 +177,9 @@
   <string name="more">Více</string>
   <string name="nav_screen_settings">Nastavení</string>
   <string name="night_mode">Noční režim</string>
+  <string name="no_matches">Nic nebylo nalezeno</string>
   <string name="ok">OK</string>
+  <string name="older">Starší</string>
   <string name="opening_file_error">Otevření souboru selhalo</string>
   <string name="page_option">Nastavení strany</string>
   <string name="pref_adblock_counts">Blokované: %d</string>
@@ -186,6 +200,7 @@
   <string name="pref_set_homepage_to">Nastavit jako</string>
   <string name="pref_ua_string">Zařízení</string>
   <string name="pref_ua_title">Identifikace zařízení</string>
+  <string name="private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="profiler_error_toast">Spuštění selhalo</string>
   <string name="profiler_no_storage_toast">"Externí úložiště není připraveno"</string>
   <string name="profiler_started_toast">Profiler started</string>
@@ -206,6 +221,10 @@
   <string name="same_bookmarks_warning">Tato záložka již existuje</string>
   <string name="same_folder_name_warning">Tato složka již existuje</string>
   <string name="save">Uložit</string>
+  <string name="save_password_message">Chcete uložit toto heslo?</string>
+  <string name="save_password_never">Nikdy</string>
+  <string name="save_password_notnow">Později</string>
+  <string name="save_password_remember">Zapamatovat</string>
   <string name="save_to">Uložit do</string>
   <string name="save_to_camera">Uložit do fotoaparátu</string>
   <string name="save_to_camera_failed">Nelze uložit</string>
@@ -273,25 +292,6 @@ Chcete odejít z této stránky?"</string>
   <string name="webview_older">Starší</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
-  <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="find_next">Další</string>
-  <string name="find_previous">Předch.</string>
-  <string name="js_dialog_before_unload">"%s 
-
-Chcete odejít z této stránky?"</string>
-  <string name="js_dialog_before_unload_negative_button">Zůstat na této stránce</string>
-  <string name="js_dialog_before_unload_positive_button">Odejít ze stránky</string>
-  <string name="js_dialog_before_unload_title">Potvrzení</string>
-  <string name="js_dialog_title">Stránka \" %s \" oznamuje:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
-  <string name="last_month">Poslední měsíc</string>
-  <string name="miui_content_open_url">Otevřít URL</string>
-  <string name="no_matches">Nic nebylo nalezeno</string>
-  <string name="older">Starší</string>
-  <string name="private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
-  <string name="save_password_message">Chcete uložit toto heslo?</string>
-  <string name="save_password_never">Nikdy</string>
-  <string name="save_password_notnow">Později</string>
-  <string name="save_password_remember">Zapamatovat</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
+  <string name="week_picker_dialog_title">Nastavit týden</string>
 </resources>

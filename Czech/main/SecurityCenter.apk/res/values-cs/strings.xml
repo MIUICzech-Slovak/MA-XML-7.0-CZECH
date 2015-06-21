@@ -47,6 +47,7 @@
   <string name="apk_status_installed_old">Stará verze</string>
   <string name="apk_status_uninstalled">Není nainstalována</string>
   <string name="app_name_securitycenter">Optimalizace</string>
+  <string name="app_not_installed_toast">Aplikace není nainstalována.</string>
   <string name="apps_sort_type_item_size">Velikost</string>
   <string name="apps_sort_type_item_time">Často používané</string>
   <string name="apps_sort_type_title">Seřadit</string>
@@ -138,6 +139,10 @@
   <string name="clean_content_three">Kromě %s</string>
   <string name="clean_content_two">Vyčistit jen %1$s a %2$s</string>
   <string name="clean_content_zero">Čištění není nutné</string>
+  <string name="cmcc_app_check_dialog_message">Restartujte zařízení pro dokončení opravy.</string>
+  <string name="cmcc_app_check_dialog_negative">Později</string>
+  <string name="cmcc_app_check_dialog_positive">Restartovat</string>
+  <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
   <string name="confirm_auto_cleaner">Ok</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušit</string>
@@ -363,8 +368,10 @@
   <string name="never">Pouze jednou</string>
   <string name="notification_button_text_of_low_memory">Vyčistit</string>
   <string name="notification_summary_after_auto_cleanup">Vyčištěno %s</string>
+  <string name="notification_summary_cmcc_app_check">Zobrazit podrobnosti</string>
   <string name="notification_summary_of_garbage_cleanup">Nepotřebné soubory zabírají %s. Doporučuje se vyčištění.</string>
   <string name="notification_summary_of_low_memory">V případě nedostatku místa se aplikace nenainstalují</string>
+  <string name="notification_title_cmcc_app_check">Od poslední kontroly: %d dní</string>
   <string name="notification_title_firewall_blocked">Blokováno</string>
   <string name="notification_title_of_garbage_cleanup">Upozornění na odpad</string>
   <string name="notification_title_of_low_memory">Systémové úložiště využito na %s</string>
@@ -622,7 +629,9 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_cleaner_cloudscan">Odeslat a porovnat neznámé názvy souborů s online databází</string>
   <string name="summary_cloud_account">Pro přístup k více službám se musíte přihlásit na Xiaomi účet.</string>
   <string name="summary_cloud_service">Použít MiCloud pro zálohování dat v případě krádeže nebo zničení zařízení.</string>
+  <string name="summary_cmcc_app_check">Některé aplikace se nepodařilo ověřit</string>
   <string name="summary_data_flow">Zkontrolujte svůj objem předplacených dat a nastavte si upozornění, aby nedošlo k překročení limitu.</string>
+  <string name="summary_default_app">%s není nastavena jako výchozí aplikace</string>
   <string name="summary_delete_cache">Některé aplikace vyžadují tato data pro jejich správnou funkci</string>
   <string name="summary_delete_large_file">Některé velké soubory mohou být využívány pro práci v offline režimu (např. mapy, atd.). Ujistěte se, že je nepotřebujete.</string>
   <string name="summary_dev">Zabraňte aplikacím zneužívání vašich soukromých dat</string>
@@ -660,9 +669,11 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="title_cleaner_cloudscan">Použít online databázi Čističe</string>
   <string name="title_cloud_account">Přihlásit se na Xiaomi účet</string>
   <string name="title_cloud_service">MiCloud je vypnutý</string>
+  <string name="title_cmcc_app_check">Ověření není dokončeno</string>
   <string name="title_data_flow">Nastavit upozornění na spotřebu dat</string>
   <string name="title_data_flow_no">Sledování využití dat vypnuto</string>
   <string name="title_data_flow_yes">Sledování využití dat zapnuto</string>
+  <string name="title_default_app">MIUI %s není nastaveno jako výchozí</string>
   <string name="title_delete_cache">Vymazat cache?</string>
   <string name="title_delete_large_file">Vymazat tyto soubory?</string>
   <string name="title_dev_no">Možnosti pro vývojáře zapnuty</string>
@@ -702,6 +713,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="toast_backup_uninstall_failed">Zálohování %d apl. selhalo. Zkuste to znovu později.</string>
   <string name="toast_backup_uninstall_success">Záloha a odinstalace dokončena</string>
   <string name="toast_cleaner_cloudscan">Čistič využije online databázi</string>
+  <string name="toast_default_app">%1$s nastavit jako výchozí pro %2$s</string>
   <string name="toast_flow_notification">Upozornění na spotřebu dat je povoleno</string>
   <string name="toast_garbage_cleanup_success">Čištění dokončeno</string>
   <string name="toast_garbage_lib">Automatické aktualizace pro Čistič povoleny</string>
@@ -709,6 +721,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="toast_network_eror">Chyba sítě!</string>
   <string name="toast_network_switch">Povoleno</string>
   <string name="toast_removed_from_white_list">" odebráno z ignorovaných"</string>
+  <string name="toast_resolve_apk_error">Opravit chybu apk</string>
   <string name="toast_root_apply_accept">ROOT práva pro %s povoleny</string>
   <string name="toast_root_apply_reject">ROOT práva pro %s zakázány</string>
   <string name="toast_shortcut_install">Zástupce je vytvořen</string>
@@ -739,17 +752,4 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="summary_default_app">%s není nastavena jako výchozí aplikace</string>
-  <string name="title_default_app">MIUI %s není nastaveno jako výchozí</string>
-  <string name="toast_default_app">%1$s nastavit jako výchozí pro %2$s</string>
-  <string name="title_cmcc_app_check">Ověření není dokončeno</string>
-  <string name="summary_cmcc_app_check">Některé aplikace se nepodařilo ověřit</string>
-  <string name="notification_title_cmcc_app_check">Od poslední kontroly: %d dní</string>
-  <string name="notification_summary_cmcc_app_check">Zobrazit podrobnosti</string>
-  <string name="cmcc_app_check_dialog_message">Restartujte zařízení pro dokončení opravy.</string>
-  <string name="cmcc_app_check_dialog_negative">Později</string>
-  <string name="cmcc_app_check_dialog_positive">Restartovat</string>
-  <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
-  <string name="toast_resolve_apk_error">Opravit chybu apk</string>
-  <string name="app_not_installed_toast">Aplikace není nainstalována.</string>
 </resources>

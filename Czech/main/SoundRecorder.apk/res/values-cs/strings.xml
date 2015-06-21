@@ -58,6 +58,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="preference_record_type_title">Typ nahrávky</string>
   <string name="preference_scenes">Režim nahrávání</string>
   <string name="preference_silent_mode">Nahrávání v tichém režimu</string>
+  <string name="preference_tip_rename">Přejmenovat nahrávku po ukončení nahrávání</string>
   <string name="record_back_pressed_hint">Dotkněte se znovu pro ukončení nahrávání</string>
   <string name="record_download">Stáhnout z MiCloud</string>
   <string name="record_download_activity">Stahování nahrávek</string>
@@ -79,13 +80,16 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="record_list_cloud_fm">Nahrávky FM v Cloudu</string>
   <string name="record_list_fm">FM Nahrávky</string>
   <string name="record_loading">Načítání...</string>
+  <string name="record_mark_point">Značky: %s</string>
   <string name="record_name_hour">.</string>
+  <string name="record_picker_title">Vyberte nahrávku</string>
   <string name="record_saving">Ukládání...</string>
   <string name="recording">Nahrávám...</string>
   <string name="recording_stopped">Nahrávání zastaveno</string>
   <string name="rename">Přejmenovat</string>
   <string name="rename_dialog_title">Přejmenovat nahrávku</string>
   <string name="rename_duplicate">Název již existuje, zadejte jiný.</string>
+  <string name="rename_no_more_tip">Znovu se neptat</string>
   <string name="retry">Znovu</string>
   <string name="search_for_recordings_in_folders">Vyhledat nahrávku</string>
   <string name="second">%d sek.</string>
@@ -110,8 +114,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="preference_tip_rename">Přejmenovat nahrávku po ukončení nahrávání</string>
-  <string name="record_picker_title">Vyberte nahrávku</string>
-  <string name="rename_no_more_tip">Znovu se neptat</string>
-  <string name="record_mark_point">Značky: %s</string>
 </resources>

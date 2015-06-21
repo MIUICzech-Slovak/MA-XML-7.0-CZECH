@@ -3,6 +3,7 @@
 <resources>
   <string name="about_smart_antispam_summary">Inteligentně rozpoznat neznámá čísla</string>
   <string name="about_telephone_fraud">Vyvarovat se obtěžování</string>
+  <string name="account_yellowpage_followed">Ověřené účty</string>
   <string name="agree">Souhlasím</string>
   <string name="all_numbers">Všechna čísla</string>
   <string name="app_label">Zlaté stránky</string>
@@ -73,6 +74,7 @@
   <string name="express_inquiry_internal_failure">"Error occurred.
 Please check tracking number"</string>
   <string name="express_inquiry_logistics_indication">Courier company</string>
+  <string name="express_inquiry_logistics_prefix">Kurýrní služba: %s</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">Žádné výsledky.</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
@@ -95,7 +97,16 @@ Please check tracking number"</string>
   <string name="login_before_use">Před navýšením se musíte přihlásit.</string>
   <string name="login_ok">Přihlásit</string>
   <string name="mark_number_custom_dialog_maintitle">Souhlasíte nebo chcete upravit označení?</string>
+  <string name="mark_number_custom_mark_deleted">Označení odebráno</string>
   <string name="mark_number_dialog_maintitle">Označit jako spam a odeslat</string>
+  <string name="mark_number_dialog_subtitle">Označeno %2$d lidmi jako %1$s.</string>
+  <string name="mark_number_feedback">Nahlásit</string>
+  <string name="mark_number_feedback_hint">Zadejte svůj názor</string>
+  <string name="mark_number_feedback_invalid_hint">Zadejte správný údaj</string>
+  <string name="mark_number_feedback_success">Názor odeslán, číslo bude ověřeno.</string>
+  <string name="mark_number_marked_maintitle">Upravit</string>
+  <string name="mark_number_marked_subtitle">Označeno jako %s</string>
+  <string name="mark_number_remove">Odebrat označení</string>
   <string name="mark_title_null_hint">Input should not be empty</string>
   <string name="menu_about_yellow_page">Co je to</string>
   <string name="menu_add_black_list">Přidat na černou listinu</string>
@@ -109,6 +120,7 @@ Please check tracking number"</string>
   <string name="mishop_web_payment_title">MiStore</string>
   <string name="module_sms_sent">Textová zpráva doručena</string>
   <string name="nearby_average_price">Přibližně %d RMB</string>
+  <string name="network_access_denied">Přístup k síti zamítnut</string>
   <string name="network_unavaliable">Síť je nedostupná, zkontrolujte nastavení sítě</string>
   <string name="no_more_result">Nic víc nenalezeno</string>
   <string name="notfiy_connect_title">Povolení sítě</string>
@@ -187,16 +199,4 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_call_log_title">Seznam hovorů</string>
   <string name="yellow_page_detail_title">Co je to</string>
   <string name="yellow_page_website">Oficiální stránka</string>
-  <string name="account_yellowpage_followed">Ověřené účty</string>
-  <string name="express_inquiry_logistics_prefix">Kurýrní služba: %s</string>
-  <string name="network_access_denied">Přístup k síti zamítnut</string>
-  <string name="mark_number_custom_mark_deleted">Označení odebráno</string>
-  <string name="mark_number_dialog_subtitle">Označeno %2$d lidmi jako %1$s.</string>
-  <string name="mark_number_feedback">Nahlásit</string>
-  <string name="mark_number_feedback_hint">Zadejte svůj názor</string>
-  <string name="mark_number_feedback_invalid_hint">Zadejte správný údaj</string>
-  <string name="mark_number_feedback_success">Názor odeslán, číslo bude ověřeno.</string>
-  <string name="mark_number_marked_maintitle">Upravit</string>
-  <string name="mark_number_marked_subtitle">Označeno jako %s</string>
-  <string name="mark_number_remove">Odebrat označení</string>
 </resources>

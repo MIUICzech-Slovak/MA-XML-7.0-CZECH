@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  
   <string name="alwaysUsePrompt">Znovu se neptat</string>
   <string name="auto_start_warning_allow">Povolit</string>
   <string name="auto_start_warning_deny">Odmítnout</string>
   <string name="auto_start_warning_title">Povolit aplikaci %s spouštět se automaticky?</string>
-  <string name="caller_info_name_delimiter">nebo</string>
   <string name="call_record_or">Anebo</string>
   <string name="call_record_sample_prefix_miui">Nahrávka</string>
+  <string name="caller_info_name_delimiter">nebo</string>
   <string name="copy">Kopírovat</string>
   <string name="cut">Vyjmout</string>
   <string name="first_back_long_press_message">"Chcete ukončovat aktivní aplikace dlouhým stiskem klávesy Zpět? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
@@ -19,6 +18,8 @@
   <string name="global_actions_reboot">Restart</string>
   <string name="global_actions_shutdown">Vypnout</string>
   <string name="global_actions_silent_mode">Tichý režim</string>
+  <string name="handy_mode_summary">Dotykem na prázdné místo jej ukončíte</string>
+  <string name="handy_mode_title">Ovládání jednou rukou</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Mezera</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
@@ -28,6 +29,8 @@
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
   <string name="memory_clear_result">"Uvolněno: %1$s \nDostupné: %2$s"</string>
   <string name="paste">Vložit</string>
+  <string name="perm_send_push_dspt">Povolit MiPush zprávy</string>
+  <string name="perm_send_push_lab">Odeslat push zprávu</string>
   <string name="reboot_confirm_title">Opravdu chcete restartovat Vaše zařízení?</string>
   <string name="reboot_progress">Restartuji...</string>
   <string name="replace">Nahradit</string>
@@ -66,20 +69,16 @@
   <string name="status_bar_toggle_quiet_mode">Nerušit</string>
   <string name="status_bar_toggle_reboot">Restart</string>
   <string name="status_bar_toggle_rotate">Otáčení</string>
-  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_screen_button">Tlačítka</string>
+  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_shutdown">Vypnout</string>
   <string name="status_bar_toggle_sync">Synchro.</string>
-  <string name="status_bar_toggle_syncing">Synchronizuji...</string>
   <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
   <string name="status_bar_toggle_sync_manual">Manuální synchr.</string>
+  <string name="status_bar_toggle_syncing">Synchronizuji...</string>
   <string name="status_bar_toggle_torch">Svítilna</string>
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
-  <string name="handy_mode_summary">Dotykem na prázdné místo jej ukončíte</string>
-  <string name="handy_mode_title">Ovládání jednou rukou</string>
-  <string name="perm_send_push_dspt">Povolit MiPush zprávy</string>
-  <string name="perm_send_push_lab">Odeslat push zprávu</string>
 </resources>

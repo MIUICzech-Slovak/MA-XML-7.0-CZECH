@@ -7,9 +7,11 @@
   <string name="android_ringtone_unknown">Neznámé zvonění</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
+  <string name="app_name_which_call">Apl: %s</string>
+  <string name="app_no_notification">Žádné notifikace</string>
   <string name="app_notificaiton_on_notificationBar">Roletka</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Lišta a roletka</string>
-  <string name="app_no_notification">Žádné notifikace</string>
+  <string name="app_version_which_call">Verze: %s</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Povolit</string>
@@ -17,9 +19,9 @@
   <string name="auto_start_warning_title">Povolit aplikaci %s spouštět se automaticky?</string>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
-  <string name="caller_info_name_delimiter">nebo</string>
   <string name="call_record_or">Anebo</string>
   <string name="call_record_sample_prefix_miui">Nahrávka</string>
+  <string name="caller_info_name_delimiter">nebo</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -62,7 +64,9 @@
   <string name="key_btn_space">Místo</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
+  <string name="license_host_unreachable">"Nelze se připojit k síti. Pro zobrazení těchto informací jděte na %s."</string>
   <string name="light_snow"/>
+  <string name="loading">Načítání...</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
   <string name="lockscreen_access_pattern_cleared">Vzor vyčištěný</string>
   <string name="lockscreen_access_pattern_detected">Vzor kompletní</string>
@@ -93,6 +97,7 @@
   <string name="maml_component_customization_title">Nastavení</string>
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
   <string name="memory_clear_result">"Uvolněno: %1$sB \nDostupné: %2$sB"</string>
+  <string name="mibi_license">Podmínky používání MiCredit</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
@@ -103,6 +108,7 @@
   <string name="peace_day"/>
   <string name="perm_send_push_dspt">Povolit okamžité zprávy Xiaomi</string>
   <string name="perm_send_push_lab">Odeslat okamžitou zprávu</string>
+  <string name="policy_name">Oprávnění: %s</string>
   <string name="presentation_payphone">Telefonní automat</string>
   <string name="presentation_private">Soukromé číslo</string>
   <string name="presentation_unknown">Neznámé číslo</string>
@@ -150,13 +156,13 @@
   <string name="status_bar_toggle_quiet_mode">Nerušit</string>
   <string name="status_bar_toggle_reboot">Restart</string>
   <string name="status_bar_toggle_rotate">Otáčení</string>
-  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_screen_button">Tlačítka</string>
+  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_shutdown">Vypnout</string>
   <string name="status_bar_toggle_sync">Synchro.</string>
-  <string name="status_bar_toggle_syncing">Synchronizuji...</string>
   <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
   <string name="status_bar_toggle_sync_manual">Manuální synchr.</string>
+  <string name="status_bar_toggle_syncing">Synchronizuji...</string>
   <string name="status_bar_toggle_torch">Svítilna</string>
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
@@ -184,13 +190,7 @@
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">SMS zpráva odeslána.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Nelze odeslat SMS zprávu v režimu Návštěvník."</string>
-  <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
+  <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
-  <string name="app_name_which_call">Apl: %s</string>
-  <string name="app_version_which_call">Verze: %s</string>
-  <string name="license_host_unreachable">"Nelze se připojit k síti. Pro zobrazení těchto informací jděte na %s."</string>
-  <string name="loading">Načítání...</string>
-  <string name="mibi_license">Podmínky používání MiCredit</string>
-  <string name="policy_name">Oprávnění: %s</string>
 </resources>

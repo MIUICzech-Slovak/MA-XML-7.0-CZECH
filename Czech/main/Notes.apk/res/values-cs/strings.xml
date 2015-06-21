@@ -39,6 +39,7 @@
   <string name="login_sync">Přihlášení a synchr.</string>
   <string name="menu_create_folder">Nová složka</string>
   <string name="menu_delete">Odstranit</string>
+  <string name="menu_folders">Složky</string>
   <string name="menu_move">Přesun do složky</string>
   <string name="menu_move_parent_folder">Nadřazená složka</string>
   <string name="menu_send_to_desktop">Přidat na plochu</string>
@@ -104,9 +105,6 @@
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky zkrácen, protože je příliš dlouhý."</string>
   <string name="undo">Zpět</string>
   <string name="unknown_source">Neznámý zdroj</string>
-  <string name="widget_content_loading">Načítání...</string>
-  <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
-  <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
   <string name="welcome_note_for_cm">"A mnohem více!
   - Synchr. s MiCloud
   - Uložit při ukončení
@@ -115,5 +113,7 @@
 Pro více informací navštivte
 http://www.miuios.cz/rom
 "</string>
-  <string name="menu_folders">Složky</string>
+  <string name="widget_content_loading">Načítání...</string>
+  <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
+  <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
 </resources>

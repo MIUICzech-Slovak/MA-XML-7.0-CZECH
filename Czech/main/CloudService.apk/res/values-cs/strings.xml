@@ -6,6 +6,7 @@
   <string name="activate">Aktivovat</string>
   <string name="activating">Aktivace...</string>
   <string name="alert_notif_title_dspt">Doporučujeme obnovit synchronizaci pro zajištění bezpečnosti vašich dat</string>
+  <string name="antispam_sync">Nastavení režimu Nerušit</string>
   <string name="app_name">MiCloud</string>
   <string name="app_sync_off">Synchr. apl vypnuta</string>
   <string name="apple_10gb">20GB</string>
@@ -15,6 +16,10 @@
   <string name="bad_authentication">Nesprávné jméno nebo heslo</string>
   <string name="btn_return">Zpět</string>
   <string name="button_cancel">Zrušit</string>
+  <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
+You need a Mainland China bank card to purchase additional storage space."</string>
+  <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
+To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_expire">Zakoupená kapacita je platná do %s</string>
   <string name="buy_space_expire_concat">%1$s do %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Automaticky prodloužit platnost</string>
@@ -23,16 +28,43 @@
   <string name="buy_space_sulotion_renew_message">Platné %s</string>
   <string name="buy_space_sulotion_renew_title">Vyberte způsob prodloužení platnosti</string>
   <string name="buy_space_sulotion_title">Cloudové úložiště</string>
+  <string name="calendar_sync">Kalendář</string>
+  <string name="click_to_enabled">Synchronizovat</string>
+  <string name="close_cloud_app_backup_cancel">Zrušit</string>
+  <string name="close_cloud_app_backup_close">Zavřít</string>
+  <string name="close_cloud_app_backup_local_backup">Zálohovat</string>
+  <string name="close_cloud_app_backup_message">Služba zálohy do MiCloud bude ukončena a vaše zálohovaná data budou vymazána 1.5.2015, zálohujte si svá data co nejdříve jiným způsobem.</string>
+  <string name="close_cloud_app_backup_notification_message">Zobrazit více informací</string>
+  <string name="close_cloud_app_backup_notification_title">Upozornění MiCloud zálohy</string>
+  <string name="close_cloud_app_backup_title">Upozornění</string>
+  <string name="cloud_app_back_up_quit_notification_content1">Služba zálohy aplikací do MiCloud bude ukončena pro jiné aplikace, než MIUI. Všechna zálohovaná data doinstalovaných aplikací budou vymazána 1. května 2015. Pro zamezení ztráty dat doinstalovaných aplikací si zálohujte data lokálně.</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatní MIUI aplikace budou i nadále zálohovány.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Zálohujte data aplikací</string>
+  <string name="cloud_back_up_button_ok">Zastavit</string>
+  <string name="cloud_back_up_close_info">Zálohovat</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="cloud_back_up_dialog_content">Zastavit zálohování? Přerušením zálohování nebude možné obnovit vaše nastavení.</string>
+  <string name="cloud_back_up_interval_long">7 dní</string>
+  <string name="cloud_back_up_interval_short">1 den</string>
+  <string name="cloud_back_up_network_unavailable">Nelze odebrat. Připojte se k Wi-Fi síti.</string>
+  <string name="cloud_back_up_open_info">"Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi
+Naposledy: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Záloha vymazána</string>
+  <string name="cloud_back_up_title">Aplikace</string>
+  <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
   <string name="cloud_find_device">Najít zařízení</string>
   <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
   <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
   <string name="cloud_sync_setting_summary_standard">Synchr. SMS, fotografie a videa po připojení k Wi-Fi</string>
   <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
+  <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
   <string name="contact">Kontaktů</string>
   <string name="current">Současné</string>
   <string name="data_syncing">Synchr. dat</string>
+  <string name="deskclock_backup">Záloha hodin a budíků</string>
   <string name="detail">Podrobnosti</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
   <string name="enableAll">Povolit vše</string>
@@ -72,6 +104,7 @@
   
 Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
+  <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Zavřít</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
   <string name="finish">Dokončit</string>
@@ -89,6 +122,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="header_other_settings">Ostatní</string>
   <string name="i_know">OK</string>
   <string name="internet">Internet</string>
+  <string name="internet_access_dspt">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
   <string name="internet_disconnected">Internet odpojen</string>
   <string name="less_flow_mode">Použít mobilní data pro synchr.</string>
   <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
@@ -98,6 +132,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="master_alert_notif_dspt_no">Vše je aktuální.</string>
   <string name="master_alert_notif_title">Data nejsou synchronizovaná %s dní</string>
   <string name="micloud">MiCloud</string>
+  <string name="micloud_buy_member">Účet</string>
   <string name="micloud_check_sim_notify_text">"Zřejmě byla změněna SIM karta. Přihlaste se
 do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znovu aktivovat MiCloud</string>
@@ -138,34 +173,71 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_network_error">Síť není dostupná. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
   <string name="micloud_main_set_internet">Síť</string>
   <string name="micloud_main_space_full">Plná kapacita</string>
+  <string name="micloud_main_space_low">Dochází volné místo...</string>
   <string name="micloud_main_space_risk">Máte %d nesynchr. dat. Navyšte si kapacitu MiCloud úložiště.</string>
   <string name="micloud_main_stop_sync">Ukončit synchr.</string>
+  <string name="micloud_main_suggest_setting">"Čeká se na Wi-Fi síť pro synchr.
+Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_main_suggest_sync">Vaše data nejsou synchronizovaná.</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
+  <string name="micloud_main_sync_init">Získávání informací</string>
   <string name="micloud_main_sync_now">Synchronizovat</string>
   <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
   <string name="micloud_main_sync_pause">Zastaveno</string>
+  <string name="micloud_main_sync_setting">Nastavení synchr.</string>
   <string name="micloud_main_sync_stop">Ukončit synchr.</string>
   <string name="micloud_main_synced_data_count">Synchr.: %d</string>
   <string name="micloud_main_syncing">Synchronizuje se...</string>
+  <string name="micloud_main_title_sync_fail">Nelze synchr.</string>
+  <string name="micloud_main_title_sync_off">Synchr. vypnuta</string>
+  <string name="micloud_main_title_sync_on_wifi">Použít Wi-Fi</string>
   <string name="micloud_main_update_space">Aktualizovat kapacitu</string>
   <string name="micloud_main_wlan_sync_data_count">Synchr. se přes Wi-Fi: %d</string>
+  <string name="micloud_member">MiCloud členství</string>
+  <string name="micloud_member_advantage">Získat více úložného prostoru.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Platné pro %s-%s-%s
+
+%s MiKreditů na rok"</string>
+  <string name="micloud_member_buy_title">Potvrdit</string>
+  <string name="micloud_member_net_error_alert_message">Nemáte připojení k internetu.</string>
+  <string name="micloud_member_net_error_alert_title">Nelze se připojit k síti</string>
+  <string name="micloud_member_pay_fail_toast">Platba nemohla být dokončena</string>
+  <string name="micloud_member_pay_miid_error_toast">Chyba účtu</string>
+  <string name="micloud_member_pay_order_error_toast">Chyba dat</string>
+  <string name="micloud_member_refresh_button">Obnovit</string>
+  <string name="micloud_member_webload_fail_error_message">Chyba sítě</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Stránku nebylo možné načíst</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Chyba serveru</string>
   <string name="micloud_more">Zjistit více</string>
   <string name="micloud_other_product_price">Cena ostatních produktů:</string>
   <string name="micloud_proceed">Pokračovat</string>
   <string name="micloud_sec_dspt">a sdílejte s přáteli.</string>
+  <string name="micloud_setting_antispam_summary">Výjimky a blokovaná tel. čísla.</string>
   <string name="micloud_setting_browser_summary">Záložky a historii</string>
   <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
+  <string name="micloud_setting_deskclock_summary">Nastavení hodin</string>
   <string name="micloud_setting_gallery_summary">Fotografie a videa</string>
   <string name="micloud_setting_music_summary">Playlisty a oblíbené skladby</string>
   <string name="micloud_setting_sms_summary">SMS a MMS</string>
   <string name="micloud_setting_wifi_summary">Wi-Fi nastavení</string>
+  <string name="micloud_single_dspt">Používejte MiCloud pro synchr., vyhledávání svého zařízení a sdílení s přáteli.</string>
+  <string name="micloud_space_applist_detail">Spravovat apl. na vaší ploše.</string>
+  <string name="micloud_space_applist_title">Spravovat aplikace</string>
+  <string name="micloud_space_duokan_detail">Spravovat váš obsah v Duokan.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">Co se stane po zaplacení dalšího volného místa?</string>
+  <string name="micloud_space_soundrecorder_detail">Spravovat nahrávky ve vašem zařízení</string>
+  <string name="micloud_space_soundrecorder_title">Nahrávky</string>
+  <string name="micloud_storage">Úložiště</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnovit přihlášení.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnovit přihlášení.</string>
   <string name="micloud_storage_expires_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
   <string name="micloud_storage_expires_very_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
   <string name="micloud_storage_usage" formatted="false">Využito %s / Celkem %s</string>
+  <string name="micloud_sync_alert_dialog_message">Synchr. vaše fotografie, kontakty, poznámky a mnohem více.</string>
+  <string name="micloud_sync_alert_dialog_negative">Zrušit</string>
+  <string name="micloud_sync_alert_dialog_positive">OK</string>
+  <string name="micloud_sync_alert_dialog_title">Použít MiCloud</string>
   <string name="micloud_title_dspt" formatted="false">"Celkem %s
 Využito %s | Zbývá %s"</string>
   <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
@@ -212,6 +284,19 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
   <string name="remind_later">Později</string>
   <string name="restoreSync">Obnovit</string>
   <string name="setting">Nastavení</string>
+  <string name="settings_backup_title">Zálohovat nastavení systému</string>
+  <string name="share_cancel">Sdílení zrušeno</string>
+  <string name="share_failed">Sdílení selhalo</string>
+  <string name="share_miliao_not_installed">MiTalk není nainstalován.</string>
+  <string name="share_success">Sdíleno</string>
+  <string name="share_weibo_not_installed">Weibo není nainstalováno.</string>
+  <string name="share_weixin_not_installed">Wechat není nainstalován.</string>
+  <string name="sina_share_fail">Odesílání selhalo</string>
+  <string name="sina_share_fail_content_repeat">Nelze sdílet...</string>
+  <string name="sina_share_pendding">Odesílání...</string>
+  <string name="sina_share_success">Odesláno</string>
+  <string name="sina_token_expired_warning">Weibo účet vypršel: Znovu propojte</string>
+  <string name="sina_token_invalid_warning">Weibo účet není správný: Znovu propojte</string>
   <string name="sms">SMS</string>
   <string name="space">Kapacita</string>
   <string name="start_micloud">Start</string>
@@ -226,6 +311,11 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
   <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a historii hovorů. Přo přístup k zálohovaným údajům navštivte %s.</string>
   <string name="sync_dspt_entrance_provision_2">Více</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívat</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">Aplikace MIUI využívají MiCloud pro zálohu fotografií, kontaktů, poznámek a mnohem více. MiCloud je dostupný zdarma pro všechny.</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Použít MiCloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívat MiCloud?</string>
+  <string name="sync_dspt_entrance_provision_skip">Přeskočit</string>
   <string name="sync_dspt_provision">"Synchr.
 Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -273,94 +363,4 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="share_cancel">Sdílení zrušeno</string>
-  <string name="share_failed">Sdílení selhalo</string>
-  <string name="share_miliao_not_installed">MiTalk není nainstalován.</string>
-  <string name="share_success">Sdíleno</string>
-  <string name="share_weibo_not_installed">Weibo není nainstalováno.</string>
-  <string name="share_weixin_not_installed">Wechat není nainstalován.</string>
-  <string name="sina_share_fail">Odesílání selhalo</string>
-  <string name="sina_share_fail_content_repeat">Nelze sdílet...</string>
-  <string name="sina_share_pendding">Odesílání...</string>
-  <string name="sina_share_success">Odesláno</string>
-  <string name="sina_token_expired_warning">Weibo účet vypršel: Znovu propojte</string>
-  <string name="sina_token_invalid_warning">Weibo účet není správný: Znovu propojte</string>
-  <string name="micloud_single_dspt">Používejte MiCloud pro synchr., vyhledávání svého zařízení a sdílení s přáteli.</string>
-  <string name="micloud_space_duokan_detail">Spravovat váš obsah v Duokan.</string>
-  <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_setting_antispam_summary">Výjimky a blokovaná tel. čísla.</string>
-  <string name="micloud_main_sync_init">Získávání informací</string>
-  <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
-  <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
-  <string name="calendar_sync">Kalendář</string>
-  <string name="click_to_enabled">Synchronizovat</string>
-  <string name="antispam_sync">Nastavení režimu Nerušit</string>
-  <string name="cloud_back_up_button_ok">Zastavit</string>
-  <string name="cloud_back_up_close_info">Zálohovat</string>
-  <string name="cloud_back_up_dialog_content">Zastavit zálohování? Přerušením zálohování nebude možné obnovit vaše nastavení.</string>
-  <string name="cloud_back_up_interval_long">7 dní</string>
-  <string name="cloud_back_up_interval_short">1 den</string>
-  <string name="cloud_back_up_network_unavailable">Nelze odebrat. Připojte se k Wi-Fi síti.</string>
-  <string name="cloud_back_up_open_info">"Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi
-Naposledy: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi</string>
-  <string name="cloud_back_up_remove_success">Záloha vymazána</string>
-  <string name="cloud_back_up_title">Aplikace</string>
-  <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
-  <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
-You need a Mainland China bank card to purchase additional storage space."</string>
-  <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
-To get more storage space, visit mi.com/micloud."</string>
-<string name="close_cloud_app_backup_cancel">Zrušit</string>
-  <string name="close_cloud_app_backup_close">Zavřít</string>
-  <string name="close_cloud_app_backup_local_backup">Zálohovat</string>
-  <string name="close_cloud_app_backup_message">Služba zálohy do MiCloud bude ukončena a vaše zálohovaná data budou vymazána 1.5.2015, zálohujte si svá data co nejdříve jiným způsobem.</string>
-  <string name="close_cloud_app_backup_notification_message">Zobrazit více informací</string>
-  <string name="close_cloud_app_backup_notification_title">Upozornění MiCloud zálohy</string>
-  <string name="close_cloud_app_backup_title">Upozornění</string>
-  <string name="cloud_app_back_up_quit_notification_content1">Služba zálohy aplikací do MiCloud bude ukončena pro jiné aplikace, než MIUI. Všechna zálohovaná data doinstalovaných aplikací budou vymazána 1. května 2015. Pro zamezení ztráty dat doinstalovaných aplikací si zálohujte data lokálně.</string>
-  <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatní MIUI aplikace budou i nadále zálohovány.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Zálohujte data aplikací</string>
-  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-  <string name="deskclock_backup">Záloha hodin a budíků</string>
-  <string name="micloud_main_suggest_setting">"Čeká se na Wi-Fi síť pro synchr.
-Stiskněte tlačítko Nastavení pro více možností"</string>
-  <string name="micloud_main_sync_setting">Nastavení synchr.</string>
-  <string name="micloud_main_title_sync_fail">Nelze synchr.</string>
-  <string name="micloud_main_title_sync_off">Synchr. vypnuta</string>
-  <string name="micloud_main_title_sync_on_wifi">Použít Wi-Fi</string>
-  <string name="micloud_member">MiCloud členství</string>
-  <string name="micloud_member_advantage">Získat více úložného prostoru.</string>
-  <string name="micloud_setting_deskclock_summary">Nastavení hodin</string>
-  <string name="micloud_storage">Úložiště</string>
-  <string name="micloud_sync_alert_dialog_message">Synchr. vaše fotografie, kontakty, poznámky a mnohem více.</string>
-  <string name="micloud_sync_alert_dialog_negative">Zrušit</string>
-  <string name="micloud_sync_alert_dialog_positive">OK</string>
-  <string name="micloud_sync_alert_dialog_title">Použít MiCloud</string>
-  <string name="settings_backup_title">Zálohovat nastavení systému</string>
-  <string name="micloud_buy_member">Účet</string>
-  <string name="micloud_member_buy_content" formatted="false">"Platné pro %s-%s-%s
-
-%s MiKreditů na rok"</string>
-  <string name="micloud_member_buy_title">Potvrdit</string>
-  <string name="micloud_member_net_error_alert_message">Nemáte připojení k internetu.</string>
-  <string name="micloud_member_net_error_alert_title">Nelze se připojit k síti</string>
-  <string name="micloud_member_pay_fail_toast">Platba nemohla být dokončena</string>
-  <string name="micloud_member_pay_miid_error_toast">Chyba účtu</string>
-  <string name="micloud_member_pay_order_error_toast">Chyba dat</string>
-  <string name="micloud_member_refresh_button">Obnovit</string>
-  <string name="micloud_member_webload_fail_error_message">Chyba sítě</string>
-  <string name="micloud_member_webload_fail_toast_4xx">Stránku nebylo možné načíst</string>
-  <string name="micloud_member_webload_fail_toast_5xx">Chyba serveru</string>
-  <string name="micloud_main_space_low">Dochází volné místo...</string>
-  <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívat</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">Aplikace MIUI využívají MiCloud pro zálohu fotografií, kontaktů, poznámek a mnohem více. MiCloud je dostupný zdarma pro všechny.</string>
-  <string name="sync_dspt_entrance_provision_confirm_open">Použít MiCloud</string>
-  <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívat MiCloud?</string>
-  <string name="sync_dspt_entrance_provision_skip">Přeskočit</string>
-   <string name="internet_access_dspt">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
-  <string name="micloud_space_applist_detail">Spravovat apl. na vaší ploše.</string>
-  <string name="micloud_space_applist_title">Spravovat aplikace</string>
-  <string name="micloud_space_soundrecorder_detail">Spravovat nahrávky ve vašem zařízení</string>
-  <string name="micloud_space_soundrecorder_title">Nahrávky</string>
 </resources>

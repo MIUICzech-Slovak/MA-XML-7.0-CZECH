@@ -18,6 +18,7 @@
   <string name="add_2sec_pause">Přidat 2s pauzu</string>
   <string name="add_account">Přidat účet</string>
   <string name="add_blacklist">Černá listina</string>
+  <string name="add_blacklist_dialog_title">Blokovat toto číslo?</string>
   <string name="add_connection_button">Přidat propojení</string>
   <string name="add_contact_dlg_message_fmt">Přidat \"%s\" do kontaktů?</string>
   <string name="add_field">Přidat další položku</string>
@@ -44,6 +45,7 @@
   <string name="batch_delete_msg">"Opravdu chcete vymazat %d kontaktů?
   
   Pokud používáte synchronizaci kontaktů s cloudem, budou vymazány i odtud."</string>
+  <string name="blacklist">Blokovat</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth spojení se přerušilo</string>
   <string name="blurbJoinContactDataWith">Vyberte kontakt, se kterým chcete sloučit %s.</string>
   <string name="btn_delete_multi_contacts">Vymazat kontakt (%d)</string>
@@ -155,6 +157,7 @@
   <string name="close_dial_pad">Zavřít číselník</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
+  <string name="cloud_recommend_msg">Dotykem synch. kontakty s MiCloud.</string>
   <string name="composer_failed_to_get_database_infomation">Načtení informací z databáze se nezdařilo</string>
   <string name="composer_has_no_exportable_contact">Nelze exportovat žádné kontakty. Pokud máte v telefonu skutečně uložené kontakty, je možné, že některý poskytovatel datových služeb zakázal jejich export mimo telefon.</string>
   <string name="composer_not_initialized">Editor vCard není správně inicializován</string>
@@ -231,6 +234,7 @@
   <string name="delete_unknown_contact_calllog_title">Potvrdit smazání volání na neznámá čísla?</string>
   <string name="deleting">Odstraňování...</string>
   <string name="deleting_sim_entry_miui">Mazání kontaktů na SIM kartě...</string>
+  <string name="deleting_sim_entry_miui_prepare">Příprava na vymazání...</string>
   <string name="description_add_contact">Přidat kontakt</string>
   <string name="description_author">Autor</string>
   <string name="description_call">Volat %1$s</string>
@@ -354,6 +358,7 @@
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exportování na SIM kartu je kompletní</string>
   <string name="export_sim_contact_finish_failure">Dokončené: %1$d, zbývá: %2$d</string>
+  <string name="export_sim_contact_finish_msg">%1$d přenesených | %2$d přeskočených | %3$d zbývá</string>
   <string name="export_sim_contact_finish_success">Kontakty zkopírované na SIM kartu: %d</string>
   <string name="export_sim_contacts_dialog_message">Vaše SIM karta může uložit %d kontaktů. Opravdu chcete pokračovat?</string>
   <string name="export_to_sdcard">Exportovat do úložiště</string>
@@ -389,6 +394,7 @@ Chyba: \"%s\""</string>
   <string name="favoritesFrequentContacted">Často kontaktováni</string>
   <string name="favorites_list_empty">Žádné oblíbené</string>
   <string name="firewall_setting">Seznam blokovaných</string>
+  <string name="followed_yellowpage">Ověřené účty</string>
   <string name="foundTooManyContacts">Nalezeno více než %d</string>
   <string name="frequentList">Často používaní</string>
   <string name="from_account_format">%1$s</string>
@@ -411,6 +417,7 @@ Chyba: \"%s\""</string>
   <string name="group_rename_dialog_title">Přejmenovat skupinu</string>
   <string name="group_rename_fail_toast">Přejmenování skupiny selhalo</string>
   <string name="group_rename_success_toast">Skupina je přejmenovaná</string>
+  <string name="group_sms_error_message">Chyba skupinové SMS: %s nad limit</string>
   <string name="group_sms_progress_msg">Příprava na skupinovou SMS...</string>
   <string name="groupsLabel">Skupiny</string>
   <string name="groups_list_empty">Žádné skupiny</string>
@@ -458,6 +465,7 @@ Chyba: \"%s\""</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importování kontaktů ze SIM...</string>
+  <string name="importing_sim_contacts_miui_prepare">Příprava na import...</string>
   <string name="importing_vcard_canceled_title">Import %s byl přerušen</string>
   <string name="importing_vcard_description">Import %s</string>
   <string name="importing_vcard_finished_title">Import vizitky %s dokončen</string>
@@ -487,6 +495,7 @@ Chyba: \"%s\""</string>
   <string name="list_filter_phones">Všechny kontakty s telefonními čísly</string>
   <string name="list_filter_single">Kontakt</string>
   <string name="loading">Načítání...</string>
+  <string name="loading_accounts">Načítání SIM...</string>
   <string name="loading_group_members">Načítání...</string>
   <string name="loading_groups">Načítání...</string>
   <string name="loading_recent">Načítání...</string>
@@ -722,6 +731,7 @@ Synchronizujte je nyní."</string>
   <string name="preference_contacts_display">Zobrazení kontaktů</string>
   <string name="preference_contacts_filter">Kontakty k zobrazení</string>
   <string name="preference_contacts_more">Další nastavení kontaktů</string>
+  <string name="preference_contacts_recovery_introduction">Obnovit kontakty</string>
   <string name="preference_dial_pad_touch_tone_default">Výchozí</string>
   <string name="preference_dial_pad_touch_tone_human">Lidský hlas</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
@@ -792,6 +802,7 @@ Synchronizujte je nyní."</string>
   <string name="relationLabelsGroup">Příbuzní</string>
   <string name="removePhoto">Odstranit fotku</string>
   <string name="remove_blacklist">Odstranit z černé listiny</string>
+  <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
   <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string>
   <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
@@ -933,6 +944,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_see_more">Více</string>
   <string name="resource_select">Zvolit</string>
   <string name="resource_select_ringtone_confirm">Zvolit tento tón?</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
   <string name="resource_selected">Nejlepší</string>
   <string name="resource_send">Odeslat</string>
   <string name="resource_server_alert_dialog_title">Server je momentálně nedostupný</string>
@@ -941,6 +953,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
   <string name="resource_share_title">Sdílet</string>
   <string name="resource_system_title">Systémové zdroje</string>
+  <string name="resource_tab_to_view">Zobrazit</string>
   <string name="resource_tip_select_none">Žádné</string>
   <string name="resource_tip_select_ringtone">Nic nebylo vybráno</string>
   <string name="resource_title">Podrobnosti</string>
@@ -1159,6 +1172,7 @@ Vyberte si z následujících možností:</string>
   <string name="yellowPageNavigationLabel">Zlaté stránky</string>
   <string name="yellowpage_navigation_clear_search_history">Vyčistit historii</string>
   <string name="yellowpage_navigation_more_items">Více</string>
+  <string name="yellowpage_navigation_more_items_title">Více služeb</string>
   <string name="yellowpage_navigation_network_location_enable">Povolit</string>
   <string name="yellowpage_navigation_network_location_enable_later">Později</string>
   <string name="yellowpage_navigation_network_location_enabled">Služba je povolena. Můžete ji deaktivovat v nastavení polohy</string>
@@ -1166,6 +1180,7 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Povolit polohu podle sítě</string>
   <string name="yellowpage_navigation_no_content">Nic nebylo nalezeno</string>
   <string name="yellowpage_navigation_search_city_name_hint">Město</string>
+  <string name="yellowpage_navigation_search_history">Historie</string>
   <string name="yellowpage_navigation_search_offline_hint">Žádné připojení</string>
   <string name="yellowpage_navigation_search_result_network_error">"Nelze se připojit k síti"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nic více</string>
@@ -1178,19 +1193,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat v seznamu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="yellowpage_navigation_search_history">Historie</string>
-  <string name="resource_tab_to_view">Zobrazit</string>
-  <string name="followed_yellowpage">Ověřené účty</string>
-  <string name="yellowpage_navigation_more_items_title">Více služeb</string>
-  <string name="add_blacklist_dialog_title">Blokovat toto číslo?</string>
-  <string name="blacklist">Blokovat</string>
-  <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
-  <string name="resource_select_ringtone_confirm_picker">Nastavit tento zvuk?</string>
-  <string name="preference_contacts_recovery_introduction">Obnovit kontakty</string>
-  <string name="group_sms_error_message">Chyba skupinové SMS: %s nad limit</string>
-  <string name="export_sim_contact_finish_msg">%1$d přenesených | %2$d přeskočených | %3$d zbývá</string>
-  <string name="deleting_sim_entry_miui_prepare">Příprava na vymazání...</string>
-  <string name="importing_sim_contacts_miui_prepare">Příprava na import...</string>
-  <string name="loading_accounts">Načítání SIM...</string>
-  <string name="cloud_recommend_msg">Dotykem synch. kontakty s MiCloud.</string>
 </resources>

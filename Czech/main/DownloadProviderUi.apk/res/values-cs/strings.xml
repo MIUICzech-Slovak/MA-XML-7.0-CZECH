@@ -36,6 +36,7 @@
   <string name="dialog_insufficient_space_on_cache">Nelze dokončit stahování. Není dostatek místa na vnitřním úložišti.</string>
   <string name="dialog_insufficient_space_on_external">Nelze dokončit stahování. Není dostatek místa na externím úložišti.</string>
   <string name="dialog_media_not_found">Nelze stáhnout. Externí médium není k dispozici.</string>
+  <string name="dialog_not_show_again">Znovu nezobrazovat</string>
   <string name="dialog_queued_body">Tento soubor je již ve frontě pro stažení.</string>
   <string name="dialog_title_not_available">Stahování neúspěšné</string>
   <string name="dialog_title_queued_body">Soubor zatím není k dispozici</string>
@@ -124,6 +125,16 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Použít Xunlei stahování?</string>
+  <string name="recommend_downloading">Stahování...</string>
+  <string name="recommend_failed">Selhalo</string>
+  <string name="recommend_install">Instalovat</string>
+  <string name="recommend_installing">Instaluje se...</string>
+  <string name="recommend_loading">Načítání...</string>
+  <string name="recommend_open">Otevřít</string>
+  <string name="recommend_other_downloads">Top</string>
+  <string name="recommend_paused">Pozastaveno</string>
+  <string name="recommend_prepare">V pořadí...</string>
+  <string name="recommend_show_other_downloads">Zobrazit populární</string>
   <string name="remove_download">Odstranit</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Obnovit</string>
@@ -149,15 +160,4 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="dialog_not_show_again">Znovu nezobrazovat</string>
-  <string name="recommend_downloading">Stahování...</string>
-  <string name="recommend_failed">Selhalo</string>
-  <string name="recommend_install">Instalovat</string>
-  <string name="recommend_installing">Instaluje se...</string>
-  <string name="recommend_loading">Načítání...</string>
-  <string name="recommend_open">Otevřít</string>
-  <string name="recommend_other_downloads">Top</string>
-  <string name="recommend_paused">Pozastaveno</string>
-  <string name="recommend_prepare">V pořadí...</string>
-  <string name="recommend_show_other_downloads">Zobrazit populární</string>
 </resources>
