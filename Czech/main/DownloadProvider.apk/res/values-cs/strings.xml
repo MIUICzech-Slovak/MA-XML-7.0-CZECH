@@ -60,4 +60,9 @@ Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet
     
 Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+  <string name="dialog_not_show_again">Znovu se neptat</string>
+     <string name="warning_tip_cancel">Stáhnout</string>
+     <string name="warning_tip_content">Chybí připojení na Wi-Fi síť. Stahování tohoto souboru může navýšit vaše poplatky za mobilní data."</string>
+     <string name="warning_tip_ok">Zastavit</string>
+     <string name="warning_tip_title">Využívání mobilních dat</string>
 </resources>

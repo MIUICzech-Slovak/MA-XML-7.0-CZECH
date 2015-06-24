@@ -116,4 +116,6 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="dlg_info_creating_message">Vytváření zprávy...</string>
+  <string name="sync_tips">Dotykem synchr. poznámky s MiCloud.</string>
 </resources>

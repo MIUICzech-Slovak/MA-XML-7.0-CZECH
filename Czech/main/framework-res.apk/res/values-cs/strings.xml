@@ -1496,4 +1496,35 @@ Chcete ji zavřít?"</string>
   <string name="year">rokem</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
+  <string name="lockscreen_airplane_mode_on">Režim Letadlo</string>
+  <string name="lockscreen_sim_error_message_short">Chybná karta.</string>
+  <string name="permission">Oprávnění</string>
+  <string name="permission_remember_choice">Zapamatovat</string>
+  <string name="pinpuk_attempts">"
+zbývá: "</string>
+  <string name="progress_nomediapresent">K dispozici není žádné vyměnitelné medium...</string>
+  <string name="quick_contacts_not_available">Nebyla nalezena žádná aplikace, kterou by bylo možné zobrazit tento kontakt.</string>
+  <string name="stk_cc_ss_to_dial">Požadavek SS byl upraven na požadavek DIAL.</string>
+  <string name="stk_cc_ss_to_ss">Požadavek SS byl upraven na nový požadavek SS.</string>
+  <string name="stk_cc_ss_to_ussd">Požadavek SS byl upraven na požadavek USSD.</string>
+  <string name="stk_cc_ussd_to_dial">Požadavek USSD byl upraven na požadavek DIAL.</string>
+  <string name="stk_cc_ussd_to_ss">Požadavek USSD byl upraven na požadavek SS.</string>
+  <string name="stk_cc_ussd_to_ussd">Požadavek USSD byl upraven na nový požadavek USSD.</string>
+  <string name="storage_uicc">Úložiště UICC</string>
+  <string name="transient_navigation_confirmation_long">Potáhněte od horního okraje pro zobrazení lišty</string>
+  <string name="webviewchromium_color_picker_button_black">Černá</string>
+  <string name="webviewchromium_color_picker_button_blue">Modrá</string>
+  <string name="webviewchromium_color_picker_button_cyan">Azurová</string>
+  <string name="webviewchromium_color_picker_button_green">Zelená</string>
+  <string name="webviewchromium_color_picker_button_magenta">Purpurová</string>
+  <string name="webviewchromium_color_picker_button_red">Červená</string>
+  <string name="webviewchromium_color_picker_button_white">Bílá</string>
+  <string name="webviewchromium_color_picker_button_yellow">Žlutá</string>
+  <string name="webviewchromium_copy_to_clipboard_failure_message">Kopírování do schránky selhalo</string>
+  <string name="webviewchromium_date_picker_dialog_other_button_label">Jiné</string>
+  <string name="webviewchromium_profiler_error_toast">Spuštění profilovače selhalo</string>
+  <string name="webviewchromium_profiler_no_storage_toast">Profilovač není možné spustit, protože není připraveno externí úložiště</string>
+  <string name="webviewchromium_profiler_started_toast">Profilovač byl spuštěn</string>
+  <string name="webviewchromium_profiler_stopped_toast">Profilovač byl dokončen. Výsledky naleznete v souboru %1$s.</string>
+  <string name="webviewchromium_time_picker_dialog_title">Nastavit čas</string>
 </resources>

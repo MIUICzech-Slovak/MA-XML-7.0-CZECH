@@ -3615,4 +3615,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="choose_smartcover_type">Vyberte typ krytu</string>
+  <string name="normal_smartcover_title">Neprůhledný přední kryt</string>
+  <string name="smallwindow_smartcover_title">Průhledný přední kryt</string>
 </resources>
