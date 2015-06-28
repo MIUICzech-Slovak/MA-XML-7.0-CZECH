@@ -543,7 +543,7 @@ Normální"</string>
   <string name="success_to_remove_share_device">Unsharing camera success!</string>
   <string name="success_to_share_device">Kamera je sdílena!</string>
   <string name="success_to_update_device">Kamera je aktualizována!</string>
-  <string name="sure_to_camera_upgrade">Aktualizace firmware kamery trvý zhruba 4-5 min. Ujistěte se, že se kamera neodpojí od sítě během aktualizace firmware!</string>
+  <string name="sure_to_camera_upgrade">Aktualizace firmware kamery trvá zhruba 4-5 min. Ujistěte se, že se kamera neodpojí od sítě během aktualizace firmware!</string>
   <string name="sure_to_delete_alarm_setting">OK to delete the set period of time?</string>
   <string name="sure_to_delete_device">Vymazat video?</string>
   <string name="sure_to_delete_video">Vymazat video?</string>
