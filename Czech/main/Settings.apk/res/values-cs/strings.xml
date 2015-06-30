@@ -2938,8 +2938,8 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="usage_type_wifi_running">Wi-Fi je aktivní</string>
   <string name="usb_audio_disable_routing">Vyp. směr. zvuku do USB</string>
   <string name="usb_audio_disable_routing_summary">Vyp. aut. směr. zvuku do zvukových periferií USB</string>
-  <string name="usb_charging_summary">Umožňuje deaktivovat přenos souborů s PC a přepnout do režimu nabíjení.</string>
-  <string name="usb_charging_title">Nabíjení</string>
+  <string name="usb_charging_summary">Deaktivovat všechny ostatní USB funkce a zrychlit proces nabíjení.</string>
+  <string name="usb_charging_title">Zrychlit nabíjení</string>
   <string name="usb_connection_category">Připojit jako</string>
   <string name="usb_eject">Odpojit USB úložiště</string>
   <string name="usb_eject_summary">Odpojit USB úložiště a bezpečně odebrat</string>
@@ -3618,4 +3618,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="choose_smartcover_type">Vyberte typ krytu</string>
   <string name="normal_smartcover_title">Neprůhledný přední kryt</string>
   <string name="smallwindow_smartcover_title">Průhledný přední kryt</string>
+  <string name="config_charging_function_name">nabíjení</string>
 </resources>

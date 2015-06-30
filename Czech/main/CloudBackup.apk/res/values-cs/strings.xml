@@ -73,4 +73,5 @@
   <string name="start_recover">Obnovit %s</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="about_to_recover">O obnově</string>
 </resources>

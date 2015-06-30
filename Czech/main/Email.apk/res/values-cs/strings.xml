@@ -130,7 +130,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Nepovinné</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Předpona cesty IMAP</string>
   <string name="account_setup_incoming_mail_adress_label">Adresa</string>
-  <string name="account_setup_incoming_mail_domain_hint">Povinné</string>
+  <string name="account_setup_incoming_mail_domain_hint">Nepovinné</string>
   <string name="account_setup_incoming_mail_domain_label">Doména</string>
   <string name="account_setup_incoming_password_label">Heslo</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -752,8 +752,8 @@ přesahuje limit"</string>
   <string name="quick_4">Můžeme si dohodnout schůzku, abychom to prodiskutovali.</string>
   <string name="quick_reply_dialog_title">Vyberte prosím</string>
   <string name="quick_reply_hint">Odpovědět všem (%1$d)</string>
-  <string name="quick_reply_hint_bcc">(V BCC)</string>
-  <string name="quick_reply_hint_cc">(V CC)</string>
+  <string name="quick_reply_hint_bcc">" (V BCC) "</string>
+  <string name="quick_reply_hint_cc">" (V CC) "</string>
   <string name="quick_responses_empty_view">Žádné rychlé odpovědi.</string>
   <string name="quoted_text">Zahrnout citovaný text</string>
   <string name="quoted_text_label">Text citace</string>
@@ -943,4 +943,10 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="account_setup_failed_dlg_device_locked">Vaše adresa byla zablokována zámkem zařízení</string>
+  <string name="attachment_open_SecurityException_hint">Zkontrolujte povolení, poškození, atd.</string>
+  <string name="attachment_open_SecurityException_title">Otevření souboru selhalo</string>
+  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Jak to vyřešit?</string>
+  <string name="unzip_file_failed">Rozbalení souboru selhalo!</string>
 </resources>

@@ -6,9 +6,9 @@
         <item quantity="one">Konverzace vymazána</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s sekund</item>
-        <item quantity="one">%s sekunda</item>
-        <item quantity="few">%s sekundy</item>
+        <item quantity="other">Sekund: %s</item>
+        <item quantity="one">Sekund: %s</item>
+        <item quantity="few">Sekund: %s</item>
     </plurals>
     <plurals name="slide_audio_duration">
         <item quantity="other">%s s</item>
@@ -20,10 +20,20 @@
         <item quantity="one">%1$s výsledek na dotaz „%2$s”</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">lidí: %1$s</item>
+        <item quantity="other">Lidí: %1$s</item>
+        <item quantity="one">Lidí: 1</item>
     </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">SMS: %d</item>
+        <item quantity="zero">SMS: 0</item>
+        <item quantity="one">SMS: 1</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+       <item quantity="other">Nebylo synchronizováno: %d SMS</item>
+       <item quantity="one">Nebylo synchronizováno: 1 SMS</item>
+     </plurals>
     <plurals name="message_count">
-        <item quantity="other">zprávy: %1$s</item>
-        <item quantity="one">%1$s zpráva</item>
+        <item quantity="other">SMS: %1$s</item>
+        <item quantity="one">SMS: %1$s</item>
     </plurals>
 </resources>

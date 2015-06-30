@@ -1190,7 +1190,9 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Stahování ikony...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, zkontrolujte nastavení sítě.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
-  <string name="yellowpage_search_the_yellowpage">Vyhledat v seznamu</string>
+  <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="unknow_phone_number_call_failed">Nelze volat na neznámé číslo.</string>
+  <string name="unknow_phone_number_mms_failed">Nelze odeslat SMS na neznámé číslo.</string>
 </resources>

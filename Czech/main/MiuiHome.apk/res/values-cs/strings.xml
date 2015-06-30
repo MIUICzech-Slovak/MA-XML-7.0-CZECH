@@ -277,4 +277,5 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
+  <string name="app_being_restored_message">Apl. bude obnovena</string>
 </resources>
