@@ -15,7 +15,7 @@
     <string name="welcome">Aplikaci přeložilo miuios.cz</string>
     <string name="login">Xiaomi účet</string>
     <string name="register">Registrovat se</string>
-    <string name="discover_device">Vyhledat Yi lampu</string>
+    <string name="discover_device">Vyhledávání Yi lampy</string>
     <string name="screen_all_light_offline">Yi lampa nebyla nalezena, zkuste následující:</string>
     <string name="no_device_found_title">Yi lampa nebyla nalezena</string>
     <string name="no_device_found_research">Vyhledat</string>
@@ -66,13 +66,13 @@ Světlo se vypne za %1$d min"</string>
     <string name="mi_band_bind_bindtext">Připojování MiBand</string>
     <string name="mi_band_bind_unbind">Odpojit</string>
     <string name="mi_band_bind_unbind_sub">Po odpojení se lampa nebude automaticky vypínat, když usnete.</string>
-    <string name="night_light_text">Noční světlo</string>
+    <string name="night_light_text">Noční osvětlení</string>
     <string name="night_light_text_on">Zapnuto</string>
     <string name="night_light_text_off">Vypnuto</string>
     <string name="night_time_from">Od %1$s</string>
-    <string name="night_time_to">Do %1$s</string>
+    <string name="night_time_to">" Do %1$s"</string>
     <string name="night_light_disable">Zakázáno</string>
-    <string name="night_light_sub_info">Pokud je povoleno noční světlo, můžete se ve stanoveném čase dotknout horní plochy lampy. Tím se upraví jas tak, aby nedošlo k poškození vašeho zraku.</string>
+    <string name="night_light_sub_info">Pokud je povoleno noční osvětlení a ve zvoleném čase zapnete lampu, bude jas upraven tak, aby vás lampa neoslňovala.</string>
     <string name="fw_update">Aktualizace firmware</string>
     <string name="fw_ota_progress">Aktualizace firmware...</string>
     <string name="ota_success">Aktualizace dokončena</string>
