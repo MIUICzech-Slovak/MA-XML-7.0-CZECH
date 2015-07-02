@@ -351,7 +351,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="yes">Ano</string>
   <string name="archive_send_to">Odeslat do...</string>
   <string name="category_file">Soubory</string>
-  <string name="category_recent">Nedávné</string>
   <string name="decompress_destination_error">Rozbalování selhalo. Do tohoto adresáře nelze soubor rozbalit.</string>
   <string name="expand_all">Vše</string>
   <string name="group_title">%2$s z %1$s</string>
