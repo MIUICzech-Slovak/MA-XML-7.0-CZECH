@@ -705,4 +705,6 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="yellow_page">Složka</string>
   <string name="yes">Ano</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
+  <string name="recommanded_face_abandon_tip">Odebráno z doporučených</string>
+  <string name="recommanded_face_added_tip">Přidáno do \"%s\"</string>
 </resources>

@@ -253,9 +253,9 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="update_downfull_no_info_title">Nelze stáhnout</string>
   <string name="update_feedback">Hodnocení aktualizace</string>
   <string name="update_feedback_end">Zmeškali jste hodnocení aktuální verze</string>
-  <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé úterý.</string>
-  <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!
-Vyplňte jej prosím následující úterý"</string>
+  <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé pondělí.</string>
+  <string name="update_feedback_expired">"Zmeškali jste hodnocení aktuální verze!
+Svůj názor můžete odeslat každé pondělí"</string>
   <string name="update_feedback_need_account">Musíte se přihlásit ke Xiaomi účtu</string>
   <string name="update_feedback_need_network">Připojte se k síti</string>
   <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>

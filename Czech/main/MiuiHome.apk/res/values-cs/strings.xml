@@ -278,4 +278,6 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
   <string name="app_being_restored_message">Apl. bude obnovena</string>
+  <string name="deselect_all">Odznačit vše</string>
+  <string name="select_all">Vše</string>
 </resources>

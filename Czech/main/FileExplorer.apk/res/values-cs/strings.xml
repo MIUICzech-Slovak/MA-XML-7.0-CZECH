@@ -349,4 +349,21 @@ Bylo přičteno dalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Ano</string>
+  <string name="archive_send_to">Odeslat do...</string>
+  <string name="category_file">Soubory</string>
+  <string name="category_recent">Nedávné</string>
+  <string name="decompress_destination_error">Rozbalování selhalo. Do tohoto adresáře nelze soubor rozbalit.</string>
+  <string name="expand_all">Vše</string>
+  <string name="group_title">%2$s z %1$s</string>
+  <string name="month_day_format">dd MMM</string>
+  <string name="sdcard">SD Karta</string>
+  <string name="sdcard_available">Dostupné %1$s</string>
+  <string name="sdcard_total">Celkem %1$s</string>
+  <string name="tab_more">Více</string>
+  <string name="tab_source">APLIKACE</string>
+  <string name="tab_storage">ÚLOŽIŠTĚ</string>
+  <string name="title_more_source">Více aplikací</string>
+  <string name="title_recent">Nedávné</string>
+  <string name="wechat_video">Video v %s</string>
+  <string name="year_month_day_format">dd MMM, yyyy</string>
 </resources>
