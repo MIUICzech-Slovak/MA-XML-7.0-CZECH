@@ -34,7 +34,7 @@
   <string name="attach_slideshow">Prezentace</string>
   <string name="attach_sound">Zvuk</string>
   <string name="attach_subject">Předmět</string>
-  <string name="attach_take_photo">Vyfotit obrázek</string>
+  <string name="attach_take_photo">Vyfotit</string>
   <string name="attach_video">Videa</string>
   <string name="audio_download_failed">Stahování nahrávky selhalo</string>
   <string name="back_to_message_list">Seznam zpráv</string>
@@ -161,7 +161,6 @@
   <string name="festival_never_remind">Znovu se neptat</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítám...</string>
-  <string name="fetion_prefix">[Otevřít]</string>
   <string name="file_create_time">Vytvořeno:</string>
   <string name="file_share_message_description">Sdílím s Vámi soubory</string>
   <string name="file_size">Velikost:</string>
@@ -391,8 +390,8 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="priority_normal">Střední</string>
   <string name="privacy_mode_hint">V režimu návštěvník nelze odeslat zprávu</string>
   <string name="private_message">Soukromé Zprávy</string>
-  <string name="private_new_notification">Notifikace nové soukromé zprávy</string>
-  <string name="private_protect">Ochrana soukromí</string>
+  <string name="private_new_notification">Notifikace nové zprávy</string>
+  <string name="private_protect">Heslo</string>
   <string name="private_settings">Nastavení soukromí</string>
   <string name="processing">Zpracovávám...</string>
   <string name="prvate_contact">Soukromý kontakt</string>
@@ -453,7 +452,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="select_local_video">Vybrat video</string>
   <string name="select_recipient">Příjemce</string>
   <string name="select_top_text">Text nahoře</string>
-  <string name="send">Poslat</string>
+  <string name="send">Odeslat</string>
   <string name="send_hms_editor_hints">Cloudová zpráva</string>
   <string name="send_message_dlg_check_hint">Pamatovat si nastavení</string>
   <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
@@ -462,7 +461,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="send_message_notification_tickerText">Device Management permission request</string>
   <string name="send_message_notification_title">Správa zařízení</string>
   <string name="send_signature_confirm_dialog_message">Nezadali jste žádný text. Opravdu chcete takto zprávu odeslat?</string>
-  <string name="send_signature_confirm_dialog_title">Poslat podpis</string>
+  <string name="send_signature_confirm_dialog_title">Odeslat podpis</string>
   <string name="send_sms">Odeslat</string>
   <string name="send_to">"Komu: "</string>
   <string name="send_to_count">Zprávy: %1$s</string>
@@ -480,7 +479,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="sim_card_cloud">%s (Cloudová zpráva)</string>
   <string name="sim_copy_to_phone_memory">Kopírovat do paměti telefonu</string>
   <string name="sim_delete">Smazat</string>
-  <string name="sim_empty">Žádné uložené zprávy na SIM kartě.</string>
+  <string name="sim_empty">Žádné zprávy na SIM kartě.</string>
   <string name="sim_full_body">Smazat některé zprávy, aby byl prostor pro další.</string>
   <string name="sim_full_title">SIM karta je plná</string>
   <string name="sim_manage_messages_title">SMS na SIM kartě</string>
@@ -583,5 +582,5 @@ Pokus: %s."</string>
   <string name="cloud_state_sync_finished">Synchr. s MiCloud</string>
   <string name="cloud_state_syncing">Synchr. s MiCloud...</string>
   <string name="yes">OK</string>
-  <string name="mipub_messaging_entry_title">Mi Messages</string>
+  <string name="mipub_messaging_entry_title">MiZprávy</string>
 </resources>
