@@ -572,4 +572,5 @@ s "</string>
   <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je propojeno s vícero Xiaomi účty. Nelze přidat další účet.</string>
   <string name="account_vip_level">Vip level</string>
   <string name="account_vip_task">Úloha</string>
+  <string name="mi_pass">MiPass</string>
 </resources>
