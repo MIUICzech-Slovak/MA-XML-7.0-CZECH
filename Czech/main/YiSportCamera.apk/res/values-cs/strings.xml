@@ -586,5 +586,4 @@ Vložte SD kartu a zkuste to znovu."</string>
   <string name="wifi_connect_failed_directly">Restartujte váš telefon nebo zkontrolujte nastavení Wi-Fi připojení.</string>
   <string name="firmware_upgrade_failed_put_file_failed">Aktualizace selhala, zkuste to znovu.</string>
   <string name="recording_frame_not_allowed">Time-lapse video není podporováno v tomto rozlišení</string>
-  <string name="recording_sound_not_allowed">Nahrávání zvuku a time-lapse videa podporováno v tomto rozlišení</string>
 </resources>
