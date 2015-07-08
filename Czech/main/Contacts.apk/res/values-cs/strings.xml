@@ -106,7 +106,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Odchozí "</string>
   <string name="callrecordview_menu_add_call_note">Přidat poznámku</string>
   <string name="callrecordview_menu_batch_delete">Vybrat záznam pro vymazání</string>
-  <string name="callrecordview_menu_delete">Vymazat</string>
+  <string name="callrecordview_menu_delete">Vymazat seznam hovorů</string>
   <string name="callrecordview_menu_delete_accepted">Vymazat přijaté hovory</string>
   <string name="callrecordview_menu_delete_all">Vymazat</string>
   <string name="callrecordview_menu_delete_called">Vymazat odchozí hovory</string>
@@ -533,7 +533,7 @@ Chyba: \"%s\""</string>
   <string name="menu_copy">Kopírovat</string>
   <string name="menu_copyContact">Zkopírovat do mých kontaktů</string>
   <string name="menu_create_contact_shortcut">Přidat na plochu</string>
-  <string name="menu_deleteContact">Vymazat</string>
+  <string name="menu_deleteContact">Vymazat kontakt</string>
   <string name="menu_deleteGroup">Vymazat</string>
   <string name="menu_dial_ip_number">IP hovor</string>
   <string name="menu_dialpad_text">Číselník</string>

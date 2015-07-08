@@ -160,7 +160,7 @@
   <string name="task_backup_cancel_progress">Ukončování zálohování...</string>
   <string name="task_backup_finished_local">Zálohování dokončeno</string>
   <string name="task_canceled">Stornováno</string>
-  <string name="task_canceled_all_local">zrušeno</string>
+  <string name="task_canceled_all_local">Zrušeny všechny zálohy</string>
   <string name="task_canceled_local">%s úloha zrušena</string>
   <string name="task_cloud_backup_cancel_dialog">Zálohování nebylo dokončeno!\nOpravdu chcete ukončit zálohování?</string>
   <string name="task_failed">Neúspěšné</string>
