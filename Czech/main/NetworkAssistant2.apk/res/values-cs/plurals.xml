@@ -36,4 +36,12 @@
         <item quantity="other">%d apl. nepoužívá úsporu dat</item>
         <item quantity="one">%d apl. nepoužívá úsporu dat</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
 </resources>

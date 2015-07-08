@@ -526,4 +526,24 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Zkontrolovat dostupné připojení Wi-Fi sítě</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Povolit mobilní data.</string>
+  <string name="notify_daily_traffic_saving_title">%s dnes využito</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Omezit využívání dat pro nové apl.</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automaticky aktivovat úsporu mobilních dat pro nové nainstalované aplikace.</string>
+  <string name="pref_traffic_saving_compressed">Komprimováno</string>
+  <string name="pref_traffic_saving_no_compress">Bez komprese</string>
+  <string name="pref_traffic_saving_pic_compress_level">Úroveň komprese obrázků</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Povolit úsporu dat.</string>
+  <string name="traffic_saving_button_mng">Spravovat aplikace pro úsporu dat</string>
+  <string name="traffic_saving_need_optimize">Může být optimalizováno</string>
+  <string name="traffic_saving_notification_button_start">Aktivovat</string>
+  <string name="traffic_saving_one_key_optimize">Optimalizovat pro úsporu dat</string>
+  <string name="traffic_saving_optimized">Optimalizováno</string>
+  <string name="traffic_saving_pic_compress_orig">Originál</string>
+  <string name="traffic_saving_ratio">Uspořená data %.2f%%</string>
+  <string name="traffic_saving_ratio_low">Nelze snížit spotřebu mobilních dat</string>
+  <string name="traffic_saving_recommanded_close">Vypnout</string>
+  <string name="traffic_saving_recommanded_open">Zapnout</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovat úsporu mobilních dat.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;pokud máte měsíční objem předplacených mobilních dat, deaktivujte úsporu mobilních dat pro jednotlivé aplikace pro snížení objemu přenesených dat.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Aktivovat</string>
 </resources>

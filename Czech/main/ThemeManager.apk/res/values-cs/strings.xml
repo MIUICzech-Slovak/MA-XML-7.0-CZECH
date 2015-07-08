@@ -349,4 +349,24 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Diagnostika sítě&lt;/u&gt;</string>
+  <string name="resource_search_color">Vyberte barvu téma</string>
+  <string name="resource_search_color_hint_black">Černá</string>
+  <string name="resource_search_color_hint_blue">Modrá</string>
+  <string name="resource_search_color_hint_brown">Hnědá</string>
+  <string name="resource_search_color_hint_cyan">Tyrkysová</string>
+  <string name="resource_search_color_hint_gray">Šedá</string>
+  <string name="resource_search_color_hint_green">Zelená</string>
+  <string name="resource_search_color_hint_orange">Oranžová</string>
+  <string name="resource_search_color_hint_pink">Růžová</string>
+  <string name="resource_search_color_hint_purple">Fialová</string>
+  <string name="resource_search_color_hint_red">Červená</string>
+  <string name="resource_search_color_hint_white">Bílá</string>
+  <string name="resource_search_color_hint_yellow">Žlutá</string>
+  <string name="resource_select_boot_audio_confirm">Vybrat tento zvuk při spuštění?</string>
+  <string name="resource_select_notification_audio_confirm">Vybrat tento zvuk budíku?</string>
+  <string name="resource_select_ringtone_audio_confirm">Vybrat toto zvonění?</string>
+  <string name="resource_select_audio_confirm_picker">Vybrat tento zvuk?</string>
+  <string name="resource_select_alarm_audio_confirm">Vybrat tento zvuk upozornění?</string>
+  <string name="theme_setting">Nastavení</string>
 </resources>
