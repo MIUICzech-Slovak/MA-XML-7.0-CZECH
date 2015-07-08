@@ -671,7 +671,7 @@ Synchronizujte je nyní."</string>
   <string name="option_delete_group">Vymazat</string>
   <string name="option_edit_contact">Upravit</string>
   <string name="option_not_in_group">Odebrat</string>
-  <string name="option_not_star">Odebrat z oblíbených</string>
+  <string name="option_not_star">Oblíbené</string>
   <string name="option_rename_group">Přejmenovat</string>
   <string name="option_send_to_desktop">Odeslat na plochu</string>
   <string name="option_send_to_others">Odeslat do ostatních</string>
