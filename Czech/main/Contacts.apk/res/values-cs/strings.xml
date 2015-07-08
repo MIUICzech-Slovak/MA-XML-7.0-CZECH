@@ -554,7 +554,7 @@ Chyba: \"%s\""</string>
   <string name="menu_new_group_action_bar">Nová skupina</string>
   <string name="menu_not_redirect_calls_to_vm">Hlasová schránka se nepoužívá</string>
   <string name="menu_redirect_calls_to_vm">Přesměrovat do hlasové schránky</string>
-  <string name="menu_removeStar">Odstranit z oblíbených</string>
+  <string name="menu_removeStar">Oblíbené</string>
   <string name="menu_search">Hledat</string>
   <string name="menu_select_all">Vybrat vše</string>
   <string name="menu_select_none">Odznačit vše</string>
