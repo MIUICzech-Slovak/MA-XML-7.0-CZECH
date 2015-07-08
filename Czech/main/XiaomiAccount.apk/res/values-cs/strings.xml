@@ -429,14 +429,14 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_reg_via_sms_alert">Váš operátor může zpoplatnit odeslanou aktivační SMS zprávu.</string>
   <string name="passport_reging">Vytváření účtu...</string>
   <string name="passport_register">Vytvořit účet</string>
-  <string name="passport_register_account_goto_email">Navštivte vaši e-mailovou schránku</string>
-  <string name="passport_register_account_verified_confirm">Váš účet již máte ověřený</string>
+  <string name="passport_register_account_goto_email">Otevřít e-mail</string>
+  <string name="passport_register_account_verified_confirm">Účet je ověřen</string>
   <string name="passport_register_by_email">Vytvořit účet pomocí e-mailu</string>
   <string name="passport_relogin">Znovu přihlásit</string>
   <string name="passport_relogin_notice">Je nutné se přihlásit znovu</string>
   <string name="passport_remove_confirm">Odhlásit se</string>
   <string name="passport_remove_unactivated_account_notice">Váš účet nebyl aktivován.</string>
-  <string name="passport_resend_active_email">Znovu odeslat aktivační e-mail</string>
+  <string name="passport_resend_active_email">Znovu odeslat</string>
   <string name="passport_sim_index_info">SIM karta %1$d - %2$s</string>
   <string name="passport_skip_login">Přeskočit</string>
   <string name="passport_skip_register">Přeskočit</string>

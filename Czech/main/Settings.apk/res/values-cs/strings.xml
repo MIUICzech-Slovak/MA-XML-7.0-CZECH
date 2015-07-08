@@ -3496,7 +3496,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_status">Stav</string>
   <string name="wifi_status_test">Stav Wi-Fi</string>
   <string name="wifi_stopping">Vypínání Wi‑Fi…</string>
-  <string name="wifi_subnet_mask">Subnet mask</string>
+  <string name="wifi_subnet_mask">Maska podsítě</string>
   <string name="wifi_suspend_efficiency_title">Zlepšit výkonnost</string>
   <string name="wifi_suspend_optimizations">Optimalizace Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimalizovat využívání baterie při zapnuté síti Wi-Fi</string>
