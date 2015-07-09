@@ -1599,4 +1599,8 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
+  <string name="location_usage_restricted_body">Povolit</string>
+  <string name="location_usage_restricted_title">Poloha na pozadí zakázána</string>
+  <string name="permdesc_manageLocationPolicy">Povolit aplikacím spravovat vaši polohu a nastavit pravidla pro jednotlivé apl.</string>
+  <string name="permlab_manageLocationPolicy">Spravovat podmínky polohy</string>
 </resources>

@@ -3619,4 +3619,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="normal_smartcover_title">Neprůhledný přední kryt</string>
   <string name="smallwindow_smartcover_title">Průhledný přední kryt</string>
   <string name="config_charging_function_name">nabíjení</string>
+  <string name="background_location_control_summary">Povolit nebo zakázat aplikacím, které jsou spuštěny na pozadí, přístup k vaší poloze.</string>
+  <string name="background_location_control_title">Přístup k poloze na pozadí</string>
+  <string name="background_location_deselect_apps">Odznačit vše</string>
+  <string name="background_location_requests_summary">Povolit aplikacím na pozadí přístup k vaší poloze.</string>
+  <string name="background_location_requests_title">Povolit polohu na pozadí</string>
+  <string name="background_location_select_apps">Vybrat vše</string>
 </resources>
