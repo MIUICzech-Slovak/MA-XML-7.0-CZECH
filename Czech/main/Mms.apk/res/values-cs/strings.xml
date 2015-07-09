@@ -440,7 +440,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="search_setting_description">Text ve zprávách</string>
   <string name="search_show_more_results">Více</string>
   <string name="secs">s</string>
-  <string name="security_alert_desc">"Odesílatel není ve vašem seznamu kontaktů. "&lt;u&gt;&lt;font color="red"&gt;Nahlásit toto číslo&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">Odesílatel není ve vašem seznamu kontaktů. Nahlásit toto číslo?</string>
   <string name="security_alert_dialog_desc">Nahlásit toto číslo (%s) a zprávu společnosti Xiaomi pro další analýzu.</string>
   <string name="security_alert_dialog_title">Nahlásit</string>
   <string name="select_audio">Vybrat audio</string>
