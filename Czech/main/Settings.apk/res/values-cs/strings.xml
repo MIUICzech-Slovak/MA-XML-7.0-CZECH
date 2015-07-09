@@ -3625,4 +3625,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="background_location_requests_summary">Povolit aplikacím na pozadí přístup k vaší poloze.</string>
   <string name="background_location_requests_title">Povolit polohu na pozadí</string>
   <string name="background_location_select_apps">Vybrat vše</string>
+  <string name="dndm_vip_user_setting_title">Seznam výjimek</string>
 </resources>
