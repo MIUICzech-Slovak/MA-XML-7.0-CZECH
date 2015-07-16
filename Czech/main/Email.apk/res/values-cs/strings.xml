@@ -949,4 +949,17 @@ Velikost aplikace: %2$s"</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="ser_resp_err_map_serclosed_url_tag">Jak to vyřešit?</string>
   <string name="unzip_file_failed">Rozbalení souboru selhalo!</string>
+  <string name="contact_edit_set_black_list_from">Vymazat všechny zprávy od tohoto odesílatele</string>
+  <string name="contact_edit_set_black_list_receive">Vymazat všechny zprávy těchto příjemců (obvykle skupiny)</string>
+  <string name="contact_edit_set_black_list_receive_summary">Pro/Kopie obsahuje tohoto příjemce</string>
+  <string name="push_wps_better_confirm_download">Stáhnout</string>
+  <string name="push_wps_better_confirm_exit">Otevřít jinou aplikací</string>
+  <string name="push_wps_better_confirm_message">WPS Office má lepší podporu pro tento typ dokumentu v příloze</string>
+  <string name="push_wps_better_confirm_noshow_hint">Znovu nezobrazovat</string>
+  <string name="push_wps_better_confirm_title">WPS Office</string>
+  <string name="push_wps_confirm_cancel">Zrušit</string>
+  <string name="push_wps_confirm_download">Stáhnout</string>
+  <string name="push_wps_confirm_message">Žádná nainstalovaná aplikace nepodporuje tento typ souboru v příloze, doporučujeme vám nainstalovat si WPS Office</string>
+  <string name="push_wps_confirm_title">WPS Office</string>
+  <string name="push_wps_no_response_app">Žádná aplikace</string>
 </resources>

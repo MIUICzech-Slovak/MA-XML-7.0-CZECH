@@ -261,8 +261,7 @@ společně!"</string>
   <string name="face_albumset_empty">Žádná osoba nebyla rozpoznána</string>
   <string name="face_albumset_loading_data">Načítání...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie se uspořádají až po připojení k Wi-Fi</string>
-  <string name="face_albumset_use_tip">"Vyhledat osoby na fotografiích,
-ulehčí vám to prohlížení a správu vašich fotografií"</string>
+  <string name="face_albumset_use_tip">Automaticky třídit fotografie podle lidí na nich.</string>
   <string name="face_move_dialog_title">Vyberte album</string>
   <string name="facelift">Zesvětlení tváře</string>
   <string name="facetan">Ztmavení tváře</string>
@@ -707,4 +706,6 @@ ulehčí vám to prohlížení a správu vašich fotografií"</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="recommanded_face_abandon_tip">Odebráno z doporučených</string>
   <string name="recommanded_face_added_tip">Přidáno do \"%s\"</string>
+  <string name="download_without_wifi_msg">Použití mobilních dat pro stažení fotografií může zvýšit vaše měsíční poplatky.</string>
+  <string name="download_without_wifi_title">Využití mobilních dat</string>
 </resources>

@@ -58,7 +58,7 @@
   <string name="download_preview_failed">Načítání náhledu selhalo</string>
   <string name="edit_city">Upravit</string>
   <string name="fail_to_add_account">Přidávání účtu selhalo.</string>
-  <string name="first_start_network_msg">Pro načtení informací je zapotřebí internetové připojení.</string>
+  <string name="first_start_network_msg">Pro načtení informací o počasí a poloze je zapotřebí internetové připojení.</string>
   <string name="first_start_network_title">Upozornění na připojení</string>
   <string name="gps_hint">Současná poloha</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
@@ -289,4 +289,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
+  <string name="button_confirm">Povolit</string>
+  <string name="button_exit">Ukončit</string>
 </resources>
