@@ -1772,7 +1772,6 @@ Zvolte Váš operační systém:"</string>
   <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Základní</string>
   <string name="music_dirac_mode_piston_standard">Xiaomi Piston-3</string>
-  <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_dolby_dialogue_enhancer">Vylepšení dialogů</string>
   <string name="music_dolby_effects">Dolby efekt</string>
   <string name="music_dolby_eq_enter_alert_msg">Ekvalizér lze použít pouze v režimu Dolby. Chcete povolit?</string>
@@ -3626,4 +3625,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="background_location_requests_title">Povolit polohu na pozadí</string>
   <string name="background_location_select_apps">Vybrat vše</string>
   <string name="dndm_vip_user_setting_title">Seznam výjimek</string>
+  <string name="miui_data_usage_menu_metered">Mobilní hot-spoty</string>
+  <string name="music_dirac_mode_headset">Mi Sluchátka</string>
+  <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
+  <string name="max_cpu6_info">"6 jader "</string>
+  <string name="max_cpu8_info">"8 jader "</string>
 </resources>

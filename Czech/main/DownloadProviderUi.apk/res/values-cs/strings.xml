@@ -160,8 +160,8 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="download">Staženo</string>
-  <string name="downloaded_empty">Prázdné</string>
-  <string name="downloading_empty">Prázdné</string>
+  <string name="download">Stahování</string>
+  <string name="downloaded_empty">Žádné</string>
+  <string name="downloading_empty">Žádné</string>
   <string name="show_more">Více (%s)</string>
 </resources>

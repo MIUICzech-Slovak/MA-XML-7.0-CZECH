@@ -12,7 +12,7 @@
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apk">Balíčky</string>
   <string name="activity_title_apps_manager">Aplikace</string>
-  <string name="activity_title_auto_start_manager">Správa auto. spuštění</string>
+  <string name="activity_title_auto_start_manager">Správa autom. spuštění</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Cache dat</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
@@ -24,7 +24,7 @@
   <string name="activity_title_memory">Paměť</string>
   <string name="activity_title_networkassistants">Spotřeba dat</string>
   <string name="activity_title_notification_bar_manager">Správa notifikační lišty</string>
-  <string name="activity_title_perm_manager">Oprávnění</string>
+  <string name="activity_title_perm_manager">Povolení</string>
   <string name="activity_title_permission_manager">Správa povolení</string>
   <string name="activity_title_permissions_manager">Povolení</string>
   <string name="activity_title_power_manager">Baterie</string>
@@ -170,7 +170,7 @@
   <string name="descx_start_scan_memory">Spustit kontrolu paměti</string>
   <string name="descx_start_scan_system">Spustit kontrolu ochrany systému</string>
   <string name="details_subtitle">Podrobnosti využívání</string>
-  <string name="dialog_msg_auto_start_declare">Některé bezpečnostní aplikace mohou nesprávně hlásit, že jim MIUI bráni se spustit. Pro kontrolu oprávnění jednotlivých aplikací jděte do Nastavení - Aplikace.</string>
+  <string name="dialog_msg_auto_start_declare">Některé bezpečnostní aplikace mohou nesprávně hlásit, že jim MIUI bráni se spustit. Pro kontrolu povolení jednotlivých aplikací jděte do Nastavení - Aplikace.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohování a odinstalování aplikací</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen. Je nutné přeinstalovat ROM!</string>
@@ -216,7 +216,7 @@
   <string name="hints_apk_header_left">Instalační apk: %d</string>
   <string name="hints_apk_version">Verze: %s</string>
   <string name="hints_app_uninstall_residual">Vyčistit staré soubory?</string>
-  <string name="hints_apps_perm_count">Oprávnění: %d</string>
+  <string name="hints_apps_perm_count">Povolení: %d</string>
   <string name="hints_auto_start_disable_title">Zakázat %d apl. auto. spuštění</string>
   <string name="hints_auto_start_enable_title">Povolit %d apl. auto. spuštění</string>
   <string name="hints_auto_start_warning_info">Zákaz auto. spouštění zakáže přijímání upozornění aplikace</string>
@@ -328,7 +328,7 @@
   <string name="menu_item_about_summary">Verze: %s</string>
   <string name="menu_item_about_title">O aplikaci</string>
   <string name="menu_item_app_details">Podrobnosti</string>
-  <string name="menu_item_app_permissions_control">Správce oprávnění</string>
+  <string name="menu_item_app_permissions_control">Správce povolení</string>
   <string name="menu_item_control_app_permissions">Požadovat vaše povolení pro přístup ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu.</string>
   <string name="menu_item_force_stop">Ukončit</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
@@ -382,15 +382,15 @@
   <string name="permission_action_accept">Povolit</string>
   <string name="permission_action_prompt">Zeptat se</string>
   <string name="permission_action_reject">Zakázat</string>
-  <string name="permission_close_permission_control_dialog_msg">Pokud deaktivujete správce oprávnění, aplikace se vás nebudou ptát na povolení přístupu ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu.</string>
-  <string name="permission_close_permission_control_dialog_title">Deaktivovat správce oprávnění?</string>
+  <string name="permission_close_permission_control_dialog_msg">Pokud deaktivujete správce povolení, aplikace se vás nebudou ptát na povolení přístupu ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu.</string>
+  <string name="permission_close_permission_control_dialog_title">Deaktivovat správce povolení?</string>
   <string name="permission_group_title_charges_related">Poplatky</string>
   <string name="permission_group_title_media_related">Multimédia</string>
   <string name="permission_group_title_others">Ostatní</string>
   <string name="permission_group_title_privacy_related">Soukromí</string>
   <string name="permission_group_title_settings_related">Nastavení</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">Aplikace se vás nebudou ptát na povolení přístupu ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu. Toto nastavení můžete opět aktivovat v nastavení oprávnění.</string>
-  <string name="permission_permission_control_closed_desc_dialog_title">Správce oprávnění je vypnut</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">Aplikace se vás nebudou ptát na povolení přístupu ke kontaktům, záznamu o volání, změnu nastavení systému nebo přístupu k fotoaparátu. Toto nastavení můžete opět aktivovat v nastavení povolení.</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Správce povolení je vypnut</string>
   <string name="permission_send_sms_descx">Odeslat SMS a MMS zprávy</string>
   <string name="permission_with_SMS_and_MMS">Povolení pro SMS a MMS</string>
   <string name="permission_with_call_and_contact">Povolení týkající se hovorů, kontaktů a seznamu hovorů.</string>
@@ -506,7 +506,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="power_mode_internet">2G/3G</string>
   <string name="power_mode_keep_state">Neměnit</string>
   <string name="power_mode_my_mode">Můj režim</string>
-  <string name="power_mode_my_mode_summary">Automaticky uložit stav denního používání</string>
+  <string name="power_mode_my_mode_summary">Automaticky uložený stav denního používání</string>
   <string name="power_mode_screen_brightness">Jas</string>
   <string name="power_mode_screen_brightness_automatic">Automaticky: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuálně: %1$d%%</string>
@@ -612,7 +612,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="scanning_bar_system_text">Povolení apl.</string>
   <string name="scanning_bar_system_title">Kontrola systému...</string>
   <string name="score_pts">%</string>
-  <string name="settings_title_permission">Nastavení oprávněni</string>
+  <string name="settings_title_permission">Nastavení povolení</string>
   <string name="shutdown_boot">Zařízení se vypne v %1$s a zapne v %2$s</string>
   <string name="shutdown_boot_day">Zařízení se vypne v %1$s a zapne za %2$d d (%3$s)</string>
   <string name="shutdown_cancel_reminder">Nevyplo se</string>

@@ -41,7 +41,7 @@
   <string name="daily_limit_network_available_body">Zobrazit spotřebu dat</string>
   <string name="daily_limit_over_message">Byl překročen denní limit</string>
   <string name="daily_pkg_traffic">Nastavte limit předplacených dat</string>
-  <string name="data_network_blocked_notification_title">Žádné připojení</string>
+  <string name="data_network_blocked_notification_title">Žádné datové připojení</string>
   <string name="data_usage_correction_timeout_body">Nastavit manuálně.</string>
   <string name="data_usage_correction_timeout_title">Synchr. spotřeby dat selhala</string>
   <string name="data_usage_disabled_dialog">"Byl dosažen limit předplacených dat. 

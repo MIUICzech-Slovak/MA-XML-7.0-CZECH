@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Prohlížeč</item>
-        <item>Správce oprávnění</item>
+        <item>Správce povolení</item>
         <item>Fotoaparát</item>
         <item>Monitor sítě</item>
         <item>Data počasí</item>
