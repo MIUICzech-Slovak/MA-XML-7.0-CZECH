@@ -339,7 +339,7 @@ camera1234567890"</string>
   <string name="setting_camera">Kamera</string>
   <string name="setting_camera_clock">Čas kamery</string>
   <string name="setting_capture_default_mode">Výchozí režim</string>
-  <string name="setting_check_firmware">Zkontrolovat verzi FW</string>
+  <string name="setting_check_firmware">Verze FW</string>
   <string name="setting_cloud_album">Cloud album</string>
   <string name="setting_common_problem">FAQ</string>
   <string name="setting_device">Zařízení</string>
@@ -477,7 +477,7 @@ telefonu"</string>
   <string name="upload_failed">Odesílání selhalo, zkuste to znovu!</string>
   <string name="use_login_button">Použijte tlačítko pro přihlášení</string>
   <string name="verion_name">Verze</string>
-  <string name="version">Verze</string>
+  <string name="version">"Verze "</string>
   <string name="video_drawtext">Obsah</string>
   <string name="video_edit_back_description">Zpět</string>
   <string name="video_edit_crop">Ořezat</string>
@@ -586,4 +586,22 @@ Vložte SD kartu a zkuste to znovu."</string>
   <string name="wifi_connect_failed_directly">Restartujte váš telefon nebo zkontrolujte nastavení Wi-Fi připojení.</string>
   <string name="firmware_upgrade_failed_put_file_failed">Aktualizace selhala, zkuste to znovu.</string>
   <string name="recording_frame_not_allowed">Time-lapse video není podporováno v tomto rozlišení</string>
+  <string name="exit_cancle_firmware_download">Ukončení přeruší stahování souboru, chcete pokračovat?</string>
+  <string name="faq_title">Otázky uživatelů</string>
+  <string name="firmware_download_tip">Chybí připojení k Wi-Fi. Stahování Firmware přes mobilní data může navýšit vaše měsíční poplatky. Pokračovat?</string>
+  <string name="firmware_download_title">Stahování Firmware</string>
+  <string name="firmware_downloaded">v%s stažena</string>
+  <string name="firmware_downloading">Stahování (%s%%)</string>
+  <string name="firmware_only_downloaded">Staženo</string>
+  <string name="firmware_paused">Zastavit</string>
+  <string name="firmware_pausing">Zastaveno (%s%%)</string>
+  <string name="firmware_tip_downloaded">Nový</string>
+  <string name="firmware_total_downloaded">%sMB Stažených</string>
+  <string name="firmware_upgrade_failure">Odesílání firmware selhalo!</string>
+  <string name="minutes_10">10 minut</string>
+  <string name="minutes_3">3 minuty</string>
+  <string name="minutes_5">5 minut</string>
+  <string name="new_firmware_downloaded">Připojte kameru pro její aktualizaci</string>
+  <string name="sns_guide_connect_camera">Připojte kameru</string>
+  <string name="switch_mode">Přepnout režim</string>
 </resources>
