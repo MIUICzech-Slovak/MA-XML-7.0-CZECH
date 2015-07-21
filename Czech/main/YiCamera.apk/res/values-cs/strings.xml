@@ -866,7 +866,6 @@ a čekejte na jeho načtení"</string>
   <string name="alert_refresh_loading">Načítání...</string>
   <string name="alert_show">Dynamický alarm</string>
   <string name="alert_video">Video alarm</string>
-  <string name="button_voice_yes">Bylo slyšet hlasové upozornění</string>
   <string name="camera_motion_detect_des">Pouze, pokud je změna na záběru. Ušetřit tak místo na SD kartě.</string>
   <string name="camera_not_connection">Kamera je offline. Zkontrolujte Wi-Fi připojení a napájení kamery.</string>
   <string name="camera_reverse_des">Převrátit obraz kamery</string>
@@ -900,7 +899,6 @@ a čekejte na jeho načtení"</string>
   <string name="no_server_network">Nelze se připojit na server</string>
   <string name="no_wifi_network">Síť je nedostupná, zkuste to později</string>
   <string name="not_support">Není podporováno</string>
-  <string name="refresh">Obnovit</string>
   <string name="reset_success">Restart dokončen</string>
   <string name="sdcard_format">Formátovat SD kartu</string>
   <string name="sdcard_format_fail">Nepodporovaný formát SD karty, vyměňte SD kartu.</string>
