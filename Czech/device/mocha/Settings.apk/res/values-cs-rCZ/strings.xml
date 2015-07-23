@@ -566,7 +566,6 @@ Přiložte zařízení k sobě (zpravidla zadní stranou) a dotkněte se obrazov
   <string name="camera_key_action_shortcut_wake">Zamknout/Probudit zařízení</string>
   <string name="camera_key_action_title">MI tlačítko</string>
   <string name="camera_key_action_toggle_title">Vyvolat přepínače</string>
-  <string name="cancel">Zrušit</string>
   <string name="cancel_alert">Zrušit změny?</string>
   <string name="cancel_download_buton_text">Zrušit</string>
   <string name="cant_sync_dialog_message">Synchronizace této položky je aktuálně deaktivována. Chcete-li nastavení změnit, dočasně zapněte přenos dat na pozadí a automatickou synchronizaci.</string>
@@ -793,7 +792,6 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Vybrat výchozí vstupní metodu</string>
   <string name="default_usb_mode">Výchozí USB připojení</string>
-  <string name="delete">Smazat</string>
   <string name="deny">Odmítnout</string>
   <string name="descx_cleanuping_item">Optimalizace %s</string>
   <string name="descx_finish_cleanup_cache">Dokončit optimalizaci cache</string>
@@ -2177,7 +2175,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="restriction_settings_title">Omezení</string>
   <string name="restriction_wifi_config_summary">Povolit úpravu nastavení sítí Wi-Fi a mobilních sítí</string>
   <string name="restriction_wifi_config_title">Sítě Wi‑Fi a mobilní sítě</string>
-  <string name="retry">Zkusit znovu</string>
   <string name="ring_volume_title">Hlasitost vyzvánění</string>
   <string name="ringtone_mute">Žádné</string>
   <string name="ringtone_summary"/>
@@ -2306,7 +2303,6 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="security_settings_premium_sms_desc">Odesílání prémiových zpráv SMS</string>
   <string name="security_settings_summary">Moje poloha, odemknutí obrazovky, zámek SIM, zámek úložiště pověření</string>
   <string name="security_settings_title">Zabezpečení</string>
-  <string name="select_all">Vybrat vše</string>
   <string name="select_application">Výběr aplikace</string>
   <string name="select_device_admin_msg">Správci zařízení</string>
   <string name="select_runtime_dialog_title">Výběr modulu runtime</string>
