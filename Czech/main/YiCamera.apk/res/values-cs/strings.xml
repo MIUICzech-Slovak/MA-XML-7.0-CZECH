@@ -71,7 +71,6 @@
   <string name="button_voice_no">Nejsou slyšet povely</string>
   <string name="button_voice_no_count_down">Nejsou slyšet hlasové povely (15s)</string>
   <string name="button_voice_wifi">Zkuste nastavení Wi-Fi</string>
-  <string name="button_voice_yes">Jsou slyšet hlasové povely</string>
   <string name="by_device">Zařízení</string>
   <string name="by_time">Čas</string>
   <string name="camer_offline">Offline</string>
@@ -451,7 +450,6 @@ Některé zařízení nebylo migrované. Restartujte zařízení a přidejte nov
   <string name="recommend_to_user_title">Cloud ants clairvoyance</string>
   <string name="record_time_too_short">Čas nahrávání je příliš krátký!</string>
   <string name="record_video">Nahrávání</string>
-  <string name="refresh">Obnovit</string>
   <string name="refreshing">Obnovování...</string>
   <string name="relation">Přátelé</string>
   <string name="release_to_refresh">Pusťte pro obnovení</string>
@@ -874,10 +872,10 @@ a čekejte na jeho načtení"</string>
   <string name="camera_setting_alarm_tip">Upozornit, když se cokoliv změní na záběru</string>
   <string name="camera_setting_camera_name">Název kamery</string>
   <string name="camera_setting_firmware_version">Verze FW</string>
-  <string name="camera_setting_foundation">Foundation</string>
+  <string name="camera_setting_foundation">Kamera</string>
   <string name="camera_setting_motion_detect">Záznam detekce pohybu</string>
   <string name="camera_setting_reverse">Převrátit</string>
-  <string name="camera_setting_stats_light">Stavové světlo</string>
+  <string name="camera_setting_stats_light">Stavová LED</string>
   <string name="camera_setting_storage_set">Úložiště</string>
   <string name="camera_setting_storage_situation">Stav SD karty</string>
   <string name="change_5Gwifi_hint">Momentálně není podporováno 5GHz Wi-Fi připojení, použijte 2.4GHz Wi-Fi síť.</string>
@@ -887,7 +885,7 @@ a čekejte na jeho načtení"</string>
   <string name="click_show_log">Zobrazit záznam</string>
   <string name="connection_reset_camera">Resetovat kameru</string>
   <string name="connection_router">Připojení na Router</string>
-  <string name="current_is_latest_version">Máte poslední verzi</string>
+  <string name="current_is_latest_version">Nejnovější verze</string>
   <string name="device_not_exist">Zařízení neexistuje</string>
   <string name="failure_load_video">Stahování videa selhalo, zkuste to znovu.</string>
   <string name="format_success_wait_restart">Formátování je dokončeno, počkejte na restart kamery.</string>
