@@ -108,6 +108,6 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="app_store_install_hint">Instalovat</string>
   <string name="app_store_installing_message">Instalace Xiaomi AppStore</string>
   <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
-  <string name="app_store_missing_title">Chybí Xiaomi AppStore</string>
+  <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
   <string name="reboot_time">Zařízení bude restartováno...(%1$s)</string>
 </resources>
