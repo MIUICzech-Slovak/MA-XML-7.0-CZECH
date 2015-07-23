@@ -544,7 +544,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_ratio_low">Nelze snížit spotřebu mobilních dat</string>
   <string name="traffic_saving_recommanded_close">Vypnout</string>
   <string name="traffic_saving_recommanded_open">Zapnout</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovat úsporu mobilních dat.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;pokud máte měsíční objem předplacených mobilních dat, deaktivujte úsporu mobilních dat pro jednotlivé aplikace pro snížení objemu přenesených dat.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"Automaticky aktivovat úsporu mobilních dat. Pokud máte měsíční objem předplacených mobilních dat, deaktivujte úsporu mobilních dat pro jednotlivé aplikace pro snížení objemu přenesených dat."</string>
   <string name="traffic_saving_start_tip_title">Aktivovat</string>
   <string name="daily_limit_and_lock_screen">Denní spotřeba dat a upozornění</string>
   <string name="lock_screen_warning_category">Upozornění na zamykací obrazovce</string>
