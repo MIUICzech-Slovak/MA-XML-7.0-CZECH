@@ -546,4 +546,21 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_recommanded_open">Zapnout</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovat úsporu mobilních dat.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;pokud máte měsíční objem předplacených mobilních dat, deaktivujte úsporu mobilních dat pro jednotlivé aplikace pro snížení objemu přenesených dat.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivovat</string>
+  <string name="daily_limit_and_lock_screen">Denní spotřeba dat a upozornění</string>
+  <string name="lock_screen_warning_category">Upozornění na zamykací obrazovce</string>
+  <string name="lock_screen_warning_switch_summary">Zobrazit upozornění na zamykací obrazovce, pokud spotřeba dat překročí stanovenou hranici</string>
+  <string name="lock_screen_warning_switch_title">Upozornění na zamykací obrazovce</string>
+  <string name="lock_screen_warning_value">Varovná hodnota spotřeby dat</string>
+  <string name="network_speed_for_apps_close">Ukončit</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Ukončit tuto aplikaci?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">Systémovou aplikaci nelze ukončit.</string>
+  <string name="network_speed_for_apps_others">Ostatní</string>
+  <string name="network_speed_for_apps_title">Podrobnosti o rychlosti připojení</string>
+  <string name="network_speed_for_apps_total">Rychlost připojení</string>
+  <string name="operator_setted_error_dialog_message">SIM kartu, kterou používáte je z %1$s. Tato poloha se liší od nastavené polohy (%2$s). Změnit polohu SIM karty na %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Dotykem změníte polohu na SIM.</string>
+  <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
+  <string name="pref_roaming_setting_gategory">Datový roaming</string>
+  <string name="traffic_saving_can_optimized">Optimalizovat</string>
+  <string name="pref_title_diagnostics_show_float_notification">Plovoucí upozornění</string>
 </resources>
