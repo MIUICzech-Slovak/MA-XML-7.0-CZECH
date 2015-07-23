@@ -583,4 +583,9 @@ Pokus: %s."</string>
   <string name="cloud_state_syncing">Synchr. s MiCloud...</string>
   <string name="yes">OK</string>
   <string name="mipub_messaging_entry_title">MiZprávy</string>
+  <string name="security_alert_desc_highlight">Nahlásit toto číslo</string>
+  <string name="mx_activate_dlg_title_ex">Aktivovat MiZprávy</string>
+  <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakýchkoliv poplatků.</string>
+  <string name="mx_dspt_provision_ex2">Ochrana soukromí</string>
+  <string name="mx_enable_ex">MiZprávy</string>
 </resources>

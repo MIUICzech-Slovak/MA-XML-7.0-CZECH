@@ -761,4 +761,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="boot_time_day_tomorrow">Zapnout zítra v %1$s</string>
   <string name="shutdown_time_day_tomorrow">Vypnout zítra v %1$s</string>
+  <string name="btn_text_power_cleanup">Super Čistič</string>
 </resources>

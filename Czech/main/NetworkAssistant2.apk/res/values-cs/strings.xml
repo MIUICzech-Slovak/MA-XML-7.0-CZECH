@@ -416,7 +416,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="three_percent_total_pkg">%s (3%% z měsíčního objemu dat)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_m">%dm</string>
+  <string name="timeshow_m">%d min</string>
   <string name="tips_dialog_title">"Neznáte svůj limit?"</string>
   <string name="tips_message">"Pokud si nejste jisti s objemem předplacených dat, můžete jej zjistit vytočením %2$s (%1$s) (jen Čína)."</string>
   <string name="title_limit_traffic_per_day">Denní limit mobilních dat</string>

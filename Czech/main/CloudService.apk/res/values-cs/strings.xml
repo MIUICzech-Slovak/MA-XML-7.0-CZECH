@@ -366,4 +366,6 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="mx_dspt_provision_privacy_2_sim">"Tato funkce vyžaduje vaše telefonní číslo. Váš operátor může zpoplatnit dvě odeslané SMS zprávy pro aktivování této funkce.
 
 Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
+<string name="mx_dspt_provision_with_voip2">Ochrana soukromí</string>
+  <string name="mx_voip_dspt">MiVoice</string>
 </resources>
