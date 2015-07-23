@@ -164,4 +164,9 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="downloaded_empty">Žádné</string>
   <string name="downloading_empty">Žádné</string>
   <string name="show_more">Více (%s)</string>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
 </resources>

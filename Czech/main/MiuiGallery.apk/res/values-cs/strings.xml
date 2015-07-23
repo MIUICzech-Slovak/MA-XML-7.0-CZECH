@@ -713,4 +713,14 @@ společně!"</string>
   <string name="face_album_new_name_hint">Nový název</string>
   <string name="face_choose_tip">Vybrat z existujícího alba</string>
   <string name="upgrade_micloud_space">Získat více místa</string>
+  <string name="hybrid_check_network">Nastavení sítě</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_locating_fail">Nelze získat vaši polohu</string>
+  <string name="hybrid_network_access_denied">Přístup k síti zamítnut</string>
+  <string name="hybrid_network_unavaliable">"Nelze se připojit k síti</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Tažením obnovíte...</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Načítání...</string>
+  <string name="hybrid_pull_to_refresh_release_label">Pusťte pro obnovení...</string>
+  <string name="hybrid_service_unavailiable">Služba je nedostupná</string>
+  <string name="hybrid_try_again">Znovu</string>
 </resources>
