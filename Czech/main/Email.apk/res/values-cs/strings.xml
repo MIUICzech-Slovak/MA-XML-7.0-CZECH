@@ -962,4 +962,9 @@ Velikost aplikace: %2$s"</string>
   <string name="push_wps_confirm_message">Žádná nainstalovaná aplikace nepodporuje tento typ souboru v příloze, doporučujeme vám nainstalovat si WPS Office</string>
   <string name="push_wps_confirm_title">WPS Office</string>
   <string name="push_wps_no_response_app">Žádná aplikace</string>
+  <string name="contextmenu_call">Hovor</string>
+  <string name="contextmenu_open">Otevřít</string>
+  <string name="copied">Zkopírováno</string>
+  <string name="download_message_failed_for_too_large">Zpráva je příliš velká na stažení.</string>
+  <string name="print">Tisknout</string>
 </resources>

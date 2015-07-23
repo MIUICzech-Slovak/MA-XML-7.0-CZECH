@@ -422,4 +422,6 @@
   <string name="xiaomi_user">Xiaomi uživatel</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="app_wifi_mode">Automaticky aktualizovat na Wi-Fi</string>
+  <string name="app_wifi_mode_summary">Pokud je zařízení připojeno k Wi-Fi, automaticky aktualizovat na nejnovější verzi.</string>
 </resources>
