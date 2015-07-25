@@ -365,4 +365,11 @@ Bylo přičteno dalších %1$s"</string>
   <string name="title_recent">Nedávné</string>
   <string name="wechat_video">Video v %s</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="operation_add_fav">Přidávání do oblíbených...</string>
+   <string name="operation_del_fav">Odebírání z oblíbených...</string>
+  <string name="file_name_invalid">"Název souboru nesmí obsahovat tyto znaky: /\\:*?&lt;&gt;"</string>
+  <string name="folder_name_empty">Název složku nesmí být prázdný</string>
+  <string name="name_empty">Musíte zadat název.</string>
+  <string name="port_range">Port musí být mezi 1024–65535</string>
+  <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
 </resources>
