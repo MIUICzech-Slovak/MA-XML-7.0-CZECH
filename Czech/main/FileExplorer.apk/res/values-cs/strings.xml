@@ -359,8 +359,8 @@ Bylo přičteno dalších %1$s"</string>
   <string name="sdcard_available">Dostupné %1$s</string>
   <string name="sdcard_total">Celkem %1$s</string>
   <string name="tab_more">Více</string>
-  <string name="tab_source">APLIKACE</string>
-  <string name="tab_storage">ÚLOŽIŠTĚ</string>
+  <string name="tab_source">Aplikace</string>
+  <string name="tab_storage">Úložiště</string>
   <string name="title_more_source">Více aplikací</string>
   <string name="title_recent">Nedávné</string>
   <string name="wechat_video">Video v %s</string>
@@ -372,4 +372,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="name_empty">Musíte zadat název.</string>
   <string name="port_range">Port musí být mezi 1024–65535</string>
   <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
+  <string name="operation_add_fav">Přidávání do oblíbených...</string>
+  <string name="operation_del_fav">Odebírání z oblíbených...</string>
 </resources>

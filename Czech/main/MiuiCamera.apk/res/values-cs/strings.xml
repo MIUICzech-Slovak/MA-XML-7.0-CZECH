@@ -604,4 +604,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="confirm_recording_fail_calling_alert">Během hovoru nelze nahrávat video.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Jiná aplikace využívá mikrofon. Ukončete ji a zkuste to znovu.</string>
+  <string name="confirm_recording_fail_title">Chyba nahrávání</string>
 </resources>

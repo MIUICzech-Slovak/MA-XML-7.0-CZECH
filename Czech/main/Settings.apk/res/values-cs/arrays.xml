@@ -696,4 +696,8 @@ Postupujte dle pokynů"</item>
         <item>Restartovat zařízení pro aplikování těchto změn?</item>
         <item>Restartovat zařízení pro aplikování těchto změn?</item>
     </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ultra jemné (2K)</item>
+        <item>Normální (720P)</item>
+    </string-array>
 </resources>

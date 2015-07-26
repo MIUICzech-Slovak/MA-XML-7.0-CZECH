@@ -369,4 +369,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_select_audio_confirm_picker">Vybrat tento zvuk?</string>
   <string name="resource_select_alarm_audio_confirm">Vybrat tento zvuk upozornění?</string>
   <string name="theme_setting">Nastavení</string>
+  <string name="choose_new_themes">Nová témata</string>
+  <string name="present_local_themes">Staženo</string>
+  <string name="present_online_themes">Online</string>
 </resources>

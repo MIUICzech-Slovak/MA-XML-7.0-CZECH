@@ -440,7 +440,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="search_setting_description">Text ve zprávách</string>
   <string name="search_show_more_results">Více</string>
   <string name="secs">s</string>
-  <string name="security_alert_desc">Odesílatel není ve vašem seznamu kontaktů. Nahlásit toto číslo?</string>
+  <string name="security_alert_desc">Odesílatel není ve vašem seznamu kontaktů.</string>
   <string name="security_alert_dialog_desc">Nahlásit toto číslo (%s) a zprávu společnosti Xiaomi pro další analýzu.</string>
   <string name="security_alert_dialog_title">Nahlásit</string>
   <string name="select_audio">Vybrat audio</string>
@@ -588,4 +588,5 @@ Pokus: %s."</string>
   <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakýchkoliv poplatků.</string>
   <string name="mx_dspt_provision_ex2">Ochrana soukromí</string>
   <string name="mx_enable_ex">MiZprávy</string>
+  <string name="security_alert_desc_highlight">Nahlásit toto číslo</string>
 </resources>
