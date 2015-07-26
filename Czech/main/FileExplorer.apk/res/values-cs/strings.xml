@@ -372,6 +372,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="name_empty">Musíte zadat název.</string>
   <string name="port_range">Port musí být mezi 1024–65535</string>
   <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
-  <string name="operation_add_fav">Přidávání do oblíbených...</string>
-  <string name="operation_del_fav">Odebírání z oblíbených...</string>
 </resources>
