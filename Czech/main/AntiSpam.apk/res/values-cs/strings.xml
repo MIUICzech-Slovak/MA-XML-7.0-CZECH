@@ -334,4 +334,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="mark_time_text">%d</string>
   <string name="repeated_marked_number_summary">Neblokovat druhý hovor během 3 minut ze stejného čísla</string>
   <string name="repeated_marked_number_title">Neblokovat opakující se nahlášené volání</string>
+  <string name="sim_not_ready_toast">SIM karta není připravena, nastavení selhalo.</string>
 </resources>
