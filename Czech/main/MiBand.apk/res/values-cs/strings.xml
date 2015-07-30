@@ -1599,7 +1599,6 @@ Logo upwards"</string>
   <string name="shoes_sync_data_progress">Synchronizing data %s%%…</string>
 
   <string name="title_heart_list">Tep srdce</string>
-   <string name="weight_match_no_suitable_user">Nebylo možné spojit hmotnost s existujícím uživatelem.</string>
   <string name="actionbar_menu">Menu</string>
   <string name="bluetooth_not_enabled">"Bluetooth není povoleno.
 Nelze se připojit"</string>
