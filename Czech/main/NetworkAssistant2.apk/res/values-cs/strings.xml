@@ -199,7 +199,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="network_assistant_upgraded_title">Aktualizace dokončena</string>
   <string name="network_blocked_connected_open_wifi">Připojit na veřejnou síť</string>
   <string name="network_blocked_notification_summary">Zobrazit podrobnosti.</string>
-  <string name="network_blocked_switch_wifi">Přepnout sítě</string>
+  <string name="network_blocked_switch_wifi">Změnit síť</string>
   <string name="network_connected_exception_title">Kontrola sítě</string>
   <string name="network_control">Nastavení aplikace</string>
   <string name="network_diagnostics">Zkontrolovat síť</string>
