@@ -1613,14 +1613,15 @@ Nelze se připojit"</string>
   <string name="lab_step_test">Test kroků</string>
   <string name="only_one_decimal">Nelze zadat více, než jedno desetinné číslo</string>
   <string name="phone_app_notifi">Upozornění aplikací</string>
-  <string name="phone_app_notifi_access_service_tip">Aplikace musí mít povolení pro čtení upozornění systému.</string>
+  <string name="phone_app_notifi_access_service_tip">Povolit přístup k upozorněním</string>
   <string name="phone_app_notifi_all_apps">Vše</string>
   <string name="phone_app_notifi_download_apps">Staženo</string>
-  <string name="phone_app_notifi_enable">Povolit upozornění aplikací.</string>
-  <string name="phone_app_notifi_limit_tip">Nelze vybrat více, než 3 aplikace.</string>
+  <string name="phone_app_notifi_enable">Povolit upozornění aplikací</string>
+  <string name="phone_app_notifi_limit_tip">Maximálně 3 aplikace</string>
   <string name="phone_app_notifi_manager">Upozornění</string>
   <string name="skip">Přeskočit</string>
   <string name="state_binded_nickname_weibo">Added Weibo Account %s</string>
   <string name="sync">Synchr.</string>
   <string name="weight_no_tips">Zatím nezváženo</string>
+  <string name="go_running">Běhání</string>
 </resources>
