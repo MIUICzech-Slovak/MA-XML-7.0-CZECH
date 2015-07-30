@@ -3637,4 +3637,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_resolution_switch">Změnit rozlišení displeje</string>
   <string name="screen_resolution_title">Rozlišení displeje</string>
   <string name="wifi_eap_sim_simcard">Vyberte SIM</string>
+  <string name="screen_color_and_optimize">Barvy a kontrast</string>
 </resources>

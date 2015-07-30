@@ -851,7 +851,7 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="contextmenu_webpage_html">Uložit jako HTML soubor</string>
   <string name="contextmenu_webpage_snapshot">Uložit stránku</string>
   <string name="find_new_version">Dostupná aktualizace</string>
-  <string name="find_on_page_hint">Zadejte hledaný výraz</string>
+  <string name="find_on_page_hint">Vyhledat na stránce</string>
   <string name="license_activity_title">System WebView licenses</string>
   <string name="miui_startpage">Startovací stránka</string>
   <string name="next_button_label">Další</string>
