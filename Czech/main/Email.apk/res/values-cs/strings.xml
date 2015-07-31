@@ -967,4 +967,8 @@ Velikost aplikace: %2$s"</string>
   <string name="copied">Zkopírováno</string>
   <string name="download_message_failed_for_too_large">Zpráva je příliš velká na stažení.</string>
   <string name="print">Tisknout</string>
+  <string name="add_calendar">Upozornit</string>
+  <string name="contextmenu_add">Přidat kontakt</string>
+  <string name="contextmenu_create">Vytvořit kontakt</string>
+  <string name="contextmenu_edit">Upravit kontakt</string>
 </resources>
