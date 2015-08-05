@@ -20,9 +20,9 @@
     <string name="power_mode_view_app_list_title">Aplikace</string>
     <string name="power_mode_view_event_title">Úlohy</string>
     <string name="power_event_view_event_title">Pravidla</string>
-    <string name="hide_mode">Spravovat spotřebu baterie apl.</string>
-    <string name="hide_mode_desc_title">Spravovat spotřebu baterie apl.</string>
-    <string name="hide_mode_desc">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a ušetřit tak spotřebu baterie</string>
+    <string name="hide_mode">Úspora baterie</string>
+    <string name="hide_mode_desc_title">Úspora baterie</string>
+    <string name="hide_mode_desc">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a ušetřit tak spotřebu baterie.</string>
     <string name="normal">Výchozí režim</string>
     <string name="reading">Čtecí režim</string>
     <string name="media">Multimediální režim</string>
@@ -34,7 +34,7 @@
     <string name="alter_message_delete">Vymazat?</string>
     <string name="alter_message_switch_mode">Změnit režimy?</string>
     <string name="alter_message_switch_mode_message">Pokud změníte režimy, vaše předchozí nastavení nebudou znovu použita pro tuto aplikaci.</string>
-    <string name="alter_message_open_hide_title">Spravovat spotřebu baterie apl.?</string>
+    <string name="alter_message_open_hide_title">Úspora baterie?</string>
     <string name="alter_message_open_hide_message">Vybrané aplikace nebudou mít přístup k Wi-Fi, mobilnímu připojení, GPS a nemusí pracovat správně.</string>
     <string name="alter_message_abandon_title">Zrušit změny?</string>
     <string name="power_configure_screen_brightness_enable">Nastavit jas displeje</string>
@@ -50,7 +50,7 @@
     <string name="power_mode_cpu_state_low_desc">Upřednostnit výdrž baterie na úkor výkonu</string>
     <string name="power_customize_giveup_change">Zrušit změny?</string>
     <string name="power_dialog_cancel">Zrušit</string>
-    <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_ok">Uložit</string>
     <string name="action_settings">Nastavení</string>
     <string name="power_dialog_screen_brightness_title">Jas</string>
     <string name="power_dialog_power_keeper_enable">Povolit úsporu baterie?</string>
@@ -107,14 +107,16 @@
     <string name="add_user_define_title">Nový profil</string>
     <string name="add_user_define_group_failed">Nebylo možné přidat nový profil</string>
     <string name="mode_settings">Nastavení</string>
-    <string name="power_hide_mode_title">Spravovat spotřebu baterie apl.</string>
+    <string name="power_hide_mode_title">Úspora baterie</string>
     <string name="power_hide_mode_summary">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a snížit tak spotřebu baterie</string>
     <string name="low_power_auto_title">Pokud má baterie méně, než 20%</string>
     <string name="power_hide_mode_app_list_title">Vybrané aplikace</string>
     <string name="power_hide_mode_app_list_summary">Nastavení aplikací</string>
     <string name="power_hide_mode_app_list_total">Aplikace: %d</string>
     <string name="power_hide_mode_alert_message">Vybrané aplikace nebudou mít přístup k Wi-Fi, datovému připojení, GPS a nemusí pracovat správně.</string>
-	<string name="power_config_choose_apps">Vybrat aplikace</string>
-	<string name="power_config_title">Nastavení</string>
-	<string name="history_details_title">Podrobnosti historie</string>
+  	<string name="power_config_choose_apps">Vybrat aplikace</string>
+  	<string name="power_config_title">Nastavení</string>
+  	<string name="history_details_title">Podrobnosti historie</string>
+    <string name="hints_loading_text">Načítání...</string>
+    <string name="empty_title_apps_container_list">Žádné aplikace</string>
 </resources>

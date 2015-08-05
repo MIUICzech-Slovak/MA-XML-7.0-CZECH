@@ -3631,7 +3631,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="max_cpu6_info">"6 jader "</string>
   <string name="max_cpu8_info">"8 jader "</string>
   <string name="power_hide_mode_summary">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a snížit tak spotřebu baterie</string>
-  <string name="power_hide_mode_title">Spotřeba baterie aplikacemi</string>
+  <string name="power_hide_mode_title">Úspora baterie</string>
   <string name="screen_resolution_confirm">Potvrdit a restartovat</string>
   <string name="screen_resolution_summary">Nižší rozlišení displeje sníží kvalitu zobrazení, spotřebu baterie a zvýšit výkon zařízení. Změny se aplikují po restartu zařízení.</string>
   <string name="screen_resolution_switch">Změnit rozlišení displeje</string>
