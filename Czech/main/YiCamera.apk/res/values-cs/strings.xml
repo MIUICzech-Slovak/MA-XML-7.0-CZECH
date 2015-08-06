@@ -71,6 +71,7 @@
   <string name="button_voice_no">Nejsou slyšet povely</string>
   <string name="button_voice_no_count_down">Nejsou slyšet hlasové povely (15s)</string>
   <string name="button_voice_wifi">Zkuste nastavení Wi-Fi</string>
+  <string name="button_voice_yes">Slyším hlasové povely</string>
   <string name="by_device">Zařízení</string>
   <string name="by_time">Čas</string>
   <string name="camer_offline">Offline</string>
@@ -450,6 +451,7 @@ Některé zařízení nebylo migrované. Restartujte zařízení a přidejte nov
   <string name="recommend_to_user_title">Cloud ants clairvoyance</string>
   <string name="record_time_too_short">Čas nahrávání je příliš krátký!</string>
   <string name="record_video">Nahrávání</string>
+  <string name="refresh">Obnovit</string>
   <string name="refreshing">Obnovování...</string>
   <string name="relation">Přátelé</string>
   <string name="release_to_refresh">Pusťte pro obnovení</string>
