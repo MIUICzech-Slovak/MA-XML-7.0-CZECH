@@ -305,4 +305,11 @@
         <item>1 týden</item>
         <item>2 týdny</item>
     </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 h</item>
+        <item>4 h</item>
+        <item>5 h</item>
+        <item>6 h</item>
+        <item>1 den</item>
+    </string-array>
 </resources>

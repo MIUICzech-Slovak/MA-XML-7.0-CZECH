@@ -227,4 +227,5 @@
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
   <string name="camera_summary">Nastavení Fotoaparátu (nezálohuje fotografie)</string>
+  <string name="delete_backup_title">Vymazat zálohu</string>
 </resources>
