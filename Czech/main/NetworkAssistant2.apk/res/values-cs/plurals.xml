@@ -9,12 +9,12 @@
         <item quantity="one">Vyhledat %d apl.</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">Aplikace (%d) mohou použít mobilní data během roamingu</item>
-        <item quantity="one">Aplikace (%d) mohou použít mobilní data během roamingu</item>
+        <item quantity="other">Aplikace (%d) mohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) mohou použít mobilní data</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">Aplikace (%d) nemohou použít mobilní data během roamingu</item>
-        <item quantity="one">Aplikace (%d) nemohou použít mobilní data během roamingu</item>
+        <item quantity="other">Aplikace (%d) nemohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) nemohou použít mobilní data</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Nalezeno: %d</item>

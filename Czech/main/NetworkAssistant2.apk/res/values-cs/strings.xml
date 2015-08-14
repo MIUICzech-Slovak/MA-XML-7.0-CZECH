@@ -138,8 +138,8 @@ For more info check the message you received from your service provider"</string
   <string name="load_fail">Nelze načíst</string>
   <string name="local_ip_exception_summary">Nepodařilo se získat IP adresu. Doporučujeme odeslat záznam o chybě přes aplikaci Hlášení chyb.</string>
   <string name="lock_screen_setting_summary">Upozornění se zobrazí až po stažení 100 KB a více</string>
-  <string name="lock_screen_traffic_guide_notification_summary">Mobilní data využítá při zamknutém zařízení</string>
-  <string name="lock_screen_traffic_guide_notification_title">Staženo %s</string>
+  <string name="lock_screen_traffic_guide_notification_summary">%s staženo v uzamčeném stavu</string>
+  <string name="lock_screen_traffic_guide_notification_title">Spravovat spotřebu dat</string>
   <string name="lock_screen_traffic_notify_body">Uzamknuto %2$s v %1$s. Staženo %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Zakoupit (Jen v Číně)</string>
   <string name="lock_screen_traffic_warn_title">Spotřeba dat při vyp. displeji</string>
@@ -236,11 +236,6 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="none_mi_service_app_detail">Prázdné</string>
   <string name="notification_content_title">Využito %1$s při uzamknutém zařízení</string>
   <string name="notification_title">%1$s-%2$s: %3$s využito</string>
-  <string name="notify_daily_data_usage_body">Dnes využito: %s</string>
-  <string name="notify_daily_limit_body">Dnes využito: %s</string>
-  <string name="notify_daily_limit_title">Nastavte denní limit mobilních dat</string>
-  <string name="notify_daily_limit_title_for_slotnum">Nastavit denní limit pro %s</string>
-  <string name="notify_month_traffic_body">Tento měsíc využito: %s</string>
   <string name="notify_setting_pkg_title">Nastavte měsíční limit mobilních dat</string>
   <string name="notify_setting_pkg_title_for_slotnum">Nastavit měsíční limit pro %s</string>
   <string name="notify_weekly_pkg_body">Tento týden využito: %s</string>
@@ -293,7 +288,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="pref_leisure_not_opened">Zakázáno</string>
   <string name="pref_manual_adjust">Nastavit statistiku používání manuálně</string>
   <string name="pref_month_begin_date">Obnovení datového balíčku</string>
-  <string name="pref_month_first_day">První den v měsíci</string>
+  <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ostatní nastavení</string>
   <string name="pref_new_installed_preconfig_title">Výchozí nastavení pro nové apl.</string>
   <string name="pref_open_adjust_traffic">"Synchronizovat vaši spotřebu dat s operátorem"</string>
@@ -563,4 +558,15 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="pref_roaming_setting_gategory">Datový roaming</string>
   <string name="traffic_saving_can_optimized">Optimalizovat</string>
   <string name="pref_title_diagnostics_show_float_notification">Plovoucí upozornění</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+  <string name="notify_daily_data_usage_body">Pro automatické omezení využitých dat nastavte svůj měsíční limit.</string>
+  <string name="notify_daily_limit_body">Nastavte limit mobilních dat.</string>
+  <string name="notify_daily_limit_title">Dnes využito: %s</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s využito %2$s dnes</string>
+  <string name="notify_month_traffic_body">Nastavte limit využití mobilních dat pro zabránění navýšení vašich měsíčních poplatků.</string>
+  <string name="notify_month_traffic_title">Tento měsíc: %s</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s využito %2$s tento měsíc</string>
+  <string name="notify_weekly_traffic_body">Pro automatické omezení využitých dat nastavte svůj měsíční limit.</string>
+  <string name="notify_weekly_traffic_title">Tento týden: %s</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s využito %2$s tento týden</string>
 </resources>

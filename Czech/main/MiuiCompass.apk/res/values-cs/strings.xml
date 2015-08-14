@@ -14,7 +14,7 @@
   <string name="calibrate_title">Kalibrování kompasu</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky...</string>
-  <string name="dialog_title_no_network">Nelze se připojit k síti.</string>
+  <string name="dialog_title_no_network">Žádné připojení</string>
   <string name="direction_east">V</string>
   <string name="direction_north">S</string>
   <string name="direction_north_east">SV</string>
@@ -49,4 +49,7 @@
   <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
   <string name="using_camera_confirm_title">Podmínky používání</string>
+  <string name="dialog_body_no_network">Nelze se připojit k síti</string>
+  <string name="error_camera_unavailable">Ukončete všechny aplikace využívající fotoaparát.</string>
+  <string name="error_camera_unavailable_title">Fotoaparát není dostupný</string>
 </resources>

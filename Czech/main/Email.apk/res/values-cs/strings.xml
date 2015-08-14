@@ -971,4 +971,7 @@ Velikost aplikace: %2$s"</string>
   <string name="contextmenu_add">Přidat kontakt</string>
   <string name="contextmenu_create">Vytvořit kontakt</string>
   <string name="contextmenu_edit">Upravit kontakt</string>
+  <string name="bottom_bar_more_share">Sdílet</string>
+  <string name="get_database_exception">Chyba databáze. Vymažte data aplikace E-mail v Nastaveních.</string>
+  <string name="share_choose">Vyberte</string>
 </resources>

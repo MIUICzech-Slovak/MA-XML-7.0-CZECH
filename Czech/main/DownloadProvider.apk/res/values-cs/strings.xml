@@ -65,4 +65,6 @@ Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkn�
      <string name="warning_tip_content">Chybí připojení na Wi-Fi síť. Stahování tohoto souboru může navýšit vaše poplatky za mobilní data."</string>
      <string name="warning_tip_ok">Zastavit</string>
      <string name="warning_tip_title">Využívání mobilních dat</string>
+     <string name="enter_garbage_clean">Vyčistit interní úložiště.</string>
+     <string name="insufficient_space">Není dostatek volného místa na interním úložišti</string>
 </resources>

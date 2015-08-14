@@ -94,7 +94,7 @@
   <string name="hints_quick_cleanning">Čištění...</string>
   <string name="hints_quick_cleanuping">Optimalizace...</string>
   <string name="hints_quick_scanning">Kontrola...</string>
-  <string name="hints_residual_header_left">Staré: %d</string>
+  <string name="hints_residual_header_left">Staré</string>
   <string name="hints_storage_free">Volno</string>
   <string name="hints_storage_free_size">%s dostupné</string>
   <string name="hints_title_garbage">Odpad</string>
