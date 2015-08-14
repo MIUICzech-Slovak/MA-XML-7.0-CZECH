@@ -15,9 +15,9 @@
     <string-array name="owner_relation">
         <item>Otec</item>
         <item>Matka</item>
-        <item>Otcùv otec</item>
-        <item>Otcova matka</item>
-        <item>Matèin otec</item>
-        <item>Matèina matka</item>
+        <item>Dìdeèek z otcovy strany</item>
+        <item>Babièka z otcovy strany</item>
+        <item>Dìdeèek z matèiny strany</item>
+        <item>Babièka z matèiny strany</item>
     </string-array>
 </resources>
