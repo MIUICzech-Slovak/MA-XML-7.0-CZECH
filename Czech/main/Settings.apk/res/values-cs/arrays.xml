@@ -214,6 +214,7 @@
         <item>Normální</item>
         <item>Velké</item>
         <item>Velmi velké</item>
+        <item>Obrovské</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Silné</item>
@@ -699,5 +700,15 @@ Postupujte dle pokynů"</item>
     <string-array name="screen_resolution_entries">
         <item>Ultra jemné (2K)</item>
         <item>Normální (720P)</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Každý den</item>
+        <item>Víkend</item>
+        <item>Vybrat dny</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Každý den</item>
+        <item>Víkend</item>
+        <item>Vybrat dny</item>
     </string-array>
 </resources>

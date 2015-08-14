@@ -251,11 +251,18 @@
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
-  <string name="disable_notification_summary">Upozornění se nebudou zobrazovat</string>
+  <string name="disable_notification_summary">Skrýt upozornění apl.</string>
   <string name="disable_notification_title">Deaktivovat upozornění</string>
   <string name="expanded_notification_manager">Upravit</string>
   <string name="notification_template_text">" upozorňuje, dotykem jej zobrazíte."</string>
   <string name="activate_usb_message">Vložte SIM kartu pro aktivaci této funkce</string>
   <string name="activate_usb_title">Aktivovat USB</string>
   <string name="usb_function_charging_text">Připojit v režimu nabíjení</string>
+  <string name="block_record_notification_more_text">%1$s %2$d apl. Zobrazit.</string>
+  <string name="block_record_notification_text">%1$s. Zobrazit</string>
+  <string name="block_record_notification_title">Blokovat</string>
+  <string name="expanded_confirm_disable_notification">Potvrdit</string>
+  <string name="kilobyte_per_second">KB/s</string>
+  <string name="megabyte_per_second">MB/s</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
 </resources>

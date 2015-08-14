@@ -128,4 +128,12 @@
         <item quantity="other">Odblokovat tato čísla (%1$d)?</item>
         <item quantity="one">Odblokovat toto číslo?</item>
     </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">Kontaktů: %1$d</item>
+        <item quantity="one">Kontaktů: %1$d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Nesynchr. kontakty: %d</item>
+        <item quantity="one">Nesynchr. kontakty: 1</item>
+    </plurals>
 </resources>
