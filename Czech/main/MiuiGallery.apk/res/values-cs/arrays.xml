@@ -10,14 +10,14 @@
     </string-array>
     <string-array name="baby_sexy">
         <item>Chlapec</item>
-        <item>Dívka</item>
+        <item>DÃ­vka</item>
     </string-array>
     <string-array name="owner_relation">
         <item>Otec</item>
         <item>Matka</item>
-        <item>Dìdeèek z otcovy strany</item>
-        <item>Babièka z otcovy strany</item>
-        <item>Dìdeèek z matèiny strany</item>
-        <item>Babièka z matèiny strany</item>
+        <item>DÄ›deÄek z otcovy strany</item>
+        <item>BabiÄka z otcovy strany</item>
+        <item>DÄ›deÄek z matÄiny strany</item>
+        <item>BabiÄka z matÄiny strany</item>
     </string-array>
 </resources>
