@@ -290,4 +290,7 @@
   <string name="choose_theme">Téma</string>
   <string name="default_theme_name">Výchozí</string>
   <string name="wallpaper_settings_for_pad">Tapeta</string>
+  <string name="children_folder_title">Rodičovská kontrola</string>
+  <string name="children_mode_exit">Ukončit</string>
+  <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
 </resources>
