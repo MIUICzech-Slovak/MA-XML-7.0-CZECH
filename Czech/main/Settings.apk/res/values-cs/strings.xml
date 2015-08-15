@@ -3644,8 +3644,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="cancel_action">Zrušit</string>
   <string name="children_mode_enable_title">Rodičovská kontrola</string>
   <string name="children_mode_set_apps_title">Dostupné aplikace</string>
-  <string name="children_mode_tips_off">Po povolení rodičovské kontroly, stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
-  <string name="children_mode_tips_on">Po vypnutí rodičovské kontroly, stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
+  <string name="children_mode_tips_off">Povolte Rodičovskou kontrolu, nastavte co potřebujete a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
+  <string name="children_mode_tips_on">Vypněte Rodičovskou kontrolu a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
   <string name="children_mode_title">Rodičovská kontrola</string>
   <string name="confirm_action">OK</string>
   <string name="deny_sms_message">Zakázat odesílání SMS zpráv</string>
