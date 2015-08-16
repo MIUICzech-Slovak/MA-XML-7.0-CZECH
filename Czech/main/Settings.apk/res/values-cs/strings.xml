@@ -3656,7 +3656,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="dndm_wristband_detailed2">Vypnout režim Nerušit, když MiBand pozná, že jste se probudili hodinu před koncem nastaveného času.</string>
   <string name="every_day">Každý den</string>
   <string name="font_size_exhuge">Extra velké</string>
-  <string name="handy_mode_enter_ask">Zeptat se předem</string>
+  <string name="handy_mode_enter_ask">Vyžadovat potvrzení</string>
   <string name="legal_workday">Pracovní dny</string>
   <string name="legal_workday_invalidate">Po-Pá (bez svátků)</string>
   <string name="legal_workday_invalidate_message">Dotykem aktualizujete seznam svátků.</string>
