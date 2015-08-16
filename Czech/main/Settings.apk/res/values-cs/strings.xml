@@ -3669,4 +3669,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobrazit upozornění vždy jako první</string>
   <string name="theme_settings_title">Témata</string>
+  <string name="layout_size_exhuge">Obrovské</string>
 </resources>
