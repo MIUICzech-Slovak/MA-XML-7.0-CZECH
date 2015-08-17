@@ -320,7 +320,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="ui_filechange_btn_download">Stáhnout soubory</string>
   <string name="ui_filechange_btn_upload">Odeslat soubory</string>
   <string name="ui_main_menu_option_sign_in">Podepsat se</string>
-  <string name="ui_main_menu_option_task_manage">Zpráva odesílání</string>
+  <string name="ui_main_menu_option_task_manage">Správa odesílání</string>
   <string name="ui_main_progress_txt_open_file">Stahování...</string>
   <string name="ui_main_toast_favorite_removed">Oblíbené odstraněny</string>
   <string name="ui_main_toast_operation_failed">Odstranění oblíbených %1$s selhalo</string>
