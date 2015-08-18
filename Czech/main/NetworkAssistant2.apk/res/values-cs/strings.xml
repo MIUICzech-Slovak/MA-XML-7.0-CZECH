@@ -569,4 +569,9 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="notify_weekly_traffic_body">Pro automatické omezení využitých dat nastavte svůj měsíční limit.</string>
   <string name="notify_weekly_traffic_title">Tento týden: %s</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s využito %2$s tento týden</string>
+  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
+  <string name="saving_conflict_dialog_cancel">Zrušit</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
 </resources>
