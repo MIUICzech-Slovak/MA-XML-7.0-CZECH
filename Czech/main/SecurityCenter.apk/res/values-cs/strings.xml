@@ -762,4 +762,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="boot_time_day_tomorrow">Zapnout zítra v %1$s</string>
   <string name="shutdown_time_day_tomorrow">Vypnout zítra v %1$s</string>
   <string name="btn_text_power_cleanup">Super Čistič</string>
+  <string name="history_details_title">Podrobnosti historie</string>
 </resources>
