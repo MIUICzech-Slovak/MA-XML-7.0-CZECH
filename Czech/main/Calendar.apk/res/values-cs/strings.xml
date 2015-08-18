@@ -217,7 +217,7 @@
   <string name="preferences_home_tz_title">Domovské č. pásmo</string>
   <string name="preferences_reminder_title">Nastavení připomenutí</string>
   <string name="preferences_show_week_num_title">Zobrazovat číslo týdne</string>
-  <string name="preferences_title">Nastavení</string>
+  <string name="preferences_title">Kalendář</string>
   <string name="preferences_use_home_tz_descrip">Kalendáře a události se vždy zobrazí v domovském čas. pásmu</string>
   <string name="preferences_use_home_tz_title">Použít domácí čas</string>
   <string name="preferences_week_start_day_default">-1</string>
@@ -351,4 +351,5 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="alert_reminder_expired">Vypršelo</string>
 </resources>

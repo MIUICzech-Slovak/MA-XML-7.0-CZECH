@@ -653,8 +653,7 @@ Kopie: %4$s
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatek volného místa na serveru</string>
   <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synch. odchozí pošty</string>
   <string name="outbox_alert_description_reject_by_server">Odmítnuto %s</string>
-  <string name="outbox_alert_description_sent_failed">"Příčina: Velikost přílohy
-přesahuje limit"</string>
+  <string name="outbox_alert_description_sent_failed">Velikost přílohy přesahuje limit serveru</string>
   <string name="outbox_alert_description_time_out">Chyba připojení</string>
   <string name="outbox_alert_duplicate_click">Čekejte, probíhá synchronizace</string>
   <string name="outbox_alert_edit_resend">Upravit a odeslat</string>
@@ -974,4 +973,7 @@ Velikost aplikace: %2$s"</string>
   <string name="bottom_bar_more_share">Sdílet</string>
   <string name="get_database_exception">Chyba databáze. Vymažte data aplikace E-mail v Nastaveních.</string>
   <string name="share_choose">Vyberte</string>
+  <string name="account_setup_failed_too_many_partnerships">Přihlášení selhalo, bylo dosaženo maximálního počtu připojení na server.</string>
+  <string name="outbox_alert_description_email_size_error">Dosaženo maximální velikosti zprávy.</string>
+  <string name="outbox_alert_description_fail_authentication">Jméno nebo heslo není správné</string>
 </resources>
