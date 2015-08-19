@@ -258,7 +258,7 @@
   <string name="corporate_unlock_success">Požadavek na odemčení firemní SIM byl úspěšný.</string>
   <string name="cursorError">Kurzor nemá správná data!</string>
   <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
-  <string name="data_enabled">Datové přenosy</string>
+  <string name="data_enabled">Mobilní data</string>
   <string name="deactivate_all">Zrušit vše</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>

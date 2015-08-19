@@ -52,4 +52,8 @@
   <string name="dialog_body_no_network">Nelze se připojit k síti</string>
   <string name="error_camera_unavailable">Ukončete všechny aplikace využívající fotoaparát.</string>
   <string name="error_camera_unavailable_title">Fotoaparát není dostupný</string>
+  <string name="altitude_uncalibrate_cancel">Zrušit</string>
+  <string name="altitude_uncalibrate_msg">Nelze kalibrovat nadmořskou výšku bez GPS nebo mobilního datového připojení."</string>
+  <string name="altitude_uncalibrate_refresh">Znovu</string>
+  <string name="altitude_uncalibrate_tip">Nelze kalibrovat nadmořskou výšku.</string>
 </resources>

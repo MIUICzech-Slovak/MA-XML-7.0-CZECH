@@ -373,10 +373,10 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="present_local_themes">Staženo</string>
   <string name="present_online_themes">Online</string>
   <string name="lockscreen_magazine_subscribe">Sledující: %1$s</string>
-  <string name="lockscreen_magazine_summary">Získejte nové tapety přímo na vaši zamykací obrazovku</string>
-  <string name="lockscreen_magazine_system_subscribe">Vybraných: %1$s</string>
+  <string name="lockscreen_magazine_summary">Získejte každý den nové tapety přímo na vaši zamykací obrazovku</string>
+  <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Výchozí</string>
-  <string name="lockscreen_magazine_title">Balíček tapet</string>
+  <string name="lockscreen_magazine_title">Denní balíček tapet</string>
   <string name="theme_apply_failured">Nelze použít tapetu pro zamykací obrazovku</string>
   <string name="theme_apply_success">Zamykací obrazovka nastavena</string>
   <string name="theme_applying">Nastavování...</string>

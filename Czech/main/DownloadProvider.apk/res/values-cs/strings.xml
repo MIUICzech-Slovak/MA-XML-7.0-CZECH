@@ -67,4 +67,12 @@ Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkn�
      <string name="warning_tip_title">Využívání mobilních dat</string>
      <string name="enter_garbage_clean">Vyčistit interní úložiště.</string>
      <string name="insufficient_space">Není dostatek volného místa na interním úložišti</string>
+     <string name="button_download_now">Stáhnout nyní</string>
+	 <string name="button_wait_for_wifi">Čekat</string>
+	 <string name="recommended_file_more_in_mobile" formatted="false">Stažení těchto %s souborů (%s) přes mobilní data, může navýšit vaše měsíční poplatky.</string>
+  <string name="recommended_file_one_in_mobile">Stažení tohoto souboru (%s) přes mobilní data, může navýšit vaše měsíční poplatky.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Není připojení k Wi-Fi. %s
+
+Nelze zjistit velikost souboru. Pro stažení tohoto souboru přes mobilní data, stiskněte %s. Pro stažení přes Wi-Fi síť, stiskněte %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Nelze zjistit velikost souboru. Pro stažení tohoto souboru přes mobilní data, stiskněte %s. Pro stažení přes Wi-Fi síť, stiskněte %s."</string>
 </resources>

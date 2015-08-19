@@ -575,4 +575,21 @@ s "</string>
   <string name="mi_pass">MiPass</string>
   <string name="passport_account_identity_title">Ověřit vaši identitu</string>
   <string name="passport_send_too_many_code">Bylo zasláno příliš mnoho ověřovacích kódů na toto číslo. Musíte počkat 24 hodin a zkusit to znovu.</string>
+  <string name="passport_change_phone_number">Změnit číslo</string>
+  <string name="passport_confirm_recycle_account">Ano</string>
+  <string name="passport_identitfication_expired">Platnost ověřovacího kódu skončila</string>
+  <string name="passport_input_password_for_login">Toto číslo už je spárováno s existujícím účtem, zadejte vaše heslo</string>
+  <string name="passport_recycle_account_prompt">Je toto váš Xiaomi účet?</string>
+  <string name="passport_register_restricted">S tímto číslem je spárováno vícero účtů, zadejte jiné tel. číslo</string>
+  <string name="passport_register_restricted_title">Toto tel. číslo nelze použít</string>
+  <string name="passport_reject_recycle_account">Ne</string>
+  <string name="passport_reset_fail_title">Nelze obnovit</string>
+  <string name="passport_reset_password_prompt">Heslo není správné</string>
+  <string name="passport_reset_password_title">Obnovit heslo</string>
+  <string name="passport_restart">Zkusit znovu</string>
+  <string name="passport_restart_register_prompt">Pro vytvoření vašeho účtu může být vyžadována nová ověřovací zpráva.</string>
+  <string name="passport_restart_register_title">Vytvořit Xiaomi účet</string>
+  <string name="passport_setting">Nastavování...</string>
+  <string name="passport_wait_for_sms_prompt">Začít znovu? Doručení ověřovací zprávy může trvat kolem 10 min.</string>
+  <string name="passport_wrong_password">Heslo není správné</string>
 </resources>

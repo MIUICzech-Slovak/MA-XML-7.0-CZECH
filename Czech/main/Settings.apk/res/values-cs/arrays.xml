@@ -209,13 +209,6 @@
         <item>Systrace (grafika)</item>
         <item>Zásobník volání funkce glGetError</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Malé</item>
-        <item>Normální</item>
-        <item>Velké</item>
-        <item>Velmi velké</item>
-        <item>Obrovské</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Silné</item>
         <item>Střední</item>

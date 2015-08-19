@@ -1922,7 +1922,7 @@ Zvolte Váš operační systém:"</string>
   <string name="page_layout_2">Fotoaparát</string>
   <string name="page_layout_20">Zprávy</string>
   <string name="page_layout_21">816 kontaktů</string>
-  <string name="page_layout_22">Vlastní profil</string>
+  <string name="page_layout_22">Můj profil</string>
   <string name="page_layout_23">Mé skupiny</string>
   <string name="page_layout_24">OBLÍBENÉ</string>
   <string name="page_layout_25">Bill Gates</string>
@@ -2305,11 +2305,11 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="screen_paper_mode_turn_off">Zakázáno</string>
   <string name="screen_paper_mode_turn_on">Povoleno</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Znovu se neptat</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Souhlasím</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Povolit</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pro aktualizaci seznamu aplikací, které mohou používat čtecí režim je nutné internetové připojení. Souhlasíte?</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Podmínky používání</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetové připojení</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizovat seznam aplikací, které mohou používat čtecí režim</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovat seznam</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovat automaticky</string>
   <string name="screen_pinning_description">"Po zapnutí této funkce můžete pomocí připnutí obrazovky nechat zobrazenou aktuální obrazovku, dokud ji neuvolníte.
 
 Postup připnutí obrazovky:
@@ -3642,11 +3642,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">požaduje zapnout Bluetooth a zviditelnit vaše zařízení pro jiné zařízení. Můžete to změnit v nastaveních Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">požaduje zapnutí Bluetooth.</string>
   <string name="cancel_action">Zrušit</string>
-  <string name="children_mode_enable_title">Rodičovská kontrola</string>
+  <string name="children_mode_enable_title">Dětský režim</string>
   <string name="children_mode_set_apps_title">Dostupné aplikace</string>
-  <string name="children_mode_tips_off">Povolte Rodičovskou kontrolu, nastavte co potřebujete a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
-  <string name="children_mode_tips_on">Vypněte Rodičovskou kontrolu a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
-  <string name="children_mode_title">Rodičovská kontrola</string>
+  <string name="children_mode_tips_off">Povolte dětský režim, nastavte co potřebujete a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
+  <string name="children_mode_tips_on">Vypněte dětský režim a stiskněte tlačítko Domů pro návrat na domovskou obrazovku</string>
+  <string name="children_mode_title">Dětský režim</string>
   <string name="confirm_action">OK</string>
   <string name="deny_sms_message">Zakázat odesílání SMS zpráv</string>
   <string name="deny_sms_title">Zablokovat SMS</string>
@@ -3664,7 +3664,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="never">Nikdy</string>
   <string name="repeat">Opakovat</string>
   <string name="set_password_action">Nastavit heslo</string>
-  <string name="set_password_message">Nastavte heslo pro deaktivování rodičovské kontroly a odemknutí zařízení</string>
+  <string name="set_password_message">Nastavte heslo pro deaktivování dětského režimu a odemknutí zařízení</string>
   <string name="set_password_title">Nastavte heslo</string>
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobrazit upozornění vždy jako první</string>

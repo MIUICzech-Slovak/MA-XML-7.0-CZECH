@@ -37,7 +37,7 @@
   <string name="all_resources">Vše</string>
   <string name="antispam_mark_my_contribution">Mé označení</string>
   <string name="antispam_provider_format">Označení jsou poskytována %s</string>
-  <string name="attach_photo_dialog_title">Fotka kontaktu</string>
+  <string name="attach_photo_dialog_title">Fotografie kontaktu</string>
   <string name="audio_chat">Audio chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
@@ -192,7 +192,7 @@
   <string name="contact_editor_prompt_zero_accounts">Váš nový kontakt nebude zálohován. Chcete přidat účet, který zálohuje kontakty online?</string>
   <string name="contact_is_readOnly">Kontakt nelze upravit</string>
   <string name="contact_list_loading">Načítání...</string>
-  <string name="contact_pick_photo">Fotka</string>
+  <string name="contact_pick_photo">Fotografie</string>
   <string name="contact_read_only">Nelze upravit na tomto zařízení.</string>
   <string name="contact_status_update_attribution">přes %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
@@ -244,7 +244,7 @@
   <string name="description_call_log_play_button">Přehrát hlasovou schránku</string>
   <string name="description_call_log_unheard_voicemail">Nevyzvednutý vzkaz</string>
   <string name="description_call_log_voicemail">Hlasová schránka</string>
-  <string name="description_contact_photo">Fotka kontaktu</string>
+  <string name="description_contact_photo">Fotografie kontaktu</string>
   <string name="description_delete_button">Zpět</string>
   <string name="description_designer">Designér</string>
   <string name="description_dial_button">Volat</string>
@@ -713,9 +713,9 @@ Synchronizujte je nyní."</string>
   <string name="postal_postcode">PSČ</string>
   <string name="postal_region">Stát</string>
   <string name="postal_street">Ulice</string>
-  <string name="pref_key_photo">Fotka</string>
-  <string name="pref_key_photo_word_summary">Automaticky zvolit fotku pro kontakty, které ji nemají.</string>
-  <string name="pref_key_photo_word_title">Automaticky zvolit fotku pro kontakty</string>
+  <string name="pref_key_photo">Fotografie</string>
+  <string name="pref_key_photo_word_summary">Automaticky zvolit fotografii pro kontakty, které ji nemají.</string>
+  <string name="pref_key_photo_word_title">Automaticky zvolit fotografii pro kontakty</string>
   <string name="pref_key_rebuild_t9_index_message">Opravit index vyhledávání kontaktů</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovit T9 index</string>
   <string name="pref_key_sim_manage">Správa SIM karet</string>
@@ -747,7 +747,7 @@ Synchronizujte je nyní."</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Další nastavení telefonu</string>
   <string name="preference_remove_duplicate">Sloučit duplicitní kontakty</string>
-  <string name="preference_simple_mode_description">V seznamu se budou zobrazovat fotky a detaily kontaktů</string>
+  <string name="preference_simple_mode_description">V seznamu se budou zobrazovat fotografie a detaily kontaktů</string>
   <string name="preference_simple_mode_title">Zobrazit fotografie kontaktů</string>
   <string name="preference_smart_group_company_summary">Skupina kontaktů podle firmy</string>
   <string name="preference_smart_group_company_title">Podle firmy</string>
@@ -800,7 +800,7 @@ Synchronizujte je nyní."</string>
   <string name="redirect_calls_to_vm_confirm_text">Zapnout</string>
   <string name="refresh">Obnovit</string>
   <string name="relationLabelsGroup">Příbuzní</string>
-  <string name="removePhoto">Odstranit fotku</string>
+  <string name="removePhoto">Odstranit fotografii</string>
   <string name="remove_blacklist">Odstranit z černé listiny</string>
   <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
   <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string>
@@ -983,14 +983,14 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
 "</string>
   <string name="returnCall">Volat zpět</string>
   <string name="ringLabelsGroup">Vyzváněcí tón</string>
-  <string name="save_photo_progress">Ukládám fotku...</string>
+  <string name="save_photo_progress">Ukládám fotografii...</string>
   <string name="savingContact">Ukládání kontaktu...</string>
   <string name="savingDisplayGroups">Ukládám nastavení zobrazení...</string>
   <string name="scan">Prohledat zařízení</string>
   <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
   <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
   <string name="scan_qrcode_card_hint1">Načtěte QR kód</string>
-  <string name="scan_qrcode_card_hint2">pro uložení kontaktů</string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning">Kontrola...</string>
   <string name="scanning_sdcard_failed_message">"Vyhledávání na kartě SD se nepodařilo. (Důvod: \"%s\")</string>
   <string name="scanning_sdcard_failed_title">Vyhledávání na kartě SD se nepodařilo</string>
@@ -1004,7 +1004,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="select_all">Vybrat vše</string>
   <string name="select_device">Zvolte zařízení k připojení</string>
   <string name="select_groups">Zvolit skupinu</string>
-  <string name="select_new_photo_from_photo_package">Zvolit nový obrázek kontaktu z balíčku</string>
+  <string name="select_new_photo_from_photo_package">Zvolit novou fotografii kontaktu z balíčku</string>
   <string name="select_none">Nic není vybráno, operace je neplatná</string>
   <string name="select_photo_from_photo_package">Zvolit obrázek kontaktu z balíčku</string>
   <string name="select_show_contacts">Zobrazit kontakt</string>
@@ -1103,8 +1103,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="summary_kind_title">Souhrn</string>
   <string name="t9_search_guide_pinyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
   <string name="t9_search_guide_zhuyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
-  <string name="take_new_photo">Pořídit novou fotku</string>
-  <string name="take_photo">Pořídit fotku</string>
+  <string name="take_new_photo">Pořídit novou fotografii</string>
+  <string name="take_photo">Pořídit fotografii</string>
   <string name="titleJoinContactDataWith">Spojit kontakty</string>
   <string name="title_other_devices">Ostatní dostupná zařízení</string>
   <string name="title_paired_devices">Spárovaná zařízení</string>
@@ -1137,7 +1137,7 @@ Vyberte si z následujících možností:</string>
   <string name="upgrade_out_of_memory_retry">Zkusit aktualizovat znovu</string>
   <string name="upgrade_out_of_memory_uninstall">Odinstalovat některé aplikace</string>
   <string name="use_photo_as_primary">Použít tuto fotku</string>
-  <string name="use_photo_as_primary2">Použít %1$s fotku kontaktu</string>
+  <string name="use_photo_as_primary2">Použít %1$s fotografii kontaktu</string>
   <string name="user_profile_contacts_list_header">Já</string>
   <string name="vcard_export_request_rejected_message">Export vizitky se nezdařil, zkuste to znovu později.</string>
   <string name="vcard_export_will_start_message">%s bude za okamžik exportován.</string>
@@ -1197,7 +1197,7 @@ Vyberte si z následujících možností:</string>
   <string name="unknow_phone_number_call_failed">Nelze volat na neznámé číslo.</string>
   <string name="unknow_phone_number_mms_failed">Nelze odeslat SMS na neznámé číslo.</string>
   <string name="add_blacklist_dialog_message">Blokovat toto číslo?</string>
-  <string name="add_display_photo_entry">Přidat fotku</string>
+  <string name="add_display_photo_entry">Přidat fotografii</string>
   <string name="add_incall_show_entry">Přidat video</string>
   <string name="cancel_confirmation_dialog_title">Zrušit</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
@@ -1215,9 +1215,9 @@ Vyberte si z následujících možností:</string>
   <string name="contact_detail_miprofile_exchange_closed">"S tímto Xiaomi účtem není propojeno žádné tel. číslo
 Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_detail_miprofile_privacy_settings">Požadovat povolení pro zobrazení vaší kontaktní karty</string>
-  <string name="contact_detail_miprofile_request">Dotykem si vyměníte karty</string>
+  <string name="contact_detail_miprofile_request">Vyměnit si karty kontaktu</string>
   <string name="contact_detail_miprofile_request_fail_toast">Požadavek nebylo možné odeslat</string>
-  <string name="contact_detail_miprofile_request_subtitle">Po potvrzení příjemcem se bude profilová fotografie a informace automaticky synchronizovat </string>
+  <string name="contact_detail_miprofile_request_subtitle">Automaticky aktualizovat profilovou fotografii a informace</string>
   <string name="contact_detail_miprofile_request_success_toast">Požadavek odeslán</string>
   <string name="contact_detail_miprofile_save">Dotykem získáte kartu kontaktu</string>
   <string name="contact_detail_miprofile_save_fail_toast">Nebylo možné získat kartu kontaktu</string>
@@ -1231,7 +1231,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Karty kontaktu jsou vypnuty</string>
   <string name="contact_detail_profile_switch_on">Zobrazit profilovou fotografii</string>
   <string name="contact_detail_profile_switch_on_fail_toast">Nelze zapnout karty kontaktu</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Dotykem povolíte tuto funkci.</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Dotykem povolíte karty kontaktu.</string>
   <string name="contact_detail_profile_switch_on_success_toast">Karty kontaktu již jsou zapnuty</string>
   <string name="contacts_in_call_show">video %s</string>
   <string name="delete_call_log_message">Vymazat historii hovorů?</string>
@@ -1265,7 +1265,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="miprofile_edit_title">Upravit profil</string>
   <string name="miprofile_error_accept_self">Nelze si vyměnit svou vlastní kartu kontaktu</string>
   <string name="miprofile_error_no_miaccount">Přihlaste se vašeho Xiaomi účtu</string>
-  <string name="miprofile_error_not_opened">Karty kontaktu jsou vypnuty</string>
+  <string name="miprofile_error_not_opened">Vypnout karty kontaktu</string>
   <string name="miprofile_error_not_set">Vaše karta kontaktu nebyla synchronizována na server</string>
   <string name="miprofile_error_unknown">Neznámá chyba</string>
   <string name="miprofile_name">Můj profil</string>
@@ -1302,4 +1302,8 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="preview_incall_show_entry">Náhled videa</string>
   <string name="quit_dialog_confirm_message">Nemáte spojené žádné kontakty</string>
   <string name="remove_blacklist_dialog_message">Odblokovat toto číslo?</string>
+  <string name="confirm_delete_sim_entry_miui_title">Vymazat</string>
++  <string name="in_call_show_guide_intro">"Nahrejte své profilové video
++ které se zobrazí při zvonění u volaného"</string>
++  <string name="in_call_show_guide_title">Profilové video</string>
 </resources>

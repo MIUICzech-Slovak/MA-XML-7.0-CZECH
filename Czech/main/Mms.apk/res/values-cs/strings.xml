@@ -595,4 +595,10 @@ Pokus: %s."</string>
   <string name="pref_time_auto_group_disabled_summary">Není podporováno v nastavené velikosti písma</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>
   <string name="exceed_message_text_limitation">Dosaženo limitu zprávy</string>
+  <string name="mx_and_voip_enable">MiZprávy</string>
+  <string name="mx_and_voip_enable_popup_msg">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakychkoliv poplatků.</string>
+  <string name="mx_and_voip_enable_popup_msg2">Ochrana soukromí</string>
+  <string name="voip_enable">MiZpráva a Hlas</string>
+  <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+  <string name="voip_enable_popup_msg2">Privacy Policy</string>
 </resources>

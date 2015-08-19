@@ -312,4 +312,18 @@
         <item>6 h</item>
         <item>1 den</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Bez připomenutí</item>
+        <item>0 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>1 hod</item>
+        <item>12 hod</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
 </resources>

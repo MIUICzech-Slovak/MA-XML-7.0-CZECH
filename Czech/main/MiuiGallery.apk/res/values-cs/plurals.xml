@@ -74,12 +74,12 @@
         <item quantity="one">Vymazat %1$s alba (celkem %2$s)?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "&lt;Data> Vymazat &amp;lt;xliff:g id=ITEM>%1$d videí&amp;lt;/xliff:g> z %2$d alb?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Vymazat &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> z %2$d alb?&lt;/Data>" "</item>
+        <item quantity="other">Vymazat videa (%1$d) z %2$d alb?</item>
+        <item quantity="one">Vymazat video (%1$d) z %2$d alba?</item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d images&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d image&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="other">Vymazat obrázky (%1$d) z %2$d alb?</item>
+        <item quantity="one">Vymazat obrázek (%1$d) z %2$d alba?</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%d s</item>
@@ -90,12 +90,12 @@
         <item quantity="one">"Nezobrazovat tuto tvář?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d z %2$s</item>
+        <item quantity="one">%1$d z %2$s</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d z %2$s</item>
+        <item quantity="one">%1$d z %2$s</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d let "</item>
@@ -105,4 +105,36 @@
         <item quantity="other">%1$d měs.</item>
         <item quantity="one">%1$d měsíc</item>
     </plurals>
+	  <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahují fotografie nebo videa v MiCloud, vymazat (%s) ze zařízení i z MiCloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">Vybrané položky obsahují fotografie v MiCloud, vymazat (%s) ze zařízení i z MiCloud?</item>
+        <item quantity="one">Vybraná položka obsahuje fotografii v MiCloud, vymazat (%s) ze zařízení i z MiCloud??</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahují videa v MiCloud, vymazat (%s) ze zařízení i z MiCloud?</item>
+        <item quantity="one">Vybraná položka obsahuje video v MiCloud, vymazat (%s) ze zařízení i z MiCloud??</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahují fotografie nebo videa v MiCloud, vymazat (%s) z MiCloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Vybrané položky jsou fotografie v MiCloud, vymazat (%s) z MiCloud?</item>
+        <item quantity="one">Vybraná položka je fotografie v MiCloud, vymazat (%s) z MiCloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Vybrané položky jsou videa v MiCloud, vymazat (%s) z MiCloud?</item>
+        <item quantity="one">Vybraná položka je video v MiCloud, vymazat (%s) z MiCloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Vymazat (%s) z tohoto alba?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Vymazat (%s)?</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d den</item>
+     </plurals>
 </resources>
