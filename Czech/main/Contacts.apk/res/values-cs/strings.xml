@@ -1303,7 +1303,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="quit_dialog_confirm_message">Nemáte spojené žádné kontakty</string>
   <string name="remove_blacklist_dialog_message">Odblokovat toto číslo?</string>
   <string name="confirm_delete_sim_entry_miui_title">Vymazat</string>
-+  <string name="in_call_show_guide_intro">"Nahrejte své profilové video
-+ které se zobrazí při zvonění u volaného"</string>
-+  <string name="in_call_show_guide_title">Profilové video</string>
+  <string name="in_call_show_guide_intro">"Nahrejte své profilové video
+ které se zobrazí při zvonění u volaného"</string>
+  <string name="in_call_show_guide_title">Profilové video</string>
 </resources>
