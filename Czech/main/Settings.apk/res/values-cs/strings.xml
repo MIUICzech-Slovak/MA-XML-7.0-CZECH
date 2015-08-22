@@ -3672,4 +3672,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="layout_size_exhuge">Obrovské</string>
   <string name="advanced_text_layout">Povolit rozšířené nastavení rozložení textu</string>
   <string name="experience_optimization_category">Optimalizace používání</string>
+  <string name="dndm_alarm_content_not_all">Všechno povoleno</string>
 </resources>
