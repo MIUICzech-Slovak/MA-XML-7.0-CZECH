@@ -549,7 +549,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="bluetooth_unlock_state_disconnected">Odpojeno</string>
   <string name="bluetooth_unlock_state_key_error">Chyba klíče</string>
   <string name="bluetooth_unlock_state_label">"Stav: "</string>
-  <string name="bluetooth_unlock_state_ok">Připojeno</string>
+  <string name="bluetooth_unlock_state_ok">Odemknuto</string>
   <string name="bluetooth_unlock_state_too_far">Není v dosahu</string>
   <string name="bluetooth_unlock_title">Odemknout pomocí bluetooth zařízení</string>
   <string name="bluetooth_unlock_turned_off">Vypnuto</string>
@@ -995,7 +995,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Povolit hovory z výjimek</string>
-  <string name="dndm_vip_call_setting_title">Nastavení výjimek</string>
+  <string name="dndm_vip_call_setting_title">Výjimky</string>
   <string name="dndm_vip_call_summary_contact">Všechny</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Nastavení</string>
@@ -1391,10 +1391,6 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="launching_cit">Launching cit, please wait.</string>
   <string name="launching_pho">Načítání informací o zařízení...</string>
   <string name="launching_rep">Odesílání záznamu o chybě, prosím čekejte.</string>
-  <string name="layout_size_large">Velké</string>
-  <string name="layout_size_medium"/>
-  <string name="layout_size_normal">Normální</string>
-  <string name="layout_size_small">Malé</string>
   <string name="led_colors_summary">Barva LED při notifikaci</string>
   <string name="led_frequence_summary">Nastavit interval blikání LED</string>
   <string name="led_pulse_summary">Při nové notifikaci blikat LEDkou</string>
@@ -2062,9 +2058,9 @@ Zvolte Váš operační systém:"</string>
   <string name="priority_storage_settings_summary">Pokud není vložena SD karta, uživatelská data budou uložena automaticky na interní úložiště</string>
   <string name="priority_storage_summary">Vyberte výchozí úložiště pro ukládání dat</string>
   <string name="priority_storage_title">Nastavení úložiště</string>
-  <string name="privacy_mode_dialog_message">Skrýt příchozí hovory a zprávy, poznámky, fotografie a nastavení plochy</string>
+  <string name="privacy_mode_dialog_message">Skrýt zprávy, poznámky, fotografie, nastavení a příchozí hovory</string>
   <string name="privacy_mode_dialog_title">Režim Návštěvník</string>
-  <string name="privacy_mode_enable_sum">Skrýt seznam hovorů, zprávy a ostatní data při aktivním soukromém režimu</string>
+  <string name="privacy_mode_enable_sum">Skrýt zprávy poznámky, fotografie, nastavení a příchozí hovory</string>
   <string name="privacy_mode_enable_title">Zapnout režim soukromí</string>
   <string name="privacy_mode_summary">Uzamknout jednotlivé apl. nebo skrýt osobní informace</string>
   <string name="privacy_mode_title">Nastavení soukromí</string>
@@ -3638,9 +3634,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_resolution_title">Rozlišení displeje</string>
   <string name="wifi_eap_sim_simcard">Vyberte SIM</string>
   <string name="screen_color_and_optimize">Barvy a kontrast</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">požaduje zapnout Bluetooth a zviditelnit vaše zařízení na %1$d sekund.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">požaduje zapnout Bluetooth a zviditelnit vaše zařízení pro jiné zařízení. Můžete to změnit v nastaveních Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_detected">požaduje zapnutí Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">" požaduje zapnout Bluetooth a zviditelnit vaše zařízení na %1$d sekund."</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" požaduje zapnout Bluetooth a zviditelnit vaše zařízení pro jiné zařízení. Můžete to změnit v nastaveních Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_detected">" požaduje zapnutí Bluetooth."</string>
   <string name="cancel_action">Zrušit</string>
   <string name="children_mode_enable_title">Dětský režim</string>
   <string name="children_mode_set_apps_title">Dostupné aplikace</string>
@@ -3669,8 +3665,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobrazit upozornění vždy jako první</string>
   <string name="theme_settings_title">Témata</string>
-  <string name="layout_size_exhuge">Obrovské</string>
   <string name="advanced_text_layout">Povolit rozšířené nastavení rozložení textu</string>
-  <string name="experience_optimization_category">Optimalizace používání</string>
-  <string name="dndm_alarm_content_not_all">Všechno povoleno</string>
+  <string name="experience_optimization_category">Optimalizace</string>
+  <string name="dndm_alarm_content_not_all">Vše povoleno</string>
+  <string name="page_layout_32">Obchod Play</string>
+  <string name="pref_edge_handgrip">Edge handgrip</string>
 </resources>
