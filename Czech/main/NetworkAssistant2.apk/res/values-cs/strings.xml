@@ -177,7 +177,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet přes USB</string>
   <string name="main_toolbar_internet_by_wifi">Připojení přes Wi-Fi</string>
   <string name="main_toolbar_purchase">Navýšit</string>
-  <string name="main_toolbar_saving">Komprese</string>
+  <string name="main_toolbar_saving">Úspora dat</string>
   <string name="main_toolbar_statistic">Statistiky</string>
   <string name="main_traffic_overlimit_text">Nad limit</string>
   <string name="main_traffic_remian_text">Zbývá</string>
@@ -529,7 +529,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="pref_traffic_saving_no_compress">Bez komprese</string>
   <string name="pref_traffic_saving_pic_compress_level">Úroveň komprese obrázků</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Povolit úsporu dat.</string>
-  <string name="traffic_saving_button_mng">Spravovat aplikace pro úsporu dat</string>
+  <string name="traffic_saving_button_mng">Aplikace</string>
   <string name="traffic_saving_need_optimize">Může být optimalizováno</string>
   <string name="traffic_saving_notification_button_start">Aktivovat</string>
   <string name="traffic_saving_one_key_optimize">Optimalizovat pro úsporu dat</string>
