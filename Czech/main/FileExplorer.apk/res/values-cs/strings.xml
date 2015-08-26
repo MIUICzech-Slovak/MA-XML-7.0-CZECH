@@ -418,6 +418,9 @@ Bylo přičteno dalších %1$s"</string>
   <string name="search_result_hint7">(%d)</string>
   <string name="search_result_more">Více</string>
   <string name="search_title_hint">Hledat</string>
-  <string name="storage_info">Dostupné: %1$s </string>
+  <string name="storage_info">Dostupné: %1$s</string>
   <string name="yesterday">Včera</string>
+  <string name="delete_file_error">Nelze vymazat soubor</string>
+  <string name="online_not_support">Momentálně nelze zobrazit tento soubor online.</string>
+  <string name="smb_loading">Načítání...</string>
 </resources>

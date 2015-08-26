@@ -902,7 +902,7 @@ Synchronizujte je nyní."</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
   <string name="resource_get_auth_has_been_undercarriaged">Toto téma již není dostupné</string>
-  <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
+  <string name="resource_get_auth_missing">Toto téma není staženo z oficiálního obchodu.</string>
   <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
   <string name="resource_get_auth_retrieving">Získávání autorizace...</string>
   <string name="resource_has_been_downloaded">Toto téma je staženo</string>

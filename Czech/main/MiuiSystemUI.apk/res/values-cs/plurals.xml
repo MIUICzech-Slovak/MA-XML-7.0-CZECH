@@ -6,7 +6,7 @@
         <item quantity="one">1 nedávná aplikace</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Blokovat: %d apl.</item>
-        <item quantity="one">Blokovat: %d apl.</item>
+        <item quantity="other">Skrýt upozornění %d apl.?</item>
+        <item quantity="one">Skrýt upozornění této aplikace?</item>
     </plurals> 
 </resources>

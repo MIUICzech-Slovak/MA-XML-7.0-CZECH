@@ -140,8 +140,8 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="flash_on">S bleskem</string>
   <string name="focal_length">Ohnisko</string>
   <string name="folder_camera">Fotoaparát</string>
-  <string name="folder_download">Stáhnuté</string>
-  <string name="folder_imported">Importované</string>
+  <string name="folder_download">Staženo</string>
+  <string name="folder_imported">Importováno</string>
   <string name="folder_screenshot">Screenshot</string>
   <string name="group_by">Třídit podle</string>
   <string name="group_by_album">Alba</string>

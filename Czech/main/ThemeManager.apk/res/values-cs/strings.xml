@@ -191,7 +191,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
   <string name="resource_get_auth_has_been_undercarriaged">Toto téma je nedostupné</string>
-  <string name="resource_get_auth_missing">Toto téma není stáhnuté z oficiálního obchodu.</string>
+  <string name="resource_get_auth_missing">Toto téma není staženo z oficiálního obchodu.</string>
   <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
   <string name="resource_get_auth_retrieving">Ověření originálu...</string>
   <string name="resource_has_been_downloaded">Toto téma je staženo</string>
@@ -296,7 +296,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_component_title_launcher">Launcher</string>
   <string name="theme_component_title_lockstyle">Zámek</string>
   <string name="theme_component_title_lockwallpaper">Tapeta zám.</string>
-  <string name="theme_component_title_miwallpaper">Stáhnuté</string>
+  <string name="theme_component_title_miwallpaper">Staženo</string>
   <string name="theme_component_title_mms">Zprávy</string>
   <string name="theme_component_title_notification">Upozornění</string>
   <string name="theme_component_title_others">Ostatní</string>
@@ -340,7 +340,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_yes">Ano</string>
   <string name="third_party_pickers_activity_title">Nastavit %1$s</string>
   <string name="title_component">Mix</string>
-  <string name="title_system_resource">Systémové zdroje</string>
+  <string name="title_system_resource">Staženo</string>
   <string name="to_activate_the_account">Aktivovat Xiaomi účet.</string>
   <string name="wallpaper_crop">Ořezat</string>
   <string name="wallpaper_decoded_error">Nepodařilo se dešifrovat!</string>
@@ -369,7 +369,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_select_audio_confirm_picker">Vybrat tento zvuk?</string>
   <string name="resource_select_alarm_audio_confirm">Vybrat tento zvuk upozornění?</string>
   <string name="theme_setting">Nastavení</string>
-  <string name="choose_new_themes">Nová témata</string>
+  <string name="choose_new_themes">Témata</string>
   <string name="present_local_themes">Staženo</string>
   <string name="present_online_themes">Online</string>
   <string name="lockscreen_magazine_subscribe">Sledující: %1$s</string>

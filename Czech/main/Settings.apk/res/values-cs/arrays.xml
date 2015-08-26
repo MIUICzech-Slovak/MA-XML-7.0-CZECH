@@ -610,7 +610,8 @@ Postupujte dle pokynů"</item>
         <item>Fotoaparát</item>
         <item>Galerie</item>
         <item>Hudba</item>
-        <item>Email</item>
+        <item>E-mail</item>
+        <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Síť je pomalá z důvodu přetížení</item>

@@ -103,7 +103,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_applist">Aplikace</string>
   <string name="firewall_fragment_nonesys_listempty">Prázdné</string>
   <string name="firewall_fragment_sys_listempty">Prázdné</string>
-  <string name="firewall_fragment_tab_title_nonsys">Stáhnuté</string>
+  <string name="firewall_fragment_tab_title_nonsys">Staženo</string>
   <string name="firewall_fragment_tab_title_sys">Systémové</string>
   <string name="firewall_network_restrict_notify_message">Změnit nastavení</string>
   <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k %2$s.</string>

@@ -99,7 +99,7 @@ se dotknete štítku telefonem"</string>
   <string name="input_password">Zadejte 4-číselné heslo</string>
   <string name="input_password_gain">Potvrdit heslo</string>
   <string name="input_password_warning">"Heslo bude zapsáno na štítku, nezapomeňte jej!"</string>
-  <string name="local_app">Stáhnuté aplikace</string>
+  <string name="local_app">Stažené aplikace</string>
   <string name="media_value">Média %s%%</string>
   <string name="meeting_mode">Režim Schůzka</string>
   <string name="miui_ringer_mode">Režim zvonění</string>

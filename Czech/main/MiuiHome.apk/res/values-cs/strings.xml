@@ -293,4 +293,6 @@
   <string name="children_folder_title">Rodičovská kontrola</string>
   <string name="children_mode_exit">Ukončit</string>
   <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
+  <string name="children_mode_tips">Vraťte se do nastavení pro správu dostupných aplikací.</string>
+  <string name="wallpaper_scaling_message">Nastavení pevné velikosti</string>
 </resources>

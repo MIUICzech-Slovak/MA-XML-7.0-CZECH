@@ -91,7 +91,7 @@
   <string name="download_method">Stáhnout</string>
   <string name="download_processing">Stahování</string>
   <string name="download_quality">Kvalita stahování</string>
-  <string name="download_quality_summary">Další nastavení pro stáhnuté skladby</string>
+  <string name="download_quality_summary">Další nastavení pro stažené skladby</string>
   <string name="download_while_playing_summary">"Automaticky stáhnout skladby poslouchané online"</string>
   <string name="download_while_playing_title">Poslouchat během stahování</string>
   <string name="empty_page_no_album">Žádná alba</string>

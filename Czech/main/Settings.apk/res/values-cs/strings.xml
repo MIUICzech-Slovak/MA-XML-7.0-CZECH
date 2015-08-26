@@ -3669,5 +3669,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="experience_optimization_category">Optimalizace</string>
   <string name="dndm_alarm_content_not_all">Vše povoleno</string>
   <string name="page_layout_32">Obchod Play</string>
-  <string name="pref_edge_handgrip">Edge handgrip</string>
+  <string name="pref_edge_handgrip">Edge controls</string>
 </resources>
