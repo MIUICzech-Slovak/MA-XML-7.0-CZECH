@@ -792,9 +792,9 @@ společně!"</string>
   <string name="baby_album_sharers_page_title">Sdílet s rodinou</string>
   <string name="view_baby_album">Zobrazit dětské album</string>
   <string name="you_are"/>
-  <string name="change_to_face_mode">Přepnout na album lidí</string>
-+  <string name="change_to_photo_mode">Přepnout na dětské album</string>
-  <string name="create_baby_album_later_toast">Později můžete vytvořit dětské album vpravo nahoře</string>
+  <string name="change_to_face_mode">Třídit podle lidí</string>
+  <string name="change_to_photo_mode">Třídit podle alba</string>
+  <string name="create_baby_album_later_toast">Vytvořte dětské album kdykoliv v nastavení</string>
   <string name="not_remind_any_more">Znovu nezobrazovat</string>
   <string name="operation_rename_baby">Zadejte jméno dítěte</string>
 </resources>

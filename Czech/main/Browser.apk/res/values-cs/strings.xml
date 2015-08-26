@@ -18,8 +18,8 @@
   <string name="account_prifix">Účet:</string>
   <string name="action">Přihlásit</string>
   <string name="action_menu_text_bandwidth">Úspora dat</string>
-  <string name="action_menu_text_bandwidth_off">Úspora dat vyp.</string>
-  <string name="action_menu_text_bandwidth_on">Úspora dat zap.</string>
+  <string name="action_menu_text_bandwidth_off">Úspora dat</string>
+  <string name="action_menu_text_bandwidth_on">Úspora dat</string>
   <string name="action_menu_text_bookmark">Přidat záložku</string>
   <string name="action_menu_text_exit">Ukončit</string>
   <string name="action_menu_text_fullscreen">Celá obrazovka</string>
@@ -96,7 +96,7 @@
   <string name="bookmark_group_lable">Skupina</string>
   <string name="bookmark_list_view">Seznam</string>
   <string name="bookmark_needs_title">Záložka musí mít název.</string>
-  <string name="bookmark_needs_url">Záložka musí mít adresu.</string>
+  <string name="bookmark_needs_url">Záložka musí mít URL adresu.</string>
   <string name="bookmark_not_saved">"Záložku není možné uložit."</string>
   <string name="bookmark_page">Vytvořit záložku z naposledy zobrazené stránky</string>
   <string name="bookmark_rename_group">Přejmenovat skupinu</string>
