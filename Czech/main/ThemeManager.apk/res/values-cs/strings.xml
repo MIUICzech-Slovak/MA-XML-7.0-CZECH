@@ -380,8 +380,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_apply_failured">Nelze použít tapetu pro zamykací obrazovku</string>
   <string name="theme_apply_success">Zamykací obrazovka nastavena</string>
   <string name="theme_applying">Nastavování...</string>
-  <string name="theme_precast_update_notification_content">Zobrazit nová témata</string>
-  <string name="theme_precast_update_notification_title">Aktualizováno na MIUI 7</string>
   <string name="theme_provision_default_theme_title">Výchozí</string>
   <string name="theme_provision_loading_tips">Načítání...</string>
   <string name="theme_provision_title">Vyberte si téma</string>
