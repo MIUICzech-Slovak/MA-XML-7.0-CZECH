@@ -847,6 +847,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastavit datum a čas</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24-hodinový formát</string>
+  <string name="date_time_24hour_title">24-hodinový formát</string>
   <string name="date_time_auto">Automaticky datum a čas</string>
   <string name="date_time_auto_summaryOff">Použít čas ze sítě</string>
   <string name="date_time_auto_summaryOn">Použít čas ze sítě</string>
@@ -973,7 +974,15 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">Úložiště USB se nepodařilo odpojit. Zkuste to znovu později.</string>
   <string name="dlg_ok">OK</string>
+  <string name="dndm_alarm_content">Zvuky</string>
+  <string name="dndm_alarm_content_all">Povolit vše</string>
+  <string name="dndm_alarm_content_call">Hovory</string>
+  <string name="dndm_alarm_content_call_sms">Hovory a zprávy</string>
+  <string name="dndm_alarm_content_event">Upozornění</string>
+  <string name="dndm_alarm_content_event_and_call">Upozornění a hovory</string>
+  <string name="dndm_alarm_content_event_and_sms">Upozornění a zprávy</string>
   <string name="dndm_auto_button_title">Naplánovat</string>
+  <string name="dndm_alarm_content_sms">Zprávy</string>
   <string name="dndm_auto_setting_group">Naplánovat aktivaci</string>
   <string name="dndm_auto_time_setting">Nastavení času</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
@@ -3251,6 +3260,7 @@ asistenta Wi-Fi"</string>
   <string name="wifi_context_menu_connect">Připojit k Wi-Fi síti</string>
   <string name="wifi_context_menu_forget">Zapomenout síť</string>
   <string name="wifi_datanetwork_switch_not_remind">Znovu nezobrazovat</string>
+  <string name="wifi_dialog_remind_type_title">Mobilní data</string>
   <string name="wifi_disabled_generic">Vypnuto</string>
   <string name="wifi_disabled_help">Síť nebyla použita z důvodu špatného připojení. Toto nastavení můžete vypnout na obrazovce Nastavení v části Wi-Fi, položka nabídky \nPokročilé.</string>
   <string name="wifi_disabled_network_failure">Bylo zabráněno slabému připojení</string>
@@ -3495,6 +3505,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_suspend_efficiency_title">Zlepšit výkonnost</string>
   <string name="wifi_suspend_optimizations">Optimalizace Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimalizovat využívání baterie při zapnuté síti Wi-Fi</string>
+  <string name="wifi_switch_to_gsm_message">Spojení s Wi-Fi bylo přerušeno. Použít mobilní datové připojení?</string>
+  <string name="wifi_switch_to_gsm_title">Použít GSM?</string>
   <string name="wifi_tether_checkbox_text">Přenosný hotspot Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Nastavit hotspot sítě Wi-Fi</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
@@ -3573,6 +3585,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="yes">Ano</string>
   <string name="yes_all_caps">ANO</string>
   <string name="zen_mode_alarm_info">Budíky jsou vždy prioritní vyrušení.</string>
+  <string name="zen_mode_alarm_use">Zvuky</string>
   <string name="zen_mode_automation_category">Automatizace</string>
   <string name="zen_mode_default_option">Dokud tuto funkci nevypnete</string>
   <string name="zen_mode_downtime_category">Pozastavení (pouze prioritní vyrušení)</string>
@@ -3670,4 +3683,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="dndm_alarm_content_not_all">Vše povoleno</string>
   <string name="page_layout_32">Obchod Play</string>
   <string name="pref_edge_handgrip">Edge controls</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
 </resources>
