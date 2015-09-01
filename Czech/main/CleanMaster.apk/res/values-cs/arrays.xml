@@ -39,4 +39,7 @@
         <item>Zálohovat a odinstalovat</item>
         <item>Odinstalovat</item>
      </string-array>
+     <string-array name="empty_floder_clean_menu">
+        <item>Vyčistit</item>
+    </string-array>
 </resources>
