@@ -797,4 +797,12 @@ společně!"</string>
   <string name="create_baby_album_later_toast">Vytvořte dětské album kdykoliv v nastavení</string>
   <string name="not_remind_any_more">Znovu nezobrazovat</string>
   <string name="operation_rename_baby">Zadejte jméno dítěte</string>
+  <string name="associate_face_album">Vyberte album lidí</string>
+  <string name="auto_update_face">Přidat foto. automaticky</string>
+  <string name="auto_update_face_summary">Automaticky rozpoznat a přidat do dětského alba</string>
+  <string name="auto_update_off">Vyp</string>
+  <string name="auto_update_on">Zap</string>
+  <string name="name_wrong">Toto není %s</string>
+  <string name="need_to_turn_on_sync">Povolte MiCloud</string>
+  <string name="sync_ok">Synchr.</string>
 </resources>

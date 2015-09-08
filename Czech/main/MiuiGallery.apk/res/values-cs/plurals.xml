@@ -137,4 +137,28 @@
         <item quantity="other">%1$d dní</item>
         <item quantity="one">%1$d den</item>
      </plurals>
+     <plurals name="number_of_images_to_upload">
+        <item quantity="other">Fotografie na odeslání: %1$d</item>
+        <item quantity="one">Fotografie na odeslání: 1</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">Videa na odeslání: %1$d</item>
+        <item quantity="one">Videa na odeslání: 1</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">Fotografie a videa na odeslání: %1$d</item>
+        <item quantity="one">Fotografie a videa na odeslání: 1</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Odesílání fotografií: %1$d</item>
+        <item quantity="one">Odesílání fotografií: 1</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Odesílání videí: %1$d</item>
+        <item quantity="one">Odesílání videí: 1</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Odesílání videí a foto.: %1$d</item>
+        <item quantity="one">Odesílání videí a foto.: 1</item>
+    </plurals>
 </resources>
