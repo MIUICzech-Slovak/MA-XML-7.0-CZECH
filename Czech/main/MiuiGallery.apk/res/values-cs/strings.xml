@@ -802,7 +802,6 @@ společně!"</string>
   <string name="auto_update_face_summary">Automaticky rozpoznat a přidat do dětského alba</string>
   <string name="auto_update_off">Vyp</string>
   <string name="auto_update_on">Zap</string>
-  <string name="name_wrong">Toto není %s</string>
   <string name="need_to_turn_on_sync">Povolte MiCloud</string>
   <string name="sync_ok">Synchr.</string>
 </resources>
