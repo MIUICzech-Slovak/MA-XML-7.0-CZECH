@@ -1556,12 +1556,10 @@ zbývá: "</string>
   <string name="permdesc_setInputCalibration">Umožňuje aplikaci měnit parametry kalibrace dotykové obrazovky. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_sim_communication">Umožňuje aplikaci odesílat příkazy na kartu SIM. Toto oprávnění je velmi nebezpečné.</string>
   <string name="permdesc_startTasksFromRecents">Povoluje aplikaci spustit pomocí objektu ActivityManager.RecentTaskInfo zaniklou úlohu, kterou vrátil příkaz ActivityManager.getRecentTaskList().</string>
-  <string name="permdesc_transmitIr">Umožňuje aplikaci využívat infračervený vysílač telefonu.</string>
   <string name="permdesc_userActivity">Umožňuje aplikaci resetovat časový limit displeje.</string>
   <string name="permdesc_writeVoicemail">Povoluje aplikaci upravit a odebrat zprávy z hlasové schránky.</string>
   <string name="permlab_accessDrmCertificates">přístup k certifikátům DRM</string>
   <string name="permlab_accessInputFlinger">přístup k funkci InputFlinger</string>
-  <string name="permlab_accessLocationExtraCommands">přístup k dalším příkazům poskytovatele polohy</string>
   <string name="permlab_bindConditionProviderService">navázání na službu poskytovatele podmínky</string>
   <string name="permlab_bindDreamService">navázat se na službu spořiče</string>
   <string name="permlab_bindJobService">spustit naplánovanou práci aplikace na pozadí</string>
