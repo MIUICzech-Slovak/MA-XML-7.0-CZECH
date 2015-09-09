@@ -1613,4 +1613,8 @@ zbývá: "</string>
   <string name="whichViewApplicationNamed">Otevřít v aplikaci %1$s</string>
   <string name="year_picker_description">Seznam roků</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
+  <string name="storage_phone">Úložiště telefonu</string>
+ <string name="storage_external_usb">Externí paměť USB</string>
+ <string name="storage_ic_usb1">Externí paměťové zařízení IC-USB storage1</string>
+ <string name="storage_ic_usb2">Externí paměťové zařízení IC-USB storage2</string>
 </resources>
