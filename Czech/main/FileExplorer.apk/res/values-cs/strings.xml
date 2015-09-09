@@ -423,4 +423,27 @@ Bylo přičteno dalších %1$s"</string>
   <string name="delete_file_error">Nelze vymazat soubor</string>
   <string name="online_not_support">Momentálně nelze zobrazit tento soubor online.</string>
   <string name="smb_loading">Načítání...</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
+  <string name="app_name_camera">Fotoaparát</string>
+  <string name="app_name_downloadedrom">Balíčky</string>
+  <string name="app_name_downloads">Staženo</string>
+  <string name="app_name_market">Obchod</string>
+  <string name="app_name_midrop">MiDrop</string>
+  <string name="app_name_miui">MIUI</string>
+  <string name="app_name_miuimusic">Hudba</string>
+  <string name="app_name_miuiringtone">Zvonění</string>
+  <string name="app_name_miuiwallpaper">Tapety</string>
+  <string name="app_name_screenshot">Screenshoty</string>
+  <string name="backup_cancel">Ne</string>
+  <string name="backup_confirm">Zálohovat</string>
+  <string name="backup_success_cancel">OK</string>
+  <string name="backup_success_confirm">Zobrazit</string>
+  <string name="backup_success_message">Zálohováno do %1$s</string>
+  <string name="backup_success_title">Zálohováno</string>
+  <string name="connection_error">Nelze se připojit</string>
+  <string name="group_title_extra_backup">Zálohy</string>
+  <string name="group_title_extra_expire">Brzy vyprší platnost</string>
+  <string name="group_title_extra_new">Nové</string>
+  <string name="notification_content_hint">Zobrazit</string>
+  <string name="title_expire_video">Brzy vyprší platnost</string>
 </resources>

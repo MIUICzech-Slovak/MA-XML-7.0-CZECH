@@ -351,7 +351,7 @@ Pro aktivaci vašeho účtu, klikněte na
 odkaz ve zprávě, která byla doručena do vaší e-mailové schránky.
 Zkontrolujte také složku SPAM."</string>
   <string name="passport_completed">Dokončit</string>
-  <string name="passport_confirm">Potvrdit</string>
+  <string name="passport_confirm">OK</string>
   <string name="passport_delete_account">Odhlásit se</string>
   <string name="passport_dspt_provision">Přihlaste se do MiCloud, obchodu s tématy a mnoho jiných služeb Xiaomi s jedním účtem.</string>
   <string name="passport_dspt_provision2">Více</string>
@@ -592,4 +592,6 @@ s "</string>
   <string name="passport_setting">Nastavování...</string>
   <string name="passport_wait_for_sms_prompt">Začít znovu? Doručení ověřovací zprávy může trvat kolem 10 min.</string>
   <string name="passport_wrong_password">Heslo není správné</string>
+  <string name="passport_forget_password_no_underline">Zapomenuté heslo</string>
+  <string name="passport_login_short">Přihlásit se</string>
 </resources>

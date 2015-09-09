@@ -85,4 +85,6 @@
   <string name="handy_mode_enter_dlg_title">Ovládání jednou rukou</string>
   <string name="fc_dialog_body">Zobrazte podrobnosti o chybě, zkopírujte log a vložte jej na miuios.cz/rom pro její další analýzu.</string>
   <string name="fc_dialog_jump_to_preview">Podrobnosti o chybě pro miuios.cz</string>
+  <string name="reboot_info_auto_boot">Vaše zařízení se zapne v %s dle plánu</string>
+  <string name="reboot_info_shutdown_alarm">Vaše zařízení zapne budík v %s</string>
 </resources>

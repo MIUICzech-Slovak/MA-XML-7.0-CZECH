@@ -976,4 +976,5 @@ Velikost aplikace: %2$s"</string>
   <string name="account_setup_failed_too_many_partnerships">Přihlášení selhalo, bylo dosaženo maximálního počtu připojení na server.</string>
   <string name="outbox_alert_description_email_size_error">Dosaženo maximální velikosti zprávy.</string>
   <string name="outbox_alert_description_fail_authentication">Jméno nebo heslo není správné</string>
+  <string name="attachment_list_search_hint">Vyhledat v přílohách</string>
 </resources>
