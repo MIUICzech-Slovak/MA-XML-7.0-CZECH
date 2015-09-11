@@ -963,4 +963,7 @@ pro změnu na HD kvalitu."</string>
   <string name="delete_device">Odstranit zařízení</string>
   <string name="sd_tip_text">"Po formátování SD karty bude část její kapacity použita pro ukládání systémových souborů, takže zobrazená kapacita může být menší, než je ve skutečnosti."</string>
   <string name="play_time">00:00</string>
+  <string name="camera_3g_network">Připojení ke kameře přes mobilní data může navýšit vaše poplatky</string>
+  <string name="camera_setting_video_alarm_subtitle">Zobrazit ukázku videa spolu s upozorněním</string>
+  <string name="camera_setting_video_alarm_title">Povolit video upozornění</string>
 </resources>
