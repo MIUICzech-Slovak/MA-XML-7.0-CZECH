@@ -804,4 +804,11 @@ společně!"</string>
   <string name="auto_update_on">Zap</string>
   <string name="need_to_turn_on_sync">Povolte MiCloud</string>
   <string name="sync_ok">Synchr.</string>
+  <string name="highlight2">Jas</string>
+  <string name="number_of_uploading_finish">Všechny videa a fotografie byly odeslány na MiCloud</string>
+  <string name="file_finish">Synch. na MiCloud</string>
+  <string name="need_to_turn_on_network">Připojte se k síti</string>
+  <string name="need_to_turn_on_wlan">Připojte se k Wi-Fi</string>
+  <string name="file_uploading">Synchronizuje se...</string>
+  <string name="sync_cloud_space_full">MiCloud je plný</string> 
 </resources>
