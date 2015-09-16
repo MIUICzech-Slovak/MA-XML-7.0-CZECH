@@ -3709,4 +3709,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="layout_size_large_text">Velké</string>
   <string name="layout_size_huge_text">Extra velké</string>
   <string name="layout_size_exhuge_text">XXL</string>
+  <string name="quiet">Ticho</string>
+  <string name="quiet_group">Tichý režim</string>
+  <string name="quiet_important_interruptions_mode">Povolit jen výjimky</string>
+  <string name="quiet_mode">Tichý režim</string>
+  <string name="quiet_off_mode">Běžný režim</string>
 </resources>
