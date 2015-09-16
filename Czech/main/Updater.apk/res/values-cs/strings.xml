@@ -309,4 +309,6 @@ Nelze odeslat váš názor názor"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="recovery_power_not_enough_msg">Baterie má méně, než 30% energie. Pro pokračování v instalaci aktualizace připojte nabíječku.</string>
+  <string name="recovery_power_not_enough_title">Slabá baterie</string>
 </resources>

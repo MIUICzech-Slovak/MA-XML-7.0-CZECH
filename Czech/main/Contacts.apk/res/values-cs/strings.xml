@@ -1306,4 +1306,6 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="in_call_show_guide_intro">"Nahrejte své profilové video
  které se zobrazí při zvonění u volaného"</string>
   <string name="in_call_show_guide_title">Profilové video</string>
+  <string name="emergency_number_label">Nouzové číslo</string>
+  <string name="in_call_show_preview_reshoot">Znovu</string>
 </resources>
