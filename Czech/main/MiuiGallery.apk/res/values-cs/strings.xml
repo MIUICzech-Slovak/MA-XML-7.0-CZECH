@@ -810,5 +810,12 @@ společně!"</string>
   <string name="need_to_turn_on_network">Připojte se k síti</string>
   <string name="need_to_turn_on_wlan">Připojte se k Wi-Fi</string>
   <string name="file_uploading">Synchronizuje se...</string>
-  <string name="sync_cloud_space_full">MiCloud je plný</string> 
+  <string name="sync_cloud_space_full">MiCloud je plný</string>
+  <string name="baby_lock_wallpaper_cancelled">Změněno na výchozí tapetu zamykací obrazovky</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Zrušit tapetu dětského alba a nastavit výchozí?</string>
+  <string name="hidden_album_display_name">Skryté album</string>
+  <string name="set_baby_icon_picker_default_title">Nastavit dětskou ikonu</string>
+  <string name="set_bg_file_exist_message">Zadaný název již existuje</string>
+  <string name="set_bg_picker_default_title">Nastavit obal</string>
+  <string name="set_bg_unknow_reasons">Neznámá chyba</string> 
 </resources>
