@@ -205,4 +205,10 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="installing">Instalování...</string>
   <string name="open">Otevřít</string>
   <string name="paused">Zastaveno</string>
+  <string name="quit_btn">Ukončit</string>
+  <string name="rebind_btn">Přidat znovu</string>
+  <string name="title_tips">Upozornění</string>
+  <string name="title_unbind_xunlei">Odebrat Xunlei účet</string>
+  <string name="xiaomi_account_not_exist_message">Tento Xiaomi účet neexistuje</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei účet odebrán</string>
 </resources>

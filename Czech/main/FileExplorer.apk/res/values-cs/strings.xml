@@ -446,4 +446,11 @@ Bylo přičteno dalších %1$s"</string>
   <string name="group_title_extra_new">Nové</string>
   <string name="notification_content_hint">Zobrazit</string>
   <string name="title_expire_video">Brzy vyprší platnost</string>
+  <string name="confirm_clean">Vyčistit</string>
+  <string name="decompress_encrypted_rar_not_supported">Šifrovaný rar soubor není podporován.</string>
+  <string name="decompress_input_password">Zadejte heslo...</string>
+  <string name="decompress_password_error">Chybné heslo, zkuste to znovu...</string>
+  <string name="decompress_title">Rozbalit</string>
+  <string name="storage_info_detail">Dostupné: %1$s | Celkem: %1$s</string>
+  <string name="title_select_volume">Vybrat</string>
 </resources>
