@@ -337,7 +337,7 @@
  "action_item_multiple": "Upravit",
  "action_item_play_all": "Přehrát vše",
  "action_item_remove_from_favorite": "Odstranit z oblíbených",
- "action_item_share": "Sdílte",
+ "action_item_share": "Sdílet",
  "all_artist": "Všichni interpreti",
  "all_music": "Všechny skladby",
  "artist": "Interpreti",
