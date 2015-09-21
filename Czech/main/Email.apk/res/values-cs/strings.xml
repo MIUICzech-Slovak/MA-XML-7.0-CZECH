@@ -977,4 +977,8 @@ Velikost aplikace: %2$s"</string>
   <string name="outbox_alert_description_email_size_error">Dosaženo maximální velikosti zprávy.</string>
   <string name="outbox_alert_description_fail_authentication">Jméno nebo heslo není správné</string>
   <string name="attachment_list_search_hint">Vyhledat v přílohách</string>
+  <string name="contact_in_filter_call_phone_str">Hovor: %s</string>
+  <string name="contact_in_filter_title">Přišlo od něj/ní</string>
+  <string name="compose_attachment_number_limit">Maximálně můžete připojit 10 příloh!</string>
+  <string name="compose_picturesexceedlimits">Maximálně můžete vložit 5 obrázků!</string>
 </resources>

@@ -966,4 +966,36 @@ pro změnu na HD kvalitu."</string>
   <string name="camera_3g_network">Připojení ke kameře přes mobilní data může navýšit vaše poplatky</string>
   <string name="camera_setting_video_alarm_subtitle">Zobrazit ukázku videa spolu s upozorněním</string>
   <string name="camera_setting_video_alarm_title">Povolit video upozornění</string>
+  <string name="exit_app">Stiskněte znovu pro ukončení</string>
+  <string name="action_settings">Nastavení</string>
+  <string name="connect">快连</string>
+  <string name="email">邮件</string>
+  <string name="enter_album">进入相册</string>
+  <string name="get_wifi_scan_result_error">未发现可用WLAN,请检查是否关系相应权限</string>
+  <string name="getcode">获取code</string>
+  <string name="gettoken">获取token</string>
+  <string name="login">Přihlášení</string>
+  <string name="login_password_hint">Heslo</string>
+  <string name="profile">获取个人名片</string>
+  <string name="refresh">Obnovit</string>
+  <string name="refreshing">Načítání...</string>
+  <string name="release_to_refresh">Pusťte pro obnovení</string>
+  <string name="seek_move_tip">移动历史记录至指针位置可以进行智能缩放</string>
+  <string name="seek_zoom_tip">按图示操作可以缩小时间轴</string>
+  <string name="user_tips_add_camera">"点击这里添加摄像机
+体验碉堡的智能摄像机吧"</string>
+  <string name="user_tips_alarm">摄像机的新报警动态都会出现在这里哦</string>
+  <string name="user_tips_album">您使用小蚁拍摄的照片和视频片段会保存在这里哦</string>
+  <string name="user_tips_list">"摄像机在线时，卡片会显示为彩色，离线会显示为黑色。
+点击卡片可以查看您的摄像机画面。"</string>
+  <string name="wifi_rescan_wifi">Obnovit</string>
+  <string name="wifi_save_passwd">Uložit heslo</string>
+  <string name="wifi_setting_choose">Vyberte Wi-Fi síť</string>
+  <string name="wifi_setting_connect">Připojení</string>
+  <string name="wifi_setting_connection_failed">Připojení k Wi-Fi selhalo</string>
+  <string name="wifi_setting_connectting">Připojování k Wi-Fi...</string>
+  <string name="wifi_setting_icon_text">Vyberte Wi-Fi síť</string>
+  <string name="wifi_setting_wifi_opening">Připojování k Wi-Fi...</string>
+  <string name="wifi_setting_wifi_scanning">Kontrola Wi-Fi...</string>
+  <string name="wifi_setting_wifi_title">Připojit přes Wi-Fi</string>
 </resources>
