@@ -646,11 +646,6 @@ Vložte SD kartu a zkuste to znovu."</string>
 Připojte se k Wi-Fi nebo mobilním datům pro stažení nejnovější verze FW."</string>
   <string name="hour">h</string>
   <string name="minute">min</string>
-  <string name="camer_timelaps_off">OFF</string>
-  <string name="camera_timelaps_internal">Interval</string>
-  <string name="camera_timelaps_real_time">take %s</string>
-  <string name="camera_timelaps_times">%sx</string>
-  <string name="camera_timelaps_video_length">Video Length</string>
   <string name="check_camera_status">Detection Camera status</string>
   <string name="collection_nothing">No file</string>
   <string name="cube_ptr_hours_ago"> hours ago</string>
@@ -662,21 +657,15 @@ Připojte se k Wi-Fi nebo mobilním datům pro stažení nejnovější verze FW.
   <string name="cube_ptr_refreshing">Updating...</string>
   <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
   <string name="cube_ptr_seconds_ago"> seconds ago</string>
-  <string name="day">day</string>
   <string name="download_firmware_log">Are you sure to download firmware log?</string>
   <string name="download_firmware_log_failed">Failed to download firmware log file</string>
   <string name="download_firmware_log_successed">Succeeded to download firmware log file</string>
   <string name="dump_firmware_log_failed">Failed to dump firmware log file</string>
   <string name="file_download_failed">[Error code:%d] Failed to download</string>
-  <string name="firmware_btn_update">Refresh</string>
   <string name="firmware_v">Firmware_V</string>
-  <string name="firmware_without_network_tips">"You are recommended to upgrade to latest version for normal use.
- Please turn on cellular data or use Wi-Fi to access the latest version."</string>
-  <string name="hour">hours</string>
   <string name="image_loading">The file is loading, you can not share</string>
   <string name="last_update">Last update:</string>
   <string name="login_failed">Login failed!</string>
-  <string name="minute">minutes</string>
   <string name="no_firmware_log_found">No firmware log file found, please download from the camera first</string>
   <string name="no_network_connection">No network connection now, please share later</string>
   <string name="prompt_video_uploading">Uploading, please wait</string>
