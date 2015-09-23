@@ -124,4 +124,6 @@
   <string name="worldclock_title">Hodiny</string>
   <string name="birthday_alarm">Upozornění na narozeniny</string>
   <string name="birthday_alarm_summary">Přehrát \"Happy Birthday\" namísto výchozího zvonění, když máte narozeniny.</string>
+   <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Dotykem ukončíte vyzvánění</string>
 </resources>

@@ -63,4 +63,8 @@
         <item>1 den</item>
         <item>Maximum</item>
     </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Přijaté</item>
+        <item>Odeslané</item>
+    </string-array>
 </resources>
