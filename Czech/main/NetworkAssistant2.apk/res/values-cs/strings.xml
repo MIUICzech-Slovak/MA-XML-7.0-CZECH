@@ -521,6 +521,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Zkontrolovat dostupné připojení Wi-Fi sítě</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobilní data</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Povolit mobilní data.</string>
   <string name="notify_daily_traffic_saving_title">%s dnes využito</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Omezit využívání dat pro nové apl.</string>

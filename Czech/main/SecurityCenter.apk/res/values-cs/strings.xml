@@ -322,6 +322,7 @@
   <string name="manual_handle_title">Optimalizovat manuálně</string>
   <string name="manual_item_white_list_summary">Spravovat výjimky manuálně</string>
   <string name="manual_item_white_list_title">Výjimky</string>
+  <string name="hints_need_regular_scan">Kontrolovat zařízení pravidelně</string>
   <string name="manual_white_list_header">Výjimky: %d</string>
   <string name="memeory_check_content">Apl.: %1$d, Velikost: %2$s</string>
   <string name="menu_item_about_content">Optimalizace: %s</string>

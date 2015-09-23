@@ -3714,4 +3714,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="quiet_important_interruptions_mode">Povolit jen výjimky</string>
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Běžný režim</string>
+  <string name="preferred_app_settings_reset_button">Obnovit</string>
 </resources>
