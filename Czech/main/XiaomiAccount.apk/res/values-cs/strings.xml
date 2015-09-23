@@ -52,6 +52,8 @@
   <string name="account_user_using_facebook_avatar">Použít obrázek z Facebooku</string>
   <string name="account_user_using_qq_avatar">Použít obrázek z QQ</string>
   <string name="account_user_using_weibo_avatar">Použít obrázek z Weibo</string>
+  <string name="account_vip_level">Účet</string>
+  <string name="account_vip_task">Postup</string>
   <string name="account_xiaomi_service">Služby</string>
   <string name="activate_desc_2_intl_sim_cards">2 mezinárodní SMS budou odeslány pro aktivaci vašich 2 SIM karet</string>
   <string name="activate_desc_2_sim_cards">2 SMS budou odeslány pro aktivaci vašich 2 SIM karet</string>
@@ -212,6 +214,7 @@ Zadejte ověřovací kód v e-mailové zprávě"</string>
   <string name="error_unknown">Neznámá chyba: %1$s</string>
   <string name="error_user_name">Nesprávné uživatelské jméno.</string>
   <string name="error_verify_code">Zadaný kód není správný</string>
+  <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je propojeno s vícero Xiaomi účty. Nelze přidat další účet.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Toto telefonní číslo je již použito pro jiný Xiaomi účet</string>
   <string name="failed_get_mibi_info">Zjištění stavu MiKreditů selhalo</string>
@@ -253,6 +256,7 @@ Zadejte ověřovací kód v e-mailové zprávě"</string>
   <string name="logout_failed">Odhlášení selhalo</string>
   <string name="mi_account_dspt_provision">Přihlaste se do MiCloud, Obchodu s tématy a mnoho dalších služeb Xiaomi s jediným účtem.</string>
   <string name="mi_account_identity_title">Ověřit vaši identitu</string>
+  <string name="mi_pass">MiPass</string>
   <string name="mi_service">Podpora</string>
   <string name="mi_support_service">Podpora</string>
   <string name="mibi_balance">MiKreditů: %s</string>
@@ -329,6 +333,7 @@ S telefonem můžete bez obav pokračovat v práci.</string>
   <string name="other_devices">Ostatní zařízení</string>
   <string name="passport_access_denied">Přístup zamítnut</string>
   <string name="passport_account_hint_text">E-mail nebo telefonní číslo</string>
+  <string name="passport_account_identity_title">Ověřit vaši identitu</string>
   <string name="passport_account_name">Účet: %1$s</string>
   <string name="passport_account_not_activated">Účet nebyl aktivován</string>
   <string name="passport_account_not_actived">Váš účet nebyl aktivován</string>
@@ -342,6 +347,7 @@ S telefonem můžete bez obav pokračovat v práci.</string>
   <string name="passport_button_cancel">Zrušit</string>
   <string name="passport_captcha">Zadejte kód</string>
   <string name="passport_change_account">Změnit účet</string>
+  <string name="passport_change_phone_number">Změnit číslo</string>
   <string name="passport_checking_account">Kontrola hesla...</string>
   <string name="passport_checking_input">Kontrola...</string>
   <string name="passport_choose_which_one_sim">Vyberte telefonní číslo</string>
@@ -352,6 +358,7 @@ odkaz ve zprávě, která byla doručena do vaší e-mailové schránky.
 Zkontrolujte také složku SPAM."</string>
   <string name="passport_completed">Dokončit</string>
   <string name="passport_confirm">OK</string>
+  <string name="passport_confirm_recycle_account">Ano</string>
   <string name="passport_delete_account">Odhlásit se</string>
   <string name="passport_dspt_provision">Přihlaste se do MiCloud, obchodu s tématy a mnoho jiných služeb Xiaomi s jedním účtem.</string>
   <string name="passport_dspt_provision2">Více</string>
@@ -384,10 +391,13 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_failed_to_send_activate_email">Nelze odeslat aktivační e-mail</string>
   <string name="passport_find_password_on_web_msg">Navštivte account.mi.com pro obnovení vašeho hesla.</string>
   <string name="passport_forget_password">Zapomenuté heslo</string>
+  <string name="passport_forget_password_no_underline">Zapomenuté heslo</string>
   <string name="passport_get_back_pwd">Obnovit heslo</string>
   <string name="passport_get_verify_code">Získat kód</string>
   <string name="passport_getting_verify_code">Získávání</string>
+  <string name="passport_identitfication_expired">Platnost ověřovacího kódu skončila</string>
   <string name="passport_input_captcha_hint">Zadejte kód</string>
+  <string name="passport_input_password_for_login">Toto číslo už je spárováno s existujícím účtem, zadejte vaše heslo</string>
   <string name="passport_input_password_hint">Zadejte heslo</string>
   <string name="passport_input_phone_hint">Zadejte telefonní číslo</string>
   <string name="passport_input_vcode_hint">Zadejte ověřovací kód</string>
@@ -399,6 +409,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_login_instead_reg">Použít toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použít tento email</string>
   <string name="passport_login_notice">Přihlašování...</string>
+  <string name="passport_login_short">Přihlásit se</string>
   <string name="passport_login_title">Přihlásit se ke Xiaomi účtu</string>
   <string name="passport_login_with_email_or_id">Přihlásit se e-mailovou adresou nebo Xiaomi ID</string>
   <string name="passport_next">Další</string>
@@ -415,6 +426,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_quick_login_title">Zadejte vaše heslo</string>
   <string name="passport_re_get_verify_code">Získat kód znovu</string>
   <string name="passport_re_register">Přihlásit se znovu</string>
+  <string name="passport_recycle_account_prompt">Je toto váš Xiaomi účet?</string>
   <string name="passport_reg_failed">Nelze vytvořit účet</string>
   <string name="passport_reg_new">Vytvořit Xiaomi účet</string>
   <string name="passport_reg_sms_send_prompt">Odeslat ověřovací kód na %s</string>
@@ -432,11 +444,22 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_register_account_goto_email">Otevřít e-mail</string>
   <string name="passport_register_account_verified_confirm">Účet je ověřen</string>
   <string name="passport_register_by_email">Vytvořit účet pomocí e-mailu</string>
+  <string name="passport_register_restricted">S tímto číslem je spárováno vícero účtů, zadejte jiné tel. číslo</string>
+  <string name="passport_register_restricted_title">Toto tel. číslo nelze použít</string>
+  <string name="passport_reject_recycle_account">Ne</string>
   <string name="passport_relogin">Znovu přihlásit</string>
   <string name="passport_relogin_notice">Je nutné se přihlásit znovu</string>
   <string name="passport_remove_confirm">Odhlásit se</string>
   <string name="passport_remove_unactivated_account_notice">Váš účet nebyl aktivován.</string>
   <string name="passport_resend_active_email">Znovu odeslat</string>
+  <string name="passport_reset_fail_title">Nelze obnovit</string>
+  <string name="passport_reset_password_prompt">Heslo není správné</string>
+  <string name="passport_reset_password_title">Obnovit heslo</string>
+  <string name="passport_restart">Zkusit znovu</string>
+  <string name="passport_restart_register_prompt">Pro vytvoření vašeho účtu může být vyžadována nová ověřovací zpráva.</string>
+  <string name="passport_restart_register_title">Vytvořit Xiaomi účet</string>
+  <string name="passport_send_too_many_code">Bylo zasláno příliš mnoho ověřovacích kódů na toto číslo. Musíte počkat 24 hodin a zkusit to znovu.</string>
+  <string name="passport_setting">Nastavování...</string>
   <string name="passport_sim_index_info">SIM karta %1$d - %2$s</string>
   <string name="passport_skip_login">Přeskočit</string>
   <string name="passport_skip_register">Přeskočit</string>
@@ -454,8 +477,10 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_vcode_prompt_long">Zadejte váš ověřovací kód</string>
   <string name="passport_verification_failed">Chyba přihlášení</string>
   <string name="passport_verify">Ověřit</string>
+  <string name="passport_wait_for_sms_prompt">Začít znovu? Doručení ověřovací zprávy může trvat kolem 10 min.</string>
   <string name="passport_welcome_skip_login">Přeskočit</string>
   <string name="passport_wrong_captcha">Zadaný kód není správný</string>
+  <string name="passport_wrong_password">Heslo není správné</string>
   <string name="passport_wrong_phone_number_format">Formát telefonního čísla není správný</string>
   <string name="passport_wrong_vcode">Zadaný kód není správný</string>
   <string name="passport_xiaomi_account_dspt">Přihlaste se do MiCloud, obchodu s tématy a mnoho jiných služeb Xiaomi jedním účtem.</string>
@@ -569,29 +594,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
-  <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je propojeno s vícero Xiaomi účty. Nelze přidat další účet.</string>
-  <string name="account_vip_level">Účet</string>
-  <string name="account_vip_task">Postup</string>
-  <string name="mi_pass">MiPass</string>
-  <string name="passport_account_identity_title">Ověřit vaši identitu</string>
-  <string name="passport_send_too_many_code">Bylo zasláno příliš mnoho ověřovacích kódů na toto číslo. Musíte počkat 24 hodin a zkusit to znovu.</string>
-  <string name="passport_change_phone_number">Změnit číslo</string>
-  <string name="passport_confirm_recycle_account">Ano</string>
-  <string name="passport_identitfication_expired">Platnost ověřovacího kódu skončila</string>
-  <string name="passport_input_password_for_login">Toto číslo už je spárováno s existujícím účtem, zadejte vaše heslo</string>
-  <string name="passport_recycle_account_prompt">Je toto váš Xiaomi účet?</string>
-  <string name="passport_register_restricted">S tímto číslem je spárováno vícero účtů, zadejte jiné tel. číslo</string>
-  <string name="passport_register_restricted_title">Toto tel. číslo nelze použít</string>
-  <string name="passport_reject_recycle_account">Ne</string>
-  <string name="passport_reset_fail_title">Nelze obnovit</string>
-  <string name="passport_reset_password_prompt">Heslo není správné</string>
-  <string name="passport_reset_password_title">Obnovit heslo</string>
-  <string name="passport_restart">Zkusit znovu</string>
-  <string name="passport_restart_register_prompt">Pro vytvoření vašeho účtu může být vyžadována nová ověřovací zpráva.</string>
-  <string name="passport_restart_register_title">Vytvořit Xiaomi účet</string>
-  <string name="passport_setting">Nastavování...</string>
-  <string name="passport_wait_for_sms_prompt">Začít znovu? Doručení ověřovací zprávy může trvat kolem 10 min.</string>
-  <string name="passport_wrong_password">Heslo není správné</string>
-  <string name="passport_forget_password_no_underline">Zapomenuté heslo</string>
-  <string name="passport_login_short">Přihlásit se</string>
 </resources>

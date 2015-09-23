@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activity_not_found_uri">Nenalezen program pro tuto akci</string>
   <string name="add_attachment">Příloha</string>
   <string name="add_contact">Přidat kontakt</string>
   <string name="add_festival">Doporučené</string>
   <string name="add_nickname">Přezdívka</string>
+  <string name="add_picture">Přidat fotografii</string>
   <string name="add_smiley">Přidat smajlík</string>
   <string name="add_timing">Časovač</string>
   <string name="already_followed">Tuto osobu už sledujete</string>
-  <string name="add_picture">Přidat fotografii</string>
   <string name="attach_slideshow">Prezentace</string>
   <string name="attach_sound">Zvuk</string>
   <string name="attach_subject">Předmět</string>
@@ -21,6 +22,7 @@
   <string name="bookmark_empty">Žádné oblíbené zprávy</string>
   <string name="bookmark_list_title">Oblíbené</string>
   <string name="cannot_send_message">Zprávu nelze odeslat</string>
+  <string name="check_network">Nastavení sítě</string>
   <string name="compressing">Fotografie je příliš velká. Probíhá komprese...</string>
   <string name="confirm_delete_all_conversations">Všechny konverzace budou smazány</string>
   <string name="confirm_delete_conversation">Celá konverzace bude smazána</string>
@@ -48,6 +50,7 @@
   <string name="copy_to_sdcard">Uložit přílohu</string>
   <string name="copy_to_sdcard_fail">Uložit přílohu</string>
   <string name="copy_to_sdcard_success">Příloha byla uložena</string>
+  <string name="current_service_number">Nastaveno číslo služby</string>
   <string name="delete">Smazat</string>
   <string name="delete_message">Smazat</string>
   <string name="delete_unlocked">Smazat i zamknuté</string>
@@ -56,6 +59,7 @@
   <string name="done">Hotovo</string>
   <string name="edit">Upravit</string>
   <string name="edit_phrase">Upravit fráze</string>
+  <string name="empty_mipub_list">Prázdné</string>
   <string name="enable_password_protect">Povolit ochranu heslem</string>
   <string name="enable_visible_pattern_title">Zobrazit vzor</string>
   <string name="english_subject_limit">max 40 znaků</string>
@@ -76,6 +80,7 @@
   <string name="file_width_height">Velikost:</string>
   <string name="follow_finished">Sledování čísla</string>
   <string name="follow_forbidden">Toto číslo nelze sledovat</string>
+  <string name="followed_accounts">Sledované účty</string>
   <string name="hms_add_image_progress_message">Spracovávání...</string>
   <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmí být prázdný</string>
   <string name="invalid_conversation">Chybná konverzace</string>
@@ -88,6 +93,7 @@
   <string name="menu_lock">Zamknout</string>
   <string name="menu_mark">Označit</string>
   <string name="menu_more">Více</string>
+  <string name="menu_more_service">Více</string>
   <string name="menu_new_contact">Nový kontakt</string>
   <string name="menu_unlock">Odemknout</string>
   <string name="menu_yellowpage">Zobrazit %s</string>
@@ -96,6 +102,9 @@
   <string name="message_readed">Přečteno</string>
   <string name="message_saved_as_draft">Zpráva byla uložena jako koncept</string>
   <string name="migrate_db_loading">Načítání...</string>
+  <string name="mipub_message_block">Blokovat zprávy z %s</string>
+  <string name="mipub_message_block_already">Již je blokováno</string>
+  <string name="mipub_message_receive">Odblokovat %s</string>
   <string name="msglist_continue_to_pull_for_more">Potáhněte dolů pro další</string>
   <string name="msglist_more_refreshing">Obnovování...</string>
   <string name="msglist_no_more_to_refresh">Aktualizováno</string>
@@ -208,6 +217,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="to_label">"Komu "</string>
   <string name="to_send_wrapper">Bude odesláno %s hod.</string>
   <string name="too_many_unsent_mms">Nelze odeslat zprávu hned. Existuje příliš mnoho neodeslaných MMS zpráv.</string>
+  <string name="try_again">Znovu</string>
   <string name="type_attachment">příloha</string>
   <string name="type_audio">zvuk</string>
   <string name="type_picture">obrázek</string>
@@ -224,14 +234,5 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
-  <string name="check_network">Nastavení sítě</string>
-  <string name="current_service_number">Nastaveno číslo služby</string>
-  <string name="empty_mipub_list">Prázdné</string>
-  <string name="followed_accounts">Sledované účty</string>
-  <string name="menu_more_service">Více</string>
-  <string name="mipub_message_block">Blokovat zprávy z %s</string>
-  <string name="mipub_message_block_already">Již je blokováno</string>
-  <string name="mipub_message_receive">Odblokovat %s</string>
-  <string name="try_again">Znovu</string>
   <string name="yes">OK</string>
 </resources>

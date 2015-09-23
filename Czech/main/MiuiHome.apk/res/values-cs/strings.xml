@@ -2,7 +2,9 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activity_not_found">Aplikace není v telefonu nainstalovaná.</string>
+  <string name="app_already_exist">Aplikace již existuje</string>
   <string name="app_being_backup_message">Aplikace je zálohována</string>
+  <string name="app_being_restored_message">Apl. bude obnovena</string>
   <string name="app_category_books">Knihy</string>
   <string name="app_category_education">Vzdělávání</string>
   <string name="app_category_entertainment">Zábava</string>
@@ -39,6 +41,10 @@
   <string name="cant_remove_folder">Není možné vymazat složky, které nejsou prázdné</string>
   <string name="cant_remove_retained_app">Není možné vymazat aplikace přizpůsobené Vaším operátorem</string>
   <string name="cant_remove_system_app">Systémové aplikace není možné odinstalovat</string>
+  <string name="children_folder_title">Rodičovská kontrola</string>
+  <string name="children_mode_exit">Ukončit</string>
+  <string name="children_mode_tips">Vraťte se do nastavení pro správu dostupných aplikací.</string>
+  <string name="choose_theme">Téma</string>
   <string name="choose_wallpaper">Vyberte tapetu</string>
   <string name="chooser_wallpaper">Vybrat tapetu z</string>
   <string name="cloud_app_restore_title">V pořadí</string>
@@ -52,9 +58,11 @@
   <string name="default_folder_title_security">Bezpečnost</string>
   <string name="default_folder_title_tools">Nástroje</string>
   <string name="default_name">Výchozí</string>
+  <string name="default_theme_name">Výchozí</string>
   <string name="delete">Vymazat</string>
   <string name="delete_wallpaper_message">Vymazat tapetu (%1$d)?</string>
   <string name="delete_wallpapers_message">Vymazat tapety (%1$d)?</string>
+  <string name="deselect_all">Odznačit vše</string>
   <string name="disable">Zakázat</string>
   <string name="disable_auto_start_format">%s</string>
   <string name="disable_auto_start_message">Zakázat autom. spouštění</string>
@@ -108,6 +116,7 @@
   <string name="gadget_photo_24_label">Fotorámeček 2x4</string>
   <string name="gadget_photo_44_label">Fotorámeček 4x4</string>
   <string name="gadget_photo_label">Obrázek</string>
+  <string name="gadget_power_clear_button_label">Super Čistič</string>
   <string name="gadget_search_label">Vyhledat</string>
   <string name="gadget_weather_app_not_installed">Prosím nainstalujte Weather BZ</string>
   <string name="gadget_weather_aqi_title">Kvalita ovzduší</string>
@@ -189,12 +198,18 @@
   <string name="preferences_general_title">Základní nastavení</string>
   <string name="preferences_title">Nastavení MIUI launcheru</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Prázdné</string>
+  <string name="recommend_apps_notice">Doporučené apl.</string>
+  <string name="recommend_apps_switch_summary">Zobrazit doporučené aplikace v dolní části displeje.</string>
+  <string name="recommend_apps_switch_title">Doporučené apl.</string>
+  <string name="recommend_apps_tips">Tato funkce vyžaduje internetové připojení pro její správnou funkčnost. Pro zakázání funkce se dotkněte názvu této složky.</string>
   <string name="reset_scene_prompt">Scéna bude obnovena do výchozího stavu</string>
   <string name="resource_select">Zvolit</string>
   <string name="screen_button_disabled_message">Tlačítka pod displejem jsou deaktivována. Můžete je aktivovat stiskem \"Domů\" a \"Zapnutí\"</string>
   <string name="screen_button_enabled_message">Tlačítka pod displejem jsou aktivována</string>
   <string name="screen_rotation_freeze_message">Rotace obrazovky je uzamknuta v horizontální poloze</string>
   <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikací</string>
+  <string name="select_all">Vše</string>
   <string name="select_frame">Rámeček</string>
   <string name="select_photo">Fotka</string>
   <string name="setting_wallpaper_tip">Posuňte nebo zvětšete</string>
@@ -268,31 +283,16 @@
   <string name="unknown_artist_name">Neznámý interpret</string>
   <string name="unnamed_folder_name">Bez názvu</string>
   <string name="wallpaper">Tapeta</string>
+  <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
   <string name="wallpaper_failed_message">Nelze nastavit tapetu</string>
+  <string name="wallpaper_scaling_message">Nastavení pevné velikosti</string>
   <string name="wallpaper_scrolling">Vše</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
+  <string name="wallpaper_settings_for_pad">Tapeta</string>
   <string name="wallpaper_success_message">Tapeta nastavena</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Oblíbené</string>
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
-  <string name="app_being_restored_message">Apl. bude obnovena</string>
-  <string name="deselect_all">Odznačit vše</string>
-  <string name="select_all">Vše</string>
-  <string name="app_already_exist">Aplikace již existuje</string>
-  <string name="gadget_power_clear_button_label">Super Čistič</string>
-  <string name="recommend_apps_default_title">Prázdné</string>
-  <string name="recommend_apps_notice">Doporučené apl.</string>
-  <string name="recommend_apps_switch_summary">Zobrazit doporučené aplikace v dolní části displeje.</string>
-  <string name="recommend_apps_switch_title">Doporučené apl.</string>
-  <string name="recommend_apps_tips">Tato funkce vyžaduje internetové připojení pro její správnou funkčnost. Pro zakázání funkce se dotkněte názvu této složky.</string>
-  <string name="choose_theme">Téma</string>
-  <string name="default_theme_name">Výchozí</string>
-  <string name="wallpaper_settings_for_pad">Tapeta</string>
-  <string name="children_folder_title">Rodičovská kontrola</string>
-  <string name="children_mode_exit">Ukončit</string>
-  <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
-  <string name="children_mode_tips">Vraťte se do nastavení pro správu dostupných aplikací.</string>
-  <string name="wallpaper_scaling_message">Nastavení pevné velikosti</string>
 </resources>

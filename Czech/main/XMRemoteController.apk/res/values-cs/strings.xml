@@ -214,8 +214,8 @@
   <string name="match_ac_intro_power">Key launch air conditioner</string>
   <string name="match_ac_name_mode">Chladit</string>
   <string name="match_ac_name_power">Vypnout</string>
-  <string name="match_count_frame">Párovat %1$d/%2$d ovládání</string>
   <string name="match_brand_selection_des">Běžné značky: %1$s</string>
+  <string name="match_count_frame">Párovat %1$d/%2$d ovládání</string>
   <string name="match_data">Kontrola dat</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Pause to launch DVD</string>
@@ -224,18 +224,18 @@
   <string name="match_dvd_name_pause">Pauza</string>
   <string name="match_dvd_name_play">Přehrát</string>
   <string name="match_dvd_name_stop">Zastavit</string>
+  <string name="match_fail_frame">Párování %1$d selhalo</string>
+  <string name="match_fail_model_hint">Zadejte model dálkového ovládání</string>
   <string name="match_fan_intro_open">Pusťte po spuštění ventilátoru</string>
   <string name="match_fan_name_open">Zapnout</string>
   <string name="match_guide_main_frame">Zaměřte ovládání na %1$s</string>
   <string name="match_guide_sub_frame">Párované %1$d tlačítko</string>
   <string name="match_intro_power">Pusťte po spuštění zařízení</string>
-  <string name="match_fail_frame">Párování %1$d selhalo</string>
-  <string name="match_fail_model_hint">Zadejte model dálkového ovládání</string>
   <string name="match_is_respond">Reaguje zařízení?</string>
-  <string name="match_name_power">Zapnout</string>
   <string name="match_mibox_first">    Vyhledat MiBox</string>
   <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
   <string name="match_mibox_third">    · Pair other Mi devices automatically</string>
+  <string name="match_name_power">Zapnout</string>
   <string name="match_stb_intro_left">Left-top boxes transmit direction</string>
   <string name="match_stb_intro_ok">Launch set-top box to determine the key</string>
   <string name="match_stb_intro_up">Launch set-top boxes direction keys</string>
@@ -255,6 +255,7 @@
   <string name="maybe_is">Ujistěte se: </string>
   <string name="menu">Menu</string>
   <string name="menu_settings">Nastavení</string>
+  <string name="mi_brand">Xiaomi</string>
   <string name="mi_rc">Xiaomi ovládání</string>
   <string name="mibox">MiBox</string>
   <string name="milink_nowifi">Wi-Fi není připojena</string>
@@ -564,5 +565,4 @@ Zkontrolujte i SPAM."</string>
   <string name="virtual_keyhboard_intro">Použít virtuální klávesnici telefonu</string>
   <string name="volume">﻿Hlasitost</string>
   <string name="yes">Ano</string>
-  <string name="mi_brand">Xiaomi</string>
-</resources>      
+</resources>

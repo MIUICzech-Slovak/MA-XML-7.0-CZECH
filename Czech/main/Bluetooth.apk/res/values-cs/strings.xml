@@ -122,6 +122,8 @@
   <string name="notification_sent">Sdílení Bluetooth: Soubor %1$s byl odeslán</string>
   <string name="notification_sent_complete">Dokončeno 100%</string>
   <string name="notification_sent_fail">Sdílení Bluetooth: Soubor %1$s nebyl odeslán</string>
+  <string name="notify_device_lose_connection_text">Dotykem odpojíte %1$s</string>
+  <string name="notify_device_lose_connection_title">Zařízení %1$s není připojeno</string>
   <string name="notify_server">Upozornit server TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Odchozí přenosy</string>
@@ -180,6 +182,10 @@
   <string name="transfer_menu_clear">Vymazat ze seznamu</string>
   <string name="transfer_menu_clear_all">Vymazat seznam</string>
   <string name="transfer_menu_open">Otevřít</string>
+  <string name="unbind_device_alert_cancel">Zrušit</string>
+  <string name="unbind_device_alert_content">Bluetooth zařízení %1$s není připojeno. Jeho odpojení může zvýšit výkon vašeho zařízení. Chcete ho odpojit?</string>
+  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_title">Odpojit zařízení</string>
   <string name="unknownName">Neznámý název</string>
   <string name="unknownNumber">Neznámé</string>
   <string name="unknown_device">Neznámé zařízení</string>
@@ -198,10 +204,4 @@
   <string name="upload_succ_line5">Soubor byl odeslán</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odeslání dokončeno.</string>
-  <string name="unbind_device_alert_cancel">Zrušit</string>
-  <string name="unbind_device_alert_content">Bluetooth zařízení %1$s není připojeno. Jeho odpojení může zvýšit výkon vašeho zařízení. Chcete ho odpojit?</string>
-  <string name="unbind_device_alert_ok">OK</string>
-  <string name="unbind_device_alert_title">Odpojit zařízení</string>
-  <string name="notify_device_lose_connection_text">Dotykem odpojíte %1$s</string>
-  <string name="notify_device_lose_connection_title">Zařízení %1$s není připojeno</string>
 </resources>

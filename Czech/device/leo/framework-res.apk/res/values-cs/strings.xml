@@ -458,6 +458,8 @@ Zkuste to znovu za %d s."</string>
   <string name="launch_warning_title">Přesměrování aplikace</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Načítání...</string>
+  <string name="location_usage_restricted_body">Povolit</string>
+  <string name="location_usage_restricted_title">Poloha na pozadí zakázána</string>
   <string name="lock_to_app_description">"Připnutím obrazovky uzamknete displej v jednom zobrazení.
 
 Chcete-li obrazovku uvolnit, klepněte současně na možnosti Zpět a Přehled a podržte je."</string>
@@ -829,6 +831,7 @@ Zkuste to znovu za %d s."</string>
   <string name="permdesc_manageCaCertificates">Umožňuje aplikaci instalovat a odinstalovat certifikáty CA jako důvěryhodné identifikační údaje.</string>
   <string name="permdesc_manageDeviceAdmins">Opravňuje držitele přidávat nebo odebírat aktivní správce zařízení. Běžné aplikace by toto oprávnění neměly nikdy požadovat.</string>
   <string name="permdesc_manageDocs">Umožňuje aplikaci spravovat úložiště dokumentů.</string>
+  <string name="permdesc_manageLocationPolicy">Povolit aplikacím spravovat vaši polohu a nastavit pravidla pro jednotlivé apl.</string>
   <string name="permdesc_manageMediaProjection">Umožňuje aplikaci spravovat relace promítání médií. Tyto relace mohou aplikacím umožnit zaznamenávat obsah obrazu a zvuku. Běžné aplikace by toto oprávnění neměly nikdy potřebovat.</string>
   <string name="permdesc_manageNetworkPolicy">Umožňuje aplikaci spravovat zásady sítě a definovat pravidla pro konkrétní aplikace.</string>
   <string name="permdesc_manageUsb">Umožňuje aplikaci spravovat nastavení a oprávnění pro zařízení USB.</string>
@@ -1141,6 +1144,7 @@ pro účet %s."</string>
   <string name="permlab_manageCaCertificates">správa důvěryhodných identifikačních údajů</string>
   <string name="permlab_manageDeviceAdmins">přidat nebo odebrat správce zařízení</string>
   <string name="permlab_manageDocs">spravovat úložiště dokumentů</string>
+  <string name="permlab_manageLocationPolicy">Spravovat podmínky polohy</string>
   <string name="permlab_manageMediaProjection">Správa relací promítání médií</string>
   <string name="permlab_manageNetworkPolicy">spravovat zásady sítě</string>
   <string name="permlab_manageUsb">spravovat nastavení a oprávnění pro zařízení USB</string>
@@ -1599,8 +1603,4 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
-  <string name="location_usage_restricted_body">Povolit</string>
-  <string name="location_usage_restricted_title">Poloha na pozadí zakázána</string>
-  <string name="permdesc_manageLocationPolicy">Povolit aplikacím spravovat vaši polohu a nastavit pravidla pro jednotlivé apl.</string>
-  <string name="permlab_manageLocationPolicy">Spravovat podmínky polohy</string>
 </resources>

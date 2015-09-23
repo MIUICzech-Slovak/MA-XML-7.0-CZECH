@@ -37,6 +37,8 @@
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
   <string name="camera_settings_label">Fotoaparát</string>
+  <string name="camera_snap_mode_title">Rychlé pořízení fotografie</string>
+  <string name="camera_snap_mode_title_detail">Zobrazit podrobnosti</string>
   <string name="can_not_play_video">Pro přehrávání videa odblokujte obrazovku</string>
   <string name="cancel">Zrušit</string>
   <string name="cannot_connect_camera_once">"Není možné připojit kameru, ukončete aplikaci"</string>
@@ -52,6 +54,9 @@
   <string name="confirm_location_message">Fotoaparát umí ukládat Vaši polohu
 ve fotografii. Chcete polohu ukládat?</string>
   <string name="confirm_location_title">Ukládání polohy</string>
+  <string name="confirm_recording_fail_calling_alert">Během hovoru nelze nahrávat video.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Jiná aplikace využívá mikrofon. Ukončete ji a zkuste to znovu.</string>
+  <string name="confirm_recording_fail_title">Chyba nahrávání</string>
   <string name="confirm_restore_message">Chcete obnovit tovární nastavení?</string>
   <string name="confirm_restore_title">Obnovit tovární nastavení</string>
   <string name="connect_wifi">Připojit k této Wi-Fi</string>
@@ -254,6 +259,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvukem</string>
+  <string name="pref_camera_delay_capture_entry_off">Vyp</string>
   <string name="pref_camera_delay_capture_title">Časovač</string>
   <string name="pref_camera_denoise_title">Redukce šumu</string>
   <string name="pref_camera_exposuretime_entry_0.5">2 sek.</string>
@@ -277,6 +283,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_facedetection_entry_off">Vypnuta</string>
   <string name="pref_camera_facedetection_entry_on">Zapnuta</string>
   <string name="pref_camera_facedetection_title">Detekce tváře</string>
+  <string name="pref_camera_fisheye_title">Rybí oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Vypnutý</string>
   <string name="pref_camera_flashmode_entry_on">Zapnutý</string>
@@ -412,9 +419,12 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Vypnout</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Zapnout</string>
   <string name="pref_camera_skinToneEnhancement_title">Vylepšení tónu pleti</string>
+  <string name="pref_camera_snap_enable_summary">Při vypnutém displeji stiskněte a podržte tlačítko hlasitosti dolů. Spustí se režim rychlého pořízení fotografie. Pro pořízení fotografie stiskněte tlačítko ještě jednou.</string>
+  <string name="pref_camera_snap_enable_title">Rychlé pořízení fotografie</string>
   <string name="pref_camera_sound_entry_off">Vypnutý</string>
   <string name="pref_camera_sound_entry_on">Zapnutý</string>
   <string name="pref_camera_sound_title">Zvuk kamery</string>
+  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Vypnuto</string>
   <string name="pref_camera_touchafaec_entry_on">Zapnuto</string>
   <string name="pref_camera_touchafaec_title">Ostření dotykem</string>
@@ -540,6 +550,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="simple_mode_button_text_delay_capture">Ukončit časovač</string>
   <string name="simple_mode_button_text_face_beauty">Ukončit</string>
   <string name="simple_mode_button_text_fast_video">Ukončit</string>
+  <string name="simple_mode_button_text_fisheye">Ukončit</string>
   <string name="simple_mode_button_text_gradienter">Ukončit</string>
   <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
   <string name="simple_mode_button_text_hdr">Ukončit HDR</string>
@@ -549,6 +560,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="simple_mode_button_text_panorama">Ukončit</string>
   <string name="simple_mode_button_text_scene">Ukončit režim scény</string>
   <string name="simple_mode_button_text_slow_video">Ukončit</string>
+  <string name="simple_mode_button_text_tilt_shift">Ukončit</string>
   <string name="simple_mode_button_text_ubi_focus">Ukončit</string>
   <string name="simple_mode_button_text_ubifocus">Ukončit</string>
   <string name="simple_mode_title">Základní režim</string>
@@ -604,16 +616,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="confirm_recording_fail_calling_alert">Během hovoru nelze nahrávat video.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Jiná aplikace využívá mikrofon. Ukončete ji a zkuste to znovu.</string>
-  <string name="confirm_recording_fail_title">Chyba nahrávání</string>
-  <string name="pref_camera_delay_capture_entry_off">Vyp</string>
-  <string name="camera_snap_mode_title">Rychlé pořízení fotografie</string>
-  <string name="camera_snap_mode_title_detail">Zobrazit podrobnosti</string>
-  <string name="pref_camera_snap_enable_summary">Při vypnutém displeji stiskněte a podržte tlačítko hlasitosti dolů. Spustí se režim rychlého pořízení fotografie. Pro pořízení fotografie stiskněte tlačítko ještě jednou.</string>
-  <string name="pref_camera_snap_enable_title">Rychlé pořízení fotografie</string>
-  <string name="pref_camera_fisheye_title">Rybí oko</string>
-  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-  <string name="simple_mode_button_text_fisheye">Ukončit</string>
-  <string name="simple_mode_button_text_tilt_shift">Ukončit</string>
 </resources>

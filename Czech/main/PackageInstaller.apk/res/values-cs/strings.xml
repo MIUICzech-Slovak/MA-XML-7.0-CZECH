@@ -11,6 +11,10 @@ Povolit nyní i v budoucnu?"</string>
   <string name="app_name">Nástroj k instalaci balíčků</string>
   <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
   <string name="app_not_found_dlg_title">Aplikace nebyla nalezena</string>
+  <string name="app_store_install_hint">Instalovat</string>
+  <string name="app_store_installing_message">Instalace Xiaomi AppStore</string>
+  <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
+  <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
   <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
   <string name="button_text_cancel">Zrušit</string>
   <string name="button_text_delete">Vymazat</string>
@@ -79,6 +83,7 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="permission_group_title_settings_related">Nastavení</string>
   <string name="permission_send_sms_descx">Aplikace může odeslat SMS a MMS</string>
   <string name="privacy_relative">Práva k soukromým údajům</string>
+  <string name="reboot_time">Zařízení bude restartováno...(%1$s)</string>
   <string name="safe_guard_support">Technická podpora %1$s</string>
   <string name="safe_relative">Možné riziko</string>
   <string name="security_settings_desc">Povolit této aplikaci:</string>
@@ -105,9 +110,4 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_install">" "Pokračovat" "</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
-  <string name="app_store_install_hint">Instalovat</string>
-  <string name="app_store_installing_message">Instalace Xiaomi AppStore</string>
-  <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
-  <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
-  <string name="reboot_time">Zařízení bude restartováno...(%1$s)</string>
 </resources>

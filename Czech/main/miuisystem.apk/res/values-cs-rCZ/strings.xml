@@ -26,6 +26,9 @@
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
   <string name="clear_and_bright"/>
+  <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
+  <string name="cloud_state_finished">Synchr. s MiCloud</string>
+  <string name="cloud_state_syncing">Synchr. s MiCloud</string>
   <string name="cold_dews"/>
   <string name="copy">Kopírovat</string>
   <string name="cut">Vyjmout</string>
@@ -193,7 +196,4 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
-  <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
-  <string name="cloud_state_finished">Synchr. s MiCloud</string>
-  <string name="cloud_state_syncing">Synchr. s MiCloud</string>
 </resources>

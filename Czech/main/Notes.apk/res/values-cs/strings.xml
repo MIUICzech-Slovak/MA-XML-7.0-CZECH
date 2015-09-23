@@ -6,12 +6,15 @@
   <string name="alert_action_edit_anyway">Pokračovat</string>
   <string name="alert_edit_action_delete">Odstranit</string>
   <string name="alert_edit_action_update">Aktualizovat</string>
+  <string name="alert_message_delete">Vymazat %1$s?</string>
   <string name="alert_message_delete_folders">Vymazat (%1$s)?</string>
   <string name="alert_message_delete_folders_notes">Vymazat složky (%1$s) a poznámky (%2$s)?</string>
   <string name="alert_message_delete_note">Vymazat tuto poznámku?</string>
   <string name="alert_message_delete_notes">Vymazat (%1$s)?</string>
   <string name="alert_message_edit_anyway">Pokud upravíte tuto poznámku, některý její obsah se může ztratit.</string>
+  <string name="alert_title_delete">Vymazat poznámku</string>
   <string name="alert_title_edit_anyway">Tato poznámka obsahuje nepodporovaný obsah</string>
+  <string name="all_terms">%1$s a %2$s</string>
   <string name="app_name">Poznámky</string>
   <string name="app_widget">Poznámky</string>
   <string name="attachment_camera">Fotoaparát</string>
@@ -21,6 +24,7 @@
   <string name="call_record_folder_name">Seznam volání</string>
   <string name="default_folder_name">Poznámky</string>
   <string name="dlg_desc_confirm_alarm_silent">Budíky a upozornění nebudou zvonit v tichém režimu, pokud je tato volba vypnuta.</string>
+  <string name="dlg_info_creating_message">Vytváření zprávy...</string>
   <string name="dlg_title_confirm_alarm_silent">Chcete ztišit budík v tichém režimu?</string>
   <string name="enable_sync">Synchr.</string>
   <string name="enable_sync_desc">Poznámky se mohou synchronizovat s Vaším Xiaomi účtem %1$s, synchronizovat?</string>
@@ -98,6 +102,7 @@
   <string name="sns_title_send">Odeslat zprávu</string>
   <string name="sns_toast_empty">Nelze odeslat prázdnou zprávu</string>
   <string name="sns_toast_over_limit">Odeslat jako obrázek</string>
+  <string name="sync_tips">Dotykem synchr. poznámky s MiCloud.</string>
   <string name="toast_folder_privacy_mode">V Chráněném režimu nelze upravovat složky</string>
   <string name="toast_message_add_image_fail">Vložení obrázku selhalo!</string>
   <string name="toast_message_add_text_warn">Tento typ souboru není podporován</string>
@@ -116,9 +121,4 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
-  <string name="dlg_info_creating_message">Vytváření zprávy...</string>
-  <string name="sync_tips">Dotykem synchr. poznámky s MiCloud.</string>
-  <string name="all_terms">%1$s a %2$s</string>
-  <string name="alert_title_delete">Vymazat poznámku</string>
-  <string name="alert_message_delete">Vymazat %1$s?</string>
 </resources>

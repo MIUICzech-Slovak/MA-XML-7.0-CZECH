@@ -138,6 +138,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znovu aktivovat MiCloud</string>
   <string name="micloud_check_sim_title">"Zřejmě bola změněna SIM karta. Přihlaste se
 do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
+  <string name="micloud_detail_download_syncing">Stahování %s</string>
   <string name="micloud_detail_fail">Selhalo</string>
   <string name="micloud_detail_lastest">Synchr.</string>
   <string name="micloud_detail_pending">Čeká na synchr.</string>
@@ -145,6 +146,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_detail_preference_wlan">Synchr. na Wi-Fi</string>
   <string name="micloud_detail_success">Synchronizováno</string>
   <string name="micloud_detail_syncing">Synchr...</string>
+  <string name="micloud_detail_upload_syncing">Odesílání %s</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázků kontaktu</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
@@ -265,7 +267,12 @@ Využito %s | Zbývá %s"</string>
 Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="mx_dspt_provision_privacy">"Tato služba vyžaduje vaše telefonní číslo. Bude odeslána mezinárodní SMS pro aktivaci.
 Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Tato funkce vyžaduje vaše telefonní číslo. Váš operátor může zpoplatnit dvě odeslané SMS zprávy pro aktivování této funkce.
+
+Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
+  <string name="mx_dspt_provision_with_voip2">Ochrana soukromí</string>
   <string name="mx_sub_dspt_provision">Cloud zprávy</string>
+  <string name="mx_voip_dspt">MiVoice</string>
   <string name="next">Další</string>
   <string name="noRemind">Nepřipomínat</string>
   <string name="no_sim">Žádná SIM karta</string>
@@ -277,9 +284,11 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
   <string name="phone_number_required_dspt_provision">"Tato služba vyžaduje vaše telefonní číslo. "</string>
   <string name="photo">Fotografií</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Synchronizovat video profil kontaktů pouze na Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
   <string name="pref_title_sync_my_profile_title">Synchr. můj profil</string>
+  <string name="pref_title_sync_video_on_wifi_only">Synchr. video pouze přes Wi-Fi</string>
   <string name="privacy_policy">Podmínky soukromí</string>
   <string name="remind_later">Později</string>
   <string name="restoreSync">Obnovit</string>
@@ -363,13 +372,4 @@ Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "<
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="mx_dspt_provision_privacy_2_sim">"Tato funkce vyžaduje vaše telefonní číslo. Váš operátor může zpoplatnit dvě odeslané SMS zprávy pro aktivování této funkce.
-
-Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
-<string name="mx_dspt_provision_with_voip2">Ochrana soukromí</string>
-  <string name="mx_voip_dspt">MiVoice</string>
-  <string name="micloud_detail_download_syncing">Stahování %s</string>
-  <string name="micloud_detail_upload_syncing">Odesílání %s</string>
-  <string name="pref_summary_sync_video_on_wifi_only">Synchronizovat video profil kontaktů pouze na Wi-Fi</string>
-  <string name="pref_title_sync_video_on_wifi_only">Synchr. video pouze přes Wi-Fi</string>
 </resources>

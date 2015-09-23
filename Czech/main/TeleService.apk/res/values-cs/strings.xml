@@ -477,6 +477,8 @@
   <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
   <string name="incall_error_turn_off_airplane_mode">Vypnout režim Letadlo</string>
   <string name="incall_status_dialed_mmi">Spouštění sekvence MMI...</string>
+  <string name="incoming_video_show_pref_summary">Zobrazit video nastavené volajícím. Pro aktivaci této funkce povolte Karty kontaktů.</string>
+  <string name="incoming_video_show_pref_title">Zobrazit video volajícího</string>
   <string name="international_disable">Mezinárodní zprávy zakázány</string>
   <string name="international_enable">Mezinárodní zprávy povoleny</string>
   <string name="international_roaming_setting">Mezinárodní roaming</string>
@@ -586,6 +588,10 @@
   <string name="mobile_networks">Nastavení mobilní sítě</string>
   <string name="msim_apn_not_set">Nastaveno</string>
   <string name="msim_default_setting">Výchozí nastavení</string>
+  <string name="msim_disable_sim_card_btn_text">OK</string>
+  <string name="msim_disable_sim_card_summary_default_card">Tato karta je momentálně nastavena jako výchozí SIM pro mobilní data. Pokud ji zakážete, nebude možné uskutečnit hovory nebo využívat mobilní data. Tuto SIM kartu můžete zakázat až poté, co jako výchozí zvolíte druhou SIM."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Nebude možné uskutečnit hovory nebo využívat mobilní data. Zakázat používání %s SIM karty?</string>
+  <string name="msim_disable_sim_card_title">Zakázat používání SIM karty</string>
   <string name="msim_enable_sim">Povolit</string>
   <string name="msim_general_setting">Všeobecné nastavení</string>
   <string name="msim_has_been_disabled">(Deaktivováno)</string>
@@ -731,6 +737,7 @@ Může to trvat i 5 min."</string>
   <string name="ota_unsuccessful">"Váš telefon nebyl aktivován. Možná bude nutné vyhledat oblast s lepším pokrytím (blízko okna nebo venku). Zkuste to znovu nebo kontaktujte oddělení zákaznických služeb, kde získáte další informace.</string>
   <string name="other_settings">Další nastavení hovorů</string>
   <string name="other_settings_category">Ostatní</string>
+  <string name="overseas_roaming_setting">Mezinárodní roaming</string>
   <string name="password">Heslo</string>
   <string name="password_changed">Heslo je úspěšně změněno</string>
   <string name="password_title">Heslo</string>
@@ -1157,11 +1164,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">Tato karta je momentálně nastavena jako výchozí SIM pro mobilní data. Pokud ji zakážete, nebude možné uskutečnit hovory nebo využívat mobilní data. Tuto SIM kartu můžete zakázat až poté, co jako výchozí zvolíte druhou SIM."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Nebude možné uskutečnit hovory nebo využívat mobilní data. Zakázat používání %s SIM karty?</string>
-  <string name="msim_disable_sim_card_title">Zakázat používání SIM karty</string>
-  <string name="overseas_roaming_setting">Mezinárodní roaming</string>
-  <string name="incoming_video_show_pref_summary">Zobrazit video nastavené volajícím. Pro aktivaci této funkce povolte Karty kontaktů.</string>
-  <string name="incoming_video_show_pref_title">Zobrazit video volajícího</string>
 </resources>

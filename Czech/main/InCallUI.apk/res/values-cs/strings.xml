@@ -163,16 +163,23 @@
   <string name="description_direction_up">Nahoru pro %s.</string>
   <string name="description_direction_up_left">Vlevo nahoře</string>
   <string name="description_direction_up_right">Vpravo nahoře</string>
+  <string name="description_image_button_answer">Potáhněte nahoru pro přijmutí</string>
+  <string name="description_image_button_dialpad">Číselník</string>
   <string name="description_image_button_eight">osm</string>
   <string name="description_image_button_five">pět</string>
   <string name="description_image_button_four">čtyři</string>
+  <string name="description_image_button_hangup">Konec</string>
+  <string name="description_image_button_message_enter">Potáhněte nahoru pro SMS odpověď</string>
+  <string name="description_image_button_message_exit">Skrýt zprávy</string>
   <string name="description_image_button_nine">devět</string>
   <string name="description_image_button_one">jedna</string>
   <string name="description_image_button_pound">libra</string>
+  <string name="description_image_button_reject">Potáhněte nahoru pro odemknutí</string>
   <string name="description_image_button_seven">sedm</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">hvězdička</string>
   <string name="description_image_button_three">tři</string>
+  <string name="description_image_button_tools">Nastavení</string>
   <string name="description_image_button_two">dvě</string>
   <string name="description_image_button_zero">nula</string>
   <string name="description_target_accept_upgrade_to_video_request">Přijmout žádost o videohovor</string>
@@ -356,6 +363,7 @@
   <string name="messageCFU">Vždy použít toto číslo</string>
   <string name="mhh_disable">Lékařství, zdraví a nemocnice zakázány</string>
   <string name="mhh_enable">Lékařství, zdraví a nemocnice povoleny</string>
+  <string name="miprofile_stranger_card">Stranger card</string>
   <string name="mismatchPin">Vámi zadané PINy se neshodují. Zkuste znovu.</string>
   <string name="mismatchPin2">Vámi zadané PIN2 se neshodují. Zkuste znovu.</string>
   <string name="mobile_networks">Nastavení mobilní sítě</string>
@@ -708,12 +716,4 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
-  <string name="description_image_button_answer">Potáhněte nahoru pro přijmutí</string>
-  <string name="description_image_button_dialpad">Číselník</string>
-  <string name="description_image_button_hangup">Konec</string>
-  <string name="description_image_button_message_enter">Potáhněte nahoru pro SMS odpověď</string>
-  <string name="description_image_button_message_exit">Skrýt zprávy</string>
-  <string name="description_image_button_reject">Potáhněte nahoru pro odemknutí</string>
-  <string name="description_image_button_tools">Nastavení</string>
-  <string name="miprofile_stranger_card">Stranger card</string>
 </resources>

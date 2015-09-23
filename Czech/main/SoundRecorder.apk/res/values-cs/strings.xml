@@ -3,6 +3,7 @@
 <resources>
   <string name="access_error">"Nelze nahrávat v režimu Návštěvník"</string>
   <string name="alert_message_delete_record">Vymazat zvolenou nahrávku?</string>
+  <string name="alert_message_delete_record_title">Vymazat nahrávku</string>
   <string name="app_name">Záznamník</string>
   <string name="back">Zpět</string>
   <string name="button_ok">OK</string>
@@ -83,6 +84,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="record_mark_point">Značky: %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Vyberte nahrávku</string>
+  <string name="record_quliaty_preference_title">Kvalita záznamu</string>
   <string name="record_saving">Ukládání...</string>
   <string name="recording">Nahrávám...</string>
   <string name="recording_stopped">Nahrávání zastaveno</string>
@@ -114,6 +116,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="alert_message_delete_record_title">Vymazat nahrávku</string>
-  <string name="record_quliaty_preference_title">Kvalita záznamu</string>
 </resources>
