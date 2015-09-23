@@ -83,9 +83,6 @@
   <string name="common_google_play_services_update_button">Aktualizovat</string>
   <string name="common_google_play_services_update_text">Ke spuštění této aplikace je třeba aktualizovat služby Google Play.</string>
   <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
-  <string name="common_open_on_phone">Otevřít v telefonu</string>
-  <string name="common_signin_button_text">Přihlásit se</string>
-  <string name="common_signin_button_text_long">Přihlásit se účtem Google</string>
   <string name="commono_google_play_services_api_unavailable_text">Tato aplikace vyžaduje jednu nebo více služeb Google Play, které aktuálně nejsou k dispozici. S žádostí o pomoc se obraťte na vývojáře.</string>
   <string name="confirm">OK</string>
   <string name="connect_camera_first">Nebyly nalezeny informace o verzi FW, připojte kameru.</string>
