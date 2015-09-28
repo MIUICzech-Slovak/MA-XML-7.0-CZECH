@@ -1123,4 +1123,12 @@ a čekejte na jeho načtení"</string>
   <string name="youku_oauth">Authorized by Youku</string>
   <string name="yunyi_km_eye">XiaoYi clairvoyant</string>
   <string name="yunyi_time_photo">XiaoYi TimePhoto</string>
+  <string name="camera_bind">Připojit kameru</string>
+  <string name="camera_bind_failed">Připojení selhalo!</string>
+  <string name="camera_bind_not_found">Kamera nebyla nalezena!</string>
+  <string name="camera_bind_success">Připojeno!</string>
+  <string name="camera_binding">Připojování...</string>
+  <string name="listen_wifi_password_error">Chybné Wi-Fi heslo</string>
+  <string name="camera_setting_weixin_alarm_title">Upozornit na Weibo</string>
+  <string name="camera_setting_weixin_alarm_subtitle">Odeslat video se záznamem na váš Weibo účet</string>
 </resources>
