@@ -311,6 +311,6 @@ Nelze odeslat váš názor názor"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="miui_summary_slogan">"  Yours by design  "</string>
+  <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
   <string name="miui_summary_updating">"  Aktualizace...  "</string>
 </resources>
