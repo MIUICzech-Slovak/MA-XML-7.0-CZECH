@@ -392,7 +392,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="stay_awake_title">Zabránit spánku</string>
   <string name="stop_server">Zastavit FTP</string>
   <string name="storage_info">Dostupné: %1$s</string>
-  <string name="storage_info_detail_stable">Dostupné: %1$s | Celkem: %1$s</string>
+  <string name="storage_info_detail">Dostupné: %1$s | Celkem: %1$s</string>
  <string name="storage_info_detail_stable">Dostupné: %1$s | Celkem: %2$s</string>
   <string name="storage_internal">Interní úložiště</string>
   <string name="storage_sd_card">SD karta</string>

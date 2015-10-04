@@ -228,7 +228,7 @@
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="err_filesystem_mount">Nelze zjistit přístup k úložišti na routeru.</string>
+  <string name="err_filesystem_mount">Nelze zjistit přístup k úložišti routeru.</string>
   <string name="err_router_disconnected">Zkontrolujte připojení routeru a zkuste to znovu.</string>
   <string name="err_router_files_delete">Nelze vymazat soubory na routeru</string>
   <string name="state_mounting">Přístup na úložiště routeru...</string>
