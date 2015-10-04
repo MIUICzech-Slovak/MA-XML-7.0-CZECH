@@ -95,7 +95,7 @@
   <string name="downloading_empty">Žádné</string>
   <string name="downloads_operating">Pracuji...</string>
   <string name="dredge_xunlei_account">Registrovat Xunlei účet</string>
-  <string name="edit_hint">Zadejte URL (http nebo https)</string>
+  <string name="edit_hint">Zadejte URL (http, torrent, eMule)</string>
   <string name="editmode_menu_delete">Vymazat</string>
   <string name="editmode_menu_share">Sdílet</string>
   <string name="experience_xunlei_account_speed">Členové Xunlei stahují vysokou rychlostí</string>
@@ -211,4 +211,28 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="bt_download">Stáhnout</string>
+  <string name="bt_xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="delete">Vymazat</string>
+  <string name="deselect_subfile_all">Odznačit</string>
+  <string name="engine_open">Povolit</string>
+  <string name="extract_file">Rozbalování souboru...</string>
+  <string name="file_exist_hint">Tento soubor už je v pořadí na stažení</string>
+  <string name="hint">Upozornění</string>
+  <string name="new_add_bt">Přidat torrent</string>
+  <string name="no_file_hint">Tento soubor už je v pořadí na stažení</string>
+  <string name="only_support_torrent">Podporovány jsou pouze torrent soubory</string>
+  <string name="open_vip_hint">Tap to increase download speed by up to 50%</string>
+  <string name="play">Přehrát</string>
+  <string name="select_sub_file_download">Vyberte soubor ke stažení</string>
+  <string name="select_subfile_all">Vše</string>
+  <string name="subbt_downloading">Stahování...</string>
+  <string name="subbt_fail">Selhalo</string>
+  <string name="subbt_pause">Pozastaveno</string>
+  <string name="subbt_wait">ˇV pořadí...</string>
+  <string name="task_detail">Úlohy</string>
+  <string name="task_detail_notfound_confirm">OK</string>
+  <string name="torrent_file_error">Tento torrent nelze načíst</string>
+  <string name="torrent_no_subfile">Žádné soubory v torrentu</string>
+  <string name="xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
 </resources>
