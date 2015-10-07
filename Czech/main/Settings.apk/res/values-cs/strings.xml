@@ -2081,7 +2081,7 @@ Zvolte Váš operační systém:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Osvětlení tlačítek</string>
   <string name="pref_button_light_summary">Tlačítka Menu, Domů a Zpět</string>
-  <string name="pref_edge_handgrip">Edge controls</string>
+  <string name="pref_edge_handgrip">Ovládání na hraně</string>
   <string name="pref_operational_key">Senzorová tlačítka</string>
   <string name="pref_volume_wake_summary">Stiskem tlačítka zesílit/ztlumit probudíte zařízení. Určeno pro zařízení s těžko dostupným zapínacím tlačítkem.</string>
   <string name="pref_volume_wake_title">Probudit tlačítkem hlasitosti</string>
