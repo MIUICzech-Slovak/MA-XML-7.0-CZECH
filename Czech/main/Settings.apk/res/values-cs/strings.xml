@@ -3717,4 +3717,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="wifi_click_share_wlan">Sdílet heslo k Wi-Fi</string>
   <string name="wakeup_for_keyguard_notification_title">Rozsvítit displej</string>
+  <string name="sound_vibrate_settings">Zvuky a vibrace</string>
 </resources>
