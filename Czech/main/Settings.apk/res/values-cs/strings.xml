@@ -3718,4 +3718,15 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_click_share_wlan">Sdílet heslo k Wi-Fi</string>
   <string name="wakeup_for_keyguard_notification_title">Rozsvítit displej</string>
   <string name="sound_vibrate_settings">Zvuky a vibrace</string>
+  <string name="edge_mode_back">Zpět</string>
+  <string name="edge_mode_back_summary">Dvojí poklepání na hranu se vrátí o krok zpět</string>
+  <string name="edge_mode_clean">Vyčistit cache</string>
+  <string name="edge_mode_clean_summary">Projděte najednou po obou hranách pro čištění systémové cache</string>
+  <string name="edge_mode_guide_title">Dotkněte se zvýraznění části</string>
+  <string name="edge_mode_notification_summary">Zjistit více.</string>
+  <string name="edge_mode_notification_title">Ovládání na hraně</string>
+  <string name="edge_mode_photo">Zhotovit fotografii</string>
+  <string name="edge_mode_photo_summary">V aplikací Fotoaparát dvojitýcm poklepáním na hranu pořídíte fotografii</string>
+  <string name="edge_mode_screenshot">Screenshot</string>
+  <string name="edge_mode_screenshot_summary">Dvojitým poklepáním na obě hrany zhotovíte screenshot</string>
 </resources>
