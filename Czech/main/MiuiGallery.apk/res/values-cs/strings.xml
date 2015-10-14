@@ -389,7 +389,7 @@ společně!"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletní</string>
   <string name="import_fail">Import neúspěšný</string>
-  <string name="impunity_declaration">Galerie vyžaduje připojení k internetu pro přístup ke cloudovým službám. Chcete pokračovat?</string>
+  <string name="impunity_declaration">Používáním této služby souhlasíte s Xiaomi %1$s a %2$s. Galerie vyžaduje připojení k internetu pro přístup ke cloudovým službám. Chcete pokračovat?</string>
   <string name="impunity_declaration_ignore">Znovu se neptat</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Upozornit na připojení</string>
@@ -820,7 +820,7 @@ společně!"</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="baby_album_new_photo_remind">V albu dítěte jsou nové fotografie.</string>
-  <string name="baby_album_no_share_user_tip">Žádní sledující</string>
+  <string name="baby_album_no_share_user_tip"/>
   <string name="byteShort">B</string>
   <string name="cloud_full_tip_str">Není dostatek volného místa v MiCloud</string>
   <string name="confirm_recommandation_face_is">Opravdu je to %1$s? Tato osoba bude přesunuta do alba \"%2$s\".</string>
@@ -836,7 +836,7 @@ společně!"</string>
   <string name="not_ask_any_more">Znovu se neptat, když stisknete \"%s\"</string>
   <string name="petabyteShort">PB</string>
   <string name="terabyteShort">TB</string>
-  <string name="user_agreement">" Podmínky používání"</string>
-  <string name="user_policy">Ochrana soukromí</string>
+  <string name="user_agreement">" Podmínkami používání"</string>
+  <string name="user_policy">Ochranou soukromí</string>
   <string name="view_baby_info">Upravit informace o dítěti</string>
 </resources>
