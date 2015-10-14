@@ -271,4 +271,6 @@
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
   <string name="task_access_locked_app_msg">Obsah aplikace je ukrytý.</string>
+  <string name="screen_button_notification_title">Tlačítka pod displejem jsou vypnuta</string>
+  <string name="screen_button_notification_text">Zapněte je stisknutím tlačítka Domů a Zapínání.</string>
 </resources>
