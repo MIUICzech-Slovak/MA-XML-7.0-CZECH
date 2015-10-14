@@ -160,9 +160,9 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Odesílání videí a foto.: %1$d</item>
         <item quantity="one">Odesílání videí a foto.: 1</item>
+    </plurals>
     <plurals name="baby_album_share_user_count_tip">
         <item quantity="other">Sleduje: %1$d</item>
         <item quantity="one">Sleduje: %1$d</item>
     </plurals>	
-    </plurals>
 </resources>
