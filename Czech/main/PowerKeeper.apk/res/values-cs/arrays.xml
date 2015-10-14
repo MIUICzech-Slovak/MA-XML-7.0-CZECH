@@ -49,4 +49,8 @@
         <item>Není vybráno</item>
         <item>Ostatní</item>
     </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Vlastní</item>
+        <item>Doporučeno</item>
+    </string-array>
 </resources>

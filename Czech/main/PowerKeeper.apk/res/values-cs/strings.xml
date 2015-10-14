@@ -92,7 +92,7 @@
   <string name="power_event_view_event_title">Pravidla</string>
   <string name="power_hide_mode_alert_message">Vybrané aplikace nebudou mít přístup k Wi-Fi, datovému připojení, GPS a nemusí pracovat správně.</string>
   <string name="power_hide_mode_app_list_summary">Nastavení aplikací</string>
-  <string name="power_hide_mode_app_list_title">Vybrané aplikace</string>
+  <string name="power_hide_mode_app_list_title">Nastavit omezení aplikací</string>
   <string name="power_hide_mode_app_list_total">Aplikace: %d</string>
   <string name="power_hide_mode_summary">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a snížit tak spotřebu baterie</string>
   <string name="power_hide_mode_title">Úspora baterie</string>
@@ -126,14 +126,14 @@
   <string name="config_custom_title">Vlastní</string>
   <string name="config_suggest_description">For applications, use different power saving configurations</string>
   <string name="config_suggest_title">MIUI Doporučeno</string>
-  <string name="keep_connect_description">Applications can use the network in the background</string>
-  <string name="keep_connect_title">Keep Conneted</string>
+  <string name="keep_connect_description">Aplikace může využívat síť i na pozadí</string>
+  <string name="keep_connect_title">Ponechat připojené</string>
   <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
   <string name="location_disable_title">Zakázáno</string>
-  <string name="location_enable_description">Applications can use the location service in the background</string>
+  <string name="location_enable_description">Aplikace může zjistit vaši polohu i na pozadí</string>
   <string name="location_enable_title">Povolit</string>
   <string name="location_mode_title">Poloha na pozadí</string>
   <string name="network_mode_title">Sdílet na pozadí</string>
   <string name="quick_disconnect_description">Application in the background holding a brief network is available, and then prohibit the use of network</string>
-  <string name="quick_disconnect_title">Disconnected Immediately</string>
+  <string name="quick_disconnect_title">Okamžitě odpojit</string>
 </resources>
