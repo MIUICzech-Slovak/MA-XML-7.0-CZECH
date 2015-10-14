@@ -1164,4 +1164,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="error_type_account_inner">Chyba</string>
+  <string name="fdn_full">FDN nebyly aktualizovány, protože seznam je plný.</string>
 </resources>

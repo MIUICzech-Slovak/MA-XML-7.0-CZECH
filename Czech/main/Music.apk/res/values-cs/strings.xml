@@ -475,4 +475,8 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství</string>
+  <string name="repeat_all_notif">Opakují se všechny skladby.</string>
+  <string name="repeat_current_notif">Opakuje se aktuální skladba.</string>
+  <string name="shuffle_off_notif">Náhodné přehrávání je vyp.</string>
+  <string name="shuffle_on_notif">Náhodné přehrávání je zap.</string>
 </resources>

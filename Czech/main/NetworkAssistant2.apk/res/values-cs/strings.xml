@@ -580,4 +580,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="package_change_notification_title">Nastavit limit dat automaticky</string>
   <string name="package_setted_error_notification_summary">Zobrazit podrobnosti o využití dat.</string>
   <string name="package_setted_error_notification_titile">Nelze nastavit limit dat.</string>
+  <string name="traffic_saving_notify_no_apps_saving">Žádné apl. nevyužívají úsporu dat</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilních dat.</string>
 </resources>
