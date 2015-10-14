@@ -50,7 +50,7 @@
         <item>Ostatní</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>Vlastní</item>
-        <item>Doporučeno</item>
+        <item>Vlastní pravidla</item>
+        <item>Doporučená pravidla</item>
     </string-array>
 </resources>

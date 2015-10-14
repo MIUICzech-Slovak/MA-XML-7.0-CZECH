@@ -122,19 +122,19 @@
   <string name="user_define_mode">Název</string>
   <string name="app_frozen_app_list_summary">Nastavení apl.</string>
   <string name="app_list_title">Vyberte apl.</string>
-  <string name="config_custom_description">When you need to be less than expected, use a custom configuration</string>
-  <string name="config_custom_title">Vlastní</string>
-  <string name="config_suggest_description">For applications, use different power saving configurations</string>
-  <string name="config_suggest_title">Doporučeno</string>
+  <string name="config_custom_description">Nastavení vlastních pravidel pro aplikaci</string>
+  <string name="config_custom_title">Vlastní pravidla</string>
+  <string name="config_suggest_description">Použít doporučená pravidla pro úsporu baterie</string>
+  <string name="config_suggest_title">Doporučená pravidla</string>
   <string name="keep_connect_description">Aplikace může využívat síť i na pozadí</string>
   <string name="keep_connect_title">Ponechat připojené</string>
-  <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
+  <string name="location_disable_description">Aplikace nebude mít přístup k vaší poloze na poza</string>
   <string name="location_disable_title">Zakázáno</string>
   <string name="location_enable_description">Aplikace může zjistit vaši polohu i na pozadí</string>
   <string name="location_enable_title">Povolit</string>
   <string name="location_mode_title">Poloha na pozadí</string>
   <string name="network_mode_title">Sdílet na pozadí</string>
-  <string name="quick_disconnect_description">Application in the background holding a brief network is available, and then prohibit the use of network</string>
+  <string name="quick_disconnect_description">Aplikace nebude mít přístup k síti na pozadí</string>
   <string name="quick_disconnect_title">Okamžitě odpojit</string>
-  <string name="config_mode_title">Nastavení</string>
+  <string name="config_mode_title">Pravidla</string>
 </resources>
