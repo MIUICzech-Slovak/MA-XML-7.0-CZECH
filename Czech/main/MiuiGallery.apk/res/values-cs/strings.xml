@@ -823,10 +823,10 @@ společně!"</string>
   <string name="baby_album_no_share_user_tip">Žádní sledující</string>
   <string name="byteShort">B</string>
   <string name="cloud_full_tip_str">Není dostatek volného místa v MiCloud</string>
-  <string name="confirm_recommandation_face_is">Opravdu je to %1$s? This face will be moved to \"%2$s\" album after confirmation.</string>
-  <string name="confirm_recommandation_face_not">Opravdu to není %1$s?? This face will be moved to \"%2$s\" album after confirmation.</string>
-  <string name="confirm_recommandation_multiple_faces_are">Opravdu jsou to to %1$s?? These faces will be moved to \"%2$s\" album after confirmation.</string>
-  <string name="confirm_recommandation_multiple_faces_not">Opravdu to nejsou %1$s?? These faces will be moved to \"%2$s\" album after confirmation.</string>
+  <string name="confirm_recommandation_face_is">Opravdu je to %1$s? Tato osoba bude přesunuta do alba \"%2$s\".</string>
+  <string name="confirm_recommandation_face_not">Opravdu to není %1$s? Tato osoba bude přesunuta do alba \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_are">Opravdu jsou to to %1$s? Tyto osoby budou přesunuty do alba \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_not">Opravdu to nejsou %1$s? Tyto osoby budou přesunuty do alba \"%2$s\".</string>
   <string name="edit_baby_info">Zobrazit informace o dítěti</string>
   <string name="error_link_has_expired">Platnost odkazu vypršela</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
