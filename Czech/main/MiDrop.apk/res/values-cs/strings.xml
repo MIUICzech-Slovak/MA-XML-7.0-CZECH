@@ -62,4 +62,21 @@
     <string name="sender_wait_queue">Čekání</string>
     <string name="transfer_interrupt">Přenos přerušen</string>
     <string name="transmission_connect">Příjemce nenalezen</string>
+    <string name="intro_midrop">MiDrop</string>
+    <string name="intro_page1_text1">Sdílejte soubory mezi Xiaomi zařízeními</string>
+    <string name="intro_page1_text2">Nyní je to jednodušší, než dříve.</string>
+    <string name="intro_page2_choose_files">Vyberte soubor a zvolte \"Sdílet\"</string>
+    <string name="intro_page2_click_to_send">Vyberte \"Sdílet\"</string>
+    <string name="intro_page3_choose_midrop">Vyberte \"MiDrop\"</string>
+    <string name="intro_page3_choose_midrop2">Vyberte \"MiDrop\" a váš soubor bude okamžitě odeslán.</string>
+	  <string name="receiver_apk_file_current_multi">Přijímání %2$d​ od %1$s</string>
+    <string name="receiver_apk_file_current_single">Přijímání %2$d​ od %1$s</string>
+    <string name="receiver_audio_file_current_multi">Přijímání %2$d​ od %1$s​​...</string>
+    <string name="receiver_audio_file_current_single">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_file_current_multi">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_file_current_single">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_pic_file_current_multi">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_pic_file_current_single">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_video_file_current_multi">Přijímání %2$d​ od %1$s...</string>
+    <string name="receiver_video_file_current_single">Přijímání %2$d​ od %1$s...</string>
 </resources>
