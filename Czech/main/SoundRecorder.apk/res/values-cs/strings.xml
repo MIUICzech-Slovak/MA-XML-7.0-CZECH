@@ -122,5 +122,4 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="cloud_status_full_dialog_msg">Vaše cloudové úložiště je plné.</string>
   <string name="cloud_status_full_dialog_ok">Zakoupit</string>
   <string name="cloud_status_full_dialog_title">MiCloud úložiště je plné</string>
-  <string name="record_download_complete">Staženo</string>
 </resources>
