@@ -3719,7 +3719,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wakeup_for_keyguard_notification_title">Rozsvítit displej</string>
   <string name="sound_vibrate_settings">Zvuky a vibrace</string>
   <string name="edge_mode_back">Zpět</string>
-  <string name="edge_mode_back_summary">Dvojí poklepání na hranu se vrátí o krok zpět</string>
+  <string name="edge_mode_back_summary">Dvojím poklepáním se vrátíte o krok zpět</string>
   <string name="edge_mode_clean">Vyčistit cache</string>
   <string name="edge_mode_clean_summary">Projděte najednou po obou hranách pro čištění systémové cache</string>
   <string name="edge_mode_guide_title">Dotkněte se zvýrazněné části</string>
