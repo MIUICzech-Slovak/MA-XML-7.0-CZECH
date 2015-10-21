@@ -841,6 +841,8 @@ společně!"</string>
   <string name="view_baby_info">Upravit informace o dítěti</string>
   <string name="buy_member_tip">Stát se členem</string>
   <string name="calculated_pictures_time_tip">Seřazené fotografie od %1$s do teď. Ostatní fotografie budou seřazeny postupně. Pro urychlení tohoto procesu, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_vip">Seřazené fotografie od %1$s do teď. Ostatní fotografie budou brzy seřazeny.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Seřazené fotografie od %1$s do teď. Ostatní fotografie budou seřazeny postupně.</string>
   <string name="view_queuing_status">Zkontrolovat stav</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Seřazené fotografie od %1$s do teď. Ostatní fotografie budou seřazeny postupně.</string>
+  <string name="app_name_edit_picture">Upravit obrázek</string>
 </resources>

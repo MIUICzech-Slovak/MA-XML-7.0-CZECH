@@ -4,4 +4,37 @@
         <item quantity="other">Skupiny: %d</item>
         <item quantity="one">Skupiny: %d</item>
     </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">pøed %1$d min.</item>
+        <item quantity="zero">pøed %1$d min.</item>
+        <item quantity="one">pøed %1$d min.</item>
+        <item quantity="two">pøed %1$d min.</item>
+        <item quantity="few">pøed %1$d min.</item>
+        <item quantity="many">pøed %1$d min.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">pøed %1$d hod.</item>
+        <item quantity="zero">pøed %1$d hod.</item>
+        <item quantity="one">pøed %1$d hod.</item>
+        <item quantity="two">pøed %1$d hod.</item>
+        <item quantity="few">pøed %1$d hod.</item>
+        <item quantity="many">pøed %1$d hod.</item>
+    </plurals>
+   <plurals name="days_ago">
+        <item quantity="other">pøed %1$d dny</item>
+        <item quantity="zero">pøed %1$d dny</item>
+        <item quantity="one">pøed %1$d dny</item>
+        <item quantity="two">pøed %1$d dny</item>
+        <item quantity="few">pøed %1$d dny</item>
+        <item quantity="many">pøed %1$d dny</item>
+    </plurals>
+    <plurals name="people">
+       <item quantity="other">Staženo %1$d lidmi</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Staženo %1$d lidmi</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Staženo %1$d lidmi</item>
+    </plurals>
 </resources>

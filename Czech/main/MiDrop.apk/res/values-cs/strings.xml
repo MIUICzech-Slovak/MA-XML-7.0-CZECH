@@ -79,4 +79,13 @@
     <string name="receiver_pic_file_current_single">Přijímání %2$d​ od %1$s...</string>
     <string name="receiver_video_file_current_multi">Přijímání %2$d​ od %1$s...</string>
     <string name="receiver_video_file_current_single">Přijímání %2$d​ od %1$s...</string>
+    <string name="sender_reject_kick_off">Zkuste to znovu</string>
+	  <string name="receiver_insufficient_storage">Není dostatek volného místa na úložišti</string>
+    <string name="receiver_insufficient_storage_cannot_send">Nelze odeslat: Není dostatek volného místa</string>
+	  <string name="receiver_file_current">%2$d od %1$s…</string>
+	  <string name="receiver_clean">Uvolněte místo na úložišti</string>
+	  <string name="receiver_video_file_current">%2$d​ od %1$s...</string>
+	  <string name="receiver_pic_file_current">%2$d​ od %1$s...</string>
+	  <string name="receiver_audio_file_current">%2$d​ od %1$s...</string>
+	  <string name="receiver_apk_file_current">%2$d​ od %1$s...</string>
 </resources>

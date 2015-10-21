@@ -906,4 +906,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="pref_weather_location_title">Poloha počasí</string>
   <string name="show_security_tip_dialog_title">Podmínky používání</string>
   <string name="show_weather_location_getter_tip_dialog_description">Služba pro předpověď počasí potřebuje vaši polohu pro její správné fungování.</string>
+  <string name="miui_content_extent_select">Upravit výběr</string>
 </resources>

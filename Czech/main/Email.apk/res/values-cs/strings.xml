@@ -242,14 +242,14 @@
   <string name="attachment_audio">Zvuk</string>
   <string name="attachment_bar_title">Přílohy</string>
   <string name="attachment_canceling">Probíhá rušení, čekejte prosím!</string>
-  <string name="attachment_decoding">Příloha je stažena a probíhá její kontrola. Čekejte prosím...</string>
+  <string name="attachment_decoding">Rozbalování přílohy...</string>
   <string name="attachment_download_all">Stáhnout vše</string>
   <string name="attachment_image">Obrázek</string>
   <string name="attachment_list_search_hint">Vyhledat v přílohách</string>
   <string name="attachment_mgr_name">Příloha</string>
   <string name="attachment_not_exists">Příloha není dostupná!</string>
   <string name="attachment_not_found">Přílohu nelze stáhnout.</string>
-  <string name="attachment_open_SecurityException_hint">Zkontrolujte povolení, poškození, atd.</string>
+  <string name="attachment_open_SecurityException_hint">Nemáte oprávnění k otevření tohoto souboru nebo je poškozen</string>
   <string name="attachment_open_SecurityException_title">Otevření souboru selhalo</string>
   <string name="attachment_stop_all">Zastavit</string>
   <string name="attachment_text">Text</string>
@@ -339,8 +339,8 @@
   <string name="contact_edit_set_vip">VIP</string>
   <string name="contact_edit_title_permission">Práva kontaktu</string>
   <string name="contact_edit_title_phone_contact">Seznam kontaktů</string>
-  <string name="contact_in_filter_call_phone_str">Hovor: %s</string>
-  <string name="contact_in_filter_title">Přišlo od něj/ní</string>
+  <string name="contact_in_filter_call_phone_str">Hovor od %s</string>
+  <string name="contact_in_filter_title">" od této osoby."</string>
   <string name="contact_info_string">Zobrazit kontaktní údaje uživatele %1$s</string>
   <string name="contact_info_string_default">Zobrazit kontaktní údaje</string>
   <string name="contact_list_add_btn">Přidat</string>
@@ -830,8 +830,8 @@ Kopie: %4$s
   <string name="save_attachment">Uložit</string>
   <string name="save_draft">Uložit koncept</string>
   <string name="save_draft_failed">Ukládání konceptu selhalo</string>
-  <string name="save_power_summary">Oznámení bude ztišeno ve stanoveném čase</string>
-  <string name="save_power_title">Režim nerušit</string>
+  <string name="save_power_summary">Úspora energie ve stanoveném čase</string>
+  <string name="save_power_title">Úspora energie</string>
   <string name="saved">Uloženo, %s</string>
   <string name="saving">Ukládání...</string>
   <string name="sdcard_cannot_use">SD karta není dostupná</string>
@@ -981,4 +981,8 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="disturb_switch">Nerušit</string>
+  <string name="gmail_login_failed_non_proxy_title">Přístup k Gmail serveru selhal</string>
+  <string name="gmail_server_authorization_deleted">Autorizace přístupu selhala, zkuste se znovu přihlásit.</string>
+  <string name="outbox_alert_description_fail_network">Chyba sítě.</string>
 </resources>
