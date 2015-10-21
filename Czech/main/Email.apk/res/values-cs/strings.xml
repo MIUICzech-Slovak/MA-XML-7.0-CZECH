@@ -469,8 +469,8 @@
   <string name="folder_synchronization_mail_settings">Nastavení synchr. složek</string>
   <string name="forward">Přeposlat</string>
   <string name="forward_attachment">Přeposlat</string>
-  <string name="forward_attribution">---------- Přeposlaná zpráva ----------, Od: %1$s, Datum: %2$s, Předmět: %3$s, Komu: %4$s,</string>
-  <string name="forward_attribution_no_headers">---------- Přeposlaná zpráva ----------</string>
+  <string name="forward_attribution">"---------- Přeposlaná zpráva ----------, Od: %1$s Datum: %2$s Předmět: %3$s Komu: %4$s"</string>
+  <string name="forward_attribution_no_headers">"---------- Přeposlaná zpráva ----------"</string>
   <string name="forward_download_failed_ticker">Nepodařilo se přeposlat jednu nebo více příloh.</string>
   <string name="forward_download_failed_title">Příloha nebyla přeposlána</string>
   <string name="from">Od</string>

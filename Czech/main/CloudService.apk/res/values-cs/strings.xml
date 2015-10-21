@@ -372,4 +372,9 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
   <string name="sync_dspt_provision_header">Synchr.</string>
+  <string name="micloud_all_sub_1_intl_sms">"Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty. Bude zpoplatněna operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
+  <string name="micloud_all_sub_1_sms">"Bude odeslána SMS pro aktivaci vaší SIM karty. Bude zpoplatněna operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS (běžná a mezinárodní) budou odeslány pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
+  <string name="micloud_all_sub_2_intl_sms">"Budou odeslány 2 mezinárodní SMS pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
+  <string name="micloud_all_sub_2_sms">"Budou odeslány 2 SMS pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
 </resources>
