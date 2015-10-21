@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">HTML Viewer</string>
+  <string name="app_name_which_call">Aplikace: %s</string>
+  <string name="app_version_which_call">Verze: %s</string>
+  <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení jděte na %s</string>
+  <string name="loading">Načítání...</string>
+  <string name="mibi_license">Podmínky používání MiKreditů</string>
+  <string name="policy_name">Podmínky: %s</string>
+</resources>

@@ -88,4 +88,8 @@
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
   <string name="status_bar_toggle_midrop">MiDrop</string>
+  <string name="cancel_action">Zrušit</string>
+  <string name="set_password_action">Nastavit heslo</string>
+  <string name="set_password_message">Nastavit nové heslo?</string>
+  <string name="set_password_title">Nastavit heslo</string>
 </resources>
