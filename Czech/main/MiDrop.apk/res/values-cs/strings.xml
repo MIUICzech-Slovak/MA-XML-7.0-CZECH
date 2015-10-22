@@ -81,6 +81,5 @@
     <string name="sender_reject_kick_off">Zkuste to znovu</string>
 	  <string name="receiver_insufficient_storage">Není dostatek volného místa na úložišti</string>
     <string name="receiver_insufficient_storage_cannot_send">Nelze odeslat: Není dostatek volného místa</string>
-	  <string name="receiver_file_current">%2$d od %1$s…</string>
 	  <string name="receiver_clean">Uvolněte místo na úložišti</string>
 </resources>
