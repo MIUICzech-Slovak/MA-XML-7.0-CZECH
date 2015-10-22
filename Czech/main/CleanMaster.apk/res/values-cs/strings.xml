@@ -252,7 +252,7 @@
   <string name="buy_traffic_pack">Přikoupit data</string>
   <string name="clear_bigfiles">Vymazat velké soubory, duplikáty fotografií a jiné zbytečné soubory</string>
   <string name="clear_immediately">Vyčistit</string>
-  <string name="clear_safe_notify">Security notification bar</string>
+  <string name="clear_safe_notify">Zobrazit panel v roletce</string>
   <string name="conn_of_function_safe">Síťové připojení pro Optimalizaci</string>
   <string name="connecting">Připojování...</string>
   <string name="download">Stáhnout</string>
@@ -270,7 +270,7 @@
   <string name="installing">Instaluje se</string>
   <string name="just_now">Nyní</string>
   <string name="login_immediately">Přihlásit se</string>
-  <string name="month_day_format">dd MMM</string>
+  <string name="month_day_format">dd. MMM</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="nb_clear_set">Vyčistit ROM, zobrazit informace o baterii a blokování v roletce.</string>
   <string name="net_assistant_detail">Využito: %1$s, Uspořeno: %2$s</string>
