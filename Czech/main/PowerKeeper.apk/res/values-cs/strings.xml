@@ -25,7 +25,7 @@
   <string name="full_screen_enter">Režim celé obrazovky</string>
   <string name="full_screen_exit">Ukončit režim celé obrazovky</string>
   <string name="hide_mode">Úspora baterie</string>
-  <string name="hide_mode_desc">Zakázat aplikacím přístup k Wi-Fi, datovému připojení, GPS a ušetřit tak spotřebu baterie.</string>
+  <string name="hide_mode_desc">"Pokud je aplikace spuštěná na pozadí, její procesy budou sledovány pro co nejvyšší úsporu baterie. Datové připojení, přístup k poloze, rádio, budíky atd. mohou být touto funkcí ovlivněny"</string>
   <string name="hide_mode_desc_title">Úspora baterie</string>
   <string name="high">Výkonný</string>
   <string name="hints_loading_text">Načítání...</string>
@@ -135,6 +135,6 @@
   <string name="location_mode_title">Poloha na pozadí</string>
   <string name="network_mode_title">Sdílet na pozadí</string>
   <string name="quick_disconnect_description">Aplikace nebude mít přístup k síti na pozadí</string>
-  <string name="quick_disconnect_title">Okamžitě odpojit</string>
+  <string name="quick_disconnect_title">Odpojit</string>
   <string name="config_mode_title">Pravidla</string>
 </resources>
