@@ -57,4 +57,7 @@
   <string name="loading">Načítání...</string>
   <string name="search_history">Historie vyhledávání</string>
   <string name="show_more">Více</string>
+  <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_hint"/>
 </resources>
