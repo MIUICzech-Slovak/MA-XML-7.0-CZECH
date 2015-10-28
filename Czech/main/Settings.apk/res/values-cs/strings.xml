@@ -3760,4 +3760,6 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="secure_keyguard_business_title">Heslo zámku displeje</string>
   <string name="turn_off_common_password_confirm_msg">Heslo bude také deaktivováno.</string>
   <string name="turn_on_security_lock">Přidat bezpečnostní heslo</string>
+  <string name="search_virtual_sim">virtual sim</string>
+  <string name="virtual_sim_search_title">Virtuální SIM</string>
 </resources>

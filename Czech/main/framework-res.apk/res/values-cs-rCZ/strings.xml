@@ -1615,4 +1615,10 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
+  <string name="lock_to_app_description">"Připnutí obrazovky uzamkne obrazovku v jednom zobrazení.
+
+Pokud ji chcete uvolnit, současně podržte tlačítka Domů a Zapnínání."</string>
+  <string name="lock_to_app_description_accessible">"Připnutí obrazovky uzamkne obrazovku v jednom zobrazení.
+
+Pokud ji chcete uvolnit, současně podržte tlačítka Domů a Zapnínání."</string>
 </resources>

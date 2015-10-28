@@ -40,7 +40,7 @@
   <string name="activity_title_virus_detail">Podrobnosti o Viru</string>
   <string name="activity_title_virus_settings">Nastavení</string>
   <string name="activity_title_white_list">Výjimky</string>
-  <string name="antivirus_choose_engine">Použít databázi od %s</string>
+  <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Vybrat databázi</string>
   <string name="antivirus_choose_engine_disable_toast">Nelze změnit databázi v průběhu kontroly virů.</string>
   <string name="antivirus_choose_engine_settings">Nastavení virové databáze</string>
@@ -783,4 +783,20 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_title">Ignorované</string>
   <string name="activity_title_network_speed_detail">Připojení</string>
   <string name="btn_text_network_speed_detail">Připojení</string>
+  <string name="preferred_app_entries_browser">Prohlížeč</string>
+  <string name="preferred_app_entries_camera">Fotoaparát</string>
+  <string name="preferred_app_entries_dial">Telefon</string>
+  <string name="preferred_app_entries_email">E-mail</string>
+  <string name="preferred_app_entries_gallery">Galerie</string>
+  <string name="preferred_app_entries_launcher">Launcher</string>
+  <string name="preferred_app_entries_messaging">Zprávy</string>
+  <string name="preferred_app_entries_music">Hudba</string>
+  <string name="security_scan_optimizing">Optimalizace...</string>
+  <string name="summary_cloud_space_almost_full">Získat více místa na úložišti</string>
+  <string name="summary_cloud_space_full">Získejte více místa na úložišti a další funkce</string>
+  <string name="summary_find_device">Vyhledávejte a zablokujte vaše zařízení kdekoliv na světě</string>
+  <string name="system_check_content_none">Bezpečné</string>
+  <string name="title_cloud_space_almost_full">Cloudové úložiště je téměř plné</string>
+  <string name="title_cloud_space_full">"Cloudové úložiště je plné, nelze synchronizovat"</string>
+  <string name="title_find_device">Povolit vyhledání zařízení</string>
 </resources>
