@@ -522,4 +522,7 @@ and never miss the cool new ones!"</string>
   <string name="transfer_private_data">Přesouvání soukromých souborů z SD karty...</string>
   <string name="user_not_login">Přihlásit se</string>
   <string name="weixin_sticker_tag_str">WeChat stickers</string>
+  <string name="operation_other_apps">Otevřít v jiné aplikaci</string>
+  <string name="pick_folder">Vybrat složku</string>
+  <string name="search_description">Vyhledat všechny soubory v zařízení</string>
 </resources>

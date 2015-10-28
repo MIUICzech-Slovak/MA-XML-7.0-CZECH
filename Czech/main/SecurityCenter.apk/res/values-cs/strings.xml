@@ -781,4 +781,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="activity_title_network_speed_detail">Připojení</string>
+  <string name="btn_text_network_speed_detail">Připojení</string>
 </resources>

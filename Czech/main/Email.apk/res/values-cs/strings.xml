@@ -985,4 +985,13 @@ Velikost aplikace: %2$s"</string>
   <string name="gmail_login_failed_non_proxy_title">Přístup k Gmail serveru selhal</string>
   <string name="gmail_server_authorization_deleted">Autorizace přístupu selhala, zkuste se znovu přihlásit.</string>
   <string name="outbox_alert_description_fail_network">Chyba sítě.</string>
+  <string name="att_download_failed_network_slow">Pomalé připojení, stáhněte později.</string>
+  <string name="calendar_remind_dialog_title">Připomenout</string>
+  <string name="calendar_remind_gridview_month_later">Za měsíc</string>
+  <string name="calendar_remind_gridview_nextweek">Za týden</string>
+  <string name="calendar_remind_gridview_pick_date">Vybrat datum</string>
+  <string name="calendar_remind_gridview_tomorrow">Zítra</string>
+  <string name="calendar_remind_gridview_tonight">Večer</string>
+  <string name="calendar_remind_gridview_weekend">Víkend</string>
+  <string name="reply_add_bodycontent">Vložit rychlou odpověď?</string>
 </resources>

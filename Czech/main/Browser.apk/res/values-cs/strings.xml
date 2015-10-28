@@ -907,4 +907,12 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="show_security_tip_dialog_title">Podmínky používání</string>
   <string name="show_weather_location_getter_tip_dialog_description">Služba pro předpověď počasí potřebuje vaši polohu pro její správné fungování.</string>
   <string name="miui_content_extent_select">Upravit výběr</string>
+  <string name="accept_cookies_confirm_message">Deaktivování této funkce může způsobit nesprávné fungování webstránek.</string>
+  <string name="enable_geolocation_confirm_message">Deaktivování této funkce může způsobit nesprávné fungování webstránek.</string>
+  <string name="positive_confirm_message">Deaktivovat</string>
+  <string name="remember_passwords_confirm_message">Deaktivování této funkce může ovlivnit používání.</string>
+  <string name="save_form_data_confirm_message">Deaktivování této funkce může ovlivnit používání.</string>
+  <string name="security_url_confirm_message">Deaktivování této funkce může způsobit bezpečnostní riziko.</string>
+  <string name="security_warnings_confirm_message">Deaktivování této funkce může způsobit bezpečnostní riziko.</string>
+  <string name="weather_location_confirm_message">Deaktivování této funkce může ovlivnit používání.</string>
 </resources>
