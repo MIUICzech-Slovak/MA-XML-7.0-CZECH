@@ -254,11 +254,11 @@
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="status_downloaded">staženo</string>
-  <string name="status_downloading">stahuje se</string>
-  <string name="status_installing">instaluje se</string>
-  <string name="status_paused">pozastaveno</string>
-  <string name="status_pending">čeká</string>
+  <string name="status_downloaded">Staženo</string>
+  <string name="status_downloading">Stahování</string>
+  <string name="status_installing">Instalování</string>
+  <string name="status_paused">Pozastaveno</string>
+  <string name="status_pending">Čeká</string>
   <string name="title_select_live_folder">Vybrat složku</string>
   <string name="title_select_shortcut">Vybrat zástupce</string>
   <string name="toggle_select_title">Zvolit přepínač</string>

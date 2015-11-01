@@ -34,9 +34,9 @@
   <string name="customization">Upravit</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Hodiny</string>
-  <string name="desktop_downloading">Stahuje se</string>
-  <string name="desktop_installing">Instaluje</string>
-  <string name="desktop_recovering">Obnovuje se</string>
+  <string name="desktop_downloading">Stahování</string>
+  <string name="desktop_installing">Instalace</string>
+  <string name="desktop_recovering">Obnovování</string>
   <string name="desktop_wait_wifi">Čeká na Wi-Fi</string>
   <string name="desktop_waiting">Čeká</string>
   <string name="device_delete_prompt">Vymazat zálohu %s?</string>
