@@ -799,4 +799,8 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="title_cloud_space_almost_full">Cloudové úložiště je téměř plné</string>
   <string name="title_cloud_space_full">"Cloudové úložiště je plné, nelze synchronizovat"</string>
   <string name="title_find_device">Povolit vyhledání zařízení</string>
+  <string name="hints_need_quick_clean">Vyhledat a vymazat nebezpečné soubory</string>
+  <string name="menu_text_power_percent_title">Baterie %s</string>
+  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
+  <string name="title_live_talk_purchase">Top up now</string>
 </resources>

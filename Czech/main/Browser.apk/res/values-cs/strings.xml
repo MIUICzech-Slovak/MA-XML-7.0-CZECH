@@ -944,4 +944,13 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="video_history_empty">Historie je prázdná</string>
   <string name="video_subtitle_prefix_message">Přehráno:</string>
   <string name="video_title_prefix_message">Offline:</string>
+  <string name="action_menu_current_version">Aktuální verze</string>
+  <string name="current_version_pad">Tablet</string>
+  <string name="current_version_pc">PC</string>
+  <string name="current_version_phone">Telefon</string>
+  <string name="more_option">Další nastavení</string>
+  <string name="pref_nav_mode_summary_pad">Tablet</string>
+  <string name="pref_nav_mode_summary_phone">Telefon</string>
+  <string name="pref_nav_mode_title">Režim zobrazení</string>
+  <string name="unsecurity_url_toast">Tato webová stránka není bezpečná</string>
 </resources>

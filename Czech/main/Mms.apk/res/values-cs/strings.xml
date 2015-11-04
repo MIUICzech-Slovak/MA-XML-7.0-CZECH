@@ -602,5 +602,12 @@ Pokus: %s."</string>
   <string name="warning_show">Odeslat za %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="exceed_message_size_limitation_add_slide">Velikost zprávy není dostatečná</string>
+  <string name="mx_activate_allow_notice">Váš operátor zpoplatní SMS zprávu odeslanou pro aktivaci cloudových SMS.</string>
+  <string name="networking_allow_continue">OK</string>
+  <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_title">Attention</string>
+  <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
+  <string name="title_allow_network_access">Aktualizovat info automaticky</string>
+  <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
 </resources>
