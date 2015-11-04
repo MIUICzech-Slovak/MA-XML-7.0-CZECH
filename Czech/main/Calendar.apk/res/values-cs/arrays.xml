@@ -326,4 +326,10 @@
         <item>1 týden</item>
         <item>2 týdny</item>
     </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dní</item>
+        <item>týdny</item>
+        <item>měsíce</item>
+        <item>roky</item>
+    </string-array>
 </resources>

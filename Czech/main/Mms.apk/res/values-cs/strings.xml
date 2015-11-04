@@ -306,7 +306,7 @@
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
   <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
-  <string name="mx_online">Online</string>
+  <string name="mx_online">Využití mobilních dat</string>
   <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
   <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>

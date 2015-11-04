@@ -708,5 +708,6 @@ Postupujte dle pokynů"</item>
     <string-array name="common_password_business_names">
         <item>Zámek displeje</item>
         <item>Dětský režim</item>
+        <item>Soukromé soubory</item>
     </string-array>
 </resources>

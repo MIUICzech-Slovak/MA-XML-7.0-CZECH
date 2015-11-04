@@ -322,5 +322,6 @@
   <string name="traffic_top">TOP 5 apl. s největší spotřebou dat</string>
   <string name="virus_scan">Antivirus</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
+  <string name="mainbtn_text_quick_cleanup_default">Vyčistit</string>
   <string name="yesterday">Včera</string>
 </resources>
