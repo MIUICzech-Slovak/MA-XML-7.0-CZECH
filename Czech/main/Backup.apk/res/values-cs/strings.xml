@@ -232,4 +232,46 @@
   <string name="err_router_disconnected">Zkontrolujte připojení routeru a zkuste to znovu.</string>
   <string name="err_router_files_delete">Nelze vymazat soubory na routeru</string>
   <string name="state_mounting">Přístup na úložiště routeru...</string>
+  <string name="click_to_view">Zobrazit</string>
+  <string name="files_backup_info">Všechny soubory na SD kartě (včetně fotografií, hudby, videí, dat apl., atd.)</string>
+  <string name="local_select_files">SD karta</string>
+  <string name="remote_receive">Přijmout</string>
+  <string name="trans_backingup">Zálohování...</string>
+  <string name="trans_backingup_no_items">Synchr....</string>
+  <string name="trans_cancel_confirm">Probíhá přenos, chcete jej zrušit?</string>
+  <string name="trans_cancelling">Ukončení</string>
+  <string name="trans_connect_failed_toast">Nelze se připojit</string>
+  <string name="trans_connecting_toast">Připojování...</string>
+  <string name="trans_detail_category_account">Účty a kontakty</string>
+  <string name="trans_detail_category_files">Soubory</string>
+  <string name="trans_detail_category_sysdata">Systémová data</string>
+  <string name="trans_detail_category_userdata">Apl.</string>
+  <string name="trans_device_disconnected">Zařízení odpojeno</string>
+  <string name="trans_main_tutor">Přesuňte kontakty, historii hovorů, zprávy, nastavení plochy, aplikace, nastavení, atd. do nového zařízení.</string>
+  <string name="trans_my_device">Mé zařízení</string>
+  <string name="trans_one_key_migrate">Přenos</string>
+  <string name="trans_progress_subdescript_br_receiver">Přijímání %s</string>
+  <string name="trans_progress_subdescript_br_sender">Zálohování %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Přijímání %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Odesílání %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Přijímání souborů...</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Odesílání souborů...</string>
+  <string name="trans_progress_subdescript_waiting">Čekání na přijmutí %s</string>
+  <string name="trans_receiver">Jsem příjemce</string>
+  <string name="trans_receiving_completed">Přijatá data</string>
+  <string name="trans_restoring">Obnovení...</string>
+  <string name="trans_restoring_no_items">Synchr. položek</string>
+  <string name="trans_select_device_receive">Vyberte zařízení pro přijmutí dat.</string>
+  <string name="trans_select_device_send">Vyberte jedno zařízení na přenos dat.</string>
+  <string name="trans_sender">Jsem odesílatel</string>
+  <string name="trans_sender_connectting">Potvrďte na novém zařízení</string>
+  <string name="trans_sender_searching">Vyhledávání nových zařízení</string>
+  <string name="trans_sender_searching_ensurance">"Ujistěte se, že nové zařízení je zapnuto.
+Čekání na připojení starého zařízení..."</string>
+  <string name="trans_sending_completed">Data jsou odeslána</string>
+  <string name="trans_time_format_second">méně než 1 min.</string>
+  <string name="trans_time_remained">, připraveno v</string>
+  <string name="trans_waiting_ensurance">"Ujistěte se, že staré zařízení je zapnuto.
+a Přenos je povolen"</string>
+  <string name="trans_waiting_for_sender">Čekání na připojení starého zařízení...</string> 
 </resources>

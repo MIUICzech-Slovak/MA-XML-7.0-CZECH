@@ -69,4 +69,12 @@
         <item quantity="other">Počet aplikací poskytující podmínky: %d</item>
         <item quantity="one">%d aplikace poskytuje podmínky</item>
     </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s apl. nemůže zobrazit upozornění"</item>
+        <item quantity="one">"1 apl. nemůže zobrazit upozornění"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s apl. může zobrazit upozornění</item>
+        <item quantity="one">1 apl. může zobrazit upozornění</item>
+    </plurals>
 </resources>

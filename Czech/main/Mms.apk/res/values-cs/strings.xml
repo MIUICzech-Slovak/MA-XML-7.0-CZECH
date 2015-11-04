@@ -601,5 +601,6 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Odeslat za %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
+  <string name="exceed_message_size_limitation_add_slide">Velikost zprávy není dostatečná</string>
   <string name="yes">OK</string>
 </resources>

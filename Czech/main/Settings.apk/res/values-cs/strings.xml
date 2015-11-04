@@ -2743,7 +2743,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obrazovce a v roletce</string>
   <string name="status_bar_settings_show_flow_info">Zobrazit info o spotřebě dat</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikace</string>
-  <string name="status_bar_settings_show_keyguard_notification">Plovoucí upozornění</string>
+  <string name="status_bar_settings_show_keyguard_notification">Zamykací obrazovka</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Zobrazit upozornění na zamykací obrazovce a při apl. ve fullscreen režimu</string>
   <string name="status_bar_settings_show_network_speed">Zobrazovat rychlost připojení</string>
   <string name="status_bar_settings_show_notificationBar_notification">Zobrazit v roletce</string>
@@ -3762,4 +3762,11 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="turn_on_security_lock">Přidat bezpečnostní heslo</string>
   <string name="search_virtual_sim">virtual sim</string>
   <string name="virtual_sim_search_title">Virtuální SIM</string>
+  <string name="onekey_migrate">Přesun do nového zařízení</string>
+  <string name="status_bar_app_des_separator">", "</string>
+  <string name="status_bar_settings_show_floating_notification">Plovoucí upozornění</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Plovoucí upozornění automaticky zmizí po zobrazení se v horní části displeje.</string>
+  <string name="status_bar_app_enable_floating">Plovoucí upozornění</string>
+  <string name="status_bar_app_enable_keyguard">Zamykací obrazovka</string>
+  <string name="status_bar_app_enable_message">Ikony</string>
 </resources>
