@@ -1315,7 +1315,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="heavy_weight_stop_description">Tuto aplikaci nemůžete bezpečně ukončit. Mohlo by dojít ke ztrátě části vaší aktuální práce.</string>
   <string name="help_label">Nápověda</string>
   <string name="hidden_ssid_label">Skryté SSID:</string>
-  <string name="high_performance_notif_summary">Zařízení se může přehřívat při náročnějších procesech</string>
+  <string name="high_performance_notif_summary">Zařízení se může přehřívat</string>
   <string name="high_performance_notif_title">Výkonný režim je aktivní</string>
   <string name="high_performance_title">Byl spuštěn Benchmark test. Nastavte "Výkonný režim" pro dosáhnutí nejlepších výsledků.</string>
   <string name="history_details_title">Podrobnosti historie</string>
