@@ -32,9 +32,9 @@ Deaktivujte režim Letadlo."</string>
   <string name="input_puk_code_to_unlock">Zadejte PUK kód pro odblokování zařízení</string>
   <string name="invalid_confirm_pin_hint">PIN kód nesouhlasí</string>
   <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
-  <string name="lock_screen_date">EE d. MMMM</string>
+  <string name="lock_screen_date">EEEE d. MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
-  <string name="lock_screen_date_12">EE, dd.MM.</string>
+  <string name="lock_screen_date_12">EEEE, dd.MM.</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostní vzor byl dokončen</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostní vzor byl zahájen</string>
