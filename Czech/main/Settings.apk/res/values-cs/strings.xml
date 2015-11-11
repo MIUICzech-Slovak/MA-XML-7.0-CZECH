@@ -996,13 +996,13 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dlg_error_usb_unmount_text">Úložiště USB se nepodařilo odpojit. Zkuste to znovu později.</string>
   <string name="dlg_ok">OK</string>
   <string name="dndm_alarm_content">Zvuky</string>
-  <string name="dndm_alarm_content_all">Povolit vše</string>
+  <string name="dndm_alarm_content_all">Vše povoleno</string>
   <string name="dndm_alarm_content_call">Hovory</string>
   <string name="dndm_alarm_content_call_sms">Hovory a zprávy</string>
   <string name="dndm_alarm_content_event">Upozornění</string>
   <string name="dndm_alarm_content_event_and_call">Upozornění a hovory</string>
   <string name="dndm_alarm_content_event_and_sms">Upozornění a zprávy</string>
-  <string name="dndm_alarm_content_not_all">Vše povoleno</string>
+  <string name="dndm_alarm_content_not_all">Vše zakázáno</string>
   <string name="dndm_alarm_content_sms">Zprávy</string>
   <string name="dndm_auto_button_title">Naplánovat</string>
   <string name="dndm_auto_setting_group">Naplánovat aktivaci</string>
