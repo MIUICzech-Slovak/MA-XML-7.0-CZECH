@@ -296,4 +296,5 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
   <string name="cant_edit_lock_screen">Nelze upravit styl zamykací obrazovky.</string>
+  <string name="apply_negative_action">Nepoužít</string>
 </resources>

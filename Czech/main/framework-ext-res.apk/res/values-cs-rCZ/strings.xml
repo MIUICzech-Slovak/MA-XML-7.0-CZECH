@@ -95,4 +95,12 @@
   <string name="apply_password_action">Nastavit heslo</string>
   <string name="apply_password_confirm_dlg_msg">Vyžadovat heslo pro %s​?</string>
   <string name="apply_password_confirm_dlg_title">Toto heslo bude použito pro %s</string>
+  <string name="default_name">Výchozí</string>
+  <string name="group_name_contacts">Kontakty</string>
+  <string name="group_name_coworkers">Kolegové</string>
+  <string name="group_name_family">Rodina</string>
+  <string name="group_name_friends">Přátelé</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Přiložte palec na tlačítko Domů</string>
+  <string name="maml_component_customization_title">Nastavení</string>
+  <string name="resource_select">Vybrat</string>
 </resources>

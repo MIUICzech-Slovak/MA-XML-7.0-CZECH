@@ -213,6 +213,7 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_switch">Xunlei stahování</string>
   <string name="bt_download">Stáhnout</string>
   <string name="bt_xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="creat_task_success">Přidáno do stahování</string>
   <string name="delete">Vymazat</string>
   <string name="deselect_subfile_all">Odznačit</string>
   <string name="engine_open">Povolit</string>

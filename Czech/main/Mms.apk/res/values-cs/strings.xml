@@ -610,4 +610,8 @@ Pokus: %s."</string>
   <string name="title_allow_network_access">Aktualizovat info automaticky</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
+  <string name="msg_type_hint_mx_b2c">Upozornění sítě</string>
+  <string name="msg_type_hint_mx_b2c_omit">Upozornění sítě</string>
+  <string name="mx_b2c_message_resend_not_online">Nelze znovu odeslat zprávu. Cloudové zprávy jsou offline.</string>
+  <string name="mx_b2c_message_server">Server</string>
 </resources>

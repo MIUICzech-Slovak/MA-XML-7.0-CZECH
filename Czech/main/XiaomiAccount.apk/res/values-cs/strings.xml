@@ -595,4 +595,7 @@ s "</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="account_limit_update_birthday">Bohužel nebylo možné zpracovat váš požadavek. Omlouváme se.</string>
+  <string name="passport_login_check_find_device">Kontrola stavu vyhledání zařízení...</string>
+  <string name="passport_login_check_find_device_failed">Nelze zjistit stav. Zkontrolujte internetové připojení.</string>
+  <string name="passport_login_find_device_bind">Toto zařízení je propojeno s Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
 </resources>

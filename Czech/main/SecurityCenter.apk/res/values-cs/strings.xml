@@ -803,4 +803,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="menu_text_power_percent_title">Baterie %s</string>
   <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="title_live_talk_purchase">Top up now</string>
+  <string name="activity_title_root_acquired">Povolit práva ROOT</string>
+  <string name="activity_title_root_note">Co jsou to práva ROOT</string>
+  <string name="pm_root_success_notification_title">ROOT práva povolena</string>
 </resources>

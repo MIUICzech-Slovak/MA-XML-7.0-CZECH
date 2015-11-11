@@ -74,4 +74,8 @@ Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkn�
   <string name="mobile_recommended_title">Využitie mobilných dát</string>
   <string name="recommended_file_size_download_in_mobile">Stáhnout tento soubor %s přes mobilní data?</string>
   <string name="recommended_no_file_size_download_in_mobile">Stáhnout tento soubor přes mobilní data?</string>
+  <string name="download_apk_desktop_installing">Instaluje se</string>
+  <string name="download_apk_desktop_pause">Pozastaveno</string>
+  <string name="download_apk_desktop_pending">V pořadí</string>
+  <string name="download_apk_desktop_running">Stahování</string>
 </resources>

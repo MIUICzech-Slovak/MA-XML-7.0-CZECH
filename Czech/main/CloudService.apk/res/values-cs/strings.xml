@@ -377,4 +377,11 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS (běžná a mezinárodní) budou odeslány pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
   <string name="micloud_all_sub_2_intl_sms">"Budou odeslány 2 mezinárodní SMS pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
   <string name="micloud_all_sub_2_sms">"Budou odeslány 2 SMS pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
+  <string name="disable_find_device_success">Vyhledání zařízení je deaktivováno.</string>
+  <string name="enable_find_device_success">Vyhledání zařízení je aktivní.</string>
+  <string name="find_device_error_password_changed">Heslo k účtu bylo změněno.</string>
+  <string name="find_device_error_unknown">Neznámá chyba.</string>
+  <string name="find_device_reading_status">Načítání...</string>
+  <string name="find_device_reading_status_failure">Nelze načíst.</string>
+  <string name="micloud_all_sub_resend_sms">"Pokud aktivujete 'Vyhledání zařízení', po změně SIM karty bude znovu odeslána SMS pro aktivaci služby."</string>
 </resources>

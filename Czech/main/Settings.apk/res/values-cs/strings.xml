@@ -2743,7 +2743,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obrazovce a v roletce</string>
   <string name="status_bar_settings_show_flow_info">Zobrazit info o spotřebě dat</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikace</string>
-  <string name="status_bar_settings_show_keyguard_notification">Zamykací obrazovka</string>
+  <string name="status_bar_settings_show_keyguard_notification">Upozornění na zamyk. obr.</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Zobrazit upozornění na zamykací obrazovce a při apl. ve fullscreen režimu</string>
   <string name="status_bar_settings_show_network_speed">Zobrazovat rychlost připojení</string>
   <string name="status_bar_settings_show_notificationBar_notification">Zobrazit v roletce</string>
@@ -3769,4 +3769,14 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="status_bar_app_enable_floating">Plovoucí upozornění</string>
   <string name="status_bar_app_enable_keyguard">Zamykací obrazovka</string>
   <string name="status_bar_app_enable_message">Ikony</string>
+  <string name="check_find_device_status_failure_confirm">OK</string>
+  <string name="checking_find_device_status">Kontrola stavu...</string>
+  <string name="failed_to_check_find_device_status_content">Kontrola stavu selhala, zkuste to znovu později.</string>
+  <string name="failed_to_check_find_device_status_title">Kontrola stavu selhala</string>
+  <string name="failed_to_shut_down_find_device_content">Nelze deaktivovat vyhledávání zařízení. Zkuste to znovu později.</string>
+  <string name="failed_to_shut_down_find_device_title">Nelze deaktivovat vyhledávání zařízení.</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">Nelze deaktivovat vyhledávání zařízení. Zkontrolujte připojení na internet.</string>
+  <string name="shut_down_find_device_network_failure_title">Nelze se připojit k internetu</string>
+  <string name="shuting_down_find_device">Deaktivace vyhledání zařízení...</string>
 </resources>
