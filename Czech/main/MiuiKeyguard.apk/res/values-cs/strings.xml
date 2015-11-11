@@ -89,4 +89,5 @@ Deaktivujte režim Letadlo."</string>
   <string name="fingerprint_not_identified_msg">Zadejte své heslo k odemknutí.</string>
   <string name="fingerprint_not_identified_title">Nelze rozpoznat otisk</string>
   <string name="fingerprint_try_again_text">Znovu</string>
+  <string name="set_lock_wallpaper_failed">Žádná nová tapeta</string>
 </resources>

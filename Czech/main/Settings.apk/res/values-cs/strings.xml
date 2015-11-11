@@ -3779,4 +3779,5 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="shut_down_find_device_network_failure_content">Nelze deaktivovat vyhledávání zařízení. Zkontrolujte připojení na internet.</string>
   <string name="shut_down_find_device_network_failure_title">Nelze se připojit k internetu</string>
   <string name="shuting_down_find_device">Deaktivace vyhledání zařízení...</string>
+  <string name="security_patch">Úroveň oprav zabezpečení systému Android</string>
 </resources>
