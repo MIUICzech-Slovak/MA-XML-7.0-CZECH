@@ -3703,7 +3703,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zen_mode_option_off">Vždy vyrušit</string>
   <string name="zen_mode_option_title">Při příchozím hovoru nebo oznámení</string>
   <string name="zen_mode_option_title_novoice">Při příchozím oznámení</string>
-  <string name="zen_mode_phone_calls">Volání</string>
+  <string name="zen_mode_phone_calls">Hovory</string>
   <string name="zen_mode_settings_title">Vyrušení</string>
   <string name="zen_mode_start_time">Čas zahájení</string>
   <string name="zen_mode_when">Automaticky zapnout</string>
