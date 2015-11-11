@@ -273,5 +273,8 @@
   <string name="trans_time_remained">, připraveno v</string>
   <string name="trans_waiting_ensurance">"Ujistěte se, že staré zařízení je zapnuto.
 a Přenos je povolen"</string>
-  <string name="trans_waiting_for_sender">Čekání na připojení starého zařízení...</string> 
+  <string name="trans_waiting_for_sender">Čekání na připojení starého zařízení...</string>
+  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
+  <string name="backup_hint_onpad">Keep your device powered on</string>
+  <string name="current_pad_location">Pad</string> 
 </resources>

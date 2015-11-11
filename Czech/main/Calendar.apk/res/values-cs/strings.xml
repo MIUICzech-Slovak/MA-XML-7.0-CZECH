@@ -351,5 +351,10 @@
   <string name="xingxiu"/>
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
+  <string name="internet_connection_notification">Upozornění na internetové připojení</string>
+  <string name="internet_connection_notification_descrip">Zobrazit upozornění na internetové připojení vždy při spuštění Kalendáře</string>
+  <string name="notice_button_exit">Ukončit</string>
+  <string name="notice_declaration_ignore">Znovu se neptat</string>
+  <string name="notice_title_agreement">Internetové připojení</string>
   <string name="zhushen"/>
 </resources>
