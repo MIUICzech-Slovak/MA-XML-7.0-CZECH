@@ -161,7 +161,7 @@
   <string name="screen_pinning_positive">OK</string>
   <string name="screen_pinning_title">Obrazovka je připnuta</string>
   <string name="screen_rotation_freeze_message">Otáčení obrazovky uzamčeno v režimu na šířku</string>
-  <string name="screenshot_failed_text">"Nelze uložit screenshot! Úložiště se používá."</string>
+  <string name="screenshot_failed_text">"Nelze uložit screenshot! Nedostatek volného místa na úložišti."</string>
   <string name="screenshot_saved_text">Dotkněte se pro zobrazení screenshotu</string>
   <string name="screenshot_saved_title">Screenshot vytvořen</string>
   <string name="screenshot_saving_text">Screenshot je uložen</string>

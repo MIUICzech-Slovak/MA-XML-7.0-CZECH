@@ -484,5 +484,5 @@
   <string name="download_complete_start_install">Stahování dokončeno, probíhá instalace...</string>
   <string name="download_start">Spuštěno stahování...</string>
   <string name="action_item_hifi">Sluchátka a efekty</string>
-  <string name="back_confirm">Stiskněte znovu pro přehrávání na pozadí</string>
+  <string name="back_confirm">Stiskněte znovu pro ukončení</string>
 </resources>

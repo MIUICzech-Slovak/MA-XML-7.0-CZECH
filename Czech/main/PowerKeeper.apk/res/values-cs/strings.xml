@@ -137,4 +137,5 @@
   <string name="quick_disconnect_description">Aplikace nebude mít přístup k síti na pozadí</string>
   <string name="quick_disconnect_title">Odpojit</string>
   <string name="config_mode_title">Pravidla</string>
+  <string name="app_list_total">%d apl.</string>
 </resources>

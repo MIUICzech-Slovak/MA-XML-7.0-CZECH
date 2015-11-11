@@ -384,4 +384,5 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="find_device_reading_status">Načítání...</string>
   <string name="find_device_reading_status_failure">Nelze načíst.</string>
   <string name="micloud_all_sub_resend_sms">"Pokud aktivujete 'Vyhledání zařízení', po změně SIM karty bude znovu odeslána SMS pro aktivaci služby."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">Tato funkce vyžaduje vaše tel. číslo. Pokud vložíte SIM kartu do telefonu, bude odeslána SMS pro aktivaci této služby.</string>
 </resources>
