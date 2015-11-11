@@ -314,7 +314,6 @@ Nelze odeslat váš názor názor"</string>
   <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
   <string name="miui_summary_updating">"  Aktualizace...  "</string>
   <string name="recovery_power_not_enough_msg_plugged">Baterie musí být nabita alespoň na 15% a více.</string>
-  <string name="download_failed">Stahování selhalo</string>
   <string name="pm_root_acquired_button">Práva ROOT</string>
   <string name="pm_root_acquired_notification_title">Získávání ROOT práv</string>
   <string name="pm_root_acquired_rooting">Získávání ROOT práv pro %s</string>
