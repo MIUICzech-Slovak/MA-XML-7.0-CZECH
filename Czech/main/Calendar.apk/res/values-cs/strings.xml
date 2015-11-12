@@ -357,4 +357,5 @@
   <string name="notice_declaration_ignore">Znovu se neptat</string>
   <string name="notice_title_agreement">Internetové připojení</string>
   <string name="zhushen"/>
+  <string name="online_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení.</string>
 </resources>

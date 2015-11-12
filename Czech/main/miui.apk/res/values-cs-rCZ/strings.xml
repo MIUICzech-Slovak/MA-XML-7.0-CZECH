@@ -220,7 +220,7 @@
   <string name="phone">Telefon</string>
   <string name="pm">PM</string>
   <string name="policy_name">Oprávnění: %s</string>
-  <string name="privacy_policy">Soukromí</string>
+  <string name="privacy_policy">Ochranou soukromí</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -322,7 +322,7 @@
   <string name="tuesday">Úterý</string>
   <string name="tuesday_short">Úte</string>
   <string name="tuesday_shortest">Ú</string>
-  <string name="user_agreement">Souhlas</string>
+  <string name="user_agreement">Podmínkami používání</string>
   <string name="user_manual">Návod</string>
   <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
   <string name="web_sso_login_message">Přihlašování...</string>
