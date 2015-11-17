@@ -37,4 +37,12 @@
     <plurals name="million">
         <item quantity="other">Staženo %1$d lidmi</item>
     </plurals>
+    <plurals name="view_num">
+        <item quantity="other">Zobrazeno: %1$d</item>
+        <item quantity="zero">Zobrazeno: %1$d</item>
+        <item quantity="one">Zobrazeno: %1$d</item>
+        <item quantity="two">Zobrazeno: %1$d</item>
+        <item quantity="few">Zobrazeno: %1$d</item>
+        <item quantity="many">Zobrazeno: %1$d</item>
+    </plurals>
 </resources>

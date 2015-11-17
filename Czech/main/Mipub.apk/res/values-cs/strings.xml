@@ -237,4 +237,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="low_memory">low_memory!</string>
   <string name="scan_result">Výsledek</string>
   <string name="yes">OK</string>
+  <string name="message_block_confirmation">Opravdu nechcete přijímat SMS zprávy?</string>
+  <string name="message_block_processing">Zpracovávání</string>
+  <string name="message_block_reminder">Připomenutí</string>
 </resources>

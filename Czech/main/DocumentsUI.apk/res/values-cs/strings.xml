@@ -17,7 +17,7 @@
   <string name="menu_open">Otevřít</string>
   <string name="menu_save">Uložit</string>
   <string name="menu_search">Hledat</string>
-  <string name="menu_select">Vyberte adresář ^1</string>
+  <string name="menu_select">Vyberte adresář \"^1\"</string>
   <string name="menu_settings">Nastavení</string>
   <string name="menu_share">Sdílet</string>
   <string name="menu_sort">Řadit podle</string>

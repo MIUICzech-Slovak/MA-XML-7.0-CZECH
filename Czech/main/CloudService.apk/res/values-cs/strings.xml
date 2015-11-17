@@ -451,5 +451,5 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="micloud_notif_content_depend_wifi">Připojte se k Wi-Fi pro synchr.</string>
   <string name="micloud_notif_title_depend_wifi">%d čeká na synchr.</string>
   <string name="micloud_storage_full">MiCloud je plný</string>
-  <string name="micloud_upgrade_member">Získejte vice kapacity</string>
+  <string name="micloud_upgrade_member">Získejte vice prostoru</string>
 </resources>

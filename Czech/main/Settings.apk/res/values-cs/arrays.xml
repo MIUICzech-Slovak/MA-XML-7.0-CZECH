@@ -664,12 +664,12 @@ Postupujte dle pokynů"</item>
         <item>Purpurová</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
-        <item>Zeptat se na povolení</item>
-        <item>Povoleno</item>
+        <item>Zapnout (doporučeno)</item>
+        <item>Vypnout (není doporučeno)</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-        <item>Zeptat se</item>
-        <item>Povoleno</item>
+        <item>Zapnout</item>
+        <item>Zakázat</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Okamžitě</item>

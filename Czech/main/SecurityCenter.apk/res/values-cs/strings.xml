@@ -807,4 +807,5 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="activity_title_root_note">Co jsou to práva ROOT</string>
   <string name="pm_root_success_notification_title">ROOT práva povolena</string>
   <string name="prompt_input_time_illegal">Tento čas nelze změnit</string>
+  <string name="memory_check_content_none">Prázdné</string>
 </resources>
