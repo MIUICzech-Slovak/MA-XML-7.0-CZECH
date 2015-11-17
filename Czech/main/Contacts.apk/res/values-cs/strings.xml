@@ -1321,4 +1321,5 @@ Vyberte si z následujících možností:</string>
   <string name="contact_edit_save_error_empty">Kontakt je prázdný</string>
   <string name="create_voip_shortcut_success">Odkaz vytvořen</string>
   <string name="import_from_onekey_migrate">Importovat s Přenosem</string>
+  <string name="transfer_accounts">Přenést účty</string>                                                                                                                            
 </resources>
