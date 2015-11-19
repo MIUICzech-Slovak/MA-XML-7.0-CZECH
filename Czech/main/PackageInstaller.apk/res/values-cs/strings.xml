@@ -115,7 +115,7 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="btn_text_install_security_version_in_appstore">Nahradit bezpečnou verzí</string>
   <string name="btn_text_scaning">Kontrola...</string>
   <string name="btn_text_security_install">Nahradit bezpečnou verzí</string>
-  <string name="btn_text_security_scan">Kontrola bezpečnosti</string>
+  <string name="btn_text_security_scan">Plná kontrola</string>
   <string name="install_from_appstore_hint">Doporučujeme vám nainstalovat si aplikaci z Google Play nebo miuios.cz</string>
   <string name="message_apk_checking">Kontrola apk...</string>
   <string name="message_appstore_verify_has_new_version">Novější verze aplikace je dostupná v Google Play. Chcete ji nainstalovat?</string>

@@ -331,4 +331,6 @@ Nelze odeslat váš názor názor"</string>
   <string name="set_network_root_msg">Pro získání ROOT práv se připojte k Wi-Fi síti.</string>
   <string name="updater_service_busy_msg">Tato služba aktualizace využívá ROOT práva pro přístup k systémovým souborům.</string>
   <string name="updater_service_busy_title">Služba aktualizace je zaneprázdněna.</string>
+  <string name="check_local_package_validate_error_button">OK</string>
+  <string name="check_local_package_validate_error_msg">Nelze ověřit stažený zip soubor.</string>
 </resources>

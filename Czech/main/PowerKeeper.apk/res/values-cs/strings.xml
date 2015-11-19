@@ -143,8 +143,9 @@
   <string name="power_config_enhance_description">MIUI bude omezovat aktivity na pozadí</string>
   <string name="power_config_enhance_title">Úspora baterie</string>
   <string name="power_config_mode_title">Režim úspory</string>
-  <string name="power_config_normal_description">Podle nastavení, MIUI omezí spuštěné aplikace na pozadí</string>
+  <string name="power_config_normal_description">Přístup k poloze a datovému připojení na pozadí bude zakázán.</string>
   <string name="power_config_normal_title">Normální</string>
-  <string name="power_config_ultimate_description">MIUI může zmrazit aplikaci na pozadí pro maximální výdrž baterie</string>
+  <string name="power_config_ultimate_description">MIUI zmrazí aplikaci na pozadí pro maximální výdrž baterie</string>
   <string name="power_config_ultimate_title">Agresivní omezení</string>
+  <string name="power_config_apps">Úspora baterie na pozadí</string>
 </resources>
