@@ -3781,4 +3781,5 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="shuting_down_find_device">Deaktivace vyhledání zařízení...</string>
   <string name="security_patch">Bezpečnostní záplata</string>
   <string name="lock_settings_with_fingerprint">Zámek displeje a heslo</string>
+  <string name="confirm_fingerprint_msg">Položte prst na snímač otisků prstů</string>
 </resources>
