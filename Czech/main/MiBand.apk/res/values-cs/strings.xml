@@ -61,7 +61,8 @@ o %1$s"</string>
   <string name="alarm_ring">Budík</string>
   <string name="alarm_setting">Nastavení budíku</string>
   <string name="alarm_tips">MiBand přestane vibrovat po zvednutí se z postele. Kdykoliv můžete vibrace vypnout poklepáním. "</string>
-  <string name="alert_body_unable_start_camera">请检查是否已关闭相机权限，如是请开启相机权限。否则请重启手机。</string>
+  <string name="alert_msg_unable_start_camera">"Nelze připojit kameru.
+Zkontrolujte oprávnění aplikace MiFit."</string>
   <string name="alert_title_unable_start_camera">无法启动相机</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mma</string>
@@ -1625,4 +1626,99 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="your_gender">Pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnost</string>
+  <string name="bracelet_disconnect_tips">MiBand odpojen</string>
+  <string name="bracelet_disconnected">MiBand není připojen</string>
+  <string name="cannot_heartrate">MiBand se snímačem tepu není připojen</string>
+  <string name="close_hr_check">Režim snímání tepu byl deaktivován</string>
+  <string name="devices_miband_hr_label">Snímač tepu</string>
+  <string name="hr_battery_low">Zbývá méně, než 10% baterie v MiBand</string>
+  <string name="hr_dialog_ble">Neodpojujte MiBand od vašeho zařízení</string>
+  <string name="hr_dialog_go">Spustit</string>
+  <string name="hr_dialog_pace">Připojte MiBand pro zobrazení tepu</string>
+  <string name="hr_dialog_title">Sledujte změnu tepu vašeho srdce během měření</string>
+  <string name="hr_dialog_wear">Utáhněte pásek MiBandu na ruce co nejvíce pro přesnější měření</string>
+  <string name="hr_empty_data">--</string>
+  <string name="hr_item_date">dd.MM. HH:mm</string>
+  <string name="hr_not_wear_bracelet">Zapněte si MiBand na ruku</string>
+  <string name="hr_tips1">"Zapněte Bluetooth a připojte boty před během.
+Při běhání nevypínejte Bluetooth."</string>
+  <string name="hr_tips10">Anaerobní cvičeni spaluje více cukru.</string>
+  <string name="hr_tips11">Pokud běžíte pomaleji, vaše tělo se udržuje v aerobním režimu a spaluje více tuku. Udržujte tep serdce co nejnižší.</string>
+  <string name="hr_tips12">Aerobní cvičení spaluje více tuku.</string>
+  <string name="hr_tips2">Připojte MiBand se snímačem tepu.</string>
+  <string name="hr_tips3">"Doporučuje se udržovat tep srdce pod maximální úrovní aerobního běhu. Průměrný věk uživatele MiBandu je 25 let, mnoho pracuje a má méně fyzické aktivity. Maximální tep srdce v tomto případě bude okolo 180-25-5=150 BPM. Takže při běhu je lepší mít tep kolem 140-150 BPM."</string>
+  <string name="hr_tips4">Dýchejte zhluboka pro co nejefektivnější spalování kalorií.</string>
+  <string name="hr_tips5">"1. základní tep je = 180 - věk (BPM).
+2. Nastavte si optimální tep dle vaší situace.
+a) Pokud jste v poslední době měli závažné nemoci, odečtěte 10.
+b) Pokud jste měli zranění, necítili se dobře nebo chyběla fyzická aktivita, odečtěte 5.
+c) Pokud jste měli 4 tréninky týdně za poslední 2 roky, přidejte 5.
+Poznámka: Tyto hodnoty platí pro lidi mezi 16 a 65 lety."</string>
+  <string name="hr_tips6">Vypočítejte si maximální aerobní tep srdce</string>
+  <string name="hr_tips7">Maximum aerobic heart rate varies for different people. Keep your actual heart rate slightly below maximum level to increase the effect of the workout and lose more calories.If your heart rate will be above maximum, your body will switch to anaerobic mode, thus consuming more sugar than fat.</string>
+  <string name="hr_tips8">Maximální aerobní tep</string>
+  <string name="hr_tips9">If you run faster, your body will switch to anaerobic mode, which requires consuming more sugar rather than fat.</string>
+  <string name="hr_unit_label">Tep (BPM)</string>
+  <string name="heartrate">Tep</string>
+  <string name="label_countdown">Připravuje se měření...</string>
+  <string name="measure">Změřit tep</string>
+  <string name="measure_fail">Nelze změřit</string>
+  <string name="measure_reminder">"Držte vaše zápěstí v úrovní srdce
+a senzor co nejblíže k pokožce"</string>
+  <string name="measure_tips">Držte senzor co nejblíže u pokožky</string>
+  <string name="measuring">Měření...</string>
+  <string name="no_measure_data">Žádné výsledky</string>
+  <string name="no_measure_tips">Znovu nezobrazovat</string>
+  <string name="open_bluetooth_tips">Nevypínejte Bluetooth</string>
+  <string name="pre_hr_value">Předch. výsledek</string>
+  <string name="pre_measure">Předch. výsledek</string>
+  <string name="running_auto_pause">Pozastaveno</string>
+  <string name="running_auto_pause_desc">Automaticky pozastavit v případě přerušení běhu.</string>
+  <string name="running_average_speed">Průměrná rychlost</string>
+  <string name="running_backgroud_notification">Běhání... Pokračujte!</string>
+  <string name="running_bracelet_not_connect">MiBand není připojen</string>
+  <string name="running_btn_confirm">OK</string>
+  <string name="running_btn_continue">Zpět</string>
+  <string name="running_help_foot_people">Who can try landing on their forefeet when running?</string>
+  <string name="running_help_foot_suggest1">Stick to your own running habits</string>
+  <string name="running_help_foot_suggest2">"We don't recommend changing your running habits. If you choose to land on your midfeet and heels, wear shoes with better cushioning to reduce the impact of landing."</string>
+  <string name="running_help_foot_suggest3">When your knees require more protection, you can try landing on your forefeet more following the routine below.</string>
+  <string name="running_help_foot_suggest4">Try running like this</string>
+  <string name="running_help_foot_suggest5">Strike the ground right below you, keep your knees slightly bent, lean your body forward.</string>
+  <string name="running_help_foot_suggest6">Run as if you were rotating a hot wheel with your feet.</string>
+  <string name="running_help_foot_suggest7">Make smaller steps when you increase running speed.</string>
+  <string name="running_help_foot_suggest8">Connect running shoes and make sure you land on your forefeet.</string>
+  <string name="running_help_foot_suggest9">"Turn on Bluetooth and connect shoes before running.
+Keep Bluetooth on when running."</string>
+  <string name="running_help_pace_freq">Pace</string>
+  <string name="running_help_pace_freq_illustra">Pace is the number of steps you make per minute when running.</string>
+  <string name="running_help_pace_freq_label">"What's pace?"</string>
+  <string name="running_help_pace_freq_suggest1">Gaining speed</string>
+  <string name="running_help_pace_freq_suggest2">Runners usually increase their stride to gain speed. However, using this method can result in muscle damage. You can try to increase your pace to gain speed.</string>
+  <string name="running_help_pace_freq_suggest3">Long-distance runners usually make 180 steps per minute. We recommend using this value as your pace goal.</string>
+  <string name="running_help_pace_freq_suggest4">Connect Mi Band, make sure your pace is detected.</string>
+  <string name="running_help_pace_freq_suggest5">"Turn on Bluetooth and connect Mi Band before running.
+Keep Bluetooth on when running."</string>
+  <string name="running_help_pace_freq_target">Pace goal</string>
+  <string name="running_help_pre_foot">Landing on forefeet</string>
+  <string name="running_help_pre_mid_foot">Landing on forefeet/midfeet</string>
+  <string name="running_help_pros_cons">Pros and cons</string>
+  <string name="running_help_slow_run">When running slowly, most people would naturally land on their midfeet or heels. When the running speed increases, more people would strike the ground with their forefeet. For example, most sprinters choose to land on their forefeet when running.</string>
+  <string name="running_help_slow_run_suggest">Landing on your midfeet or heels strongly affects your knees. Striking the ground with your forefeet requires stronger calf muscles and Achilles tendons</string>
+  <string name="running_helper">Asistent</string>
+  <string name="running_hr">Tep</string>
+  <string name="running_hr_check">Změřit tep</string>
+  <string name="running_hr_disabled_tips">Povolte snímač tepu v nastavení.</string>
+  <string name="running_hr_unit_desc">Tep (BPM)</string>
+  <string name="running_kg">Cal</string>
+  <string name="running_tip_hr_ble_content">Připojte MiBand pro zobrazení tepu</string>
+  <string name="running_tip_hr_bracelet_content">Dostupné údaje o tepu srdce</string>
+  <string name="running_tip_hr_bracelet_label">Použít MiBand Tep</string>
+  <string name="running_tip_known">OK</string>
+  <string name="sleep_assist">Asistent spánku</string>
+  <string name="sleep_assist_info">Měřit tep každé 2 min během spánku pro co nejpřesnější sledování vašeho spánku.</string>
+  <string name="sleep_assist_tips">Měřit tep nepřetržitě během spánku pro co nejpřesnější sledování vašeho spánku. (zvýší se spotřeba baterie).</string>
+  <string name="sleep_assist_title">Asistent spánku</string>
+  <string name="this_measure">Aktuální výsledek</string>
+  <string name="unit_hr">BPM</string>
 </resources>
