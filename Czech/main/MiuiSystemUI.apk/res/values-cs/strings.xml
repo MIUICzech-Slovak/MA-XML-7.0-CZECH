@@ -155,6 +155,8 @@
   <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
   <string name="screen_button_disabled_message">Tlačítka pod displejem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Domů\" a \"Zapnutí\"</string>
   <string name="screen_button_enabled_message">Tlačítka pod displejem jsou zapnuta</string>
+  <string name="screen_button_notification_text">Zapněte je stisknutím tlačítka Domů a Zapínání.</string>
+  <string name="screen_button_notification_title">Tlačítka pod displejem jsou vypnuta</string>
   <string name="screen_pinning_description">Pokud je toto nastavení zapnuté, můžete pomocí připnutí k obrazovce zajistit zobrazení aktuální obrazovky, dokud ji neuvolníte. Podržte tlačítko Domů a Zapnutí pro uvolnění</string>
   <string name="screen_pinning_description_accessible">Zobrazení aktuální obrazovky, dokud nebude uvolněna. Uvolnit podržením tlačítek Domů a Zapínání.</string>
   <string name="screen_pinning_negative">Ne</string>
@@ -228,6 +230,7 @@
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+  <string name="task_access_locked_app_msg">Obsah aplikace je ukrytý.</string>
   <string name="title_usb_accessory">USB příslušenství</string>
   <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Domů v zamykací obrazovce</string>
   <string name="torch_activity_name">Svítilna</string>
@@ -270,7 +273,4 @@
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
-  <string name="task_access_locked_app_msg">Obsah aplikace je ukrytý.</string>
-  <string name="screen_button_notification_title">Tlačítka pod displejem jsou vypnuta</string>
-  <string name="screen_button_notification_text">Zapněte je stisknutím tlačítka Domů a Zapínání.</string>
 </resources>

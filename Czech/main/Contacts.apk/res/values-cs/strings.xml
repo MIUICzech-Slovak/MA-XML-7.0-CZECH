@@ -222,6 +222,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Dotykem povolíte karty kontaktu.</string>
   <string name="contact_detail_profile_switch_on_success_toast">Karty kontaktu již jsou zapnuty</string>
   <string name="contact_directory_description">Adresář %1$s</string>
+  <string name="contact_edit_save_error_empty">Kontakt je prázdný</string>
   <string name="contact_edit_title_edit">Upravit kontakt</string>
   <string name="contact_edit_title_insert">Uložit do %s</string>
   <string name="contact_edit_title_readonly">Kontakt jen pro čtení</string>
@@ -249,6 +250,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="create_group_dialog_title">Vytvořit novou skupinu</string>
   <string name="create_group_item_label">[Vytvořit novou skupinu]</string>
   <string name="create_qrcode_fail_message">Vytváření QR kódu selhalo</string>
+  <string name="create_voip_shortcut_success">Odkaz vytvořen</string>
   <string name="customLabelPickerTitle">Vlastní označení</string>
   <string name="custom_list_filter">Definovat vlastní zobrazení</string>
   <string name="custom_nickname_hint">Vložte oslovení jako: Pan/Paní</string>
@@ -479,6 +481,7 @@ Chyba: \"%s\""</string>
   <string name="import_all_vcard_string">Importovat všechny vizitky</string>
   <string name="import_contact_card_button">Import</string>
   <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
+  <string name="import_from_onekey_migrate">Importovat s Přenosem</string>
   <string name="import_from_other_phone">Importovat z jiného telefonu</string>
   <string name="import_from_sdcard">Importovat z SD karty</string>
   <string name="import_from_sim">Importovat ze SIM karty</string>
@@ -517,6 +520,15 @@ Chyba: \"%s\""</string>
   <string name="in_call_show_delete_message">Vymazat vaše video?</string>
   <string name="in_call_show_delete_title">Vymazat video?</string>
   <string name="in_call_show_demo_present">Náhled</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">Nastala chyba, zkuste to znovu.</string>
+  <string name="in_call_show_filter_processing">Zpracovávání...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Nahrejte své profilové video
  které se zobrazí při zvonění u volaného"</string>
   <string name="in_call_show_guide_start_recording">Nahrát</string>
@@ -676,6 +688,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Zapnout</string>
   <string name="miprofile_switch_on_alertdialog_title">Aktualizace profilové fotografie</string>
   <string name="missing_name">Skupiny</string>
+  <string name="more_call_logs">Další nahrávky najdete na i.mi.com</string>
   <string name="move_and_resize">Posuň měřítko</string>
   <string name="multipleContactDeleteConfirmation">Smazáním tohoto kontaktu smažete informace z více účtů.</string>
   <string name="multipleContactDeleteConfirmationDetail">Vymazání \"%s\" vymaže údaje z více účtů.</string>
@@ -1233,6 +1246,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
   <string name="toast_text_copied">Text zkopírován</string>
   <string name="today">Dnes</string>
+  <string name="transfer_accounts">Přenést účty</string>
   <string name="type_incoming">Příchozí hovor</string>
   <string name="type_missed">Zmeškaný hovor</string>
   <string name="type_mx_msg">Cloud zprávy</string>
@@ -1308,18 +1322,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="more_call_logs">Další nahrávky najdete na i.mi.com</string>
-  <string name="in_call_show_filter_brannan">Dawn</string>
-  <string name="in_call_show_filter_earlybird">Autumn</string>
-  <string name="in_call_show_filter_jstyle">Japanese</string>
-  <string name="in_call_show_filter_mono">Mono</string>
-  <string name="in_call_show_filter_nashvile">Indigo</string>
-  <string name="in_call_show_filter_none">Normal</string>
-  <string name="in_call_show_filter_process_error">Nastala chyba, zkuste to znovu.</string>
-  <string name="in_call_show_filter_processing">Zpracovávání...</string>
-  <string name="in_call_show_filter_vivid">Vivid</string>
-  <string name="contact_edit_save_error_empty">Kontakt je prázdný</string>
-  <string name="create_voip_shortcut_success">Odkaz vytvořen</string>
-  <string name="import_from_onekey_migrate">Importovat s Přenosem</string>
-  <string name="transfer_accounts">Přenést účty</string>                                                                                                                            
 </resources>

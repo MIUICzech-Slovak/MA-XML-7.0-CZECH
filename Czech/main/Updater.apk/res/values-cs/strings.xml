@@ -41,6 +41,8 @@
   <string name="button_text_update">Aktualizovat</string>
   <string name="cancel_download">Zastavit stahování aktualizace?</string>
   <string name="cancel_download_buton_text">Zrušit</string>
+  <string name="check_local_package_validate_error_button">OK</string>
+  <string name="check_local_package_validate_error_msg">Nelze ověřit stažený zip soubor.</string>
   <string name="check_new_version">Zkontrolovat</string>
   <string name="check_update">Vyhledat aktualizace</string>
   <string name="check_update_policy">Nastavení kontroly aktualizací</string>
@@ -123,6 +125,8 @@
   <string name="miui_summary_no_new_version">"Není dostupná nová verze.
   Navštivte miuios.cz/rom"</string>
   <string name="miui_summary_now_version">Připojte se k síti</string>
+  <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
+  <string name="miui_summary_updating">"  Aktualizace...  "</string>
   <string name="monthly_build">Měsíční sestavení</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Není dostatek místa na SD kartě pro přesun %dMB dat.</string>
   <string name="move_data_to_sdcard_title">Přesunout data na SD kartu</string>
@@ -176,6 +180,17 @@
   <string name="pause">Zastavit</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
   <string name="paused_queued_for_wifi">Čekání na Wi-Fi připojení</string>
+  <string name="pm_root_acquired_button">Práva ROOT</string>
+  <string name="pm_root_acquired_notification_title">Získávání ROOT práv</string>
+  <string name="pm_root_acquired_rooting">Získávání ROOT práv pro %s</string>
+  <string name="pm_root_checking">Kontrola informací o systému...</string>
+  <string name="pm_root_fail_button_retry">Znovu</string>
+  <string name="pm_root_fail_msg">Tato aplikace nemohla získat ROOT práva. Zkuste to znovu.</string>
+  <string name="pm_root_fail_service_busy">Počkejte na aktualizaci zařízení a zkuste to znovu.</string>
+  <string name="pm_root_fail_title">Nelze získat ROOT práva</string>
+  <string name="pm_root_notification_download_title">Stahování</string>
+  <string name="pm_root_success_msg">Restartujte zařízení pro dokončení.</string>
+  <string name="pm_root_success_title">ROOT práva povolena</string>
   <string name="previous">Zpět</string>
   <string name="progress_title_checking">Kontrola aktualizací...</string>
   <string name="reboot">Restart</string>
@@ -191,9 +206,13 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
   <string name="recovery_failed_title">Aktualizace selhala</string>
   <string name="recovery_power_not_enough_msg">Baterie má méně, než 30% energie. Pro pokračování v instalaci aktualizace připojte nabíječku.</string>
+  <string name="recovery_power_not_enough_msg_plugged">Baterie musí být nabita alespoň na 15% a více.</string>
   <string name="recovery_power_not_enough_title">Slabá baterie</string>
   <string name="refuse_recommend_reason">Prosím vyplňte důvod</string>
   <string name="repeat">Znovu</string>
+  <string name="root_acquired">Povolit ROOT práva</string>
+  <string name="root_agree_check_box_title">Rozumím riziku při používání ROOT práv</string>
+  <string name="root_dangerous_msg">Povolení ROOT práv je extrémně nebezpečné a může vystavit riziku vaše osobní data. Souhlasíte s tím, že jakékoliv poškození zařízení nebo ztráta dat způsobená přidělením ROOT práv, je na vaši zodpovědnost.</string>
   <string name="sdcard_has_no_space_dialog_body">Na SD kartě není dost volného místa, uvolněte jej a znovu stáhněte Aktualizaci.</string>
   <string name="sdcard_has_no_space_dialog_title">Na SD kartě je málo volného místa</string>
   <string name="sdcard_is_not_present_dialog_body">SD karta nebyla připojená nebo se z ní nedalo načítat. Prosím zkuste znovu.</string>
@@ -208,6 +227,7 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="set_installfail_title">Pokusit se stáhnout znovu?</string>
   <string name="set_installfail_title_full">Aktualizace selhala</string>
   <string name="set_network_msg">Připojte se k Wi-Fi síti před stáhnutím aktualizace.</string>
+  <string name="set_network_root_msg">Pro získání ROOT práv se připojte k Wi-Fi síti.</string>
   <string name="set_network_title">Připojeno k síti</string>
   <string name="set_only_wifi">Nastavit kontrolu pouze přes Wi-Fi</string>
   <string name="share">Sdílet</string>
@@ -274,6 +294,8 @@ Svůj názor můžete odeslat každé pondělí"</string>
   <string name="updater_nolog">Seznam změn není dostupný</string>
   <string name="updater_nonetwork">Připojte se k síti pro načtení seznamu změn</string>
   <string name="updater_nonetwork_clause">Připojte se na internet pro zobrazení nových podmínek o ochraně soukromí</string>
+  <string name="updater_service_busy_msg">Tato služba aktualizace využívá ROOT práva pro přístup k systémovým souborům.</string>
+  <string name="updater_service_busy_title">Služba aktualizace je zaneprázdněna.</string>
   <string name="updater_wait_for_unzip">Rozbalování aktualizace...</string>
   <string name="upgrade_close">Zavřít</string>
   <string name="upgrade_kernel">Kernel potřebuje aktualizovat</string>
@@ -311,26 +333,4 @@ Nelze odeslat váš názor názor"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
-  <string name="miui_summary_updating">"  Aktualizace...  "</string>
-  <string name="recovery_power_not_enough_msg_plugged">Baterie musí být nabita alespoň na 15% a více.</string>
-  <string name="pm_root_acquired_button">Práva ROOT</string>
-  <string name="pm_root_acquired_notification_title">Získávání ROOT práv</string>
-  <string name="pm_root_acquired_rooting">Získávání ROOT práv pro %s</string>
-  <string name="pm_root_checking">Kontrola informací o systému...</string>
-  <string name="pm_root_fail_button_retry">Znovu</string>
-  <string name="pm_root_fail_msg">Tato aplikace nemohla získat ROOT práva. Zkuste to znovu.</string>
-  <string name="pm_root_fail_service_busy">Počkejte na aktualizaci zařízení a zkuste to znovu.</string>
-  <string name="pm_root_fail_title">Nelze získat ROOT práva</string>
-  <string name="pm_root_notification_download_title">Stahování</string>
-  <string name="pm_root_success_msg">Restartujte zařízení pro dokončení.</string>
-  <string name="pm_root_success_title">ROOT práva povolena</string>
-  <string name="root_acquired">Povolit ROOT práva</string>
-  <string name="root_agree_check_box_title">Rozumím riziku při používání ROOT práv</string>
-  <string name="root_dangerous_msg">Povolení ROOT práv je extrémně nebezpečné a může vystavit riziku vaše osobní data. Souhlasíte s tím, že jakékoliv poškození zařízení nebo ztráta dat způsobená přidělením ROOT práv, je na vaši zodpovědnost.</string>
-  <string name="set_network_root_msg">Pro získání ROOT práv se připojte k Wi-Fi síti.</string>
-  <string name="updater_service_busy_msg">Tato služba aktualizace využívá ROOT práva pro přístup k systémovým souborům.</string>
-  <string name="updater_service_busy_title">Služba aktualizace je zaneprázdněna.</string>
-  <string name="check_local_package_validate_error_button">OK</string>
-  <string name="check_local_package_validate_error_msg">Nelze ověřit stažený zip soubor.</string>
 </resources>

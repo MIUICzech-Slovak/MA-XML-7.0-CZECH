@@ -2,14 +2,19 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="alwaysUsePrompt">Znovu se neptat</string>
+  <string name="apply_password_action">Nastavit heslo</string>
+  <string name="apply_password_confirm_dlg_msg">Vyžadovat heslo pro %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Toto heslo bude použito pro %s</string>
   <string name="auto_start_warning_allow">Povolit</string>
   <string name="auto_start_warning_deny">Odmítnout</string>
   <string name="auto_start_warning_title">Povolit aplikaci %s spouštět se automaticky?</string>
   <string name="call_record_or">Anebo</string>
   <string name="call_record_sample_prefix_miui">Nahrávka</string>
   <string name="caller_info_name_delimiter">nebo</string>
+  <string name="cancel_action">Zrušit</string>
   <string name="copy">Kopírovat</string>
   <string name="cut">Vyjmout</string>
+  <string name="default_name">Výchozí</string>
   <string name="fc_dialog_body">Zobrazte podrobnosti o chybě, zkopírujte log a vložte jej na miuios.cz/rom pro její další analýzu.</string>
   <string name="fc_dialog_jump_to_preview">Podrobnosti o chybě pro miuios.cz</string>
   <string name="first_back_long_press_message">"Chcete ukončovat aktivní aplikace dlouhým stiskem klávesy Zpět? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
@@ -20,16 +25,22 @@
   <string name="global_actions_reboot">Restart</string>
   <string name="global_actions_shutdown">Vypnout</string>
   <string name="global_actions_silent_mode">Tichý režim</string>
+  <string name="group_name_contacts">Kontakty</string>
+  <string name="group_name_coworkers">Kolegové</string>
+  <string name="group_name_family">Rodina</string>
+  <string name="group_name_friends">Přátelé</string>
   <string name="handy_mode_enter_dlg_msg">Přepnout do režimu ovládání jednou rukou?</string>
   <string name="handy_mode_enter_dlg_title">Ovládání jednou rukou</string>
   <string name="handy_mode_summary">Dotykem na prázdné místo jej ukončíte</string>
   <string name="handy_mode_title">Ovládání jednou rukou</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Přiložte palec na tlačítko Domů</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Mezera</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
   <string name="lockscreen_access_pattern_cleared">Vzor vyčištěný</string>
   <string name="lockscreen_access_pattern_detected">Vzor kompletní</string>
   <string name="lockscreen_access_pattern_start">Vzor započatý</string>
+  <string name="maml_component_customization_title">Nastavení</string>
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
   <string name="memory_clear_result">"Uvolněno: %1$sB \nDostupné: %2$sB"</string>
   <string name="paste">Vložit</string>
@@ -40,6 +51,7 @@
   <string name="reboot_info_shutdown_alarm">Vaše zařízení zapne budík v %s</string>
   <string name="reboot_progress">Restartuji...</string>
   <string name="replace">Nahradit</string>
+  <string name="resource_select">Vybrat</string>
   <string name="screen_button_disabled_message">Tlačítka pod displejem jsou vypnuta. Můžete je zapnout stiskem tlačítek \"Domů\" a \"Zapnutí\"</string>
   <string name="screen_button_enabled_message">Tlačítka pod displejem jsou zapnuta</string>
   <string name="screen_button_notification_text">"Stiskněte 'Domů'+'Zapnutí' pro aktivaci"</string>
@@ -51,6 +63,9 @@
   <string name="screen_rotation_freeze_message">Otáčení obrazovky je vypnuto</string>
   <string name="select">Vybrat</string>
   <string name="select_all">Vše</string>
+  <string name="set_password_action">Nastavit heslo</string>
+  <string name="set_password_message">Nastavit nové heslo?</string>
+  <string name="set_password_title">Nastavit heslo</string>
   <string name="shutdown_confirm_title">Chcete vypnout vaše zařízení?</string>
   <string name="shutdown_progress">Vypínání...</string>
   <string name="sim_added_reboot_confirm">Restart</string>
@@ -67,6 +82,7 @@
   <string name="status_bar_toggle_flight_mode">Letadlo</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zámek</string>
+  <string name="status_bar_toggle_midrop">MiDrop</string>
   <string name="status_bar_toggle_mute">Ticho</string>
   <string name="status_bar_toggle_network_type">Režim sítě</string>
   <string name="status_bar_toggle_paper_mode">Režim čtení</string>
@@ -87,20 +103,4 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
-  <string name="status_bar_toggle_midrop">MiDrop</string>
-  <string name="cancel_action">Zrušit</string>
-  <string name="set_password_action">Nastavit heslo</string>
-  <string name="set_password_message">Nastavit nové heslo?</string>
-  <string name="set_password_title">Nastavit heslo</string>
-  <string name="apply_password_action">Nastavit heslo</string>
-  <string name="apply_password_confirm_dlg_msg">Vyžadovat heslo pro %s​?</string>
-  <string name="apply_password_confirm_dlg_title">Toto heslo bude použito pro %s</string>
-  <string name="default_name">Výchozí</string>
-  <string name="group_name_contacts">Kontakty</string>
-  <string name="group_name_coworkers">Kolegové</string>
-  <string name="group_name_family">Rodina</string>
-  <string name="group_name_friends">Přátelé</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Přiložte palec na tlačítko Domů</string>
-  <string name="maml_component_customization_title">Nastavení</string>
-  <string name="resource_select">Vybrat</string>
 </resources>

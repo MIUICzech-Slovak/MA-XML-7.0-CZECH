@@ -150,6 +150,8 @@
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
+  <string name="internet_connection_notification">Upozornění na internetové připojení</string>
+  <string name="internet_connection_notification_descrip">Zobrazit upozornění na internetové připojení vždy při spuštění Kalendáře</string>
   <string name="jump_date">Přejít</string>
   <string name="jump_date_full">Přejít na datum</string>
   <string name="label_recent_events">Nedávné události</string>
@@ -193,9 +195,13 @@
   <string name="no_syncable_calendars">Žádné kalendáře</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">není synchronizován</string>
+  <string name="notice_button_exit">Ukončit</string>
   <string name="notice_button_ok">Souhlasím</string>
+  <string name="notice_declaration_ignore">Znovu se neptat</string>
+  <string name="notice_title_agreement">Internetové připojení</string>
   <string name="notice_title_request">Upozornění</string>
   <string name="online_calendar_activity_label">Přihlásit</string>
+  <string name="online_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení.</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrace</string>
   <string name="pref_error_no_ringtone_select">Žádné</string>
@@ -351,11 +357,5 @@
   <string name="xingxiu"/>
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
-  <string name="internet_connection_notification">Upozornění na internetové připojení</string>
-  <string name="internet_connection_notification_descrip">Zobrazit upozornění na internetové připojení vždy při spuštění Kalendáře</string>
-  <string name="notice_button_exit">Ukončit</string>
-  <string name="notice_declaration_ignore">Znovu se neptat</string>
-  <string name="notice_title_agreement">Internetové připojení</string>
   <string name="zhushen"/>
-  <string name="online_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení.</string>
 </resources>

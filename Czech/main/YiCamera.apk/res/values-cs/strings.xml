@@ -162,7 +162,12 @@ Restartujte kameru"</string>
   <string name="camera_alarm_opened">Zapnuto</string>
   <string name="camera_alarm_starttime">Začátek</string>
   <string name="camera_alarm_type">Čas</string>
+  <string name="camera_bind">Připojit kameru</string>
+  <string name="camera_bind_failed">Připojení selhalo!</string>
+  <string name="camera_bind_not_found">Kamera nebyla nalezena!</string>
+  <string name="camera_bind_success">Připojeno!</string>
   <string name="camera_bind_timeout">Připojení kamery selhalo, restartujte zařízení.</string>
+  <string name="camera_binding">Připojování...</string>
   <string name="camera_buffing">Načítání ...</string>
   <string name="camera_cant_found_wifi">Kamera nemůže nalézt Wi-Fi síť, zkuste to znovu!</string>
   <string name="camera_config">Nastavení kamery</string>
@@ -228,6 +233,8 @@ Restartujte kameru"</string>
   <string name="camera_setting_title">Nastavení kamery</string>
   <string name="camera_setting_video_alarm_subtitle">Zobrazit ukázku videa spolu s upozorněním</string>
   <string name="camera_setting_video_alarm_title">Povolit video upozornění</string>
+  <string name="camera_setting_weixin_alarm_subtitle">Odeslat video se záznamem na váš Weibo účet</string>
+  <string name="camera_setting_weixin_alarm_title">Upozornit na Weibo</string>
   <string name="camera_state_incorrect">Co když LED nebliká?</string>
   <string name="camera_uid_config">Číslo kamery</string>
   <string name="camera_update">Nalezena nová verze firmware.</string>
@@ -522,6 +529,7 @@ Copyright © 2014-2015 XiaoYi. All Rights Reserved."</string>
   <string name="landscape">Na šířku</string>
   <string name="link_test_intranet">Detekce sítě</string>
   <string name="list_friends">Friends on %s</string>
+  <string name="listen_wifi_password_error">Chybné Wi-Fi heslo</string>
   <string name="live">Naživo</string>
   <string name="live_video">Naživo</string>
   <string name="live_video_off">Kamera je vypnuta</string>
@@ -1123,12 +1131,4 @@ a čekejte na jeho načtení"</string>
   <string name="youku_oauth">Authorized by Youku</string>
   <string name="yunyi_km_eye">XiaoYi clairvoyant</string>
   <string name="yunyi_time_photo">XiaoYi TimePhoto</string>
-  <string name="camera_bind">Připojit kameru</string>
-  <string name="camera_bind_failed">Připojení selhalo!</string>
-  <string name="camera_bind_not_found">Kamera nebyla nalezena!</string>
-  <string name="camera_bind_success">Připojeno!</string>
-  <string name="camera_binding">Připojování...</string>
-  <string name="listen_wifi_password_error">Chybné Wi-Fi heslo</string>
-  <string name="camera_setting_weixin_alarm_title">Upozornit na Weibo</string>
-  <string name="camera_setting_weixin_alarm_subtitle">Odeslat video se záznamem na váš Weibo účet</string>
 </resources>

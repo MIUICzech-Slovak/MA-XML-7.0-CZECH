@@ -20,6 +20,9 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovat režim letadlo</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zařízení bylo zablokováno.
 Deaktivujte režim Letadlo."</string>
+  <string name="fingerprint_not_identified_msg">Zadejte své heslo k odemknutí.</string>
+  <string name="fingerprint_not_identified_title">Nelze rozpoznat otisk</string>
+  <string name="fingerprint_try_again_text">Znovu</string>
   <string name="forget_password_string">Zapom. heslo</string>
   <string name="incorrect_pincode">Nesprávný PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávný PIN kód, zbývající pokusy: %d</string>
@@ -33,8 +36,8 @@ Deaktivujte režim Letadlo."</string>
   <string name="invalid_confirm_pin_hint">PIN kód nesouhlasí</string>
   <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
   <string name="lock_screen_date">EEEE d. MMMM</string>
-  <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+  <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostní vzor byl dokončen</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostní vzor byl zahájen</string>
@@ -76,6 +79,7 @@ Deaktivujte režim Letadlo."</string>
   <string name="screen_on_proximity_sensor_hint">Pro deaktivaci této funkce stiskněte současně tlačítka Zpět a Hlasitost nahoru.</string>
   <string name="screen_on_proximity_sensor_summary">"Nezakrývejte horní část zařízení"</string>
   <string name="screen_on_proximity_sensor_title">Zabránit náhodnému vytočení</string>
+  <string name="set_lock_wallpaper_failed">Žádná nová tapeta</string>
   <string name="short_pincode_error_msg">Zadejte 4-8 znaků</string>
   <string name="short_pukcode_error_msg">Musíte zadat nejméně 8 čísel.</string>
   <string name="starting_camera_string">Spouštění fotoaparátu</string>
@@ -86,8 +90,4 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="fingerprint_not_identified_msg">Zadejte své heslo k odemknutí.</string>
-  <string name="fingerprint_not_identified_title">Nelze rozpoznat otisk</string>
-  <string name="fingerprint_try_again_text">Znovu</string>
-  <string name="set_lock_wallpaper_failed">Žádná nová tapeta</string>
 </resources>

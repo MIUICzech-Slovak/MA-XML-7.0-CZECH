@@ -14,6 +14,7 @@
   <string name="action_item_favorite">Oblíbené</string>
   <string name="action_item_follow">Sledovat</string>
   <string name="action_item_hide">Skrýt</string>
+  <string name="action_item_hifi">Sluchátka a efekty</string>
   <string name="action_item_multiple">Upravit</string>
   <string name="action_item_play_all">Přehrát vše</string>
   <string name="action_item_remove">Odstranit</string>
@@ -29,6 +30,7 @@
   <string name="all_tracks_short">Vše</string>
   <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
   <string name="allow_to_use_traffic_title">Povolit stahování skladeb přes mobilní data</string>
+  <string name="already_download">Stahování...</string>
   <string name="artist">Interpreti</string>
   <string name="artist_is_empty">Jméno interpreta nemůže být prázdné.</string>
   <string name="artist_name">Umělec</string>
@@ -45,6 +47,7 @@
   <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="avoid_to_use_traffic_summary">Upozornit na spotřebu dat</string>
   <string name="avoid_to_use_traffic_title">Použít pouze Wi-Fi pro stream</string>
+  <string name="back_confirm">Stiskněte znovu pro ukončení</string>
   <string name="baidu_music">Baidu Music</string>
   <string name="bill_list_fragment_title">Hitparády</string>
   <string name="bluetooth_device">Bluetooth zařízení</string>
@@ -114,11 +117,14 @@
   <string name="download_auto_when_all_network">Stahovat skladby přes mobilní data a Wi-Fi</string>
   <string name="download_auto_when_free_network">Stahovat skladby pouze přes Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Další nastavení pro oblíbené skladby</string>
+  <string name="download_complete">Stahování dokončeno</string>
+  <string name="download_complete_start_install">Stahování dokončeno, probíhá instalace...</string>
   <string name="download_completed">Staženo</string>
   <string name="download_method">Stáhnout</string>
   <string name="download_processing">Stahování</string>
   <string name="download_quality">Kvalita stahování</string>
   <string name="download_quality_summary">Další nastavení pro stažené skladby</string>
+  <string name="download_start">Spuštěno stahování...</string>
   <string name="download_while_playing_summary">"Automaticky stáhnout skladby poslouchané online"</string>
   <string name="download_while_playing_title">Poslouchat během stahování</string>
   <string name="empty_page_no_album">Žádná alba</string>
@@ -359,6 +365,8 @@
   <string name="renew">Obnovit:</string>
   <string name="renew_1">Obnovit</string>
   <string name="renew_period">Období na obnovení:</string>
+  <string name="repeat_all_notif">Opakují se všechny skladby.</string>
+  <string name="repeat_current_notif">Opakuje se aktuální skladba.</string>
   <string name="retry">Zkusit znovu</string>
   <string name="ringtone_not_support">Formát není podporován.</string>
   <string name="search_album">Vyhledat album online</string>
@@ -398,6 +406,8 @@
   <string name="share_end_note">Z MiMusic</string>
   <string name="share_text_list">Našel jsem skvělý seznam skladeb v MiMusic:</string>
   <string name="share_text_song">Našel jsem skvělou skladbu v MiMusic:</string>
+  <string name="shuffle_off_notif">Náhodné přehrávání je vyp.</string>
+  <string name="shuffle_on_notif">Náhodné přehrávání je zap.</string>
   <string name="similar_songs">Podobné skladby</string>
   <string name="sleep_mode">Časovač</string>
   <string name="sleep_mode_canceled">Režim spánku zrušen</string>
@@ -475,14 +485,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství</string>
-  <string name="repeat_all_notif">Opakují se všechny skladby.</string>
-  <string name="repeat_current_notif">Opakuje se aktuální skladba.</string>
-  <string name="shuffle_off_notif">Náhodné přehrávání je vyp.</string>
-  <string name="shuffle_on_notif">Náhodné přehrávání je zap.</string>
-  <string name="already_download">Stahování...</string>
-  <string name="download_complete">Stahování dokončeno</string>
-  <string name="download_complete_start_install">Stahování dokončeno, probíhá instalace...</string>
-  <string name="download_start">Spuštěno stahování...</string>
-  <string name="action_item_hifi">Sluchátka a efekty</string>
-  <string name="back_confirm">Stiskněte znovu pro ukončení</string>
 </resources>

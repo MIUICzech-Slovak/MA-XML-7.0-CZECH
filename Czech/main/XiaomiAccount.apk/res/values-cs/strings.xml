@@ -23,6 +23,7 @@
   <string name="account_error_user_birthday">Datum narozenin není správný</string>
   <string name="account_hint_text">E-mail (.com) nebo telefonní číslo</string>
   <string name="account_learn_more_title">Vytvořit Xiaomi účet</string>
+  <string name="account_limit_update_birthday">Bohužel nebylo možné zpracovat váš požadavek. Omlouváme se.</string>
   <string name="account_name">Účet: %1$s</string>
   <string name="account_no_set">Prázdné</string>
   <string name="account_none">Prázdné</string>
@@ -405,7 +406,10 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_license_host_unreachable">Nelze se připojit k síti. Tuto stránku můžete zobrazit na %s.</string>
   <string name="passport_loading">Načítání...</string>
   <string name="passport_login">Přihlásit se</string>
+  <string name="passport_login_check_find_device">Kontrola stavu vyhledání zařízení...</string>
+  <string name="passport_login_check_find_device_failed">Nelze zjistit stav. Zkontrolujte internetové připojení.</string>
   <string name="passport_login_failed">Nelze se přihlásit</string>
+  <string name="passport_login_find_device_bind">Toto zařízení je propojeno s Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
   <string name="passport_login_instead_reg">Použít toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použít tento email</string>
   <string name="passport_login_notice">Přihlašování...</string>
@@ -594,8 +598,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
-  <string name="account_limit_update_birthday">Bohužel nebylo možné zpracovat váš požadavek. Omlouváme se.</string>
-  <string name="passport_login_check_find_device">Kontrola stavu vyhledání zařízení...</string>
-  <string name="passport_login_check_find_device_failed">Nelze zjistit stav. Zkontrolujte internetové připojení.</string>
-  <string name="passport_login_find_device_bind">Toto zařízení je propojeno s Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
 </resources>

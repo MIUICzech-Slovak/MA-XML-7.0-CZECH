@@ -160,6 +160,7 @@
   <string name="friday">Pátek</string>
   <string name="friday_short">Pát</string>
   <string name="friday_shortest">P</string>
+  <string name="hybrid_provider">Web. stránka je poskytovaná %1$s .</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Nelze se připojit k síti. Pro zobrazení těchto informací jděte na %s."</string>
   <string name="loading">Načítání...</string>
@@ -209,6 +210,7 @@
   <string name="name">Jméno</string>
   <string name="nickname">Přezdívka</string>
   <string name="night">PM</string>
+  <string name="no_network">Nelze se připojit k síti</string>
   <string name="no_sim">Žádná SIM karta</string>
   <string name="noon">PM</string>
   <string name="note">Poznámka</string>
@@ -327,11 +329,9 @@
   <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
   <string name="web_sso_login_message">Přihlašování...</string>
   <string name="website">Web</string>
+  <string name="webview_reload">Znovu</string>
   <string name="wednesday">Středa</string>
   <string name="wednesday_short">Stř</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-   <string name="hybrid_provider">Web. stránka je poskytovaná %1$s .</string>
-  <string name="no_network">Nelze se připojit k síti</string>
-  <string name="webview_reload">Znovu</string>
 </resources>

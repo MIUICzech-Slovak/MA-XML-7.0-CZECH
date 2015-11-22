@@ -398,6 +398,7 @@
   <string name="entertainment_news_settings">Zprávy z kultury</string>
   <string name="eo_disable">Pracovní příležitosti zakázány</string>
   <string name="eo_enable">Pracovní příležitosti povoleny</string>
+  <string name="error_type_account_inner">Chyba</string>
   <string name="error_updating_title">Chyba nastavení hovorů</string>
   <string name="exception_error">Došlo k chybě sítě, nebo karty SIM.</string>
   <string name="exportAllcontatsFailed">Export všech kontaktů na SIM selhal!</string>
@@ -420,6 +421,7 @@
   <string name="fdn_enable_puk2_requested">Heslo je nesprávné. Změňte kód PIN2 a zkuste to znovu.</string>
   <string name="fdn_enabled">Povolená telefonní čísla jsou zapnuta</string>
   <string name="fdn_failed">Operace FDN selhala.</string>
+  <string name="fdn_full">FDN nebyly aktualizovány, protože seznam je plný.</string>
   <string name="fdn_invalid_number">Povolené telefonní číslo nebylo aktualizováno: Délka čísla nemůže přesahovat 20 číslic.</string>
   <string name="fdn_service_unavailable">FDN služba není dostupná.</string>
   <string name="fdn_summary">Omezit odchozí hovory jen na čísla v tomto seznamu</string>
@@ -529,6 +531,7 @@
   <string name="list_language_dtitle">Jazyky</string>
   <string name="list_language_summary">Vyberte jazyk zpráv</string>
   <string name="list_language_title">Jazyk</string>
+  <string name="livetalk_provider">Poskytuje %1$s</string>
   <string name="load_networks_progress">Vyhledávám...</string>
   <string name="local_disable">Místní zprávy zakázány</string>
   <string name="local_enable">Místní zprávy povoleny</string>
@@ -1164,7 +1167,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="error_type_account_inner">Chyba</string>
-  <string name="fdn_full">FDN nebyly aktualizovány, protože seznam je plný.</string>
-  <string name="livetalk_provider">Poskytuje %1$s</string>
 </resources>

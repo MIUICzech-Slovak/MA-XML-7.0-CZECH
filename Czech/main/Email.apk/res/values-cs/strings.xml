@@ -226,6 +226,7 @@
   <string name="archive">Archivovat</string>
   <string name="archived">Archivováno</string>
   <string name="att_download_failed_content">Stahování selhalo</string>
+  <string name="att_download_failed_network_slow">Pomalé připojení, stáhněte později.</string>
   <string name="att_download_failed_title">Stahování přílohy selhalo</string>
   <string name="att_file_not_exists">Soubor %s nebyl nalezen!</string>
   <string name="att_mgr_no_attachment">Žádné přílohy!</string>
@@ -276,6 +277,13 @@
   <string name="bottom_bar_more_unread">Nepřečteno</string>
   <string name="bottom_bar_no_quickreply_toast">Bez rychlé odpovědi</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Připomenout</string>
+  <string name="calendar_remind_gridview_month_later">Za měsíc</string>
+  <string name="calendar_remind_gridview_nextweek">Za týden</string>
+  <string name="calendar_remind_gridview_pick_date">Vybrat datum</string>
+  <string name="calendar_remind_gridview_tomorrow">Zítra</string>
+  <string name="calendar_remind_gridview_tonight">Večer</string>
+  <string name="calendar_remind_gridview_weekend">Víkend</string>
   <string name="cancel">Zrušit</string>
   <string name="cancel_action">Zrušit</string>
   <string name="cancel_attachment">Zrušit</string>
@@ -404,6 +412,7 @@
   <string name="discard">Zahodit</string>
   <string name="discard_drafts">Zahodit koncepty</string>
   <string name="dismiss_tip_hover_text">Zavřít tip</string>
+  <string name="disturb_switch">Nerušit</string>
   <string name="done">Hotovo</string>
   <string name="done_action">Hotovo</string>
   <string name="donot_disturb_endtime_title">Konec</string>
@@ -490,7 +499,9 @@
   <string name="get_database_exception">Chyba databáze. Vymažte data aplikace E-mail v Nastaveních.</string>
   <string name="gmail_acceleration">Použít proxy pro Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Použít proxy server pro přístup k Gmail účtu?</string>
+  <string name="gmail_login_failed_non_proxy_title">Přístup k Gmail serveru selhal</string>
   <string name="gmail_login_verify">Přidat Gmail účet</string>
+  <string name="gmail_server_authorization_deleted">Autorizace přístupu selhala, zkuste se znovu přihlásit.</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Přihlásit se na Gmail</string>
   <string name="head_only_enable_dialog_message">Přes mobilní data se stáhnou jen hlavičky zpráv namísto celé zprávy.</string>
@@ -674,6 +685,7 @@ Kopie: %4$s
   <string name="outbox_alert_description_cannot_authenticate">Chyba přihlášení na %s</string>
   <string name="outbox_alert_description_email_size_error">Dosaženo maximální velikosti zprávy.</string>
   <string name="outbox_alert_description_fail_authentication">Jméno nebo heslo není správné</string>
+  <string name="outbox_alert_description_fail_network">Chyba sítě.</string>
   <string name="outbox_alert_description_http_error">Příčina: HTTP chyba serveru během synch. odchozí pošty</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatek volného místa na serveru</string>
   <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synch. odchozí pošty</string>
@@ -815,6 +827,7 @@ Kopie: %4$s
   <string name="remove_folder">Odstranit ze složky %1$s</string>
   <string name="remove_star">Hvězdička</string>
   <string name="reply">Odpovědět</string>
+  <string name="reply_add_bodycontent">Vložit rychlou odpověď?</string>
   <string name="reply_all">Odpovědět všem</string>
   <string name="reply_attribution" formatted="false">Dne %s %s napsal(a):</string>
   <string name="replyto_heading">"Odpovědět: "</string>
@@ -981,17 +994,4 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="disturb_switch">Nerušit</string>
-  <string name="gmail_login_failed_non_proxy_title">Přístup k Gmail serveru selhal</string>
-  <string name="gmail_server_authorization_deleted">Autorizace přístupu selhala, zkuste se znovu přihlásit.</string>
-  <string name="outbox_alert_description_fail_network">Chyba sítě.</string>
-  <string name="att_download_failed_network_slow">Pomalé připojení, stáhněte později.</string>
-  <string name="calendar_remind_dialog_title">Připomenout</string>
-  <string name="calendar_remind_gridview_month_later">Za měsíc</string>
-  <string name="calendar_remind_gridview_nextweek">Za týden</string>
-  <string name="calendar_remind_gridview_pick_date">Vybrat datum</string>
-  <string name="calendar_remind_gridview_tomorrow">Zítra</string>
-  <string name="calendar_remind_gridview_tonight">Večer</string>
-  <string name="calendar_remind_gridview_weekend">Víkend</string>
-  <string name="reply_add_bodycontent">Vložit rychlou odpověď?</string>
 </resources>

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_label">HTML Viewer</string>
   <string name="app_name_which_call">Aplikace: %s</string>
@@ -6,8 +7,8 @@
   <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení jděte na %s</string>
   <string name="loading">Načítání...</string>
   <string name="mibi_license">Podmínky používání MiKreditů</string>
-  <string name="policy_name">Podmínky: %s</string>
   <string name="open_wifi_connect_summary">Zobrazit podrobnosti.</string>
   <string name="open_wifi_connect_title">Připojit k %1$s</string>
   <string name="permdesc_accessDrm">Povolí aplikaci přístup k DRM chráněnému obsahu.</string>
+  <string name="policy_name">Podmínky: %s</string>
 </resources>

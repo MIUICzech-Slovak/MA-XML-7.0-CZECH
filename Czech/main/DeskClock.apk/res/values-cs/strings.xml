@@ -88,6 +88,8 @@
   <string name="shutdown_alarm_enable_summary">Budík je povolen</string>
   <string name="shutdown_alarm_title">Zapnout zařízení před buzením</string>
   <string name="silent_alarm_summary">Tichý</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+  <string name="skip_alarm_once_hint">Vypnout jen %s</string>
   <string name="slider_text">Potáhněte nahoru</string>
   <string name="snooze_confirm_cancel">Zrušit budík</string>
   <string name="snooze_duration_title">Délka odložení</string>
@@ -119,6 +121,10 @@
   <string name="timer_start_alarm">Časovač vypršel</string>
   <string name="timer_title">Časovač</string>
   <string name="timezone_exist_error_message">Časovou zónu nelze přidat, již existuje.</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
+  <string name="turn_off_a_repeat_alarm">Vypnout opakování budíku</string>
+  <string name="turn_off_this_repeat_alarm">Vypnout opakování tohoto budíku</string>
   <string name="vibrate_pref_summary">Vibrovat během buzení</string>
   <string name="vibrate_when_ringing">Vibrovat během zvonění</string>
   <string name="volume_button_setting_summary">Nastavte funkci těchto tlačítek, pokud jsou stisknuta během vyzvánění budíku.</string>
@@ -126,10 +132,4 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-  <string name="skip_alarm_once_hint">Vypnout jen %s</string>
-  <string name="today">Dnes</string>
-  <string name="tomorrow">Zítra</string>
-  <string name="turn_off_a_repeat_alarm">Vypnout opakování budíku</string>
-  <string name="turn_off_this_repeat_alarm">Vypnout opakování tohoto budíku</string>
 </resources>

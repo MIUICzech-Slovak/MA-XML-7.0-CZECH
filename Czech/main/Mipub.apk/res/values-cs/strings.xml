@@ -85,6 +85,7 @@
   <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmí být prázdný</string>
   <string name="invalid_conversation">Chybná konverzace</string>
   <string name="left_cancel">Potáhněte doleva pro zrušení</string>
+  <string name="low_memory">low_memory!</string>
   <string name="menu_add_black">Blokovat</string>
   <string name="menu_add_contact">Kontakt</string>
   <string name="menu_call">Zavolat</string>
@@ -97,6 +98,9 @@
   <string name="menu_new_contact">Nový kontakt</string>
   <string name="menu_unlock">Odemknout</string>
   <string name="menu_yellowpage">Zobrazit %s</string>
+  <string name="message_block_confirmation">Opravdu nechcete přijímat SMS zprávy?</string>
+  <string name="message_block_processing">Zpracovávání</string>
+  <string name="message_block_reminder">Připomenutí</string>
   <string name="message_failed">Neúspěšné</string>
   <string name="message_pending">Odesílání...</string>
   <string name="message_readed">Přečteno</string>
@@ -187,6 +191,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="restore_blocked_message">Obnovit zprávy</string>
   <string name="retrive_hms_tips">Načítání...</string>
   <string name="save">Uložit</string>
+  <string name="scan_result">Výsledek</string>
   <string name="search_empty">Žádné výsledky</string>
   <string name="search_hint">Hledat ve zprávách</string>
   <string name="search_label">Zprávy</string>
@@ -234,10 +239,5 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
-  <string name="low_memory">low_memory!</string>
-  <string name="scan_result">Výsledek</string>
   <string name="yes">OK</string>
-  <string name="message_block_confirmation">Opravdu nechcete přijímat SMS zprávy?</string>
-  <string name="message_block_processing">Zpracovávání</string>
-  <string name="message_block_reminder">Připomenutí</string>
 </resources>

@@ -357,6 +357,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_precast_update_notification_title">Aktualizovaná témata MIUI 7</string>
   <string name="theme_provision_default_theme_title">Výchozí</string>
   <string name="theme_provision_loading_tips">Načítání...</string>
+  <string name="theme_provision_oper_button_next">Další</string>
   <string name="theme_provision_title">Vyberte si téma</string>
   <string name="theme_purchased_list_empty">nebylo zakoupeno žádné téma</string>
   <string name="theme_purchased_non_local">Ne lokální</string>
@@ -385,5 +386,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
-  <string name="theme_provision_oper_button_next">Další</string>
 </resources>
