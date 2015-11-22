@@ -63,7 +63,6 @@ o %1$s"</string>
   <string name="alarm_tips">MiBand přestane vibrovat po zvednutí se z postele. Kdykoliv můžete vibrace vypnout poklepáním. "</string>
   <string name="alert_msg_unable_start_camera">"Nelze připojit kameru.
 Zkontrolujte oprávnění aplikace MiFit."</string>
-  <string name="alert_title_unable_start_camera">无法启动相机</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mma</string>
   <string name="apk_download_ok">Aplikace MiBand stažena</string>
@@ -199,7 +198,6 @@ Přidejte nového uživatele váhy"</string>
   <string name="chart_info_step">Aktivita</string>
   <string name="chart_info_step_average">Prům. aktivita</string>
   <string name="chart_info_step_piece">Aktuální aktivita</string>
-  <string name="chart_info_step_run_shoes">跑鞋</string>
   <string name="chart_info_step_running">Uběhnuto</string>
   <string name="chart_info_step_running_average">Prům. uběhnuto</string>
   <string name="chart_info_step_running_piece">Právě uběhnuto</string>
@@ -290,7 +288,6 @@ ušetřeno %2$s galonů paliva"</string>
   <string name="devices_miband_label">MiBand</string>
   <string name="devices_scale_label">Váha</string>
   <string name="devices_shoes_label">Boty</string>
-  <string name="dialog_confirm">我知道了</string>
   <string name="disable_debug_log">Debug log inactive</string>
   <string name="disable_hidden_feature">Skrytá aktivita deaktivována</string>
   <string name="discard">Zrušit změny</string>
@@ -382,7 +379,6 @@ Byl dosažen váš cíl."</string>
   <string name="first_use_remain_days_format">%s dní od prvního použití</string>
   <string name="found_bracelet_info">Když blikají LED na MiBand, dotkněte se ho pro propojení se zařízením</string>
   <string name="found_weight_scale_title">Nalezena nová váha. Ujistěte se, že obě čísla jsou stejné a potvrďte připojení.</string>
-  <string name="friend_list_get_error">获取好友列表失败</string>
   <string name="friend_new_user_guide">Po přijetí žádosti o přátelství, bude příteli vibrovat MiBand kvůli upozornění.</string>
   <string name="friend_new_user_guide_ok">OK</string>
   <string name="friend_new_user_guide_ok_toast">Přidaný přítel</string>
@@ -467,9 +463,6 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="incomingcall_info_2">"Uzamkněte aplikaci MiBand a 
 přidejte MiBand do seznamu povolených."</string>
   <string name="incomingcall_info_3">Přidejte aplikaci MiBand do seznamu povolených.</string>
-  <string name="info_step_shoes_calorie_total">跑鞋消耗</string>
-  <string name="info_step_shoes_distance_total">跑鞋里程</string>
-  <string name="info_step_shoes_total">跑鞋步数</string>
   <string name="input_family_member_name">Přidejte člena rodiny</string>
   <string name="input_person_name">Zadejte jméno</string>
   <string name="input_precise_person_info">Vytvořit profil</string>
@@ -842,12 +835,6 @@ Pokračujte!"</string>
   <string name="runed">Zaběhnuté</string>
   <string name="runner_unlogin_notice">"Vaše data se nesynchronizují s MiCloud. Chcete se přihlásit?"</string>
   <string name="running_altitude">Nadmořská výška</string>
-  <string name="running_auto_pause">Automaticky zastavit</string>
-  <string name="running_auto_pause_desc">Automaticky zastavit záznam trasy při přestávce běhání</string>
-  <string name="running_average_speed">Průměrně</string>
-  <string name="running_backgroud_notification">Běhání...</string>
-  <string name="running_btn_confirm">Ano</string>
-  <string name="running_btn_continue">Ne</string>
   <string name="running_btn_delete">Vymazat</string>
   <string name="running_btn_history">Historie</string>
   <string name="running_btn_save">Uložit</string>
@@ -894,7 +881,6 @@ Pokračujte!"</string>
   <string name="running_gps_main_statistics_speed_disc_br">Speed(min/mile)</string>
   <string name="running_gps_poor_signal">Slabý signál GPS.</string>
   <string name="running_gps_turnon">Zapnout</string>
-  <string name="running_helper">Sledování trasy</string>
   <string name="running_history">Historie</string>
   <string name="running_history_child_date_format">%1$d</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
@@ -915,7 +901,6 @@ Pokračujte!"</string>
   <string name="running_hour_min" formatted="false">%d h %d m</string>
   <string name="running_hour_min_sec" formatted="false">%d h %d m %d s</string>
   <string name="running_hour_sec" formatted="false">%d h %d s</string>
-  <string name="running_kg">kg</string>
   <string name="running_kilometer">km</string>
   <string name="running_kilometers">" km"</string>
   <string name="running_kilometers_per_hour">" km/h"</string>
@@ -1044,12 +1029,6 @@ odeslán na server."</string>
   <string name="set_mili_name_fail">Přejmenování MiBand selhalo!</string>
   <string name="set_mili_name_ok">MiBand přejmenován</string>
   <string name="set_person_goal">Nastavení cíle</string>
-  <string name="set_rssi_close">1m内</string>
-  <string name="set_rssi_distance">设置解锁距离</string>
-  <string name="set_rssi_failed">Rssi设置失败</string>
-  <string name="set_rssi_nearby">3m内</string>
-  <string name="set_rssi_success">Rssi设置成功</string>
-  <string name="set_rssi_very_close">靠近手机</string>
   <string name="set_sport_goal">Nastavit cíl</string>
   <string name="set_unit">Zvolit jednotky</string>
   <string name="set_user_suc_tips">První vážení bude automaticky spárováno s uživatelem.</string>
@@ -1070,8 +1049,6 @@ Překlad: miuios.cz/miband"</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Děkujeme za váš názor</string>
   <string name="setting_feedback_send">Odeslat</string>
-  <string name="setting_realtime_hr">实时心率</string>
-  <string name="setting_realtime_hr_info">用于心率手环测试实时心率，很耗电</string>
   <string name="share">Sdílet</string>
   <string name="share_blog_cancel">Zrušit</string>
   <string name="share_blog_message_hint">Napište něco...</string>
