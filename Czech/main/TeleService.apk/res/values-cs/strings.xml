@@ -589,7 +589,7 @@
   <string name="mobile_data_on">zap</string>
   <string name="mobile_network_settings_not_available">Nastavení mobilní sítě nejsou pro tohoto uživatele dostupná</string>
   <string name="mobile_networks">Nastavení mobilní sítě</string>
-  <string name="msim_apn_not_set">Nastaveno</string>
+  <string name="msim_apn_not_set">Nenastaveno</string>
   <string name="msim_default_setting">Výchozí nastavení</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">Tato karta je momentálně nastavena jako výchozí SIM pro mobilní data. Pokud ji zakážete, nebude možné uskutečnit hovory nebo využívat mobilní data. Tuto SIM kartu můžete zakázat až poté, co jako výchozí zvolíte druhou SIM."</string>
@@ -603,7 +603,7 @@
   <string name="msim_info_editor_set_name_error">Nastala chyba, zkuste to znovu později.</string>
   <string name="msim_mode_progress_activating_message">Povolení</string>
   <string name="msim_mode_progress_deactivating_message">Zákaz</string>
-  <string name="msim_not_set_summary">Nastaveno</string>
+  <string name="msim_not_set_summary">Nenastaveno</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Volání</string>
   <string name="msim_select_default_time_left">(%ds)</string>
