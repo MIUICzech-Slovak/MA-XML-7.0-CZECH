@@ -58,7 +58,7 @@
   <string name="change_duration_activity">Změna doby trvání</string>
   <string name="check_all">Vybrat vše</string>
   <string name="chenghu_disable_mms">Editace MMS adres je neplatná</string>
-  <string name="class_0_message_activity">Třída 0 zpráv</string>
+  <string name="class_0_message_activity">Zpráva třídy 0</string>
   <string name="close">Zavřít</string>
   <string name="cloud_recommend_msg">Dotykem synchr. SMS s MiCloud.</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
