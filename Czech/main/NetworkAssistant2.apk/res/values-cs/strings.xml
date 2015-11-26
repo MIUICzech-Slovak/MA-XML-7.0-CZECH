@@ -110,7 +110,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_network_restrict_notify_message">Změnit nastavení</string>
   <string name="firewall_network_restrict_notify_mobile">Mobilní data</string>
   <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k %2$s.</string>
-  <string name="firewall_restrict_android_dialog_content">Pokud zakážete Androidu k internetu, některé funkce typu Wi-Fi hotspot nebudou fungovat správně.</string>
+  <string name="firewall_restrict_android_dialog_content">Pro zajištění správné funkčnosti systému, budou mít některé systémové aplikace stále přístup k internetu. Tyto aplikace budou využívat vaše mobilní připojení.</string>
   <string name="firewall_restrict_android_dialog_title">Upozornění</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Mezinárodní roaming</string>
@@ -146,7 +146,7 @@ For more info check the message you received from your service provider"</string
   <string name="lock_screen_setting_summary">Upozornění se zobrazí až po stažení 100 KB a více</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s staženo v uzamčeném stavu</string>
   <string name="lock_screen_traffic_guide_notification_title">Spravovat spotřebu dat</string>
-  <string name="lock_screen_traffic_notify_body">Uzamknuto %2$s v %1$s. Staženo %3$s</string>
+  <string name="lock_screen_traffic_notify_body">Uzamčeno %2$s v %1$s. Staženo %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Zakoupit (Jen v Číně)</string>
   <string name="lock_screen_traffic_warn_title">Spotřeba dat při vyp. displeji</string>
   <string name="lock_screen_warning_category">Upozornění na zamykací obrazovce</string>
@@ -525,7 +525,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_need_optimize">Může být optimalizováno</string>
   <string name="traffic_saving_notification_button_start">Aktivovat</string>
-  <string name="traffic_saving_notify_no_apps_saving">Žádné apl. nevyužívají úsporu dat</string>
+  <string name="traffic_saving_notify_no_apps_saving">Ušetřete mobilní data</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilních dat.</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento měsíc %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dat</string>

@@ -545,7 +545,7 @@ společně!"</string>
   <string name="old">​Stará</string>
   <string name="only_show_camera_in_first_page">Fotografie z alba na první straně</string>
   <string name="only_show_camera_in_first_page_summary">Pokud je deaktivováno, budou zobrazeny fotografie ze všech alb v MiCloud.</string>
-  <string name="open">Otevřít</string>
+  <string name="open">Synchr.</string>
   <string name="open_public_message">Vytvořit URL a odeslat ostatním</string>
   <string name="open_public_title">Sdílet veřejně</string>
   <string name="open_single_image_failure">Obrázek se nepodařilo otevřít!</string>
@@ -848,4 +848,7 @@ společně!"</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
+  <string name="operation_add_secret_button">Skrýt</string>
+  <string name="operation_remove_from_face_album_button">Odebrat</string>
+  <string name="operation_remove_secret_button">Odkrýt</string>
 </resources>
