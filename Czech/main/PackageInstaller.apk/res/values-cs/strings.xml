@@ -124,4 +124,7 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="waiting_tip">Kontrola může trvat i 1 min.</string>
+  <string name="btn_text_full_scan">Plná kontrola</string>
+  <string name="message_full_scanning">Kontrola...</string>
+  <string name="message_quick_scanning">Rychlá kontrola...</string>
 </resources>

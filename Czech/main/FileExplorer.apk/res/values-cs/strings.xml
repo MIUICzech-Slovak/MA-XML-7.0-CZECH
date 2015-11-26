@@ -554,7 +554,11 @@ Bylo přičteno dalších %1$s"</string>
   <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
-  <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="add_private">Přidat soubor do soukromé složky</string>
+  <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
+  <string name="private_folder_no_file_hints">Podržte soubor nebo složku pro jejich skrytí.</string>
+  <string name="private_folder_update">Aktualizování soukromých souborů</string>
 </resources>
