@@ -619,7 +619,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_snap_entry_off">Vypnuto</string>
   <string name="pref_camera_snap_entry_take_movie">Během vypnutého displeje stiskněte a podržte tlačítko hlasitosti dolů pro nahrávání videa. Pusťte tlačítko pro zastavení nahrávání.</string>
   <string name="pref_camera_snap_entry_take_picture">Během vypnutého displeje stiskněte a podržte tlačítko hlasitosti dolů pro dávkové snímání fotografií. Pusťte tlačítko pro zastavení.</string>
-  <string name="pref_camera_snap_value_off">Vypnuto</string>
-  <string name="pref_camera_snap_value_take_movie">Video</string>
-  <string name="pref_camera_snap_value_take_picture">Fotografie</string>
 </resources>
