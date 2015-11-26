@@ -11,4 +11,11 @@
   <string name="open_wifi_connect_title">Připojit k %1$s</string>
   <string name="permdesc_accessDrm">Povolí aplikaci přístup k DRM chráněnému obsahu.</string>
   <string name="policy_name">Podmínky: %s</string>
+  <string name="settings_license_activity_loading">Načítání...</string>
+  <string name="settings_license_activity_title">Licence Open source</string>
+  <string name="settings_license_activity_unavailable">Nastal problém s načtením licence.</string>
+  <string name="settings_safetylegal_activity_loading">Načítání...</string>
+  <string name="settings_safetylegal_activity_title">Bezpečnostní informace</string>
+  <string name="settings_safetylegal_activity_unreachable">Nemáte připojení k internetu. Pro zobrazení této informace navštivte %s z vašeho PC připojeného k internetu.</string>
+  <string name="settings_safetylegal_title">Bezpečnostní informace</string>
 </resources>
