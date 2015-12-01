@@ -469,11 +469,8 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="hr_not_wear_bracelet">Zapněte si MiBand na ruku</string>
   <string name="hr_tips1">"Zapněte Bluetooth a připojte boty před během.
 Při běhání nevypínejte Bluetooth."</string>
-  <string name="hr_tips10">Anaerobní cvičeni spaluje více cukru.</string>
-  <string name="hr_tips11">Pokud běžíte pomaleji, vaše tělo se udržuje v aerobním režimu a spaluje více tuku. Udržujte tep serdce co nejnižší.</string>
   <string name="hr_tips12">Aerobní cvičení spaluje více tuku.</string>
   <string name="hr_tips2">Připojte MiBand se snímačem tepu.</string>
-  <string name="hr_tips3">"Doporučuje se udržovat tep srdce pod maximální úrovní aerobního běhu. Průměrný věk uživatele MiBandu je 25 let, mnoho pracuje a má méně fyzické aktivity. Maximální tep srdce v tomto případě bude okolo 180-25-5=150 BPM. Takže při běhu je lepší mít tep kolem 140-150 BPM."</string>
   <string name="hr_tips4">Dýchejte zhluboka pro co nejefektivnější spalování kalorií.</string>
   <string name="hr_tips5">"1. základní tep je = 180 - věk (BPM).
 2. Nastavte si optimální tep dle vaší situace.
@@ -1698,4 +1695,38 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="your_gender">Pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnost</string>
+  <string name="bind_heartrate">Připojit MiBand Pulz</string>
+  <string name="bind_heartrate_text">Připojit MiBand Pulz pro sledování vašeho tepu</string>
+  <string name="hr">Váš %s</string>
+  <string name="hr_btn">Necvičím</string>
+  <string name="hr_detail_description">Lidé, kteří hodně cvičí, mají obvykle nižší tep. Běžné cvičení a zdravý životní style zlepšují činnost vašeho srdce.</string>
+  <string name="hr_detail_description1">Udržování tepu na této úrovni pomáhá spalovat více tuku.</string>
+  <string name="hr_detail_fast">Váš tep je vysoký</string>
+  <string name="hr_detail_normal">Váš tep je normální</string>
+  <string name="hr_detail_slow">Váš tep je nízký</string>
+  <string name="hr_detail_sports">Tep je většinou rychlejší při cvičení</string>
+  <string name="hr_detail_title">Běžný tep je: 60-100 bpm</string>
+  <string name="hr_detail_title1" formatted="false">"Ideální tep při cvičení je:
+60 %  -80 % z maximálního tepu (220 - věk)"</string>
+  <string name="hr_fast">Tep je rychlý</string>
+  <string name="hr_in">"You're engaged in %s"</string>
+  <string name="hr_normal">Tep je normální</string>
+  <string name="hr_reminder">Upozornění na tep</string>
+  <string name="hr_slow">Tep je nízký</string>
+  <string name="hr_sports">Fyzická aktivita</string>
+  <string name="hr_tips10">Ideální tep při cvičení pro různý věk</string>
+  <string name="hr_tips12" formatted="false">"Ideální tep při cvičení je:
+60 % - 80 % z maximálního aerobního tepu (220 - věk)"</string>
+  <string name="hr_tips3" formatted="false">Např.: Jiří má 20 let, jeho ideální tep při cvičení je 120 - 160 bpm (60 % - 80 % z 200 = 220 - 20).</string>
+  <string name="lab_factory_left_time">Zbývá čas/s</string>
+  <string name="lab_factory_sport_monitor_shoes_offline_notice">Připojte boty</string>
+  <string name="lab_factory_time_label">Odpočítávání/s</string>
+  <string name="label_remind">Pokud bude váš tep nad touto úrovní, MiBand dvakrát zavibruje.</string>
+  <string name="max_hr">Maximální tep</string>
+  <string name="measure_reminder">&lt;b&gt;"Přitiskněte MiBand na pokožku a nehýbejte se"</string>
+  <string name="measure_reminder_small">Držte vaši ruku v úrovni hrudi během měření</string>
+  <string name="no_heartrate">Nemám MiBand</string>
+  <string name="run_hr_instruct">(Asistent běhu)</string>
+  <string name="running_cancel">Zrušit</string>
+  <string name="sport_setting">Nastavení cvičení</string>
 </resources>
