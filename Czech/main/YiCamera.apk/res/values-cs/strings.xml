@@ -530,8 +530,8 @@ Copyright © 2014-2015 XiaoYi. All Rights Reserved."</string>
   <string name="link_test_intranet">Detekce sítě</string>
   <string name="list_friends">Friends on %s</string>
   <string name="listen_wifi_password_error">Chybné Wi-Fi heslo</string>
-  <string name="live">Naživo</string>
-  <string name="live_video">Naživo</string>
+  <string name="live">Živě</string>
+  <string name="live_video">Živě</string>
   <string name="live_video_off">Kamera je vypnuta</string>
   <string name="loading">Načítání...</string>
   <string name="loading_video">Stahování videa</string>
