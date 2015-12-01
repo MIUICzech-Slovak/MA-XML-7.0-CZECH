@@ -90,10 +90,10 @@ Váš účet bude dočasně zablokovaný,
   <string name="create_share_link_description">Vytváření odkazu pro sdílení...</string>
   <string name="create_shortcut_cancel">Ne, děkuji</string>
   <string name="create_shortcut_checkbox_hint">Znovu nezobrazovat</string>
-  <string name="create_shortcut_confirm">Vytvořit</string>
-  <string name="create_shortcut_message">Využíváte aplikaci Soubory velmi často. Chcete vytvořit odkaz na domácí obrazovce?</string>
+  <string name="create_shortcut_confirm">Vytvořit</string>phone
+  <string name="create_shortcut_message">Vytvořit odkaz na domácí ploše?</string>
   <string name="create_shortcut_success">Odkaz vytvořen</string>
-  <string name="create_shortcut_title">Vytvořit odkaz</string>
+  <string name="create_shortcut_title">Vytvořit odkaz?</string>
   <string name="cution">Tipy</string>
   <string name="data_capacity">Kapacita: %1$s</string>
   <string name="data_consumption_cancel">Ukončit</string>
@@ -379,7 +379,7 @@ and never miss the cool new ones!"</string>
   <string name="partial_repair_done">Některé soubory byly úspěšně obnoveny</string>
   <string name="paused">Pozastaveno</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Telefon</string>
+  <string name="phone">Interní úložiště</string>
   <string name="pick_folder">Vybrat složku</string>
   <string name="port_range">Port musí být mezi 1024–65535</string>
   <string name="private_files">Soukromé</string>
@@ -557,8 +557,9 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="add_private">Přidat soubor do soukromé složky</string>
+  <string name="add_private">Přidat soubor</string>
   <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
-  <string name="private_folder_no_file_hints">Podržte soubor nebo složku pro jejich skrytí.</string>
+  <string name="private_folder_no_file_hints">Žádné soukromé soubory.</string>
   <string name="private_folder_update">Aktualizování soukromých souborů</string>
+   <string name="backup_checkbox_msg">Vždy zálohovat a zobrazit upozornění</string>
 </resources>

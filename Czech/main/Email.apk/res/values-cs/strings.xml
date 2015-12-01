@@ -994,4 +994,7 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrování...</string>
+  <string name="contact_edit_set_black_list_title">Nastavit seznam blokovaných</string>
+  <string name="fail_get_email_message">Načítání zprávy selhalo.</string>
 </resources>

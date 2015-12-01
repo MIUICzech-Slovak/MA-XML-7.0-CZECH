@@ -277,4 +277,18 @@ a Přenos je povolen"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
+  <string name="trans_generate_qr_code_failed">Nelze vytvořit QR kód</string>
+  <string name="trans_operate_new_phone_tips">"Načtěte QR kód novým zařízením.
+Jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení a 
+stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
+  <string name="trans_operate_old_phone_tips1">"Metoda A
+1. Nainstalujte aktuální verzi MIUI
+2. Spusťte Přesun do nového zařízení a stiskněte [Jsem odesílatel]
+3. Načtěte QR kód starým zařízením"</string>
+  <string name="trans_operate_old_phone_tips2">"Metoda B
+Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení
+a stiskněte [Jsem odesílatel]"</string>
+  <string name="trans_scan_invalid_qrcode">Špatný QR kód</string>
+  <string name="trans_scan_qr_code_tips">Načtěte QR kód novým zařízením</string>
+  <string name="trans_show_qr_code_tips">Načtěte QR kód starým zařízením</string>
 </resources>
