@@ -90,7 +90,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="create_share_link_description">Vytváření odkazu pro sdílení...</string>
   <string name="create_shortcut_cancel">Ne, děkuji</string>
   <string name="create_shortcut_checkbox_hint">Znovu nezobrazovat</string>
-  <string name="create_shortcut_confirm">Vytvořit</string>phone
+  <string name="create_shortcut_confirm">Vytvořit</string>
   <string name="create_shortcut_message">Vytvořit odkaz na domácí ploše?</string>
   <string name="create_shortcut_success">Odkaz vytvořen</string>
   <string name="create_shortcut_title">Vytvořit odkaz?</string>
