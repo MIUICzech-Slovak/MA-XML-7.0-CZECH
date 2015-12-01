@@ -469,7 +469,6 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="hr_not_wear_bracelet">Zapněte si MiBand na ruku</string>
   <string name="hr_tips1">"Zapněte Bluetooth a připojte boty před během.
 Při běhání nevypínejte Bluetooth."</string>
-  <string name="hr_tips12">Aerobní cvičení spaluje více tuku.</string>
   <string name="hr_tips2">Připojte MiBand se snímačem tepu.</string>
   <string name="hr_tips4">Dýchejte zhluboka pro co nejefektivnější spalování kalorií.</string>
   <string name="hr_tips5">"1. základní tep je = 180 - věk (BPM).
@@ -1723,7 +1722,6 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="lab_factory_time_label">Odpočítávání/s</string>
   <string name="label_remind">Pokud bude váš tep nad touto úrovní, MiBand dvakrát zavibruje.</string>
   <string name="max_hr">Maximální tep</string>
-  <string name="measure_reminder">&lt;b&gt;"Přitiskněte MiBand na pokožku a nehýbejte se"</string>
   <string name="measure_reminder_small">Držte vaši ruku v úrovni hrudi během měření</string>
   <string name="no_heartrate">Nemám MiBand</string>
   <string name="run_hr_instruct">(Asistent běhu)</string>
