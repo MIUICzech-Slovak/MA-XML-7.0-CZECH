@@ -25,7 +25,8 @@
     <string-array name="cache_clean_menu">
         <item>Vyčistit</item>
         <item>Soubor</item>
-        <item>Výjimka</item>
+        <item>Přidat soubor do výjimek</item>
+        <item>Přidat apl. do výjimek</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Vyčistit</item>
@@ -47,4 +48,9 @@
         <item>Každých 15 dní</item>
         <item>Každých 30 dní</item>
     </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Vyčistit</item>
+        <item>Soubor</item>
+        <item>Přidat soubor do výjimek</item>
+     </string-array>
 </resources>
