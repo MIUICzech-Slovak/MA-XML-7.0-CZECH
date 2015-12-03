@@ -712,8 +712,6 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="marathon_format_1">Více jak %1$s maratonu</string>
   <string name="measure">Změřit tep</string>
   <string name="measure_fail">Nelze změřit</string>
-  <string name="measure_reminder">"Držte vaše zápěstí v úrovní srdce
-a senzor co nejblíže k pokožce"</string>
   <string name="measure_tips">Držte senzor co nejblíže u pokožky</string>
   <string name="measuring">Měření...</string>
   <string name="median">Median</string>

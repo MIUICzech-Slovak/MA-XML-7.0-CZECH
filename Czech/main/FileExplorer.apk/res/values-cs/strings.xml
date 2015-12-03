@@ -143,7 +143,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="enable_sd_card">Povolit SD kartu</string>
   <string name="encrypt_error">Nelze vytvořit soukromé soubory, zkuste to znovu.</string>
   <string name="encrypt_prefix">SOUKROMÁ</string>
-  <string name="encrypt_success">Všechny soubory jsou soukromé.</string>
+  <string name="encrypt_success">Úspěšně skryto</string>
   <string name="encrypting">Šifrování...</string>
   <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
   <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
