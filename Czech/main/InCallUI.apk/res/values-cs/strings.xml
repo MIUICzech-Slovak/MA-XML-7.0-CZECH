@@ -726,4 +726,22 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
+  <string name="card_title_incoming_conference_call">Příchozí konferenční hovor</string>
+  <string name="card_title_upgrade_video_call_error">Nelze aktualizovat video</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">Nelze aktualizovat video</string>
+  <string name="card_title_upgrade_video_call_requesting">Je vyžadováno video</string>
+  <string name="card_title_upgrade_video_call_timed_out">Nelze aktualizovat video</string>
+  <string name="card_title_video_call">Video hovor</string>
+  <string name="card_title_video_call_paused">Video pozastaveno</string>
+  <string name="conference_caller_info_name">"%1$s konferenční hovor</string>
+  <string name="conference_caller_name_me">Já</string>
+  <string name="incoming_answer_voice_text">Odpovědět hlasem</string>
+  <string name="notification_incoming_video_call">Příchozí video hovor</string>
+  <string name="onscreen_change_to_video">Video hovor</string>
+  <string name="onscreen_change_to_voice">Hlasový hovor</string>
+  <string name="onscreen_close_preview_camera">Ukončit kameru</string>
+  <string name="onscreen_rcs_text">Zprávy</string>
+  <string name="picking_participant">Načítání kontaktu...</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Vypněte TTY režim</string>
+  <string name="video_switch_to_voice_call_prompt">Přepnout na hlasový hovor</string>
 </resources>
