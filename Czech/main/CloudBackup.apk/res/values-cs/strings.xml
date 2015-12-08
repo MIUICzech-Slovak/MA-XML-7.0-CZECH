@@ -2,11 +2,11 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_to_recover">O obnově</string>
-  <string name="app_name">Záloha rozložení plochy</string>
+  <string name="app_name">MiCloud záloha</string>
   <string name="back_up_task_in_process">Zálohování...</string>
   <string name="back_up_task_unfinished">obnovení nebylo dokončeno</string>
   <string name="backing_up_to_micloud">Zálohování...</string>
-  <string name="backup_fail">Zálohování nastavení selhalo</string>
+  <string name="backup_fail">Zálohování selhalo</string>
   <string name="backup_size">Velikost: %s</string>
   <string name="backup_success">Záloha dokončena</string>
   <string name="backup_to_cloud">Zálohovat</string>
@@ -74,5 +74,43 @@
   <string name="start_backup_to_micloud">Zálohovat aplikace do MiCloud</string>
   <string name="start_recover">Obnovit %s</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="as_new_device">Nahradit předchozí rozložení plochy a nastavení</string>
+  <string name="as_new_device_summary">Vymazat předchozí zálohy v MiCloud</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Záloha bude odeslána na MiCloud při připojení k Wi-Fi: 
+*\u0009\u0009\u0009\u0009Rozložení plochy 
+*\u0009\u0009\u0009\u0009Zvonění, tapety a písmo 
+*\u0009\u0009\u0009\u0009Nastavení bodíku 
+*\u0009\u0009\u0009\u0009Nastavení upozornění 
+*\u0009\u0009\u0009\u0009Nastavení režimu Nerušit 
+*\u0009\u0009\u0009\u0009Nastavení MIUI a systému 
+Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud."</string>
+  <string name="cloud_back_up_frequence_choice_title">Plánování zálohy</string>
+  <string name="cloud_back_up_frequence_long">Každých 7 dní</string>
+  <string name="cloud_back_up_frequence_short">Každý den</string>
+  <string name="cloud_back_up_interval_long">7 dní</string>
+  <string name="cloud_back_up_interval_short">Každý den</string>
+  <string name="cloud_back_up_no_network_warn">Nelze se připojit k síti</string>
+  <string name="cloud_back_up_ok_btn">OK</string>
+ <string name="cloud_back_up_opening">Načítání...</string>
+  <string name="cloud_back_up_share_activity_confirm">Navýšit</string>
+  <string name="cloud_back_up_share_activity_discription">Získejte více místa na úložišti v MiCloud.</string>
+  <string name="cloud_back_up_share_activity_title">Navýšit Xiaomi účet</string>
+  <string name="cloud_backup_detail_frequence">Plánování zálohy</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s Záloha pouze jednou</string>
+  <string name="cloud_backup_detail_manage">Spravovat zálohu</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Záloha, velikost: %2$s</string>
+  <string name="cloud_backup_detail_state">MiCloud záloha</string>
+  <string name="cloud_backup_detail_state_summary">Apl, Nastavení plochy a systému</string>
+  <string name="cloud_backup_detail_time">, čas zálohy: %1$s</string>
+  <string name="confirm_restore">Obnovit</string>
+  <string name="confirm_restore_summary">Nastavení plochy bude obnoveno a aplikace se stáhnou po připojení na Wi-Fi</string>
+  <string name="confirm_restore_title">Obnovit</string>
+  <string name="query_restore_back_view">MiCloud záloha</string>
+  <string name="query_restore_description">Obnovit nastavení plochy a systému z této zálohy. Data aplikací, které byly doinstalovány, budou přepsána. Aplikace, které nejsou zálohovány, budou přesunuty na konec vaší plochy.</string>
+ <string name="query_restore_summary">Nalezena záloha v MiCloud pro toto zařízení. Obnovit nastavení plochy a systému nebo použít toto zařízení jako nové a smazat zálohu v MiCloud?</string>
+ <string name="restore_data_summary">Tato funkce vyžaduje internetové připojení.</string>
+ <string name="restore_from_this_device">Obnovit z této zálohy</string>
+ <string name="restore_home_screen_apps">Obnovit ze zálohy v MiCloud</string>
+ <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
 </resources>

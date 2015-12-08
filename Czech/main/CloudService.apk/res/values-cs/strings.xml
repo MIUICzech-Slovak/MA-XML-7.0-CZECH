@@ -51,7 +51,7 @@ To get more storage space, visit mi.com/micloud."</string>
 Naposledy: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Záloha vymazána</string>
-  <string name="cloud_back_up_title">Aplikace</string>
+  <string name="cloud_back_up_title">Zálohovat zařízení</string>
   <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
   <string name="cloud_find_device">Najít zařízení</string>
   <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
@@ -449,7 +449,12 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="wifi_disconnected">Wi-Fi odpojena</string>
   <string name="wifi_sync">Wi-Fi synchr.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="cloud_back_up_summary">Zálohovat při připojení k Wi-Fi</string>
+  <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
+  <string name="cloud_backup_select_recover">Vybrat zálohu z MiCloud</string>
+  <string name="header_cloud_backup_settings">Zálohovat a obnovit</string>
+  <string name="header_cloud_restore_summary">Obnovit aplikace, nastavení plochy a systému ze zálohy z MiCloud</string>
+  <string name="header_find_device_settings">Vyhledat zařízení</string>
 </resources>

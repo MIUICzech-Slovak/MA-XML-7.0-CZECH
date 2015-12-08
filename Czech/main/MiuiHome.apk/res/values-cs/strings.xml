@@ -297,4 +297,5 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
+  <string name="apply_as_lockwallpaper_action">Zámek obrazovky</string>
 </resources>
