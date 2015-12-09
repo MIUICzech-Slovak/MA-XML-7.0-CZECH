@@ -348,7 +348,7 @@
   <string name="contact_edit_title_permission">Práva kontaktu</string>
   <string name="contact_edit_title_phone_contact">Seznam kontaktů</string>
   <string name="contact_in_filter_call_phone_str">Hovor od %s</string>
-  <string name="contact_in_filter_title">" od této osoby."</string>
+  <string name="contact_in_filter_title">Odesílatel</string>
   <string name="contact_info_string">Zobrazit kontaktní údaje uživatele %1$s</string>
   <string name="contact_info_string_default">Zobrazit kontaktní údaje</string>
   <string name="contact_list_add_btn">Přidat</string>
@@ -879,9 +879,9 @@ Kopie: %4$s
   <string name="ser_resp_err_map_certificate_validator_err">"Ověření certifikátu selhalo
 \u0009 (Zkontrolujte, zda je nastavena "Automatická synchronizace")"</string>
   <string name="ser_resp_err_map_nouser">Uživatel neexistuje</string>
-  <string name="ser_resp_err_map_or">nebo</string>
+  <string name="ser_resp_err_map_or">%1$s alebo %2$s</string>
   <string name="ser_resp_err_map_pserr">Nesprávné jméno nebo heslo</string>
-  <string name="ser_resp_err_map_serclosed">Služba ukončena</string>
+  <string name="ser_resp_err_map_serclosed">%s server nedostupný</string>
   <string name="ser_resp_err_map_serclosed_url_tag">Jak to vyřešit?</string>
   <string name="ser_resp_err_map_ssl">"Zkuste vybrat 'SSL/TLS (Akceptovat všechny certifikáty)' v 'Zabezpečení'"</string>
   <string name="set_network">Nastavit síť</string>
@@ -995,6 +995,19 @@ Velikost aplikace: %2$s"</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
   <string name="contact_edit_set_black_list_filtering">Filtrování...</string>
-  <string name="contact_edit_set_black_list_title">Nastavit seznam blokovaných</string>
+  <string name="contact_edit_set_black_list_title">Přidat do blokovaných</string>
   <string name="fail_get_email_message">Načítání zprávy selhalo.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Neznámá chyba</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechat pro</string>
+  <string name="del_account_questionnair_hint">Sdělte nám prosím důvod smazání tohoto účtu.</string>
+  <string name="dialog_change_sync_lookback">Přijaté zprávy před %s budou vymazány. Dotykem změníte.</string>
+  <string name="questionnair_body_invisibility">Zprávy nejsou zobrazeny</string>
+  <string name="questionnair_confirm_delete">Vymazat</string>
+  <string name="questionnair_instability">Nestabilní aplikace</string>
+  <string name="questionnair_not_send">Nelze odeslat zprávu</string>
+  <string name="questionnair_not_sync">Nestabilní synchronizace</string>
+  <string name="questionnair_other_reasons">Jiný důvod</string>
+  <string name="questionnair_title">Vymazání účtu</string>
+  <string name="questionnair_ui_not_pretty">Nelíbí se mi design aplikace</string>
+  <string name="questionnair_waste_resource">Vymazání může uvolnit úložiště</string>
 </resources>
