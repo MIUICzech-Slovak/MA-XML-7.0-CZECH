@@ -3787,4 +3787,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="print_enable">Povolit tiskárnu</string>
   <string name="print_remind">Nejdříve povolte tiskárnu</string>
+  <string name="cloud_backup_section_title">MiCloud záloha</string>
+  <string name="cloud_backup_settings_section_title">Zálohovat nastavení</string>
+  <string name="cloud_restore_section_summary">Obnovit apl, nastavení plochy a nastavení systému.</string>
+  <string name="cloud_restore_section_title">Obnovit z MiCloud</string>
 </resources>
