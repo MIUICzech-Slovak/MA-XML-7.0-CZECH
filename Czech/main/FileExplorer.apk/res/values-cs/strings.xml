@@ -42,7 +42,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="cancel">Zrušit</string>
   <string name="cancel_error">Nelze odebrat, zkuste to znovu.</string>
   <string name="cancel_operation">Zrušit operaci</string>
-  <string name="cancel_success">Odebráno, všechny soubory byly přesunuty sdcard/fileexplorer/decryption</string>
+  <string name="cancel_success">Odebráno, všechny soubory byly přesunuty do %s</string>
   <string name="cancelled_by_user">Operace zrušena</string>
   <string name="category">Kategorie</string>
   <string name="category_all">Vše</string>
@@ -373,7 +373,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_show_sys">Zobrazit systémové soubory</string>
   <string name="operation_unfavorite">Odebrat z oblíbených</string>
   <string name="pan_settting">MiDrive nastavení</string>
-  <string name="partial_cancel_successful">Nelze odebrat některé soubory. Zbylé soubory byly přesunuty do sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">Nelze odebrat některé soubory. Zbylé soubory byly přesunuty do %s"</string>
   <string name="partial_delete_failure">Nelze vymazat některé soubory</string>
   <string name="partial_encrypt_success">Nelze změnit některé soubory na soukromé</string>
   <string name="partial_repair_done">Některé soubory byly úspěšně obnoveny</string>

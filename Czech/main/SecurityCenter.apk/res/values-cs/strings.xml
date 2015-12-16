@@ -703,7 +703,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="summary_show_notification">Zobrazit ovládání pro Optimalizaci v notif. roletce.</string>
   <string name="summary_telecom_operator">Zkontrolujte objem přenesených dat naměřený vašim operátorem.</string>
   <string name="summary_usb">Zabránit virům přes USB připojení</string>
-  <string name="summary_virus">Nalezeno virů: %2$d</string>
+  <string name="summary_virus">Odstraňte viry</string>
   <string name="summary_virus_cloudscan">Odeslat a porovnat neznámé názvy souborů s online databází</string>
   <string name="summary_virus_update">Aktualizace virové databáze automaticky po připojení k Wi-Fi</string>
   <string name="system_check_content">Nebezpečné: %1$d</string>

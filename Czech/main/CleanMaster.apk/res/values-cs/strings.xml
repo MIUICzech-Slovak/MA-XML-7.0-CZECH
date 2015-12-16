@@ -348,7 +348,6 @@
   <string name="deepclean_large_summary_empty">Vše se zdá být v pořádku, žádné soubory k vymazání</string>
   <string name="deepclean_list_item_from_miui">miui</string>
   <string name="deepclean_list_item_from_music">hudba</string>
-  <string name="deepclean_list_item_from_sdcard">sd karta</string>
   <string name="deepclean_similar_summary_empty">Vše se zdá být v pořádku, žádné fotografie k vymazání</string>
   <string name="deepclean_size_summary_less">Není dostatek místa</string>
   <string name="deepclean_size_summary_more">Je dostatek volného místa</string>
