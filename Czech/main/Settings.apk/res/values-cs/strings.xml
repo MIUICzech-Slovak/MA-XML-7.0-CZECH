@@ -3784,4 +3784,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="forget_password_button_text">Zapomenuté heslo</string>
   <string name="resolver_settings_label">Seřadit</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+  <string name="print_enable">Povolit tiskárnu</string>
+  <string name="print_remind">Nejdříve povolte tiskárnu</string>
 </resources>

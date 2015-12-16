@@ -565,4 +565,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="make_private_msg_1">Skrýt tento soubor?</string>
   <string name="make_private_msg_2">Skrýt tyto soubory?</string>
   <string name="make_private_msg_3">Všechny soubory v této složce budou skryty.</string>
+  <string name="compress_fail_unknown">Nebylo možné zabalit. Není dostatek volného místa na úložišti nebo nastala neznámá chyba.</string>
+  <string name="move_icon_to_desktop_hint">Vytvořte odkaz na domácí ploše pro efektivnější využití aplikace Soubory.</string>
+  <string name="move_to_confirm">Vytvořit</string>
 </resources>
