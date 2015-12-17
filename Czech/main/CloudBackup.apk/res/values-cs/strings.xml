@@ -78,12 +78,10 @@
   <string name="as_new_device_summary">Vymazat předchozí zálohy v MiCloud</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Záloha bude odeslána na MiCloud při připojení k Wi-Fi: 
-*\u0009\u0009\u0009\u0009Rozložení plochy 
-*\u0009\u0009\u0009\u0009Zvonění, tapety a písmo 
-*\u0009\u0009\u0009\u0009Nastavení bodíku 
-*\u0009\u0009\u0009\u0009Nastavení upozornění 
-*\u0009\u0009\u0009\u0009Nastavení režimu Nerušit 
-*\u0009\u0009\u0009\u0009Nastavení MIUI a systému 
+*\u0009\u0009\u0009\u0009Apl, Rozložení plochy, a tapety 
+*\u0009\u0009\u0009\u0009Budíky, hodiny, a nastavení času 
+*\u0009\u0009\u0009\u0009Nasatvení upozornění 
+*\u0009\u0009\u0009\u0009Nastavení systému a MIUI 
 Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Plánování zálohy</string>
   <string name="cloud_back_up_frequence_long">Každých 7 dní</string>
