@@ -351,10 +351,7 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
 
 Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="mx_dspt_provision_privacy_no_sim">Tato funkce vyžaduje vaše tel. číslo. Pokud vložíte SIM kartu do telefonu, bude odeslána SMS pro aktivaci této služby.</string>
-  <string name="mx_dspt_provision_with_voip">Zavolat ostatním uživatelům MIUI zdarma přes internetové volání. Tuto službu můžete kdykoliv deaktivovat v nastavení.</string>
-  <string name="mx_dspt_provision_with_voip2">Ochrana soukromí</string>
   <string name="mx_sub_dspt_provision">Cloud zprávy</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internetové volání</string>
   <string name="mx_voip_dspt">MiVoice</string>
   <string name="next">Další</string>
   <string name="noRemind">Nepřipomínat</string>
