@@ -4,8 +4,9 @@
   <string name="access_denied">Přístup zamítnut</string>
   <string name="account">Účet</string>
   <string name="activate">Aktivovat</string>
+  <string name="activate_number_change_dialog_message">Vyberte telefonní číslo pro aktivaci. Toto číslo se zobrazí volanému přes MiVoice.</string>
   <string name="activating">Aktivace...</string>
-  <string name="alert_notif_title_dspt">Doporučujeme obnovit synchronizaci pro zajištění bezpečnosti vašich dat</string>
+  <string name="alert_notif_title_dspt">Nesynchronizuje</string>
   <string name="antispam_sync">Nastavení režimu Nerušit</string>
   <string name="app_name">MiCloud</string>
   <string name="app_sync_off">Synchr. apl vypnuta</string>
@@ -350,8 +351,10 @@ Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
 
 Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="mx_dspt_provision_privacy_no_sim">Tato funkce vyžaduje vaše tel. číslo. Pokud vložíte SIM kartu do telefonu, bude odeslána SMS pro aktivaci této služby.</string>
+  <string name="mx_dspt_provision_with_voip">Zavolat ostatním uživatelům MIUI zdarma přes internetové volání. Tuto službu můžete kdykoliv deaktivovat v nastavení.</string>
   <string name="mx_dspt_provision_with_voip2">Ochrana soukromí</string>
   <string name="mx_sub_dspt_provision">Cloud zprávy</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internetové volání</string>
   <string name="mx_voip_dspt">MiVoice</string>
   <string name="next">Další</string>
   <string name="noRemind">Nepřipomínat</string>
@@ -428,7 +431,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_sub_dspt_provision">Zobrazte a spravujte vaše data kdekoliv</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
   <string name="system_sync_off">Synchr. vypnuta</string>
-  <string name="title_reg">Zaregistrujte Xiaomi účet</string>
+  <string name="title_reg">Vytvořit Xiaomi účet</string>
   <string name="total_space_upgraded_to">Celkem: %s</string>
   <string name="unactivated_user">Není aktivován</string>
   <string name="upgrade_space">Přidat kapacitu</string>
@@ -445,6 +448,8 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="vcode">Ověřovací kód</string>
   <string name="verify">Ověřit</string>
   <string name="view_storage_title">Kapacita cloudu</string>
+  <string name="voip_choose_sim">Vyberte telefonní číslo pro aktivaci MiVoice</string>
+  <string name="voip_dspt">MiVoice</string>
   <string name="wifi">Wi-Fi</string>
   <string name="wifi_disconnected">Wi-Fi odpojena</string>
   <string name="wifi_sync">Wi-Fi synchr.</string>
