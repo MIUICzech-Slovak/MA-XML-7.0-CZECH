@@ -608,4 +608,5 @@ s "</string>
    <string name="resend_email_reach_limit_title">Nelze odeslat e-mail</string>
    <string name="resend_email_success">E-mail odeslán znovu</string>
    <string name="send_email_activate_message">Ověřovací e-mail odeslán</string>
+   <string name="provision_skip_login">Přeskočit</string>
 </resources>
