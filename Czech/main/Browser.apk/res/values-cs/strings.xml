@@ -1004,4 +1004,6 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="retry_after_network_available">Nelze se připojit k síti</string>
   <string name="retry_download">Znovu</string>
   <string name="unknown_title">Neznámý</string>
+  <string name="go_supermarket_button">Jdi</string>
+  <string name="go_supermarket_title">Více apl., rychlejší a méně dat v Google Play</string>
 </resources>
