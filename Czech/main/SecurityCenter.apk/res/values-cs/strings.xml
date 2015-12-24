@@ -807,4 +807,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="confirm_reject_all_permission">Zakázat všem aplikacím používat tuto funkci?</string>
+  <string name="reject_all">Zakázat vše</string>
 </resources>

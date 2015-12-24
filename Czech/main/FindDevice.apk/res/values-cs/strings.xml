@@ -42,4 +42,8 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
   <string name="unlocking">Aktivování...</string>
   <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
+  <string name="default_lock_msg_words">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
+  <string name="default_lock_msg_words_with_phone">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
+  <string name="device_lost">Toto zařízení bylo ztraceno nebo ukradeno</string>
+  <string name="lock_msg_phone">Kontaktní údaje: %s</string>
 </resources>
