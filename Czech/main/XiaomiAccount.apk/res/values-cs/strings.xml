@@ -599,4 +599,13 @@ s "</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledat vaše zařízení a povolit MiCloud.</string>
+<string name="activate_email_notice">Svůj účet musíte aktivovat do 24 hodin</string>
+   <string name="change_activate_email">Změnit e-mailovou adresu</string>
+   <string name="confirm_activate_email">Ověřeno</string>
+   <string name="input_email_address_notice">Tato adresa bude použita pro ověření Vašeho účtu</string>
+   <string name="resend_active_email">Odeslat znovu</string>
+   <string name="resend_email_reach_limit_message">Příliš mnoho žádostí o ověřovací e-mail. Zkontrolujte složku SPAM ve své e-mailové schránce.</string>
+   <string name="resend_email_reach_limit_title">Nelze odeslat e-mail</string>
+   <string name="resend_email_success">E-mail odeslán znovu</string>
+   <string name="send_email_activate_message">Ověřovací e-mail odeslán</string>
 </resources>
