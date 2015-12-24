@@ -661,7 +661,6 @@ oběma nohama do středu váhy"</string>
   <string name="label_release_to_load">Pusťte pro načtení</string>
   <string name="label_release_to_refresh">Pusťte pro obnovení</string>
   <string name="label_remark_name">Remark Name</string>
-  <string name="label_remind">Pokud bude váš tep nad touto úrovní, MiBand dvakrát zavibruje.</string>
   <string name="label_request_add_friend">Request to be your friend</string>
   <string name="label_runner_group">Běžecký klub</string>
   <string name="label_scan_add">Načíst QR kód</string>
@@ -1406,7 +1405,6 @@ Logo upwards"</string>
   <string name="sport_running_time_desc">Čas</string>
   <string name="sport_running_volumn_notice">Low media volume for kilometer speech, please adjust it in Music/Settings</string>
   <string name="sport_running_watermark">Vodoznak</string>
-  <string name="sport_setting">Nastavení cvičení</string>
   <string name="sport_share">Sdílet</string>
   <string name="standard_figure">"Průměrně
 "</string>
