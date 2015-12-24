@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about">O aplikaci</string>
   <string name="about_mi_band">Využívejte MiBand ke sledování vašich celodenních aktivit a životního stylu.</string>
@@ -62,6 +63,7 @@ o %1$s"</string>
   <string name="alarm_tips">MiBand přestane vibrovat po zvednutí se z postele. Kdykoliv můžete vibrace vypnout poklepáním. "</string>
   <string name="alert_msg_unable_start_camera">"Nelze připojit kameru.
 Zkontrolujte oprávnění aplikace MiFit."</string>
+  <string name="alert_title_unable_start_camera">Chyba kamery</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mma</string>
   <string name="apk_download_ok">Aplikace MiBand stažena</string>
@@ -70,12 +72,12 @@ Zkontrolujte oprávnění aplikace MiFit."</string>
   <string name="app_info_version">"Verze: %1$s 
 Souhlas: %2$s"</string>
   <string name="app_name">MiFit</string>
-  <string name="awake_format">", probuzen/a %1$s krát."</string>
-  <string name="awake_format_1">", probuzen/a jednou."</string>
+  <string name="awake_format">, probuzen/a %1$s krát.</string>
+  <string name="awake_format_1">, probuzen/a jednou.</string>
   <string name="baby_boy_weight_model">Průměrná hmotnost chlapců (kg)</string>
-  <string name="baby_boy_weight_model_new">Boy (under 7 years old) (%1$s)</string>
+  <string name="baby_boy_weight_model_new">Chlapec (mladší 7 let) (%1$s)</string>
   <string name="baby_girl_weight_model">Průměrná hmotnost dívek (kg)</string>
-  <string name="baby_girl_weight_model_new">Girl (under 7 years old) (%1$s)</string>
+  <string name="baby_girl_weight_model_new">Dívka (mladší 7 let) (%1$s)</string>
   <string name="baby_no_weight">No weigh-in history</string>
   <string name="baby_weight">Dítě</string>
   <string name="baby_weight_adult_weight_content">Po stabilizaci váhy zvažte sebe i s dítětem</string>
@@ -114,8 +116,6 @@ Souhlas: %2$s"</string>
   <string name="bind_fail">Nebylo možné synchronizovat s Google Fit</string>
   <string name="bind_google_fit">Synchr. s Google Fit</string>
   <string name="bind_google_fit_tip">Synchr. data z MiBand s Google Fit</string>
-  <string name="bind_heartrate">Připojit MiBand Pulz</string>
-  <string name="bind_heartrate_text">Připojit MiBand Pulz pro sledování vašeho tepu</string>
   <string name="bind_mi_band">Připojit MiBand</string>
   <string name="bind_mi_band_about">http://www.miuios.cz/mifit</string>
   <string name="bind_mi_weight">Propojit s váhou</string>
@@ -202,6 +202,7 @@ Přidejte nového uživatele váhy"</string>
   <string name="chart_info_step">Aktivita</string>
   <string name="chart_info_step_average">Prům. aktivita</string>
   <string name="chart_info_step_piece">Aktuální aktivita</string>
+  <string name="chart_info_step_run_shoes">Běžecké boty</string>
   <string name="chart_info_step_running">Uběhnuto</string>
   <string name="chart_info_step_running_average">Prům. uběhnuto</string>
   <string name="chart_info_step_running_piece">Právě uběhnuto</string>
@@ -459,39 +460,18 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="host_change_success">Uloženo</string>
   <string name="hot_des">Energie</string>
   <string name="hour_1">" "</string>
-  <string name="hr">Váš %s</string>
   <string name="hr_battery_low">Zbývá méně, než 10% baterie v MiBand</string>
-  <string name="hr_btn">Necvičím</string>
-  <string name="hr_detail_description">Lidé, kteří hodně cvičí, mají obvykle nižší tep. Běžné cvičení a zdravý životní style zlepšují činnost vašeho srdce.</string>
-  <string name="hr_detail_description1">Udržování tepu na této úrovni pomáhá spalovat více tuku.</string>
-  <string name="hr_detail_fast">Váš tep je vysoký</string>
-  <string name="hr_detail_normal">Váš tep je normální</string>
-  <string name="hr_detail_slow">Váš tep je nízký</string>
-  <string name="hr_detail_sports">Tep je většinou rychlejší při cvičení</string>
-  <string name="hr_detail_title">Běžný tep je: 60-100 bpm</string>
-  <string name="hr_detail_title1" formatted="false">"Ideální tep při cvičení je:
-60 %  -80 % z maximálního tepu (220 - věk)"</string>
   <string name="hr_dialog_ble">Neodpojujte MiBand od vašeho zařízení</string>
   <string name="hr_dialog_go">Spustit</string>
   <string name="hr_dialog_pace">Připojte MiBand pro zobrazení tepu</string>
   <string name="hr_dialog_title">Sledujte změnu tepu vašeho srdce během měření</string>
   <string name="hr_dialog_wear">Utáhněte pásek MiBandu na ruce co nejvíce pro přesnější měření</string>
   <string name="hr_empty_data">--</string>
-  <string name="hr_fast">Tep je rychlý</string>
-  <string name="hr_in">"You're engaged in %s"</string>
   <string name="hr_item_date">dd.MM. HH:mm</string>
-  <string name="hr_normal">Tep je normální</string>
   <string name="hr_not_wear_bracelet">Zapněte si MiBand na ruku</string>
-  <string name="hr_reminder">Upozornění na tep</string>
-  <string name="hr_slow">Tep je nízký</string>
-  <string name="hr_sports">Fyzická aktivita</string>
   <string name="hr_tips1">"Zapněte Bluetooth a připojte boty před během.
 Při běhání nevypínejte Bluetooth."</string>
-  <string name="hr_tips10">Ideální tep při cvičení pro různý věk</string>
-  <string name="hr_tips12" formatted="false">"Ideální tep při cvičení je:
-60 % - 80 % z maximálního aerobního tepu (220 - věk)"</string>
   <string name="hr_tips2">Připojte MiBand se snímačem tepu.</string>
-  <string name="hr_tips3" formatted="false">Např.: Jiří má 20 let, jeho ideální tep při cvičení je 120 - 160 bpm (60 % - 80 % z 200 = 220 - 20).</string>
   <string name="hr_tips4">Dýchejte zhluboka pro co nejefektivnější spalování kalorií.</string>
   <string name="hr_tips5">"1. základní tep je = 180 - věk (BPM).
 2. Nastavte si optimální tep dle vaší situace.
@@ -515,20 +495,23 @@ Poznámka: Tyto hodnoty platí pro lidi mezi 16 a 65 lety."</string>
   <string name="incomingcall_info_2">"Uzamkněte aplikaci MiBand a 
 přidejte MiBand do seznamu povolených."</string>
   <string name="incomingcall_info_3">Přidejte aplikaci MiBand do seznamu povolených.</string>
+  <string name="info_step_shoes_calorie_total">跑鞋消耗</string>
+  <string name="info_step_shoes_distance_total">跑鞋里程</string>
+  <string name="info_step_shoes_total">跑鞋步数</string>
   <string name="input_family_member_name">Přidejte člena rodiny</string>
   <string name="input_person_name">Zadejte jméno</string>
   <string name="input_precise_person_info">Vytvořit profil</string>
   <string name="input_precise_user_info">Zadejte vaše přesně údaje pro výpočet cvičení a optimálního spánku</string>
-  <string name="instruction_tip_1">Podívejte se na průběh 
-vašeho cvičení</string>
-  <string name="instruction_tip_2_1">Méně jak 
-1/3 z vašeho cíle</string>
-  <string name="instruction_tip_2_2">Více jak 
-1/3 z vašeho cíle</string>
-  <string name="instruction_tip_2_3">Více jak 
-2/3 z vašeho cíle</string>
-  <string name="instruction_tip_2_4">Gratulujeme! 
-Bylo dosaženo vašeho cíle</string>
+  <string name="instruction_tip_1">"Podívejte se na průběh 
+vašeho cvičení"</string>
+  <string name="instruction_tip_2_1">"Méně jak 
+1/3 z vašeho cíle"</string>
+  <string name="instruction_tip_2_2">"Více jak 
+1/3 z vašeho cíle"</string>
+  <string name="instruction_tip_2_3">"Více jak 
+2/3 z vašeho cíle"</string>
+  <string name="instruction_tip_2_4">"Gratulujeme! 
+Bylo dosaženo vašeho cíle"</string>
   <string name="instruction_tip_2_5">Více jako váš cíl</string>
   <string name="instruction_tip_3">Připojte k nabíječce</string>
   <string name="instruction_title">Používání MiBand</string>
@@ -570,7 +553,6 @@ oběma nohama do středu váhy"</string>
   <string name="lab_factory_item_group_others">Ostatní</string>
   <string name="lab_factory_item_group_social">Sociální sítě</string>
   <string name="lab_factory_item_group_sport">Sporty</string>
-  <string name="lab_factory_left_time">Zbývá čas/s</string>
   <string name="lab_factory_share_photo">Foto</string>
   <string name="lab_factory_share_photo_menu_camera">Video</string>
   <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
@@ -599,7 +581,6 @@ oběma nohama do středu váhy"</string>
   <string name="lab_factory_sport_monitor_bracelet_offline">MiBand je odpojen</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Po připojení můžete spustit %s</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Počítání se spustí automaticky, když provádíte %s</string>
-  <string name="lab_factory_sport_monitor_shoes_offline_notice">Připojte boty</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Žádná činnost po dobu 5min</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">Vyberte jen jeden sport</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Hlasujte pro více sportů</string>
@@ -639,7 +620,6 @@ oběma nohama do středu váhy"</string>
   <string name="lab_factory_sport_vote_result_desc">Děkujeme za váš hlas</string>
   <string name="lab_factory_sport_vote_result_sub_desc">Bylo hlasováno za</string>
   <string name="lab_factory_sport_vote_sub_desc">Bude přidán v následujících aktualizacích</string>
-  <string name="lab_factory_time_label">Odpočítávání/s</string>
   <string name="lab_factory_title">Fitness centrum</string>
   <string name="lab_step_test">Test kroků</string>
   <string name="label_accept_add_friend_by_him">Žádost přijata</string>
@@ -736,10 +716,10 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="male">Muž</string>
   <string name="marathon_format_0">Okolo %1$s maratonu</string>
   <string name="marathon_format_1">Více jak %1$s maratonu</string>
-  <string name="max_hr">Maximální tep</string>
   <string name="measure">Změřit tep</string>
   <string name="measure_fail">Nelze změřit</string>
-  <string name="measure_reminder_small">Držte vaši ruku v úrovni hrudi během měření</string>
+  <string name="measure_reminder">"Držte vaše zápěstí v úrovni srdce 
+a senzor co nejblíže ke kůži"</string>
   <string name="measure_tips">Držte senzor co nejblíže u pokožky</string>
   <string name="measuring">Měření...</string>
   <string name="median">Median</string>
@@ -789,7 +769,6 @@ Usnul/a jsem v %3$s, probudil/a se v %4$s."</string>
   <string name="new_version_available">Dostupná nová verze</string>
   <string name="next_step">Další</string>
   <string name="no_bracelet_tips">(dostupné pouze s připojeným MiBand)</string>
-  <string name="no_heartrate">Nemám MiBand</string>
   <string name="no_measure_data">Žádné výsledky</string>
   <string name="no_measure_tips">Znovu nezobrazovat</string>
   <string name="no_need_weight_goal">Nechcete nastavit cílovou hmotnost?</string>
@@ -901,9 +880,8 @@ Pokračujte!"</string>
   <string name="restart_bluetooth_tips">Restartujte Bluetooth.</string>
   <string name="retry">Znovu</string>
   <string name="right_hand">Pravá ruka</string>
-  <string name="run_hr_instruct">(Asistent běhu)</string>
-  <string name="runed">Zaběhnuté</string>
-  <string name="runner_unlogin_notice">"Vaše data se nesynchronizují s MiCloud. Chcete se přihlásit?"</string>
+  <string name="runed">Uběhnuto</string>
+  <string name="runner_unlogin_notice">Vaše data se nesynchronizují s MiCloud. Chcete se přihlásit?</string>
   <string name="running_altitude">Nadmořská výška</string>
   <string name="running_auto_pause">Pozastaveno</string>
   <string name="running_auto_pause_desc">Automaticky pozastavit v případě přerušení běhu.</string>
@@ -920,7 +898,6 @@ Pokračujte!"</string>
   <string name="running_cal_burnt">%d kcal</string>
   <string name="running_cal_desc">Spálené</string>
   <string name="running_cal_with_unit">" kcal"</string>
-  <string name="running_cancel">Zrušit</string>
   <string name="running_come_from_xiaomi_bracelet">MiFit</string>
   <string name="running_confirm">OK</string>
   <string name="running_contour_track_failed_to_create">Sdílení selhalo. Zkontrolujte dostupnost úložiště.</string>
@@ -934,13 +911,13 @@ Pokračujte!"</string>
   <string name="running_date_yesterday">Včera</string>
   <string name="running_delete_track_item_confirm">Záznamy nemohou být uloženy.</string>
   <string name="running_detail_cal_desc">Calorie</string>
-  <string name="running_detail_forefoot_desc">Forefoot</string>
-  <string name="running_detail_menu_share_title">Share</string>
+  <string name="running_detail_forefoot_desc">Chodidla</string>
+  <string name="running_detail_menu_share_title">Sdílet</string>
   <string name="running_detail_pace_desc">Min/Km</string>
   <string name="running_detail_speed_desc">Km/H</string>
-  <string name="running_detail_step_frequency_desc">Step Freq.</string>
-  <string name="running_detail_time_cost_desc">Time Cost</string>
-  <string name="running_detail_title">Pace Detail</string>
+  <string name="running_detail_step_frequency_desc">Frekv. kroků</string>
+  <string name="running_detail_time_cost_desc">Čas</string>
+  <string name="running_detail_title">Tempo</string>
   <string name="running_distance">Vzdálenost</string>
   <string name="running_distance_desc">Kilometrů</string>
   <string name="running_distance_detail">%.2f km</string>
@@ -951,12 +928,12 @@ Pokračujte!"</string>
   <string name="running_get_history_no_more_data">Žádná data</string>
   <string name="running_gps_cancel">Zrušit</string>
   <string name="running_gps_locating">GPS pozice...</string>
-  <string name="running_gps_main_continue_btn_text">Continue</string>
-  <string name="running_gps_main_finish_btn_text">Done</string>
-  <string name="running_gps_main_statistics_cost_time_disc">Spend Time</string>
-  <string name="running_gps_main_statistics_pace_freq">Pace Frequency(p/min)</string>
-  <string name="running_gps_main_statistics_speed_disc">Speed(min/km)</string>
-  <string name="running_gps_main_statistics_speed_disc_br">Speed(min/mile)</string>
+  <string name="running_gps_main_continue_btn_text">Pokračovat</string>
+  <string name="running_gps_main_finish_btn_text">Hotovo</string>
+  <string name="running_gps_main_statistics_cost_time_disc">Čas</string>
+  <string name="running_gps_main_statistics_pace_freq">Tempo (p/min)</string>
+  <string name="running_gps_main_statistics_speed_disc">Rychlost (min/km)</string>
+  <string name="running_gps_main_statistics_speed_disc_br">Rychlost (min/mile)</string>
   <string name="running_gps_poor_signal">Slabý signál GPS.</string>
   <string name="running_gps_turnon">Zapnout</string>
   <string name="running_help_foot_people">Who can try landing on their forefeet when running?</string>
@@ -1143,6 +1120,12 @@ odeslán na server."</string>
   <string name="set_mili_name_fail">Přejmenování MiBand selhalo!</string>
   <string name="set_mili_name_ok">MiBand přejmenován</string>
   <string name="set_person_goal">Nastavení cíle</string>
+  <string name="set_rssi_close">Do 1 metru</string>
+  <string name="set_rssi_distance">Nastavit vzdálenost odemykání</string>
+  <string name="set_rssi_failed">Rssi nastavení selhalo</string>
+  <string name="set_rssi_nearby">Do 3 metrů</string>
+  <string name="set_rssi_success">Rssi nastaveno</string>
+  <string name="set_rssi_very_close">Velmi blízko</string>
   <string name="set_sport_goal">Nastavit cíl</string>
   <string name="set_unit">Zvolit jednotky</string>
   <string name="set_user_suc_tips">První vážení bude automaticky spárováno s uživatelem.</string>
@@ -1163,6 +1146,8 @@ Překlad: miuios.cz/miband"</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Děkujeme za váš názor</string>
   <string name="setting_feedback_send">Odeslat</string>
+  <string name="setting_realtime_hr">Tep srdce</string>
+  <string name="setting_realtime_hr_info">Bracelet test for heart rate in real time heart rate, very low power consumption</string>
   <string name="share">Sdílet</string>
   <string name="share_blog_cancel">Zrušit</string>
   <string name="share_blog_message_hint">Napište něco...</string>
@@ -1628,7 +1613,7 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="visitor">Host</string>
   <string name="visitor_weight">Weight</string>
   <string name="wait">Čekejte prosím...</string>
-  <string name="walked">"prochozeno "</string>
+  <string name="walked">"Prochozeno "</string>
   <string name="watermark_btn_confirm">Potvrdit</string>
   <string name="watermark_guide_tips">Posuňte dlouhým podržením</string>
   <string name="watermark_search_location">\#Získávání polohy#</string>
@@ -1724,4 +1709,37 @@ Udržujte MiBand a telefon maximálně 5 m od sebe."</string>
   <string name="your_gender">Pohlaví</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnost</string>
+  <string name="bind_heartrate">Připojit MiBand Pulz</string>
+  <string name="bind_heartrate_text">Připojit MiBand Pulz pro sledování vašeho tepu</string>
+  <string name="hr">Váš %s</string>
+  <string name="hr_btn">Necvičím</string>
+  <string name="hr_detail_description">Lidé, kteří hodně cvičí, mají obvykle nižší tep. Běžné cvičení a zdravý životní style zlepšují činnost vašeho srdce.</string>
+  <string name="hr_detail_description1">Udržování tepu na této úrovni pomáhá spalovat více tuku.</string>
+  <string name="hr_detail_fast">Váš tep je vysoký</string>
+  <string name="hr_detail_normal">Váš tep je normální</string>
+  <string name="hr_detail_slow">Váš tep je nízký</string>
+  <string name="hr_detail_sports">Tep je většinou rychlejší při cvičení</string>
+  <string name="hr_detail_title">Běžný tep je: 60-100 bpm</string>
+  <string name="hr_detail_title1" formatted="false">"Ideální tep při cvičení je:
+60 %  -80 % z maximálního tepu (220 - věk)"</string>
+  <string name="hr_fast">Tep je rychlý</string>
+  <string name="hr_in">"You're engaged in %s"</string>
+  <string name="hr_normal">Tep je normální</string>
+  <string name="hr_reminder">Upozornění na tep</string>
+  <string name="hr_slow">Tep je nízký</string>
+  <string name="hr_sports">Fyzická aktivita</string>
+  <string name="hr_tips10">Ideální tep při cvičení pro různý věk</string>
+  <string name="hr_tips12" formatted="false">"Ideální tep při cvičení je:
+60 % - 80 % z maximálního aerobního tepu (220 - věk)"</string>
+  <string name="hr_tips3" formatted="false">Např.: Jiří má 20 let, jeho ideální tep při cvičení je 120 - 160 bpm (60 % - 80 % z 200 = 220 - 20).</string>
+  <string name="lab_factory_left_time">Zbývá čas/s</string>
+  <string name="lab_factory_sport_monitor_shoes_offline_notice">Připojte boty</string>
+  <string name="lab_factory_time_label">Odpočítávání/s</string>
+  <string name="label_remind">Pokud je váš tep nad touto úrovní, MiBand dvakrát zavibruje.</string>
+  <string name="max_hr">Maximální pulz</string>
+  <string name="measure_reminder_small">Držte vaši ruku v úrovní hrudi během měření</string>
+  <string name="no_heartrate">Nemám MiBand</string>
+  <string name="run_hr_instruct">(Asistent běhu)</string>
+  <string name="running_cancel">Zrušit</string>
+  <string name="sport_setting">Nastavení cvičení</string>
 </resources>
