@@ -1179,4 +1179,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="can_not_call_self">"Can't dial own number"</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
+  <string name="network_unconnected_message_livetalk">Chyba sítě. Zkuste uskutečnit hovor. Bude změněno vaším operátorem.</string>
+   <string name="network_unconnected_title">Chyba sítě</string>
+    <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
+ <string name="volte_switch_title">Povolit VoLTE</string>
 </resources>

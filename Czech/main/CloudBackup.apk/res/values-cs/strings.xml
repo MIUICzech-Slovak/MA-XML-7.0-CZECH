@@ -88,7 +88,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="cloud_back_up_frequence_short">Každý den</string>
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">Každý den</string>
-  <string name="cloud_back_up_no_network_warn">Nelze se připojit k síti</string>
+  <string name="cloud_back_up_no_network_warn">Nelze se připojit k Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
  <string name="cloud_back_up_opening">Načítání...</string>
   <string name="cloud_back_up_share_activity_confirm">Navýšit</string>

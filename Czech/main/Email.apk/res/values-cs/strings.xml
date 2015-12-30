@@ -1010,4 +1010,12 @@ Velikost aplikace: %2$s"</string>
   <string name="questionnair_title">Vymazání účtu</string>
   <string name="questionnair_ui_not_pretty">Nelíbí se mi design aplikace</string>
   <string name="questionnair_waste_resource">Vymazání může uvolnit úložiště</string>
+  <string name="account_setup_failed_dlg_bar_title">Tipy na přihlášení %s</string>
+   <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
+   <string name="account_setup_failed_dlg_todo1">Nastavte účet viz níže nebo se přihlaste přes Exchange.</string>
+   <string name="account_setup_failed_dlg_todo2">Nastavte účet viz níže.</string>
+   <string name="email_netease">NetEase Mail</string>
+   <string name="email_qq">QQ Mail</string>
+   <string name="email_sina">Sina Mail</string>
+   <string name="try_exchange_login">Zkuste se přihlásit s Exchange</string>
 </resources>

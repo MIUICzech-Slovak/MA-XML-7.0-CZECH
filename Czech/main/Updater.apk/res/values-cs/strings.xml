@@ -164,7 +164,7 @@
   <string name="notification_new_version">Aktualizovat na %s</string>
   <string name="notification_reboot_btn">Restart</string>
   <string name="notification_reboot_des">Restartovat zařízení do %s.</string>
-  <string name="notification_reboot_seccess_des">Sdílet informace o aktualizace</string>
+  <string name="notification_reboot_seccess_des">Zobrazit informace o aktualizace</string>
   <string name="notification_reboot_seccess_title">Aktualizováno!</string>
   <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
   <string name="notification_reboot_title">Aktualizace dokončena</string>

@@ -31,4 +31,13 @@
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
   <string name="voice_report_incoming_call">Volání</string>
   <string name="voice_report_unknown_num">Neznámé číslo</string>
+  <string name="change_default_dialer_dialog_title">Chcete změnit výchozí aplikaci vytáčení?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Chcete použít aplikaci %s jako výchozí aplikaci vytáčení?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Chcete použít aplikaci %1$s namísto aplikace %2$s jako výchozí aplikaci pro vytáčení?</string>
+  <string name="duplicate_video_call_not_allowed">Hovor momentálně nelze přidat.</string>
+  <string name="enable_account_preference_title">Telefonní účty</string>
+  <string name="outgoing_call_not_allowed_no_permission">V této aplikaci nelze uskutečnit odchozí hovory bez povolení aplikace Telefon</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Vlastník zařízení povolil pouze tísňová volání</string>
+  <string name="userCallActivityLabel">Telefon</string>
+  <string name="notification_missedCall_call_back_miui">Hovor</string>
 </resources>

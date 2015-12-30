@@ -156,7 +156,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_title">"Zřejmě bola změněna SIM karta. Přihlaste se
 do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_confusion_account_hint">Změny, které provedete v tomto zařízení se budou synchronizovat do všech vašich zařízení. Pro ochranu vašeho účtu doporučujeme deaktivovat synchr. pro ostatní zařízení, pokud je nepoužíváte.</string>
-  <string name="micloud_confusion_account_name">"Xiaomi účet ID: "</string>
+  <string name="micloud_confusion_account_name">"Účet: "</string>
   <string name="micloud_confusion_account_notify_text">Váš Xiaomi účet byl změněn z jiného zařízení.</string>
   <string name="micloud_confusion_account_notify_title">Ověřit účet</string>
   <string name="micloud_confusion_account_question">Patří vám Xiaomi účet %s?</string>
@@ -461,4 +461,14 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="header_find_device_settings">Vyhledat zařízení</string>
   <string name="cloud_restore_title">Obnovit ze zálohy</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetové volání</string>
+  <string name="micloud_main_message_not_synced">%s nesynchr.</string>
+   <string name="micloud_main_title_not_synced">Nesynchr.</string>
+   <string name="micloud_notif_content_battery_low">Baterie je téměř vybitá.</string>
+   <string name="micloud_notif_content_master_depend_wifi">Připojte se na Wi-Fi síť.</string>
+   <string name="micloud_notif_content_memory_low">Není dostatek místa na úložišti.</string>
+   <string name="micloud_notif_content_sync_with_off">Dotykem synchr. vaše zařízení.</string>
+   <string name="micloud_notif_title_battery_low">Nelze synchr. s MiCloud</string>
+   <string name="micloud_notif_title_master_depend_wifi">Nelze synchr. s MiCloud</string>
+   <string name="micloud_notif_title_memory_low">Nelze synchr. s MiCloud</string>
+   <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
 </resources>
