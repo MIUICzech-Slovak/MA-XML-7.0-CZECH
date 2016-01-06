@@ -1185,4 +1185,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
  <string name="volte_switch_title">Povolit VoLTE</string>
    <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
    <string name="sim_card_activate">Ověření SIM</string>
+   <string name="loading_order">Načítání...</string>
 </resources>

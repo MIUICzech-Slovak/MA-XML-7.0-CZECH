@@ -380,4 +380,6 @@
    <string name="user_notice_title">Upozornění</string>
    <string name="user_notification">Upozornění</string>
    <string name="user_notification_descrip">Zobrazit upozornění při každém otevření kalendáře</string>
+   <string name="download">Stáhnout</string>
+   <string name="set_as_wallpaper">Nastavit jako tapetu</string>
 </resources>
