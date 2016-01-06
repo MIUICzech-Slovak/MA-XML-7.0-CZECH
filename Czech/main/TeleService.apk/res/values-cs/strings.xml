@@ -1183,4 +1183,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="network_unconnected_title">Chyba sítě</string>
     <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
  <string name="volte_switch_title">Povolit VoLTE</string>
+   <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
+   <string name="sim_card_activate">Ověření SIM</string>
 </resources>
