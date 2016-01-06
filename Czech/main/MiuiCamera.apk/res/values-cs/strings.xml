@@ -619,4 +619,9 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_snap_entry_off">Vypnuto</string>
   <string name="pref_camera_snap_entry_take_movie">Video: Na zamyk. obr. stiskněte hlasitost dolů</string>
   <string name="pref_camera_snap_entry_take_picture">Fotografie: Na zamyk. obr. stiskněte tlačítko hlasitost nahoru</string>
+  <string name="accessibility_audio_shutter_bg">Tlačítko spouště zvukem</string>
+  <string name="accessibility_countdown">Tlačítko odpočítávání</string>
+  <string name="accessibility_peak">Tlačítko Focus-Peak</string>
+  <string name="pref_camera_age_watermark_title">Zobrazit věk a pohlaví</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nelze použít \"Rychlé zhotovení fotografie\" pokud jsou tlačíka hlasitosti nastavena na rozsvícení displeje.</string>
 </resources>
