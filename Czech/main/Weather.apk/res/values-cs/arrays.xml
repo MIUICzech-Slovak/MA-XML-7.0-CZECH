@@ -75,4 +75,29 @@
          <item>Střední</item>
          <item>Silný</item>
      </string-array>
+     <string-array name="hot_city">
+         <item>Praha</item>
+         <item>Brno</item>
+         <item>Ostrava</item>
+         <item>Plzen</item>
+         <item>Liberec</item>
+         <item>Olomouc</item>
+         <item>Usti nad Labem</item>
+         <item>Hradec Kralove</item>
+         <item>Ceske Budejovice</item>
+         <item>Pardubice</item>
+         <item>Havirov</item>
+         <item>Zlin</item>
+         <item>Kladno</item>
+         <item>Most</item>
+         <item>Karvina</item>
+         <item>Opava</item>
+         <item>Frydek-Mistek</item>
+         <item>Karlovy Vary</item>
+         <item>Jihlava</item>
+         <item>Teplice</item>
+         <item>Decin</item>
+         <item>Prerov</item>
+         <item>Jablonec nad Nisou</item>
+     </string-array>	
 </resources>
