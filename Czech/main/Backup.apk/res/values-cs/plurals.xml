@@ -8,8 +8,8 @@
         <item quantity="other">%d h</item>
         <item quantity="one">%d h</item>
     </plurals>
-    <plurals name="data_item_count">
-        <item quantity="other">Poloûek: %d</item>
-         <item quantity="one">Poloûek: %d</item>
-     </plurals>
+   <plurals name="data_item_count">
+       <item quantity="other">Polo≈æek: %d</item>
+        <item quantity="one">Polo≈æek: %d</item>
+    </plurals>
 </resources>
