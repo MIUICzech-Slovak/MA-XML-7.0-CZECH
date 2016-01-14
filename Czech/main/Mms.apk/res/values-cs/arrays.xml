@@ -20,6 +20,7 @@
         <item>WWW</item>
         <item>Adresa</item>
         <item>Poznámka</item>
+        <item>Vztah</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Zobrazit čas přijetí</item>

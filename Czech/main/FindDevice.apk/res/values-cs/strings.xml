@@ -46,4 +46,5 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="default_lock_msg_words_with_phone">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
   <string name="device_lost">Toto zařízení bylo ztraceno nebo ukradeno</string>
   <string name="lock_msg_phone">Kontaktní údaje: %s</string>
+  <string name="find_device_crash">Vyhledávání bylo neočekávaně ukončeno</string>
 </resources>

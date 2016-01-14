@@ -40,4 +40,5 @@
   <string name="outgoing_call_not_allowed_user_restriction">Vlastník zařízení povolil pouze tísňová volání</string>
   <string name="userCallActivityLabel">Telefon</string>
   <string name="notification_missedCall_call_back_miui">Hovor</string>
+  <string name="can_not_dial_while_vt_prompt">Nelze vytočit při hovoru</string>
 </resources>

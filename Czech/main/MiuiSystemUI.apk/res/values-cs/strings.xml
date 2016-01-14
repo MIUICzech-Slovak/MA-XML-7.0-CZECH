@@ -85,7 +85,7 @@
   <string name="description_direction_left">Posuňte vlevo pro %s.</string>
   <string name="description_direction_up">Posuňte nahoru pro %s.</string>
   <string name="description_target_search">Hledat</string>
-  <string name="disable_notification_summary">Skrýt upozornění apl.</string>
+  <string name="disable_notification_summary">Nezobrazovat upozornění pro tyto apl.</string>
   <string name="disable_notification_title">Skrýt upozornění</string>
   <string name="dismount_storage">Ne</string>
   <string name="dlg_confirm_kill_storage_users_text">Pokud zapnete USB úložiště, některé spuštěné aplikace mohou přestat reagovat.</string>

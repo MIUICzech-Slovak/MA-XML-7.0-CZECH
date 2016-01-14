@@ -300,7 +300,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="indices_desc_humidity">Vlhkost %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_no_restriction">Žádné</string>
-  <string name="indices_title_Precip1hr">Předpověď na 1 hod.</string>
+  <string name="indices_title_Precip1hr">Srážky</string>
   <string name="indices_title_car_wash">Umývání auta</string>
   <string name="indices_title_feel">Pocitově</string>
   <string name="indices_title_humidity">Vlhkost</string>

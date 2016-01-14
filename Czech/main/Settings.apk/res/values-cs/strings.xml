@@ -229,7 +229,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="application_item_permission">+</string>
   <string name="application_restrictions">Povolit aplikace a obsah</string>
   <string name="application_size_label">Aplikace</string>
-  <string name="applications_settings">Aplikace</string>
+  <string name="applications_settings">Nainstalované aplikace</string>
   <string name="applications_settings_header">Nastavení aplikace</string>
   <string name="applications_settings_summary">Správa aplikací a klávesových zkratek rychlého spuštění</string>
   <string name="apply_fingerprint_to_category_title">Nastavit otisk pro...</string>
@@ -3801,4 +3801,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="optimization_cancel">Zrušit</string>
    <string name="optimization_close">Deaktivovat a restartovat</string>
    <string name="optimization_open">Aktivovat</string>
+   <string name="battery_light_title">Signalizace nabíjení</string>
 </resources>
