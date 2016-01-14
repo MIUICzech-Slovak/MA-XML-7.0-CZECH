@@ -41,4 +41,7 @@
   <string name="userCallActivityLabel">Telefon</string>
   <string name="notification_missedCall_call_back_miui">Hovor</string>
   <string name="can_not_dial_while_vt_prompt">Nelze vytočit při hovoru</string>
+  <string name="dial_conference_fail_prompt">Nelze vytočit hovor, aktuální síť nepodporuje VoLTE.</string>
+  <string name="dial_vt_fail_prompt">Aktuální síť nepodporuje VoLTE. Přepnout na běžný hlasový hovor?</string>
+  <string name="voice_dial_out">Hlasový hovor</string>
 </resources>

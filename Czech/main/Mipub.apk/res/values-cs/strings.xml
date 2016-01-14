@@ -240,4 +240,5 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
+  <string name="view_hms_details_download">Stáhnout</string>
 </resources>

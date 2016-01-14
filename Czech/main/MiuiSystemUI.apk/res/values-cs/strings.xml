@@ -273,4 +273,6 @@
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
+  <string name="accessibility_managed_profile">Pracovní profil</string>
+   <string name="managed_profile_foreground_toast">Používáte pracovní profil</string>
 </resources>

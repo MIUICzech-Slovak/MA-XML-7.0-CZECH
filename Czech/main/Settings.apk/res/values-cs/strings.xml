@@ -3802,4 +3802,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="optimization_close">Deaktivovat a restartovat</string>
    <string name="optimization_open">Aktivovat</string>
    <string name="battery_light_title">Signalizace nabíjení</string>
+    <string name="free_xiaomi_wifi_connect_summary">Připojte se k %1$s.</string>
 </resources>

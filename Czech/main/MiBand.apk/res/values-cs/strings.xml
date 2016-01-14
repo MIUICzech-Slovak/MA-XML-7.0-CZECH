@@ -438,7 +438,7 @@ a aktualizace se spustí automaticky po nabití MiBand"</string>
   <string name="health_link">HealthLink</string>
   <string name="health_provider_desc">Personal health and fitness services</string>
   <string name="heartrate">Tep</string>
-  <string name="heartrate_version">HeartRate version</string>
+  <string name="heartrate_version">HeartRate verze</string>
   <string name="heavier_than_goal">%1$s více, než váš cíl</string>
   <string name="height_less_than_100">Nelze analyzovat tělo s výškou menší, než 100 cm.</string>
   <string name="hello_world">Vítejte</string>
@@ -1322,7 +1322,7 @@ Logo upwards"</string>
   <string name="skip">Přeskočit</string>
   <string name="sleep_assist">Asistent spánku</string>
   <string name="sleep_assist_info">Měřit tep každé 2 min během spánku pro co nejpřesnější sledování vašeho spánku.</string>
-  <string name="sleep_assist_tips">Měřit tep nepřetržitě během spánku pro co nejpřesnější sledování vašeho spánku. (zvýší se spotřeba baterie).</string>
+  <string name="sleep_assist_tips">Měřit tep nepřetržitě během spánku pro přesné sledování vašeho spánku. (zvýší se spotřeba baterie).</string>
   <string name="sleep_assist_title">Asistent spánku</string>
   <string name="smaller_than_normal_with_value">Pod standardem %1$s</string>
   <string name="smart_alarm_clock">Inteligentní budík</string>

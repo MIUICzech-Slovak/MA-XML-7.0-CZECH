@@ -8,4 +8,8 @@
         <item quantity="other">%d h</item>
         <item quantity="one">%d h</item>
     </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">Položek: %d</item>
+         <item quantity="one">Položek: %d</item>
+     </plurals>
 </resources>
