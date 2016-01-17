@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+  <string name="instruction_pre">Slouží k přenosu souborů mezi tabletem a PC pomocí FTP protokolu.</string>
+  <string name="my_bakup">Zálohy tabletu</string>
+  <string name="phone">Tablet</string>
+  <string name="tab_phone">Tablet</string>
+</resources>
