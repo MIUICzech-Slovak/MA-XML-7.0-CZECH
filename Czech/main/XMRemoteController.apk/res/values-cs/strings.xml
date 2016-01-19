@@ -168,8 +168,8 @@
   <string name="hello_world">Vítejte!</string>
   <string name="history_none">Žádná historie</string>
   <string name="history_title">Historie</string>
-  <string name="home">Domov</string>
-  <string name="home_zhuye">﻿Domov</string>
+  <string name="home">Domů</string>
+  <string name="home_zhuye">﻿Domů</string>
   <string name="hot_apps">Aplikace</string>
   <string name="hot_mode">Ohřívač</string>
   <string name="hot_videos">Novinky</string>
