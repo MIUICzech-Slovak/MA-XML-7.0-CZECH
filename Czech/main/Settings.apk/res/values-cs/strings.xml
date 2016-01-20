@@ -3803,4 +3803,22 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="optimization_open">Aktivovat</string>
    <string name="battery_light_title">Signalizace nabíjení</string>
     <string name="free_xiaomi_wifi_connect_summary">Připojte se k %1$s.</string>
+      <string name="usb_use_charging_only">Pouze nabíjení</string>
+  <string name="usb_use_file_transfers">Přenos souborů (MTP)</string>
+  <string name="usb_use_photo_transfers">Přenos fotek (PTP)</string>
+    <string name="usb_use">Použití USB:</string>
+  <string name="inactive_app_active_summary">Aktivní. Přepnete klepnutím.</string>
+  <string name="inactive_app_inactive_summary">Neaktivní. Přepnete klepnutím.</string>
+  <string name="inactive_apps_title">Neaktivní aplikace</string>
+    <string name="select_usb_configuration_dialog_title">Výběr konfigurace USB</string>
+  <string name="select_usb_configuration_title">Výběr konfigurace USB</string>
+  <string name="mobile_data_always_on">Mobilní data jsou vždy aktivní</string>
+  <string name="mobile_data_always_on_summary">Mobilní data budou vždy ponechána aktivní, i když bude aktivní Wi-Fi (za účelem rychlého přepínání sítí).</string>
+  <string name="legacy_dhcp_client">Použít starý klient DHCP</string>
+  <string name="legacy_dhcp_client_summary">Namísto nového klientu DHCP Android použít klient DHCP z verze Lollipop.</string>
+    <string name="mock_location_app">Vybrat aplikaci k simulování polohy</string>
+  <string name="mock_location_app_not_set">Aplikace k simulování polohy není nastavena</string>
+  <string name="mock_location_app_set">Aplikace k simulování polohy: %1$s</string>
+    <string name="battery_light_summary">LED při nabíjení</string>
+
 </resources>
