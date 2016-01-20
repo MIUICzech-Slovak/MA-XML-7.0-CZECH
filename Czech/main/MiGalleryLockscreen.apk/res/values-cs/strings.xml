@@ -25,4 +25,7 @@
   <string name="wlan_download">Pouze přes Wi-Fi</string>
   <string name="summary">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Tato služba vyžaduje připojení k internetu."</string>
   <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
+  <string name="declaration_lockscreen_title">Povolit denní tapetu zamyk. obr.</string>
+   <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Souhlasím</string>
 </resources>
