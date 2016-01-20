@@ -153,7 +153,7 @@
   <string name="no_updates_warning2">Tato aplikace Vás upozorní na nové aktualizace. Zkontrolujte verzi na miuios.cz/rom</string>
   <string name="no_wifi_msg">Chybí připojení k Wi-Fi. Stahování aktualizace přes mobilní data může výrazně navýšit vaše poplatky.</string>
   <string name="no_wifi_title">Využití mobilních dat</string>
-  <string name="not_open">Zakázat</string>
+  <string name="not_open">Ne</string>
   <string name="not_recommend">"Nedoporučuji"</string>
   <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
   <string name="notification_downloading">Stahování aktualizace...</string>
@@ -175,7 +175,7 @@
   <string name="notification_updating">Aktualizace...</string>
   <string name="now">Restartovat</string>
   <string name="on_checking">Kontrola aktualizací</string>
-  <string name="open_now">Povolit</string>
+  <string name="open_now">Ano</string>
   <string name="particular_build">Speciální</string>
   <string name="pause">Zastavit</string>
   <string name="paused_queued_for_network">Čekání na internetové připojení</string>
@@ -334,7 +334,7 @@ Nelze odeslat váš názor názor"</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
   <string name="check_local_package_update_btn">Restartovat a aktualizovat</string>
-  <string name="check_local_package_update_msg">Instalujete verzi MIUI %s. Telefon se restartuje automaticky během aktualizace.</string>
+  <string name="check_local_package_update_msg">Zařízení se automaticky restartuje pro nainstalování verze MIUI %s</string>
   <string name="check_local_package_update_title">Aktualizovat</string>
   <string name="check_local_package_wipe_btn">Vymazat a aktualizovat</string>
   <string name="check_local_package_wipe_msg">Instalujete verzi MIUI %s, která je starší, než vaše současná verze. Vaše uživatelská data budou vymazána. Ujistěte se, že máte zálohována všechna důležitá data!</string>
@@ -344,4 +344,6 @@ Nelze odeslat váš názor názor"</string>
   <string name="confirm_local_package_wipe_title">Vymazat data?</string>
   <string name="notification_fail_msg">Zkuste stáhnout celou ROM z miuios.cz/rom</string>
   <string name="notification_restart">Aktualizovat znovu</string>
+   <string name="continue_update_negative_btn">Pokračovat</string>
+   <string name="continue_update_positive_btn">Zastavit</string>
 </resources>

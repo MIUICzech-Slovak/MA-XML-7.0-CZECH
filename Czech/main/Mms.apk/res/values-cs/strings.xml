@@ -243,7 +243,7 @@
   <string name="message_rejected">Odmítnuto</string>
   <string name="message_saved_as_draft">Zpráva byla uložena jako koncept</string>
   <string name="message_send_failed_title">Zpráva nebyla odeslána</string>
-  <string name="message_send_read_report">Přečtená zpráva bude odeslána</string>
+  <string name="message_send_read_report">Hlášení bude odesláno</string>
   <string name="message_sent">Odesláno</string>
   <string name="message_size_label">"Velikost zprávy: "</string>
   <string name="message_too_big_for_audio">Zpráva je příliš velká pro připojení audia.</string>
@@ -298,7 +298,7 @@
   <string name="mx_btn_enable">Zapnout</string>
   <string name="mx_btn_enable_now">Povolit</string>
   <string name="mx_count_dspt">Odeslali jste %1$d SMS a %2$d MMS přes cloud</string>
-  <string name="mx_current_status">Stav: Online</string>
+  <string name="mx_current_status">Další nastavení</string>
   <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
   <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
   <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakýchkoliv poplatků.</string>
@@ -312,7 +312,7 @@
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
   <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
-  <string name="mx_online">Využití mobilních dat</string>
+  <string name="mx_online">Aktivováno</string>
   <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
   <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
@@ -352,7 +352,7 @@
   <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
   <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
   <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy od banky, operátora, atd.</string>
-  <string name="pref_edit_smsc_address">Nastavit číslo SMS centra</string>
+  <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Přeposlat</string>
   <string name="pref_key_mx_feedback">Odeslat report</string>
   <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
@@ -363,14 +363,14 @@
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznat OTP v SMS zprávě</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovat a vložit ověřovací kód</string>
   <string name="pref_sms_theme_title">Nastavení vzhledu</string>
-  <string name="pref_summary_allow_si_sl_push">Povolit přijímání a oznamování WAP push zpráv (SI/SL)</string>
+  <string name="pref_summary_allow_si_sl_push">Povolit zprávám načítat obsah webstránek</string>
   <string name="pref_summary_delete_limit">Počet zpráv v konverzaci: %1$s</string>
   <string name="pref_summary_delivery_reports">Požadovat oznámení o doručení odeslané zprávy</string>
   <string name="pref_summary_hide_festival">Skrýt záložku Doporučené</string>
   <string name="pref_summary_manage_sim_messages">Správa zpráv uložené na SIM kartě</string>
-  <string name="pref_summary_mms_auto_retrieval">Automaticky načítat zprávy</string>
-  <string name="pref_summary_mms_read_reports">Oznamovat přečtení zprávy</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítat zprávy při roamingu</string>
+  <string name="pref_summary_mms_auto_retrieval">Automaticky načítat MMS zprávy</string>
+  <string name="pref_summary_mms_read_reports">Oznamovat přečtení MMS zprávy</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítat MMS zprávy při roamingu</string>
   <string name="pref_summary_mx_feedback">"Pomozte zlepšit MIUI! 
 Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>
@@ -390,12 +390,12 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_title_festival_networking">Upozornění na připojení</string>
   <string name="pref_title_fwd_sender_info">Kdo přeposlal</string>
   <string name="pref_title_hide_festival">Skrýt záložku Doporučené</string>
-  <string name="pref_title_manage_sim_messages">Správa zpráv na kartě SIM</string>
+  <string name="pref_title_manage_sim_messages">Úložistě na SIM kartě</string>
   <string name="pref_title_miui_card">Odeslat jako MIUI vizitku</string>
-  <string name="pref_title_mms_auto_retrieval">Načítat zprávy</string>
+  <string name="pref_title_mms_auto_retrieval">Načítat SMS zprávy automaticky</string>
   <string name="pref_title_mms_delete">Limit MMS zpráv</string>
   <string name="pref_title_mms_read_reports">Potvrzení o přečtení</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Načítat při roamingu</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Načítat MMS při roamingu</string>
   <string name="pref_title_mms_validity_period">Doba platnosti MMS</string>
   <string name="pref_title_notification_body_enabled">Zobrazovat náhledy</string>
   <string name="pref_title_ringtone_repeat">Upozornit na novou zprávu</string>
@@ -530,7 +530,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="sp_conversation_title">Informační zprávy</string>
   <string name="sp_mark_as_read">Označit všechny zprávy jako přečtené?</string>
   <string name="sp_mark_as_read_progress">Označení všech zpráv jako přečtené...</string>
-  <string name="sp_mark_as_read_title">Označit vše jako přečtené</string>
+  <string name="sp_mark_as_read_title">Označit vše jako přečtené?</string>
   <string name="status_failed">Neúspěšný</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Probíhá</string>

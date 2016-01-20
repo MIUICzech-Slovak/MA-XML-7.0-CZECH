@@ -207,7 +207,7 @@
   <string name="task_backup_cancel_progress">Ukončování zálohování...</string>
   <string name="task_backup_finished_local">Zálohování dokončeno</string>
   <string name="task_canceled">Stornováno</string>
-  <string name="task_canceled_all_local">Zrušeny všechny zálohy</string>
+  <string name="task_canceled_all_local">Zrušeno</string>
   <string name="task_canceled_local">%s úloha zrušena</string>
   <string name="task_cloud_backup_cancel_dialog">Zálohování nebylo dokončeno!\nOpravdu chcete ukončit zálohování?</string>
   <string name="task_failed">Neúspěšné</string>
@@ -234,7 +234,7 @@
   <string name="total_num">Celkem: %d,</string>
   <string name="trans_backingup">Zálohování...</string>
   <string name="trans_backingup_no_items">Synchr....</string>
-  <string name="trans_cancel_confirm">Probíhá přenos, chcete jej zrušit?</string>
+  <string name="trans_cancel_confirm">Probíhá přenos, chcete jej zastavit?</string>
   <string name="trans_cancelling">Ukončení</string>
   <string name="trans_connect_failed_toast">Nelze se připojit</string>
   <string name="trans_connecting_toast">Připojování...</string>
@@ -264,7 +264,7 @@
   <string name="trans_sender_searching">Vyhledávání nových zařízení</string>
   <string name="trans_sender_searching_ensurance">"Ujistěte se, že nové zařízení je zapnuto.
 Čekání na připojení starého zařízení..."</string>
-  <string name="trans_sending_completed">Data jsou odeslána</string>
+  <string name="trans_sending_completed">Data jsou přenesena</string>
   <string name="trans_time_format_second">méně než 1 min.</string>
   <string name="trans_time_remained">", připraveno v "</string>
   <string name="trans_waiting_ensurance">"Ujistěte se, že staré zařízení je zapnuto.
@@ -303,17 +303,17 @@ a stiskněte [Jsem odesílatel]"</string>
    <string name="trans_operate_func_one">Metoda A</string>
    <string name="trans_operate_func_two">Metoda B</string>
    <string name="trans_receiver_time_remained">"%s zbývá. Zkontrolujte stav baterie.
- Nevypínejte Hotspot. Držte obě zařízení v blízkosti."</string>
+ Nevypínejte Wi-Fi. Držte obě zařízení v blízkosti."</string>
    <string name="trans_select_data">Vyberte data</string>
    <string name="trans_select_data_no_space">"%s dostupné na novém zařízení
  Vyberte soubory znovu pro uvolnění úložiště"</string>
    <string name="trans_select_data_tips">"Vyberte soubory na přenesení
  Stejné soubory na novém zařízení budou přepsány"</string>
-   <string name="trans_sender_time_remained">"%s zbývá. Zkontrolujte stav baterie.
+   <string name="trans_sender_time_remained">"%s zbývá.
  Nevypínejte Wi-Fi. Držte obě zařízení v blízkosti."</string>
    <string name="trans_show_qr_code_label">Připojte staré zařízení</string>
    <string name="trans_time_spent">"
- Čas trvání %s"</string>
+ Čas trvání: %s"</string>
   <string name="trans_wait_trans_data">"Připojte se ke starému zařízení.
  Čekání na přenos..."</string>
 </resources>
