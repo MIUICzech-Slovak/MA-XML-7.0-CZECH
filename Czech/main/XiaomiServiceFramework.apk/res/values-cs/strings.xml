@@ -113,4 +113,10 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="activate_popup_desc_error_device_id">Vytočte *#06# pro kontrolu IMEI</string>
   <string name="activate_popup_title_error_device_id">Nesprávné IMEI</string>
   <string name="activate_status_desc_device_id_error">Nesprávné IMEI</string>
+  <string name="activate_history_cancelled">Zrušeno</string>
+   <string name="activate_history_multisim_overview">Aktivace pro SIM kartu %3$d %1$s. Spuštěno \"%2$s\".</string>
+   <string name="activate_history_overview">Aktivace pro SIM kartu %1$s. Spuštěno \"%2$s\".</string>
+   <string name="activate_history_sms">SMS byla odeslána během akrivace.</string>
+   <string name="activate_history_success">Úspěšné</string>
+   <string name="activate_history_title">Aktivace SIM karty</string>
 </resources>
