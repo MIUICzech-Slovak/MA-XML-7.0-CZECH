@@ -74,10 +74,10 @@
   <string name="festival_never_remind">Znovu se neptat</string>
   <string name="festival_sms_loading">Načítám...</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="file_create_time">Vytvořeno:</string>
-  <string name="file_size">Velikost:</string>
-  <string name="file_title">Název:</string>
-  <string name="file_width_height">Velikost:</string>
+  <string name="file_create_time">"Vytvořeno: "</string>
+  <string name="file_size">"Velikost: "</string>
+  <string name="file_title">"Název: "</string>
+  <string name="file_width_height">"Velikost: "</string>
   <string name="follow_finished">Sledování čísla</string>
   <string name="follow_forbidden">Toto číslo nelze sledovat</string>
   <string name="followed_accounts">Sledované účty</string>

@@ -471,4 +471,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
    <string name="micloud_notif_title_master_depend_wifi">Nelze synchr. s MiCloud</string>
    <string name="micloud_notif_title_memory_low">Nelze synchr. s MiCloud</string>
    <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
+   <string name="soundrecorder_sync_only_in_wifi">Synchr. pouze přes Wi-Fi</string>
+   <string name="soundrecorder_sync_only_in_wifi_summary">Záznamník nebude využívat mobilní data pro zálohu nahrávek</string>
+   <string name="soundrecorder_sync_records">Synchr. s MiCloud</string>
 </resources>

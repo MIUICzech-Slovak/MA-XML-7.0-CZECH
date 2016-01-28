@@ -1009,4 +1009,9 @@ Opravdu chcete odejít z této stránky?"</string>
 <string name="pull_to_refresh_pull_label">Potáhněte pro obnovení...</string>
    <string name="pull_to_refresh_refreshing_label">Načítání...</string>
    <string name="pull_to_refresh_release_label">Pusťte pro obnovení</string>
+   <string name="in_secureaccess">Prohlížeč je přepnutý do bezpečnostního režimu</string>
+   <string name="secureaccess">Přepnout do bezpečnostního režimu režimu</string>
+   <string name="secureaccess_cancel">Ignorovat</string>
+   <string name="switch_proxy_dialog_msg">"Bylo zjištěno napadení vaší sítě. Použijte MIUI aplikaci Optimalizace nebo to nahlaste vašemu operátorovi."</string>
+   <string name="switch_proxy_dialog_title">Napadení sítě</string>
 </resources>

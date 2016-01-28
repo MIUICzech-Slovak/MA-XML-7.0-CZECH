@@ -115,7 +115,8 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
   <string name="uninstalling">Probíhá odinstalace...</string>
   <string name="unknown">Neznámé</string>
-  <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
+   <string name="unknown_apps_dlg_text1">"Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play. Můžete to kdykoliv změnit v "</string>
+  <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play. Můžete to kdykoliv změnit v Nastavení.</string>
   <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
   <string name="unknown_installer">Neznámý instalátor</string>
   <string name="virus_scan_caller_unknown">Neznámý</string>
@@ -127,4 +128,6 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="btn_text_full_scan">Plná kontrola</string>
   <string name="message_full_scanning">Kontrola...</string>
   <string name="message_quick_scanning">Rychlá kontrola...</string>
+  <string name="unknown_apps_dlg_text2">\"Nastavení\"</string>
+   <string name="unknown_apps_dlg_text3">.</string>
 </resources>

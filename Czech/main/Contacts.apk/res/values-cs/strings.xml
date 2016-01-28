@@ -1358,4 +1358,6 @@ Vyberte si z následujících možností:</string>
    <string name="miprofile_finding_label">Karty kontaktů</string>
    <string name="miprofile_request_header">Žádosti na výměnu (platnost skončí za týden)</string>
    <string name="back_view_description">Jít zpět</string>
+   <string name="menu_newContactButton">Přidat</string>
+   <string name="voip_audio_description">Uskutečnit VoIP hovor</string>
 </resources>
