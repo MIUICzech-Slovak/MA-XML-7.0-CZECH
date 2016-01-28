@@ -2261,6 +2261,8 @@ Zvolte Váš operační systém:"</string>
   <string name="quiet_important_interruptions_mode">Povolit jen výjimky</string>
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Běžný režim</string>
+  <string name="quiet_no_interruptions_mode">Ztišit vše</string>
+  <string name="battery_light_summary">LED při nabíjení</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Připojeno</string>
   <string name="radioInfo_data_connecting">Připojování</string>
