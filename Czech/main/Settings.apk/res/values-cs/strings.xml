@@ -3821,6 +3821,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="mock_location_app">Vybrat aplikaci k simulování polohy</string>
   <string name="mock_location_app_not_set">Aplikace k simulování polohy není nastavena</string>
   <string name="mock_location_app_set">Aplikace k simulování polohy: %1$s</string>
-    <string name="battery_light_summary">LED při nabíjení</string>
-
 </resources>
