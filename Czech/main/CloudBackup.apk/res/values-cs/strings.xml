@@ -111,4 +111,6 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
  <string name="restore_from_this_device">Obnovit z této zálohy</string>
  <string name="restore_home_screen_apps">Obnovit ze zálohy v MiCloud</string>
  <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
+ <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
+  <string name="cloud_backup_select_recover">Vybrat zálohu z MiCloud</string>
 </resources>

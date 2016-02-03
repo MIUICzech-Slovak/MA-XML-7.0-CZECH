@@ -378,4 +378,6 @@
    <string name="summary_delete_apk">Vymazat vybrané APK?</string>
    <string name="summary_delete_video">Vymazat vybraná videa?</string>
    <string name="title_delete_deepclean">Vymazat</string>
+   <string name="information_setting">Nastavení novinek</string>
+   <string name="load_only_under_wlan">Načíst novinky pouze na Wi-Fi</string>
 </resources>
