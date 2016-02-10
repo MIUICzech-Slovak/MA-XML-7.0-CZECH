@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Result_title">Kontakt na SIM kartě</string>
+  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
+  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
+  <string name="active_phone_sim_absent">Insert SIM card now</string>
+  <string name="active_phone_success_nochoice">SIM card verified</string>
+  <string name="active_phone_success_toast">SIM card %1$s verified</string>
+  <string name="activing_simcard">Verifying SIM %1$d</string>
+  <string name="activing_simcard_alone">Verifying SIM</string>
   <string name="add">Přidat</string>
   <string name="addSimEntries">Přidat kontakt na SIM</string>
   <string name="add_fdn_contact">Přidat kontakt na seznam povolených čísel</string>
@@ -34,6 +40,8 @@
   <string name="answer_state_setting_title">Chování při příchozím hovoru</string>
   <string name="antispam_notification_title">Zjištěné neznámé číslo</string>
   <string name="apn_settings">Názvy přístupových bodů (AP)</string>
+  <string name="area_code_preference_summary">Auto dial area code</string>
+  <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Oblastní přehledy dopravy zakázány</string>
   <string name="atr_enable">Oblastní přehledy dopravy povoleny</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -156,6 +164,7 @@
   <string name="callind_multi_sim">Zvolit podpis</string>
   <string name="calling_via_template">Volání prostřednictvím %s</string>
   <string name="callwait_open_hint">\"Čekající hovor\" je služba poskytovaná operátorem. Když se zobrazí \"Chybný MMI kód\", obraťte se na svého operátora.</string>
+  <string name="can_not_call_self">"Can't dial own number"</string>
   <string name="can_not_use_for_not_data_sim">(Nelze použít: Musí být nastavena jako výchozí SIM pro data)</string>
   <string name="cancel">Zrušit</string>
   <string name="cancel_call">Zrušit</string>
@@ -260,6 +269,8 @@
   <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
   <string name="data_enabled">Mobilní data</string>
   <string name="deactivate_all">Zrušit vše</string>
+  <string name="default_area_code_setting">Default area code</string>
+  <string name="default_areacode">Default area code</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>
   <string name="default_port">5060</string>
@@ -533,6 +544,7 @@
   <string name="list_language_title">Jazyk</string>
   <string name="livetalk_provider">Poskytuje %1$s</string>
   <string name="load_networks_progress">Vyhledávám...</string>
+  <string name="loading_order">Načítání...</string>
   <string name="local_disable">Místní zprávy zakázány</string>
   <string name="local_enable">Místní zprávy povoleny</string>
   <string name="local_weather_disable">Místní počasí zakázáno</string>
@@ -651,6 +663,8 @@
   <string name="network_settings_select_automatic_hint">Nebylo možné se přihlásit k vybrané síti</string>
   <string name="network_settings_turn_off">Vypnout</string>
   <string name="network_settings_warn_message">Použít pouze manuálně vybranou síť.</string>
+  <string name="network_unconnected_message_livetalk">Chyba sítě. Zkuste uskutečnit hovor. Bude změněno vaším operátorem.</string>
+  <string name="network_unconnected_title">Chyba sítě</string>
   <string name="network_unlock">Odblokovat</string>
   <string name="networks">Dostupné sítě</string>
   <string name="networks_title">Síťoví operátoři</string>
@@ -985,6 +999,8 @@ Počet zbývajících pokusů: %d."</string>
   <string name="simContacts_emptyLoading">Čtení z karty SIM...</string>
   <string name="simContacts_title">Správa kontaktů na SIM kartě</string>
   <string name="sim_absent">Chybí</string>
+  <string name="sim_card_activate">Ověření SIM</string>
+  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
   <string name="sim_cards_network_mode_changed_summary">Zobrazit nastavení SMS a Hovoru</string>
   <string name="sim_cards_network_mode_changed_title">Zjištěna nová SIM karta</string>
   <string name="sim_contact_name">Jméno</string>
@@ -1149,6 +1165,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="voicemail_settings_number_label">Číslo hlasové schránky</string>
   <string name="voicemail_settings_number_title">Číslo hlasové schránky</string>
   <string name="voip_setting">VOIP nastavení</string>
+  <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
+  <string name="volte_switch_title">Povolit VoLTE</string>
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="wifi_calling_call_assistant">Asistent hovoru</string>
@@ -1167,23 +1185,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
-  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
-  <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="active_phone_success_nochoice">SIM card verified</string>
-  <string name="active_phone_success_toast">SIM card %1$s verified</string>
-  <string name="activing_simcard">Verifying SIM %1$d</string>
-  <string name="activing_simcard_alone">Verifying SIM</string>
-  <string name="area_code_preference_summary">Auto dial area code</string>
-  <string name="areacode_set_default">Default</string>
-  <string name="can_not_call_self">"Can't dial own number"</string>
-  <string name="default_area_code_setting">Default area code</string>
-  <string name="default_areacode">Default area code</string>
-  <string name="network_unconnected_message_livetalk">Chyba sítě. Zkuste uskutečnit hovor. Bude změněno vaším operátorem.</string>
-   <string name="network_unconnected_title">Chyba sítě</string>
-    <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
- <string name="volte_switch_title">Povolit VoLTE</string>
-   <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
-   <string name="sim_card_activate">Ověření SIM</string>
-   <string name="loading_order">Načítání...</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="alwaysUsePrompt">Znovu se neptat</string>
   <string name="apply_password_action">Nastavit heslo</string>
@@ -21,6 +20,10 @@
   <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
   <string name="force_exit_message">Aplikace \"%1$s\" byla úspěšně ukončena"</string>
   <string name="force_exit_skip_message">%1$s je systémová aplikace a nemůže být ukončena.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Můžete se vrátit na domácí plochu podržením tlačítka Domů. Můžete si nastavit návrat na domácí plochu jen stiskem tlačítka Domů. Tuto funkci můžete nastavit v Nastavení &gt; Další nastavení &gt; Tlačítka.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, děkuji.</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upravit</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Upravit tlačítko Domů</string>
   <string name="global_actions_airplane_mode">Režim letadlo</string>
   <string name="global_actions_reboot">Restart</string>
   <string name="global_actions_shutdown">Vypnout</string>
@@ -103,8 +106,4 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Můžete se vrátit na domácí plochu podržením tlačítka Domů. Můžete si nastavit návrat na domácí plochu jen stiskem tlačítka Domů. Tuto funkci můžete nastavit v Nastavení &gt; Další nastavení &gt; Tlačítka.</string>
-   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, děkuji.</string>
-   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upravit</string>
-   <string name="fp_nav_center_action_choose_dlg_title">Upravit tlačítko Domů</string>
 </resources>

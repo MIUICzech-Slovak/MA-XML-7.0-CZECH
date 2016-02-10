@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="UMAppUpdate">Aktualizácia aplikácie</string>
   <string name="UMBreak_Network">Aktualizácia zlyhala. Skontrolujte nastavenie siete.</string>
@@ -38,8 +37,8 @@
   <string name="action_settings">Nastavenia</string>
   <string name="agreement_agree">Súhlasím</string>
   <string name="agreement_cancel">Zrušiť</string>
-  <string name="agreement_content_usa">Používaním kamery súhlasíte s《&lt;u&gt;&lt;a href="agreement://123"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&lt;/u&gt;&amp;#12299;&amp;#26041;&amp;#21487;&amp;#20351;&amp;#29992;&amp;#65292;&amp;#20026;&amp;#20102;&amp;#33021;&amp;#22815;&amp;#19982;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#35774;&amp;#22791;&amp;#36830;&amp;#25509;&amp;#65292;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#25668;&amp;#20687;&amp;#26426;&amp;#26381;&amp;#21153;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#20351;&amp;#29992;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#12289;&amp;#23450;&amp;#20301;&amp;#21450;&amp;#31227;&amp;#21160;&amp;#32593;&amp;#32476;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;&amp;#65311;</string>
   <string name="agreement_content_title">Podmienky používania</string>
+  <string name="agreement_content_usa">Používaním kamery súhlasíte s《&lt;u&gt;&lt;a href="agreement://123"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&lt;/u&gt;&amp;#12299;&amp;#26041;&amp;#21487;&amp;#20351;&amp;#29992;&amp;#65292;&amp;#20026;&amp;#20102;&amp;#33021;&amp;#22815;&amp;#19982;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#35774;&amp;#22791;&amp;#36830;&amp;#25509;&amp;#65292;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#25668;&amp;#20687;&amp;#26426;&amp;#26381;&amp;#21153;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#20351;&amp;#29992;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#12289;&amp;#23450;&amp;#20301;&amp;#21450;&amp;#31227;&amp;#21160;&amp;#32593;&amp;#32476;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;&amp;#65311;</string>
   <string name="agreement_posi_btn">Súhlasím</string>
   <string name="agreement_title">Podmienky používania</string>
   <string name="alarm_time">Nastaviť čas</string>

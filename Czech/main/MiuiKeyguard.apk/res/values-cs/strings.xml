@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zařízení je příliš daleko.</string>
   <string name="click_to_enter_text">Dotykem odemkněte</string>
@@ -28,12 +27,15 @@ Deaktivujte režim Letadlo."</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávný PIN kód, zbývající pokusy: %d</string>
   <string name="incorrect_pukcode">Nesprávný PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Nesprávný PUK kód, zbývající pokusy: %d</string>
+  <string name="input_password_after_boot_msg">Po restartu zařízení budete muset zadat heslo.</string>
   <string name="input_password_hint_text">Zadejte heslo</string>
   <string name="input_pin_code">PIN</string>
   <string name="input_pin_code_to_unlock">Zadejte PIN pro odemknutí</string>
   <string name="input_puk_code">Zadejte PUK</string>
   <string name="input_puk_code_to_unlock">Zadejte PUK kód pro odblokování zařízení</string>
   <string name="invalid_confirm_pin_hint">PIN kód nesouhlasí</string>
+  <string name="invalid_sim_pin_hint">Zadajte PIN, který má 4 až 8 čísel</string>
+  <string name="invalid_sim_puk_hint">PUK kód by měl mít 8 a více čísel</string>
   <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
   <string name="lock_screen_date">EEEE d. MMMM</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
@@ -90,7 +92,4 @@ Deaktivujte režim Letadlo."</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="invalid_sim_pin_hint">Zadajte PIN, který má 4 až 8 čísel</string>
-  <string name="invalid_sim_puk_hint">PUK kód by měl mít 8 a více čísel</string>
-  <string name="input_password_after_boot_msg">Po restartu zařízení budete muset zadat heslo.</string>
 </resources>

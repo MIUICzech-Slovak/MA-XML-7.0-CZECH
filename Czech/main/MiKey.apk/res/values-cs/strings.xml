@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_baidusearch">Baidu vyhledávání</string>
   <string name="action_capture_video">Video</string>
@@ -248,8 +247,8 @@ Dlouhý stisk: Video"</string>
   <string name="setting_silent_mode_default">Režim sluchátek (vybrat MiKey)</string>
   <string name="setting_silent_mode_desc">"Pokud chcete připojit sluchátka, zvolte režim sluchátek a odpojte MiKey. Jinak nebude správně fungovat zvukový výstup."</string>
   <string name="setting_silent_mode_dust_cap">Režim záslepky</string>
-  <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_desc">Rychlost kliknutí tlačítka</string>
+  <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_quick">Rychle</string>
   <string name="setting_speed_slow">Pomalu</string>
   <string name="setting_speed_text">Rychlost</string>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="add_miservice_dialog_content">"%s vyžaduje přidání MIUI service framework do výjimek. Budete přijímat upozornění od MIUI a ostatních aplikací."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
@@ -417,6 +416,9 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="show_traffic_dialog_title">Zobrazit spotřebu dat v roletce</string>
   <string name="signal_exception_summary">Nelze se připojit k síti.</string>
   <string name="signal_exception_title">Kontrola síly signálu</string>
+  <string name="sim_location_error_dialog_message">Právě používaní SIM je %1$s. Tato poloha SIM karty se neshoduje s polohou, která byla nastavena manuálně (%2$s). Změnit polohu SIM karty na %3$s?</string>
+  <string name="sim_location_error_notify_message">Dotykem změníte polohu SIM karty.</string>
+  <string name="sim_location_error_notify_title">Chyba SIM karty</string>
   <string name="sim_state_exception_summary">Něco je v nepořádku s vaší SIM kartou.</string>
   <string name="songs_number">18 skladeb</string>
   <string name="songs_unit">" skladeb"</string>
@@ -464,6 +466,10 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="tips_dialog_title">"Neznáte svůj limit?"</string>
   <string name="tips_message">"Pokud si nejste jisti s objemem předplacených dat, můžete jej zjistit vytočením %2$s (%1$s) (jen Čína)."</string>
   <string name="title_limit_traffic_per_day">Denní limit mobilních dat</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Měsíční balíček změněn na %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Datový plán aktualizován</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
+  <string name="traffic_config_alert_auto_modify">Automaticky aktualizovat měsíční balíček</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -478,6 +484,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_config_alert_cancel">Zrušit</string>
   <string name="traffic_config_alert_nomore">Znovu nezobrazovat</string>
   <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">Nastaveno</string>
   <string name="traffic_config_alert_title">%s korekce</string>
   <string name="traffic_correction_failed">"Nelze získat info o spotřebě dat"</string>
@@ -487,6 +495,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_correction_success_notify_message">Zobrazit podrobnosti</string>
   <string name="traffic_limit_error_alert_body">Zbývající objem mobilních dat zjištěný vašim operátorem operátorem je %1$s. To je více, než váš nastavený limit %2$s.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_package">"
+Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_reset">Obnovit limit</string>
   <string name="traffic_limit_error_alert_title">Upozornění na limit dat %s</string>
   <string name="traffic_none">Žádný</string>
@@ -566,6 +576,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_fragment_button1_text">Zrušit</string>
   <string name="traffic_setting_fragment_button2_text">Uložit</string>
   <string name="traffic_setting_fragment_get_template_falure">Aktualizace selhala. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Znovu nezobrazovat</string>
   <string name="traffic_setting_fragment_loading_text">Získávaní informací o síti...</string>
   <string name="traffic_setting_fragment_no_network">"Nelze se připojit k síti"</string>
   <string name="traffic_setting_fragment_null">Prázdné</string>
@@ -590,16 +601,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Zkontrolovat dostupné připojení Wi-Fi sítě</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Měsíční balíček změněn na %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Datový plán aktualizován</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
-  <string name="traffic_config_alert_auto_modify">Automaticky aktualizovat měsíční balíček</string>
-  <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
-  <string name="traffic_limit_error_alert_package">"
-Remaining data includes data that has been rolled over from the previous month."</string>
-<string name="sim_location_error_dialog_message">Právě používaní SIM je %1$s. Tato poloha SIM karty se neshoduje s polohou, která byla nastavena manuálně (%2$s). Změnit polohu SIM karty na %3$s?</string>
-   <string name="sim_location_error_notify_message">Dotykem změníte polohu SIM karty.</string>
-   <string name="sim_location_error_notify_title">Chyba SIM karty</string>
-   <string name="traffic_setting_fragment_loacation_alert_nomore">Znovu nezobrazovat</string>
 </resources>

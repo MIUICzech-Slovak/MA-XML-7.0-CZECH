@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_name">Galerie tapet</string>
+  <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
   <string name="cancel">Ukončit</string>
   <string name="change_time">Změnit interval</string>
   <string name="day">1 den</string>
   <string name="declaration"/>
+  <string name="declaration_lockscreen_title">Povolit denní tapetu zamyk. obr.</string>
   <string name="declaration_title">Podmínky používání</string>
   <string name="hour_1">1 hodina</string>
   <string name="hour_3">3 hodiny</string>
@@ -16,16 +17,14 @@
   <string name="lockscreen_magazine_title">Denní tapeta zamykací obrazovky</string>
   <string name="no_long_show">Znovu nezobrazovat</string>
   <string name="ok">OK</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Souhlasím</string>
   <string name="resource_apply">Použít</string>
   <string name="resource_no_network_text">Nelze se připojit k síti.</string>
   <string name="setting_head">Nastavení</string>
+  <string name="summary">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Tato služba vyžaduje připojení k internetu."</string>
   <string name="theme_apply_failured">Nelze použít tapetu zamykací obrazovky</string>
   <string name="theme_apply_success">Tapeta nastavena</string>
   <string name="theme_applying">Nastavování...</string>
   <string name="wlan_download">Pouze přes Wi-Fi</string>
-  <string name="summary">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Tato služba vyžaduje připojení k internetu."</string>
-  <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
-  <string name="declaration_lockscreen_title">Povolit denní tapetu zamyk. obr.</string>
-   <string name="ok_lockscreen">OK</string>
-  <string name="ok_network">Souhlasím</string>
 </resources>

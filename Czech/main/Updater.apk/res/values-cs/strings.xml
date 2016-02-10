@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_device">Info o telefonu</string>
   <string name="active_xiaomi_account">Aktivovat</string>
@@ -41,8 +40,14 @@
   <string name="button_text_update">Aktualizovat</string>
   <string name="cancel_download">Zastavit stahování aktualizace?</string>
   <string name="cancel_download_buton_text">Zrušit</string>
+  <string name="check_local_package_update_btn">Restartovat a aktualizovat</string>
+  <string name="check_local_package_update_msg">Zařízení se automaticky restartuje pro nainstalování verze MIUI %s</string>
+  <string name="check_local_package_update_title">Aktualizovat</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Nelze ověřit stažený zip soubor.</string>
+  <string name="check_local_package_wipe_btn">Vymazat a aktualizovat</string>
+  <string name="check_local_package_wipe_msg">Instalujete verzi MIUI %s, která je starší, než vaše současná verze. Vaše uživatelská data budou vymazána. Ujistěte se, že máte zálohována všechna důležitá data!</string>
+  <string name="check_local_package_wipe_title">Vymazat data</string>
   <string name="check_new_version">Zkontrolovat</string>
   <string name="check_update">Vyhledat aktualizace</string>
   <string name="check_update_policy">Nastavení kontroly aktualizací</string>
@@ -59,6 +64,11 @@
   <string name="comment_upload_not_logined">Nejprve se přihlaste</string>
   <string name="comment_upload_success">Odesláno!</string>
   <string name="confirm_download_cancelation_dialog_message">Zrušit stahování aktualizace?</string>
+  <string name="confirm_local_package_wipe_btn">Vymazat a aktualizovat</string>
+  <string name="confirm_local_package_wipe_msg">Vaše uživatelská data budou vymazána. Ujistěte se, že máte zálohována všechna důležitá data!</string>
+  <string name="confirm_local_package_wipe_title">Vymazat data?</string>
+  <string name="continue_update_negative_btn">Pokračovat</string>
+  <string name="continue_update_positive_btn">Zastavit</string>
   <string name="copy_install_log">Kopírovat instalační log</string>
   <string name="current_version_text">Současná verze\u0020</string>
   <string name="current_version_update_monthly_build">Současná verze (Aktualizace měsíčních verzí)</string>
@@ -157,6 +167,7 @@
   <string name="not_recommend">"Nedoporučuji"</string>
   <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
   <string name="notification_downloading">Stahování aktualizace...</string>
+  <string name="notification_fail_msg">Zkuste stáhnout celou ROM z miuios.cz/rom</string>
   <string name="notification_load_body_alpha">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
   <string name="notification_load_body_dev">Přihlaste se do svého Xiaomi účtu pro aktualizaci vašeho zařízení.</string>
   <string name="notification_load_title_alpha">Přihlásit se do Xiaomi účtu</string>
@@ -169,6 +180,7 @@
   <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
   <string name="notification_reboot_title">Aktualizace dokončena</string>
   <string name="notification_reboot_title_hm">Restartujte pro aktualizaci</string>
+  <string name="notification_restart">Aktualizovat znovu</string>
   <string name="notification_share">Sdílet</string>
   <string name="notification_update_new_version">Dostupná nová verze</string>
   <string name="notification_update_now">Aktualizovat</string>
@@ -333,17 +345,4 @@ Nelze odeslat váš názor názor"</string>
   <string name="wifi_not_available_body">Doporučuje se použít Wi-Fi připojení pro stáhnutí aktualizace kvůli její velikosti. Momentálně nemáte připojenou Wi-Fi, chcete i tak pokračovat?</string>
   <string name="wifi_not_available_title">Wi-Fi nepřipojeno</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="check_local_package_update_btn">Restartovat a aktualizovat</string>
-  <string name="check_local_package_update_msg">Zařízení se automaticky restartuje pro nainstalování verze MIUI %s</string>
-  <string name="check_local_package_update_title">Aktualizovat</string>
-  <string name="check_local_package_wipe_btn">Vymazat a aktualizovat</string>
-  <string name="check_local_package_wipe_msg">Instalujete verzi MIUI %s, která je starší, než vaše současná verze. Vaše uživatelská data budou vymazána. Ujistěte se, že máte zálohována všechna důležitá data!</string>
-  <string name="check_local_package_wipe_title">Vymazat data</string>
-  <string name="confirm_local_package_wipe_btn">Vymazat a aktualizovat</string>
-  <string name="confirm_local_package_wipe_msg">Vaše uživatelská data budou vymazána. Ujistěte se, že máte zálohována všechna důležitá data!</string>
-  <string name="confirm_local_package_wipe_title">Vymazat data?</string>
-  <string name="notification_fail_msg">Zkuste stáhnout celou ROM z miuios.cz/rom</string>
-  <string name="notification_restart">Aktualizovat znovu</string>
-   <string name="continue_update_negative_btn">Pokračovat</string>
-   <string name="continue_update_positive_btn">Zastavit</string>
 </resources>

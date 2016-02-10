@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activate_xiaomi_account">AKtivovat toto zařízení</string>
   <string name="app_name">Vyhledat zařízení</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Nelze odblokovat. %s.</string>
+  <string name="default_lock_msg_words">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
+  <string name="default_lock_msg_words_with_phone">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
+  <string name="device_lost">Toto zařízení bylo ztraceno nebo ukradeno</string>
   <string name="disable_find_device_error">Nelze deaktivovat vyhledávání zařízení. %1$s</string>
   <string name="disable_find_device_success">Vyhledávání zařízení je vypnuto.</string>
   <string name="enable_find_device_error">Nelze aktivovat vyhledávání zařízení. %1$s</string>
   <string name="enable_find_device_success">Vyhledávání zařízení je aktivní.</string>
   <string name="find_device">Vyhledat zařízení</string>
+  <string name="find_device_crash">Vyhledávání bylo neočekávaně ukončeno</string>
   <string name="find_device_error_account_sys_timeout">Nelze se připojit ke Xiaomi účtu.</string>
   <string name="find_device_error_network">Zkontrolujte datové připojení a zkuste to znovu.</string>
   <string name="find_device_error_password_changed">Heslo k vašemu účtu bylo změněno.</string>
@@ -21,8 +24,10 @@
   <string name="find_device_notice_p3">" pro vyhledání, zablokování, nebo obnovu vašeho zařízení.
 Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</string>
   <string name="find_device_stop_noise">Stiskněte OK pro vypnutí</string>
+  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Vyhledat zařízení</string>
   <string name="i_know">OK</string>
+  <string name="lock_msg_phone">Kontaktní údaje: %s</string>
   <string name="login_failed">Nelze se přihlásit</string>
   <string name="password">Heslo</string>
   <string name="phone_locked">Toto zařízení je zřejmě propojeno s jiným Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
@@ -42,10 +47,4 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
   <string name="unlocking">Aktivování...</string>
   <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
-  <string name="default_lock_msg_words">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
-  <string name="default_lock_msg_words_with_phone">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
-  <string name="device_lost">Toto zařízení bylo ztraceno nebo ukradeno</string>
-  <string name="lock_msg_phone">Kontaktní údaje: %s</string>
-  <string name="find_device_crash">Vyhledávání bylo neočekávaně ukončeno</string>
-  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
 </resources>

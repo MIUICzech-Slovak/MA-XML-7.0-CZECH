@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_name">Vyhledávání</string>
   <string name="apps_search_activity"/>
+  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
+  <string name="baidu_suggest_base"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Vymazat historii</string>
   <string name="clear_shortcuts">Smazat historii v zařízení</string>
@@ -10,6 +11,7 @@
   <string name="clear_shortcuts_disagree">"Nemazat zástupce"</string>
   <string name="clear_shortcuts_prompt">"Smaže historii nedávno vybraných návrhů pro obsah a aplikace v tomto zařízení.\n(Pro smazání historie prohlížeče použijte Nastavení v aplikaci Prohlížeč.)"</string>
   <string name="clear_shortcuts_summary">Smazat historii nejčastěji volených návrhů</string>
+  <string name="connect_and_retry">Připojte se na internet a zkuste to znovu</string>
   <string name="corpus_description_apps">Jména nainstalovaných aplikací</string>
   <string name="corpus_description_web">Vyhledávání na internetu, v záložkách a v historii prohlížeče</string>
   <string name="corpus_hint_apps">Hledat aplikace</string>
@@ -22,6 +24,7 @@
   <string name="cta_declaration_negative_text">Ukončit</string>
   <string name="cta_declaration_positive_text">OK</string>
   <string name="cta_declaration_title">Podmínky používání</string>
+  <string name="default_hint">Vyhledat Aplikace, Hudbu, Video...</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Vyhledávání zařízení</string>
   <string name="google_app_label">Google hledání</string>
@@ -33,6 +36,7 @@
   <string name="loading">Načítání...</string>
   <string name="menu_help">Nápověda</string>
   <string name="menu_settings">Nastavení hledání</string>
+  <string name="network_unavailable">Žádné internetové připojení</string>
   <string name="recently_shortcut_label">Nedávné odkazy</string>
   <string name="remove_from_history">Odebrat z historie hledání</string>
   <string name="remove_from_history_failed">"Odebrání položky z historie se nezdařilo"</string>
@@ -56,14 +60,9 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Zkuste mluvit:</string>
+  <string name="web_search_results">Vyhledávání na internetu</string>
   <string name="xiaomi_hint"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="default_hint">Vyhledat Aplikace, Hudbu, Video...</string>
-  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
-   <string name="baidu_suggest_base"/>
-  <string name="connect_and_retry">Připojte se na internet a zkuste to znovu</string>
-   <string name="network_unavailable">Žádné internetové připojení</string>
-   <string name="web_search_results">Vyhledávání na internetu</string>
 </resources>

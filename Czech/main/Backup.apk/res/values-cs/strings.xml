@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="abort_backup_confirm">Záloha není dokončena. Chcete ukončit zálohování?</string>
   <string name="account_contact_backup_info">Data (Xiaomi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
@@ -51,6 +50,7 @@
   <string name="button_next">Další</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Zpět</string>
+  <string name="button_send">Odeslat</string>
   <string name="call_title">Seznam hovorů</string>
   <string name="camera_summary">Nastavení Fotoaparátu (nezálohuje fotografie)</string>
   <string name="cancel">Zrušit</string>
@@ -126,9 +126,13 @@
   <string name="local_no_backup">Žádná místní záloha</string>
   <string name="local_restore_window_title">Obnova z SD karty</string>
   <string name="local_select_account_contact">Účty a kontakty</string>
+  <string name="local_select_audio">Hudba</string>
+  <string name="local_select_doc">Dokumenty</string>
   <string name="local_select_files">SD karta</string>
+  <string name="local_select_image">Obrázky</string>
   <string name="local_select_sysdata">Systémová data</string>
   <string name="local_select_userapp">Aplikace</string>
+  <string name="local_select_video">Videa</string>
   <string name="menu_patch_delete">Smazat zálohy</string>
   <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Xiaomi\n Užijte si všechny dostupné online služby</string>
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
@@ -191,6 +195,10 @@
   <string name="select_storage_location">Vyberte umístění zálohy</string>
   <string name="service_stoped">Služba se zastavila</string>
   <string name="settings_summary">Telefon a nastavení SMS</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Zálohovat aplikace a jejich data</string>
   <string name="start_backup">Spustit zálohu</string>
@@ -243,41 +251,12 @@
   <string name="trans_detail_category_sysdata">Systémová data</string>
   <string name="trans_detail_category_userdata">Apl.</string>
   <string name="trans_device_disconnected">Zařízení odpojeno</string>
+  <string name="trans_generate_qr_code_failed">Nelze vytvořit QR kód</string>
   <string name="trans_main_tutor">Přesuňte kontakty, historii hovorů, zprávy, nastavení plochy, aplikace, nastavení, atd. do nového zařízení.</string>
   <string name="trans_my_device">Mé zařízení</string>
   <string name="trans_one_key_migrate">Přenos dat</string>
-  <string name="trans_progress_subdescript_br_receiver">Obnovení %1$s, %2$s dokončeno</string>
-  <string name="trans_progress_subdescript_br_sender">Zálohování %1$s, %2$s dokončeno</string>
-  <string name="trans_progress_subdescript_transing_receiver">Přijímání %1$s, %2$s dokončeno</string>
-  <string name="trans_progress_subdescript_transing_sender">Odesílání %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Přijímání souborů, %s dokončeno</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Odesílání souborů, %s dokončeno</string>
-  <string name="trans_progress_subdescript_waiting">Čekání na přijmutí %s</string>
-  <string name="trans_receiver">Jsem příjemce</string>
-  <string name="trans_receiving_completed">Data byla přenesena</string>
-  <string name="trans_restoring">Obnovení...</string>
-  <string name="trans_restoring_no_items">Synchr. položek</string>
-  <string name="trans_select_device_receive">Vyberte zařízení pro přijmutí dat.</string>
-  <string name="trans_select_device_send">Vyberte jedno zařízení na přenos dat.</string>
-  <string name="trans_sender">Jsem odesílatel</string>
-  <string name="trans_sender_connectting">Potvrďte na novém zařízení</string>
-  <string name="trans_sender_searching">Vyhledávání nových zařízení</string>
-  <string name="trans_sender_searching_ensurance">"Ujistěte se, že nové zařízení je zapnuto.
-Čekání na připojení starého zařízení..."</string>
-  <string name="trans_sending_completed">Data jsou přenesena</string>
-  <string name="trans_time_format_second">méně než 1 min.</string>
-  <string name="trans_time_remained">", připraveno v "</string>
-  <string name="trans_waiting_ensurance">"Ujistěte se, že staré zařízení je zapnuto.
-a Přenos je povolen"</string>
-  <string name="trans_waiting_for_sender">Čekání na připojení starého zařízení...</string>
-  <string name="unit_byte">B</string>
-  <string name="unit_piece">ks</string>
-  <string name="unknown_hint">Neznámý</string>
-  <string name="wifi_title">Wi-Fi nastavení</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_router">MiRouter</string>
-  <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="trans_generate_qr_code_failed">Nelze vytvořit QR kód</string>
+  <string name="trans_operate_func_one">Metoda A</string>
+  <string name="trans_operate_func_two">Metoda B</string>
   <string name="trans_operate_new_phone_tips">"Načtěte QR kód novým zařízením.
 Jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení a 
 stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
@@ -288,34 +267,54 @@ stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
   <string name="trans_operate_old_phone_tips2">"Metoda B
 Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení
 a stiskněte [Jsem odesílatel]"</string>
+  <string name="trans_progress_subdescript_br_receiver">Obnovení %1$s, %2$s dokončeno</string>
+  <string name="trans_progress_subdescript_br_sender">Zálohování %1$s, %2$s dokončeno</string>
+  <string name="trans_progress_subdescript_transing_receiver">Přijímání %1$s, %2$s dokončeno</string>
+  <string name="trans_progress_subdescript_transing_sender">Odesílání %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Přijímání souborů, %s dokončeno</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Odesílání souborů, %s dokončeno</string>
+  <string name="trans_progress_subdescript_waiting">Čekání na přijmutí %s</string>
+  <string name="trans_receiver">Jsem příjemce</string>
+  <string name="trans_receiver_time_remained">"%s zbývá.
+ Nevypínejte Wi-Fi. 
+ Držte obě zařízení v blízkosti."</string>
+  <string name="trans_receiving_completed">Data byla přenesena</string>
+  <string name="trans_restoring">Obnovení...</string>
+  <string name="trans_restoring_no_items">Synchr. položek</string>
   <string name="trans_scan_invalid_qrcode">Špatný QR kód</string>
   <string name="trans_scan_qr_code_tips">Načtěte QR kód novým zařízením</string>
-  <string name="trans_show_qr_code_tips">Načtěte QR kód starým zařízením</string>
-    <string name="button_send">Odeslat</string>
-   <string name="local_select_audio">Hudba</string>
-   <string name="local_select_doc">Dokumenty</string>
-   <string name="local_select_image">Obrázky</string>
-   <string name="local_select_video">Videa</string>
-   <string name="size_byte">B</string>
-   <string name="size_giga_byte">GB</string>
-   <string name="size_kilo_byte">KB</string>
-   <string name="size_mega_byte">MB</string>
-   <string name="trans_operate_func_one">Metoda A</string>
-   <string name="trans_operate_func_two">Metoda B</string>
-   <string name="trans_receiver_time_remained">"%s zbývá.
- Nevypínejte Wi-Fi. 
- Držte obě zařízení v blízkosti."</string>
-   <string name="trans_select_data">Vyberte data</string>
-   <string name="trans_select_data_no_space">"%s dostupné na novém zařízení
+  <string name="trans_select_data">Vyberte data</string>
+  <string name="trans_select_data_no_space">"%s dostupné na novém zařízení
  Vyberte soubory znovu pro uvolnění úložiště"</string>
-   <string name="trans_select_data_tips">"Vyberte soubory na přenesení
+  <string name="trans_select_data_tips">"Vyberte soubory na přenesení
  Stejné soubory na novém zařízení budou přepsány"</string>
-   <string name="trans_sender_time_remained">"%s zbývá.
+  <string name="trans_select_device_receive">Vyberte zařízení pro přijmutí dat.</string>
+  <string name="trans_select_device_send">Vyberte jedno zařízení na přenos dat.</string>
+  <string name="trans_sender">Jsem odesílatel</string>
+  <string name="trans_sender_connectting">Potvrďte na novém zařízení</string>
+  <string name="trans_sender_searching">Vyhledávání nových zařízení</string>
+  <string name="trans_sender_searching_ensurance">"Ujistěte se, že nové zařízení je zapnuto.
+Čekání na připojení starého zařízení..."</string>
+  <string name="trans_sender_time_remained">"%s zbývá.
  Nevypínejte Wi-Fi. 
  Držte obě zařízení v blízkosti."</string>
-   <string name="trans_show_qr_code_label">Připojte staré zařízení</string>
-   <string name="trans_time_spent">"
+  <string name="trans_sending_completed">Data jsou přenesena</string>
+  <string name="trans_show_qr_code_label">Připojte staré zařízení</string>
+  <string name="trans_show_qr_code_tips">Načtěte QR kód starým zařízením</string>
+  <string name="trans_time_format_second">méně než 1 min.</string>
+  <string name="trans_time_remained">", připraveno v "</string>
+  <string name="trans_time_spent">"
  Čas trvání: %s"</string>
   <string name="trans_wait_trans_data">"Připojte se ke starému zařízení.
  Čekání na přenos..."</string>
+  <string name="trans_waiting_ensurance">"Ujistěte se, že staré zařízení je zapnuto.
+a Přenos je povolen"</string>
+  <string name="trans_waiting_for_sender">Čekání na připojení starého zařízení...</string>
+  <string name="unit_byte">B</string>
+  <string name="unit_piece">ks</string>
+  <string name="unknown_hint">Neznámý</string>
+  <string name="wifi_title">Wi-Fi nastavení</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_router">MiRouter</string>
+  <string name="xiaomi_router_location">MiRouter %s</string>
 </resources>

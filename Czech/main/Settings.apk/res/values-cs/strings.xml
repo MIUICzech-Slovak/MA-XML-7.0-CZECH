@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Accounts_settings_title">Účty</string>
   <string name="about_settings">Informace o zařízení</string>
@@ -354,6 +353,8 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="battery_info_voltage_label">Napětí baterie:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Stav baterie</string>
+  <string name="battery_light_summary">LED při nabíjení</string>
+  <string name="battery_light_title">Signalizace nabíjení</string>
   <string name="battery_msg_unaccounted">Informace o využití baterie jsou přibližné odhady a neobsahují všechny způsoby využití energie. Pod označením „Různé využití energie“ uvádíme rozdíl mezi vypočtenou přibližnou spotřebou energie a skutečnou spotřebou zjištěnou podle baterie.</string>
   <string name="battery_saver">Spořič baterie</string>
   <string name="battery_saver_turn_on_automatically_never">Nikdy</string>
@@ -692,6 +693,12 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="clear_failed_dlg_title">Vymazat data</string>
   <string name="clear_user_data_text">Vymazat data</string>
   <string name="close_dialog">OK</string>
+  <string name="close_miui_optimization_title">Deaktivovat optimalizaci MIUI</string>
+  <string name="close_miui_optimization_warning_message">Vaše zařízení se restartuje pro aplikování těchto změn. Poznámka: Deaktivace optimalizace systému MIUI změní rozložení a ostatní vizuální stránky MIUI.</string>
+  <string name="cloud_backup_section_title">MiCloud záloha</string>
+  <string name="cloud_backup_settings_section_title">Zálohovat nastavení</string>
+  <string name="cloud_restore_section_summary">Obnovit apl, nastavení plochy a nastavení systému.</string>
+  <string name="cloud_restore_section_title">Obnovit z MiCloud</string>
   <string name="cmcc_dm_settings_disable_summary">Zakázat auto-start</string>
   <string name="cmcc_dm_settings_enable_summary">Povolit auto-start</string>
   <string name="cmcc_dm_settings_title">Správa povolení zařízení</string>
@@ -730,6 +737,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="contributors_title">Přispěvatelé</string>
   <string name="controls_label">Ovládací prvky</string>
   <string name="controls_subtitle">Upravit spotřebu energie</string>
+  <string name="convenience_key_category_title">Zkratky</string>
   <string name="copyright_title">Autorská práva</string>
   <string name="country_name">%s (systém)</string>
   <string name="create">Vytvořit</string>
@@ -1268,8 +1276,10 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="force_stop_dlg_text">Vynucené zastavení může způsobit nepředvídatelné chování aplikace.</string>
   <string name="force_stop_dlg_title">Chcete vynutit zastavení?</string>
   <string name="forget">ODSTRANIT</string>
+  <string name="forget_password_button_text">Zapomenuté heslo</string>
   <string name="forget_wifi_message">Můžete vypnout automatické připojování k síti a možná budete muset při opětovném připojení znovu zadávat heslo.</string>
   <string name="found_new_version">"Nalezena nová verze "</string>
+  <string name="fp_nav_center_back_to_home_title">Stiskněte tlačítko Domů pro návrat na domácí obrazovku</string>
   <string name="free_wifi_agreement_remind_never">Znovu nezobrazovat</string>
   <string name="free_wifi_confirm">Potvrdit</string>
   <string name="free_wifi_connect">Připojit</string>
@@ -1291,6 +1301,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="free_wifi_user_agreement_allow">OK</string>
   <string name="free_wifi_user_agreement_title">Podmínky používání</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Připojte se k %1$s.</string>
   <string name="frequently_fragment_delete">Smazat</string>
   <string name="frequently_fragment_tempty">Často používané položky budou zobrazeny zde</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -1370,6 +1381,9 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="immediately_destroy_activities_summary">Rušit všechny činnosti, jakmile je uživatel zavře</string>
   <string name="ims_reg_required_off">Vyžaduje se vypnutí registrace IMS</string>
   <string name="ims_reg_required_on">Vyžaduje se zapnutí registrace IMS</string>
+  <string name="inactive_app_active_summary">Aktivní. Přepnete klepnutím.</string>
+  <string name="inactive_app_inactive_summary">Neaktivní. Přepnete klepnutím.</string>
+  <string name="inactive_apps_title">Neaktivní aplikace</string>
   <string name="include_app_data_title">Zahrnout data aplikací</string>
   <string name="incoming_call_breathing_light_color_title">Barva LED zmeškaného hovoru</string>
   <string name="incoming_call_breathing_light_freq_title">Frekv. blikání LED při zmešk. hovoru</string>
@@ -1485,6 +1499,8 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="led_frequence_summary">Nastavit interval blikání LED</string>
   <string name="led_pulse_summary">Při nové notifikaci blikat LEDkou</string>
   <string name="led_settings">LED</string>
+  <string name="legacy_dhcp_client">Použít starý klient DHCP</string>
+  <string name="legacy_dhcp_client_summary">Namísto nového klientu DHCP Android použít klient DHCP z verze Lollipop.</string>
   <string name="legal_information">Právní informace</string>
   <string name="legal_workday">Pracovní dny</string>
   <string name="legal_workday_invalidate">Po-Pá (bez svátků)</string>
@@ -1797,6 +1813,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="miui_allow_vibrate">povolit vibrace</string>
   <string name="miui_data_usage_menu_metered">Mobilní hot-spoty</string>
   <string name="miui_disturb_title">povolit vyrušování</string>
+  <string name="miui_experience_optimization">Aktivovat optimalizaci MIUI</string>
   <string name="miui_screensaver_show_time">Trvání</string>
   <string name="miui_screensaver_show_time_select_title">Nastavit trvání prezentace</string>
   <string name="miui_screensaver_state_off">Vypnutý</string>
@@ -1807,9 +1824,14 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="mms_breathing_light_color_title">Barva LED nepřečtené zprávy</string>
   <string name="mms_breathing_light_freq_title">Frekv. blikání LED při zprávě</string>
   <string name="mobile_connect_to_internet">Připojte se prosím k internetu.</string>
+  <string name="mobile_data_always_on">Mobilní data jsou vždy aktivní</string>
+  <string name="mobile_data_always_on_summary">Mobilní data budou vždy ponechána aktivní, i když bude aktivní Wi-Fi (za účelem rychlého přepínání sítí).</string>
   <string name="mobile_insert_sim_card">Vložte SIM kartu a restartujte zařízení.</string>
   <string name="mobile_no_provisioning_url">%1$s nemá žádný známý web pro správu účtů.</string>
   <string name="mobile_unknown_sim_operator">Neznámý operátor SIM karty</string>
+  <string name="mock_location_app">Vybrat aplikaci k simulování polohy</string>
+  <string name="mock_location_app_not_set">Aplikace k simulování polohy není nastavena</string>
+  <string name="mock_location_app_set">Aplikace k simulování polohy: %1$s</string>
   <string name="model_number">Označení modelu</string>
   <string name="modem_tool_log">Capture Modem Logs</string>
   <string name="modem_tool_log_start">Spustit</string>
@@ -1862,6 +1884,7 @@ Zvolte Váš operační systém:"</string>
   <string name="music_dirac_mode_general_inear">Běžné špunty</string>
   <string name="music_dirac_mode_headset">Mi Sluchátka</string>
   <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac vypnutý</string>
   <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
@@ -1998,8 +2021,13 @@ Zvolte Váš operační systém:"</string>
   <string name="only_one_home_message">Nastavení plochy budou skryta, dokud nenainstalujete další aplikaci plochy</string>
   <string name="only_when_charging">Pouze při nabíjení</string>
   <string name="onscreen_keyboard_settings_summary">Nastavení klávesnice na obrazovce</string>
+  <string name="open_miui_optimization_title">Aktivovat optimalizaci MIUI</string>
+  <string name="open_miui_optimization_warning_message">Vaše zařízení se restartuje pro aplikování těchto změn</string>
   <string name="open_wifi_connect_summary">Stiskněte pro správu sítí</string>
   <string name="open_wifi_connect_title">Připojit k %1$s</string>
+  <string name="optimization_cancel">Zrušit</string>
+  <string name="optimization_close">Deaktivovat a restartovat</string>
+  <string name="optimization_open">Aktivovat</string>
   <string name="other_advanced_settings">Další nastavení</string>
   <string name="other_personal_settings">Osobní nastavení</string>
   <string name="other_relative">Ostatní povolení</string>
@@ -2160,6 +2188,7 @@ Zvolte Váš operační systém:"</string>
   <string name="print_blocked_state_title_template">Tiskárna blokuje úlohu %1$s</string>
   <string name="print_cancel">Storno</string>
   <string name="print_cancelling_state_title_template">Rušení úlohy %1$s</string>
+  <string name="print_enable">Povolit tiskárnu</string>
   <string name="print_failed_state_title_template">Chyba tiskárny u úlohy %1$s</string>
   <string name="print_feature_state_off">Vypnuto</string>
   <string name="print_feature_state_on">Zapnuto</string>
@@ -2175,6 +2204,7 @@ Zvolte Váš operační systém:"</string>
   <string name="print_print_job">Tisková úloha</string>
   <string name="print_print_jobs">Tiskové úlohy</string>
   <string name="print_printing_state_title_template">Tisk úlohy %1$s</string>
+  <string name="print_remind">Nejdříve povolte tiskárnu</string>
   <string name="print_restart">Restartovat</string>
   <string name="print_search_box_hidden_utterance">Vyhledávací pole je skryto</string>
   <string name="print_search_box_shown_utterance">Vyhledávací pole se zobrazuje</string>
@@ -2260,9 +2290,8 @@ Zvolte Váš operační systém:"</string>
   <string name="quiet_group">Tichý režim</string>
   <string name="quiet_important_interruptions_mode">Povolit jen výjimky</string>
   <string name="quiet_mode">Tichý režim</string>
-  <string name="quiet_off_mode">Běžný režim</string>
   <string name="quiet_no_interruptions_mode">Ztišit vše</string>
-  <string name="battery_light_summary">LED při nabíjení</string>
+  <string name="quiet_off_mode">Běžný režim</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Připojeno</string>
   <string name="radioInfo_data_connecting">Připojování</string>
@@ -2349,6 +2378,7 @@ Zvolte Váš operační systém:"</string>
  Žádné aplikace se nesmažou."</string>
   <string name="reset_app_preferences_title">Obnovit nastavení apl.?</string>
   <string name="reset_legacy_password_settings_preface_text">Musíte resetovat vaše heslo.</string>
+  <string name="resolver_settings_label">Seřadit</string>
   <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
   <string name="restore_default_apn">Obnovování výchozích nastavení názvu přístupového bodu (APN)</string>
   <string name="restore_default_apn_completed">Obnovení výchozích nastavení názvu přístupového bodu (APN) bylo dokončeno.</string>
@@ -2575,6 +2605,8 @@ Postup připnutí obrazovky:
   <string name="select_runtime_title">Výběr modulu runtime</string>
   <string name="select_runtime_warning_message">Chcete provést restart a změnit modul runtime z %1$s na %2$s?</string>
   <string name="select_ssid_type_title">Výběr SSID</string>
+  <string name="select_usb_configuration_dialog_title">Výběr konfigurace USB</string>
+  <string name="select_usb_configuration_title">Výběr konfigurace USB</string>
   <string name="selinux_status">Stav zabezpečení SELinux</string>
   <string name="selinux_status_disabled">Zakázáno</string>
   <string name="selinux_status_enforcing">Přísné</string>
@@ -3137,6 +3169,10 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="usb_tethering_unavailable_subtext">Připojení USB není k dispozici</string>
   <string name="usb_title">USB</string>
   <string name="usb_unmount_inform_text">USB úložiště bude odpojeno.</string>
+  <string name="usb_use">Použití USB:</string>
+  <string name="usb_use_charging_only">Pouze nabíjení</string>
+  <string name="usb_use_file_transfers">Přenos souborů (MTP)</string>
+  <string name="usb_use_photo_transfers">Přenos fotek (PTP)</string>
   <string name="use_default_tts_settings_summary">Výchozí nastavení níže přepíše nastavení jednotlivých aplikací</string>
   <string name="use_default_tts_settings_title">Vždy používat moje nastavení</string>
   <string name="use_location_summary">Povolit Googlu použít vaši polohu ke zlepšení výsledků vyhledávání a dalších služeb</string>
@@ -3784,41 +3820,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="forget_password_button_text">Zapomenuté heslo</string>
-  <string name="resolver_settings_label">Seřadit</string>
-  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
-  <string name="print_enable">Povolit tiskárnu</string>
-  <string name="print_remind">Nejdříve povolte tiskárnu</string>
-  <string name="cloud_backup_section_title">MiCloud záloha</string>
-  <string name="cloud_backup_settings_section_title">Zálohovat nastavení</string>
-  <string name="cloud_restore_section_summary">Obnovit apl, nastavení plochy a nastavení systému.</string>
-  <string name="cloud_restore_section_title">Obnovit z MiCloud</string>
-  <string name="convenience_key_category_title">Zkratky</string>
-  <string name="fp_nav_center_back_to_home_title">Stiskněte tlačítko Domů pro návrat na domácí obrazovku</string>
-  <string name="close_miui_optimization_title">Deaktivovat optimalizaci MIUI</string>
-   <string name="close_miui_optimization_warning_message">Vaše zařízení se restartuje pro aplikování těchto změn. Poznámka: Deaktivace optimalizace systému MIUI změní rozložení a ostatní vizuální stránky MIUI.</string>
-   <string name="miui_experience_optimization">Aktivovat optimalizaci MIUI</string>
-   <string name="open_miui_optimization_title">Aktivovat optimalizaci MIUI</string>
-   <string name="open_miui_optimization_warning_message">Vaše zařízení se restartuje pro aplikování těchto změn</string>
-   <string name="optimization_cancel">Zrušit</string>
-   <string name="optimization_close">Deaktivovat a restartovat</string>
-   <string name="optimization_open">Aktivovat</string>
-   <string name="battery_light_title">Signalizace nabíjení</string>
-    <string name="free_xiaomi_wifi_connect_summary">Připojte se k %1$s.</string>
-      <string name="usb_use_charging_only">Pouze nabíjení</string>
-  <string name="usb_use_file_transfers">Přenos souborů (MTP)</string>
-  <string name="usb_use_photo_transfers">Přenos fotek (PTP)</string>
-    <string name="usb_use">Použití USB:</string>
-  <string name="inactive_app_active_summary">Aktivní. Přepnete klepnutím.</string>
-  <string name="inactive_app_inactive_summary">Neaktivní. Přepnete klepnutím.</string>
-  <string name="inactive_apps_title">Neaktivní aplikace</string>
-    <string name="select_usb_configuration_dialog_title">Výběr konfigurace USB</string>
-  <string name="select_usb_configuration_title">Výběr konfigurace USB</string>
-  <string name="mobile_data_always_on">Mobilní data jsou vždy aktivní</string>
-  <string name="mobile_data_always_on_summary">Mobilní data budou vždy ponechána aktivní, i když bude aktivní Wi-Fi (za účelem rychlého přepínání sítí).</string>
-  <string name="legacy_dhcp_client">Použít starý klient DHCP</string>
-  <string name="legacy_dhcp_client_summary">Namísto nového klientu DHCP Android použít klient DHCP z verze Lollipop.</string>
-    <string name="mock_location_app">Vybrat aplikaci k simulování polohy</string>
-  <string name="mock_location_app_not_set">Aplikace k simulování polohy není nastavena</string>
-  <string name="mock_location_app_set">Aplikace k simulování polohy: %1$s</string>
 </resources>

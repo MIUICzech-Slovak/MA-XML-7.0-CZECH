@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="SMS_and_MMS">SMS a MMS</string>
   <string name="Settings_title_anti_spam">Nastavení Antispamu</string>
@@ -172,6 +171,7 @@
   <string name="cmcc_app_check_dialog_positive">Restartovat</string>
   <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
   <string name="confirm_auto_cleaner">Ok</string>
+  <string name="confirm_reject_all_permission">Zakázat všem aplikacím používat tuto funkci?</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušit</string>
   <string name="cta_checkbox_title">Znovu se neptat</string>
@@ -643,6 +643,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="protection_category_dangerous_title">Rizika (%d)</string>
   <string name="protection_category_recommend_title">Doporučuje se optimalizace (%d)</string>
   <string name="protection_category_security_title">Bezpečné (%d)</string>
+  <string name="reject_all">Zakázat vše</string>
   <string name="risk_list_header_title">Podezřelá aplikace: %d</string>
   <string name="root_apply_step_1">Povolit %s práva ROOT?</string>
   <string name="root_apply_step_2">Povolení práv ROOT může způsobit nestabilitu vašeho zařízení.</string>
@@ -807,6 +808,4 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="confirm_reject_all_permission">Zakázat všem aplikacím používat tuto funkci?</string>
-  <string name="reject_all">Zakázat vše</string>
 </resources>

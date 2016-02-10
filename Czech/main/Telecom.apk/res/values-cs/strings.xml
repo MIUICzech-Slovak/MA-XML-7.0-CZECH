@@ -1,9 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_call_muted">Hovor ztišen</string>
   <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý</string>
   <string name="add_vm_number_str">Přidat číslo</string>
+  <string name="can_not_dial_while_vt_prompt">Nelze vytočit při hovoru</string>
+  <string name="change_default_dialer_dialog_title">Chcete změnit výchozí aplikaci vytáčení?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Chcete použít aplikaci %s jako výchozí aplikaci vytáčení?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Chcete použít aplikaci %1$s namísto aplikace %2$s jako výchozí aplikaci pro vytáčení?</string>
+  <string name="dial_conference_fail_prompt">Nelze vytočit hovor, aktuální síť nepodporuje VoLTE.</string>
+  <string name="dial_vt_fail_prompt">Aktuální síť nepodporuje VoLTE. Přepnout na běžný hlasový hovor?</string>
+  <string name="duplicate_video_call_not_allowed">Hovor momentálně nelze přidat.</string>
+  <string name="enable_account_preference_title">Telefonní účty</string>
   <string name="headset_plugin_view_text">Hands-free je připojeno</string>
   <string name="headset_plugin_view_title">Hands-free</string>
   <string name="no_vm_number">Číslo hlasové schránky neexistuje</string>
@@ -11,11 +18,14 @@
   <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
   <string name="notification_missedCallTitle">Zmeškaný hovor</string>
   <string name="notification_missedCall_call_back">Zavolat zpět</string>
+  <string name="notification_missedCall_call_back_miui">Hovor</string>
   <string name="notification_missedCall_message">Zpráva</string>
   <string name="notification_missedCallsMsg">Zmeškané hovory: %s</string>
   <string name="notification_missedCallsTitle">Zmeškané hovory</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Hovor nelze uskutečnit, zadané číslo není správné.</string>
   <string name="outgoing_call_not_allowed">Tento uživatel nemá povolení pro volání jiných, než nouzových čísel</string>
+  <string name="outgoing_call_not_allowed_no_permission">V této aplikaci nelze uskutečnit odchozí hovory bez povolení aplikace Telefon</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Vlastník zařízení povolil pouze tísňová volání</string>
   <string name="respond_via_sms_canned_response_1">"Momentálně nemohu hovořit. Zavolám vám později."</string>
   <string name="respond_via_sms_canned_response_2">Zavolám zpět.</string>
   <string name="respond_via_sms_canned_response_3">Zavolám později.</string>
@@ -28,20 +38,9 @@
   <string name="respond_via_sms_setting_title_2">Upravit rychlé odpovědi</string>
   <string name="telecommAppLabel">Telefon</string>
   <string name="unknown">Neznámé</string>
+  <string name="userCallActivityLabel">Telefon</string>
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
+  <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volání</string>
   <string name="voice_report_unknown_num">Neznámé číslo</string>
-  <string name="change_default_dialer_dialog_title">Chcete změnit výchozí aplikaci vytáčení?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Chcete použít aplikaci %s jako výchozí aplikaci vytáčení?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Chcete použít aplikaci %1$s namísto aplikace %2$s jako výchozí aplikaci pro vytáčení?</string>
-  <string name="duplicate_video_call_not_allowed">Hovor momentálně nelze přidat.</string>
-  <string name="enable_account_preference_title">Telefonní účty</string>
-  <string name="outgoing_call_not_allowed_no_permission">V této aplikaci nelze uskutečnit odchozí hovory bez povolení aplikace Telefon</string>
-  <string name="outgoing_call_not_allowed_user_restriction">Vlastník zařízení povolil pouze tísňová volání</string>
-  <string name="userCallActivityLabel">Telefon</string>
-  <string name="notification_missedCall_call_back_miui">Hovor</string>
-  <string name="can_not_dial_while_vt_prompt">Nelze vytočit při hovoru</string>
-  <string name="dial_conference_fail_prompt">Nelze vytočit hovor, aktuální síť nepodporuje VoLTE.</string>
-  <string name="dial_vt_fail_prompt">Aktuální síť nepodporuje VoLTE. Přepnout na běžný hlasový hovor?</string>
-  <string name="voice_dial_out">Hlasový hovor</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="account">Účet</string>
   <string name="account_and_cloud">Účet</string>
@@ -71,6 +70,7 @@
   <string name="create_playlist">Vytvořit playlist</string>
   <string name="create_playlist_failure">"Seznam skladeb nebyl vytvořen"</string>
   <string name="current_services">Aktuální služby</string>
+  <string name="current_version">Aktuální verze</string>
   <string name="data_usage_warning">Upozornění využití dat!</string>
   <string name="data_usage_warning_summary">Používání mobilních dat pro poslech hudby ve vysoké kvalitě může zvýšit Vaše měsíční poplatky.</string>
   <string name="delete">Vymazat</string>
@@ -326,6 +326,12 @@
   <string name="not_login">Nepřihlášen</string>
   <string name="not_selected">Vyberte skladbu</string>
   <string name="not_vip">Promiňte, nejste VIP uživatel.</string>
+  <string name="notification_des_next_song">Další skladba: %s</string>
+  <string name="notification_des_no_song">Pusťte si nějakou hudbu.</string>
+  <string name="notification_headset_custom">Zrušit</string>
+  <string name="notification_headset_info">Zobrazit nastavení.</string>
+  <string name="notification_headset_settings">Připojená sluchátka</string>
+  <string name="notification_title_no_song">Zjistěte, co ostatní poslouchají!</string>
   <string name="nowplaying_menu_item_delete">Vymazat</string>
   <string name="ok">OK</string>
   <string name="one_month">1 měsíc</string>
@@ -400,6 +406,8 @@
   <string name="set_lyric_successful">Text skladby uložen</string>
   <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
   <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
+  <string name="settings_notification_text">Zobrazit ovládání hudby v roletce</string>
+  <string name="settings_notification_title">Widget v roletce</string>
   <string name="share_append_text">Od @小米音乐</string>
   <string name="share_chooser_title">Sdílet</string>
   <string name="share_description">Z MiMusic</string>
@@ -481,18 +489,9 @@
   <string name="upgrade_waringing">Bude možné poslouchat pouze hudbu uloženou ve vašem zařízení.</string>
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
+  <string name="version_info">Verze</string>
   <string name="vip_expiration_message">"Po uplynutí vašeho VIP členství budete moci streamovat hudbu rychlostí pouze 128Kbps. Kvůli právním omezením nejsou některé skladby dostupné ke stažení."</string>
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství</string>
-  <string name="current_version">Aktuální verze</string>
-   <string name="notification_des_next_song">Další skladba: %s</string>
-   <string name="notification_des_no_song">Pusťte si nějakou hudbu.</string>
-   <string name="notification_headset_custom">Zrušit</string>
-   <string name="notification_headset_info">Zobrazit nastavení.</string>
-   <string name="notification_headset_settings">Připojená sluchátka</string>
-   <string name="notification_title_no_song">Zjistěte, co ostatní poslouchají!</string>
-   <string name="settings_notification_text">Zobrazit ovládání hudby v roletce</string>
-   <string name="settings_notification_title">Widget v roletce</string>
-   <string name="version_info">Verze</string>
 </resources>

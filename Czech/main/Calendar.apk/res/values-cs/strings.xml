@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_add_attendee">Přidat účastníka</string>
   <string name="accessibility_add_reminder">Přidat připomenutí</string>
@@ -44,13 +43,26 @@
   <string name="attendees_label">Hosté</string>
   <string name="birthday_calendar_display_name">Připomenutí narozenin</string>
   <string name="birthday_event_description">Dnes má %4$s %1$s!</string>
+  <string name="birthday_event_description_a_week_ago">Před týdnem</string>
+  <string name="birthday_event_description_a_week_later">O týden později</string>
+  <string name="birthday_event_description_day_after_tomorrow">Pozítří</string>
+  <string name="birthday_event_description_day_before_yesterday">Předevčírem</string>
+  <string name="birthday_event_description_days_ago">Před %1$s dny</string>
+  <string name="birthday_event_description_days_later">O %1$s dnů později</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
+  <string name="birthday_event_description_today">Dnes</string>
+  <string name="birthday_event_description_tomorrow">Zítra</string>
+  <string name="birthday_event_description_yesterday">Včera</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
+  <string name="birthday_notification_text_days_later">%1$s dnů do %4$s (%5$s)</string>
   <string name="birthday_notification_text_three_days_later">Za 3 dny má %4$s (%3$s)!</string>
   <string name="birthday_notification_text_three_days_later_with_activity">Kupte květy nebo dortu pro TA</string>
   <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
+  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mít %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
@@ -96,6 +108,7 @@
   <string name="do_not_check">Nekontrolovat -</string>
   <string name="does_not_repeat">Jednorázová událost</string>
   <string name="done">Další</string>
+  <string name="download">Stáhnout</string>
   <string name="edit_event_all_day_label">Celý den</string>
   <string name="edit_event_calendar_label">Kalendář</string>
   <string name="edit_event_confirm_message">Zrušit změny v události?</string>
@@ -187,11 +200,13 @@
   <string name="monthly_on_day_count" formatted="false">Měsíčně (vždy %1$s %2$s)</string>
   <string name="more_string">Ještě %1$s...</string>
   <string name="movable_list_header_label">Popis</string>
+  <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="new_event_dialog_label">Nová událost</string>
   <string name="new_event_dialog_option">Nová událost</string>
   <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se klepněte na tlačítko Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
   <string name="no_local_calendar">Žádný lokální kalendář</string>
   <string name="no_network">Není dostupné internetové připojení</string>
+  <string name="no_network_btn">Zkusit znovu</string>
   <string name="no_syncable_calendars">Žádné kalendáře</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">není synchronizován</string>
@@ -283,6 +298,7 @@
   <string name="select_synced_calendars_button">Kalendáře, které se mají synchronizovat</string>
   <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
   <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
+  <string name="set_as_wallpaper">Nastavit jako tapetu</string>
   <string name="show_all_lunar">Lunární (Čína)</string>
   <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Zobrazit ovládací prvky</string>
@@ -338,6 +354,13 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="user_notice_button_exit">Ukončit</string>
+  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_declaration_ignore">Více nezobrazovat</string>
+  <string name="user_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení, vaši polohu a přístup ke kontaktům, pro jejich správné fungování.</string>
+  <string name="user_notice_title">Upozornění</string>
+  <string name="user_notification">Upozornění</string>
+  <string name="user_notification_descrip">Zobrazit upozornění při každém otevření kalendáře</string>
   <string name="view_all_matches">Zobrazit vše</string>
   <string name="view_event_calendar_label">Kalendář:</string>
   <string name="view_event_organizer_label">Organizátor:</string>
@@ -358,28 +381,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="birthday_event_description_a_week_ago">Před týdnem</string>
-   <string name="birthday_event_description_a_week_later">O týden později</string>
-   <string name="birthday_event_description_day_after_tomorrow">Pozítří</string>
-   <string name="birthday_event_description_day_before_yesterday">Předevčírem</string>
-   <string name="birthday_event_description_days_ago">Před %1$s dny</string>
-   <string name="birthday_event_description_days_later">O %1$s dnů později</string>
-   <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
-   <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
-   <string name="birthday_event_description_today">Dnes</string>
-   <string name="birthday_event_description_tomorrow">Zítra</string>
-   <string name="birthday_event_description_yesterday">Včera</string>
-   <string name="birthday_notification_text_days_later">%1$s dnů do %4$s (%5$s)</string>
-   <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
-   <string name="network_not_available">Nelze se připojit k síti</string>
-   <string name="no_network_btn">Zkusit znovu</string>
-   <string name="user_notice_button_exit">Ukončit</string>
-   <string name="user_notice_button_ok">OK</string>
-   <string name="user_notice_declaration_ignore">Více nezobrazovat</string>
-   <string name="user_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení, vaši polohu a přístup ke kontaktům, pro jejich správné fungování.</string>
-   <string name="user_notice_title">Upozornění</string>
-   <string name="user_notification">Upozornění</string>
-   <string name="user_notification_descrip">Zobrazit upozornění při každém otevření kalendáře</string>
-   <string name="download">Stáhnout</string>
-   <string name="set_as_wallpaper">Nastavit jako tapetu</string>
 </resources>

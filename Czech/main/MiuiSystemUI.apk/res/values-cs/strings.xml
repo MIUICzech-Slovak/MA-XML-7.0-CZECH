@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_airplane_mode">Letadlo</string>
   <string name="accessibility_back">Zpět</string>
@@ -21,6 +20,7 @@
   <string name="accessibility_data_three_bars">Data tři čárky.</string>
   <string name="accessibility_data_two_bars">Data dvě čárky.</string>
   <string name="accessibility_home">Domů</string>
+  <string name="accessibility_managed_profile">Pracovní profil</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Žádné datové připojení.</string>
   <string name="accessibility_no_phone">Žádný signál.</string>
@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX plný signál.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tři čárky.</string>
   <string name="accessibility_wimax_two_bars">WiMAX dvě čárky.</string>
+  <string name="account_info">Nepřihlášen</string>
   <string name="activate_usb_message">Vložte SIM kartu pro aktivaci této funkce</string>
   <string name="activate_usb_title">Aktivovat USB</string>
   <string name="always_use_accessory">Použít jako výchozí pro toto USB příslušenství</string>
@@ -120,6 +121,7 @@
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Zobrazit</string>
   <string name="lockscreen_carrier_default">Bez signálu</string>
+  <string name="managed_profile_foreground_toast">Používáte pracovní profil</string>
   <string name="mdb_entering">Přistupování k MDB</string>
   <string name="mdb_restore_cancel">Zrušit</string>
   <string name="mdb_restore_info1">"Obnoví data Vašeho telefonu"</string>
@@ -134,6 +136,7 @@
   <string name="mount_storage">Ano</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Žádné notifikace</string>
+  <string name="notification_header_title">Upozornění</string>
   <string name="notification_otg_gamestick_in">Herní ovladač je připojený</string>
   <string name="notification_otg_gamestick_out">Herní ovladač je odpojený</string>
   <string name="notification_otg_keyboard_in">Klávesnice je připojená</string>
@@ -175,7 +178,7 @@
   <string name="settings_toggle_position_divider_page">%1$d přepínačů nad čarou je aktivních</string>
   <string name="settings_toggle_position_reset">Obnovit výchozí nastavení</string>
   <string name="share">Sdílet</string>
-<string name="status_bar_date_format">"EEEE
+  <string name="status_bar_date_format">"EEEE
 d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
 d. MMMM"</string>
@@ -276,8 +279,4 @@ d. MMMM"</string>
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
-  <string name="accessibility_managed_profile">Pracovní profil</string>
-   <string name="managed_profile_foreground_toast">Používáte pracovní profil</string>
-   <string name="account_info">Nepřihlášen</string>
-   <string name="notification_header_title">Upozornění</string>
 </resources>

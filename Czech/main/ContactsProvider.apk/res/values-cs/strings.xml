@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_label">Úložiště kontaktů</string>
   <string name="call_log_provider_label">Seznam hovorů</string>
@@ -26,6 +25,6 @@
   <string name="upgrade_out_of_memory_notification_text">Výběrem této možnosti dokončíte aktualizaci.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Aktualizace kontaktu vyžaduje více paměti</string>
   <string name="upgrade_out_of_memory_notification_title">Nedostatek paměti pro aktualizaci kontaktu</string>
-  <string name="voicemail_from_column">"Hlasová zpráva od uživatele "</string>
   <string name="video_call">Video hovor</string>
+  <string name="voicemail_from_column">"Hlasová zpráva od uživatele "</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="admin_has_ability_to_monitor_device">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace a data přidružená k tomuto zařízení, včetně aktivity v síti a informací o poloze vašeho zařízení.</string>
   <string name="admin_has_ability_to_monitor_profile">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace a data přidružená k tomuto profilu, včetně aktivity v síti a informací o poloze vašeho zařízení.</string>

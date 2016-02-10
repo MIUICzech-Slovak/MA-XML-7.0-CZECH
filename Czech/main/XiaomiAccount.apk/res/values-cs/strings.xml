@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_device_info">Podrobnosti o zařízení</string>
   <string name="access_denied">Přístup zamítnut</string>
@@ -61,6 +60,7 @@
   <string name="activate_desc_intl_sim_card">Mezinárodní SMS bude odeslána pro aktivaci vaší SIM karty</string>
   <string name="activate_desc_mixed_sim_cards">SMS a mezinárodní SMS bude odeslána pro aktivaci vašich 2 SIM karet</string>
   <string name="activate_desc_sim_card">SMS bude odeslána pro aktivaci vaší SIM karty</string>
+  <string name="activate_email_notice">Svůj účet musíte aktivovat do 24 hodin</string>
   <string name="activate_feature_call_log_sync">Synchr. seznamu volání</string>
   <string name="activate_feature_find_device">Najít zařízení</string>
   <string name="activate_feature_mms_sync">SMS Synchr.</string>
@@ -135,6 +135,7 @@
   <string name="activating">Aktivace...</string>
   <string name="add_account">Přidat účet</string>
   <string name="add_weibo_account">Přidat účet</string>
+  <string name="agree_add_continue">Souhlasím</string>
   <string name="alert_title_remove_account">Odstranit účet</string>
   <string name="app_name">Xiaomi účet</string>
   <string name="authorize_title">Autorizace</string>
@@ -155,6 +156,7 @@
   <string name="button_unbind">Odhlásit se</string>
   <string name="captcha">Captcha</string>
   <string name="change_account">Změnit účet</string>
+  <string name="change_activate_email">Změnit e-mailovou adresu</string>
   <string name="change_email_address">Změnit e-mail</string>
   <string name="change_password">Změnit heslo</string>
   <string name="change_phone_number">Změnit telefonní číslo</string>
@@ -169,6 +171,7 @@
   <string name="cloud_service_dspt">Synchr. vaše fotografie, kontakty, poznámky, a mnohem více.</string>
   <string name="completed">Dokončit</string>
   <string name="confirm">OK</string>
+  <string name="confirm_activate_email">Ověřeno</string>
   <string name="confirm_email_address_dialog_message">Ověřovací kód bude odeslán na: %s.</string>
   <string name="confirm_email_address_dialog_title">Potvrzení e-mailové adresy</string>
   <string name="confirm_phone_number_dialog_message">Ověřovací kód bude odeslán na: %s.</string>
@@ -216,6 +219,7 @@ Zadejte ověřovací kód v e-mailové zprávě"</string>
   <string name="error_user_name">Nesprávné uživatelské jméno.</string>
   <string name="error_verify_code">Zadaný kód není správný</string>
   <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je propojeno s vícero Xiaomi účty. Nelze přidat další účet.</string>
+  <string name="exit">Zavřít</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Toto telefonní číslo je již použito pro jiný Xiaomi účet</string>
   <string name="failed_get_mibi_info">Zjištění stavu MiKreditů selhalo</string>
@@ -234,6 +238,7 @@ Zadejte ověřovací kód v e-mailové zprávě"</string>
   <string name="hide_mibi_info">Suma MiKreditů je skryta</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Zadejte kód z obrázku</string>
+  <string name="input_email_address_notice">Tato adresa bude použita pro ověření Vašeho účtu</string>
   <string name="input_password_hint">Vložte heslo</string>
   <string name="input_phone_hint">Zadejte telefonní číslo</string>
   <string name="input_vcode_hint">Zadejte ověřovací kód</string>
@@ -241,6 +246,8 @@ Zadejte ověřovací kód v e-mailové zprávě"</string>
   <string name="input_verify_code_hint">Zadejte ověřovací kód</string>
   <string name="int_phone_user_notice">Pokud se registrujete s číslem mimo Čínu, zadejte ho prosím v mezinárodním formátu +420xxxxxxxxx</string>
   <string name="internet_comm">Zprávy</string>
+  <string name="internet_statement_message">Souhlasíte s používáním internetového připojení touto aplikací?</string>
+  <string name="internet_statement_title">Podmínky používání</string>
   <string name="just_a_second">Čekejte prosím...</string>
   <string name="license_host_unreachable">"Nelze se připojit k síti. Pro zobrazení těchto informací jděte na %s."</string>
   <string name="loading">Načítání...</string>
@@ -490,6 +497,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_xiaomi_account_dspt">Přihlaste se do MiCloud, obchodu s tématy a mnoho jiných služeb Xiaomi jedním účtem.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledat vaše zařízení a povolit MiCloud.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledat vaše zařízení a povolit MiCloud.</string>
   <string name="password">Heslo</string>
   <string name="payment_settings">Nastavení platby</string>
   <string name="phone_activated">%s aktivováno</string>
@@ -503,6 +511,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="prev">Zpět</string>
   <string name="privacy_policy">Podmínky soukromí</string>
   <string name="process_result">Výsledek procesu:</string>
+  <string name="provision_skip_login">Přeskočit</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-fázové ověření</string>
   <string name="quick_login_dialog_title">Ověřit heslo</string>
@@ -539,12 +548,17 @@ Zkontrolujte také složku SPAM."</string>
   <string name="removing_account">Odhlašování z účtu...</string>
   <string name="rename_current_device">Změnit název zařízení</string>
   <string name="replace_binded_phone">Nahradit telefon</string>
+  <string name="resend_active_email">Odeslat znovu</string>
+  <string name="resend_email_reach_limit_message">Příliš mnoho žádostí o ověřovací e-mail. Zkontrolujte složku SPAM ve své e-mailové schránce.</string>
+  <string name="resend_email_reach_limit_title">Nelze odeslat e-mail</string>
+  <string name="resend_email_success">E-mail odeslán znovu</string>
   <string name="restart_action">Restart</string>
   <string name="restart_email_bind_message">Doručení e-mailu chvíli trvá, chcete změnit e-mailovou adresu?</string>
   <string name="restart_email_bind_title">Změnit e-mail</string>
   <string name="restart_phone_bind_message">Doručení zprávy chvíli trvá, chcete změnit telefonní číslo?</string>
   <string name="restart_phone_bind_title">Změnit telefonní číslo</string>
   <string name="scan_barcode_title">Přihlaste se pomocí načtení QR kódu z webstránky</string>
+  <string name="send_email_activate_message">Ověřovací e-mail odeslán</string>
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Chyba služby</string>
   <string name="show_password">Zobrazit heslo</string>
@@ -598,19 +612,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávný captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávný formát telefonního čísla</string>
   <string name="wrong_vcode">Nesprávný kód</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledat vaše zařízení a povolit MiCloud.</string>
-<string name="activate_email_notice">Svůj účet musíte aktivovat do 24 hodin</string>
-   <string name="change_activate_email">Změnit e-mailovou adresu</string>
-   <string name="confirm_activate_email">Ověřeno</string>
-   <string name="input_email_address_notice">Tato adresa bude použita pro ověření Vašeho účtu</string>
-   <string name="resend_active_email">Odeslat znovu</string>
-   <string name="resend_email_reach_limit_message">Příliš mnoho žádostí o ověřovací e-mail. Zkontrolujte složku SPAM ve své e-mailové schránce.</string>
-   <string name="resend_email_reach_limit_title">Nelze odeslat e-mail</string>
-   <string name="resend_email_success">E-mail odeslán znovu</string>
-   <string name="send_email_activate_message">Ověřovací e-mail odeslán</string>
-   <string name="provision_skip_login">Přeskočit</string>
-   <string name="agree_add_continue">Souhlasím</string>
-   <string name="exit">Zavřít</string>
-   <string name="internet_statement_message">Souhlasíte s používáním internetového připojení touto aplikací?</string>
-   <string name="internet_statement_title">Podmínky používání</string>
 </resources>

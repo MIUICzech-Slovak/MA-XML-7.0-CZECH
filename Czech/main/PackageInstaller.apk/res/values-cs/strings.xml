@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
   <string name="Parse_error_dlg_title">Chyba analýzy</string>
@@ -16,6 +15,7 @@ Povolit nyní i v budoucnu?"</string>
   <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
   <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
   <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
+  <string name="btn_text_full_scan">Plná kontrola</string>
   <string name="btn_text_install_new_version">Poslední verze</string>
   <string name="btn_text_install_origin">Originální verze</string>
   <string name="btn_text_install_security_version_in_appstore">Nahradit bezpečnou verzí</string>
@@ -66,7 +66,9 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="message_appstore_verify_has_new_version">Novější verze aplikace je dostupná v Google Play. Chcete ji nainstalovat?</string>
   <string name="message_appstore_verify_inconsistent">Podpis této aplikace je odlišný od aplikace v Google Play, bezpečnější bude instalovat ji z oficiálního zdroje. Pokud se jedná o přeloženou aplikaci od miuios.cz, toto varování je bezpředmětné."</string>
   <string name="message_appstore_verify_ok">Aplikace v Google play prošla kontrolou virů a jiných škodlivých kódů.</string>
+  <string name="message_full_scanning">Kontrola...</string>
   <string name="message_install_in_market">Doporučujeme instalovat aplikaci z Google Play</string>
+  <string name="message_quick_scanning">Rychlá kontrola...</string>
   <string name="message_security_scaning">Kontrola...</string>
   <string name="ok">OK</string>
   <string name="other_relative">Ostatní práva</string>
@@ -115,8 +117,10 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
   <string name="uninstalling">Probíhá odinstalace...</string>
   <string name="unknown">Neznámé</string>
-   <string name="unknown_apps_dlg_text1">"Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play. Můžete to kdykoliv změnit v "</string>
   <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play. Můžete to kdykoliv změnit v Nastavení.</string>
+  <string name="unknown_apps_dlg_text1">"Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play. Můžete to kdykoliv změnit v "</string>
+  <string name="unknown_apps_dlg_text2">\"Nastavení\"</string>
+  <string name="unknown_apps_dlg_text3">.</string>
   <string name="unknown_apps_dlg_title">Instalace byla zablokována</string>
   <string name="unknown_installer">Neznámý instalátor</string>
   <string name="virus_scan_caller_unknown">Neznámý</string>
@@ -125,9 +129,4 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="waiting_tip">Kontrola může trvat i 1 min.</string>
-  <string name="btn_text_full_scan">Plná kontrola</string>
-  <string name="message_full_scanning">Kontrola...</string>
-  <string name="message_quick_scanning">Rychlá kontrola...</string>
-  <string name="unknown_apps_dlg_text2">\"Nastavení\"</string>
-   <string name="unknown_apps_dlg_text3">.</string>
 </resources>

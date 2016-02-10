@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Přepnout Foto a Video (Aktualně je %s)</string>
+  <string name="accessibility_audio_shutter_bg">Tlačítko spouště zvukem</string>
   <string name="accessibility_camera_auto_flashmode">Auto-Blesk</string>
   <string name="accessibility_camera_flash_closemode">Bez blesku</string>
   <string name="accessibility_camera_flashmode">Vždy</string>
   <string name="accessibility_camera_picker">Výběr přední/zadní kamery</string>
   <string name="accessibility_close_more_ptions">zatvoriť nastavení</string>
+  <string name="accessibility_countdown">Tlačítko odpočítávání</string>
   <string name="accessibility_ev_control">Ovládání vyrovnání expozice</string>
   <string name="accessibility_flash_mode_button">Blesk</string>
   <string name="accessibility_hdr">Přepínání HDR</string>
@@ -16,6 +17,7 @@
   <string name="accessibility_more_ptions_opened">Více nastavení povoleno</string>
   <string name="accessibility_open_more_ptions">Povolit více nastavení</string>
   <string name="accessibility_panorama_review_cancel">Zrušit</string>
+  <string name="accessibility_peak">Tlačítko Focus-Peak</string>
   <string name="accessibility_review_thumbnail">Nejnovější fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
   <string name="accessibility_setting_button">Další nastavení</string>
@@ -208,6 +210,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camcorder_settings">Nastavení kamery</string>
   <string name="pref_camcorder_settings_category">Nastavení kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
+  <string name="pref_camera_age_watermark_title">Zobrazit věk a pohlaví</string>
   <string name="pref_camera_antibanding_entry_0">Vypnuta</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -217,6 +220,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_asd_popup_title">Upozornit na nutný blesk</string>
   <string name="pref_camera_asd_title">Autom. rozpoznat scénu</string>
   <string name="pref_camera_audio_capture_title">Spoušť zvukem</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Objekt vyberete dotykem na dva body hranice objektu. Pokud se vybraný objekt zastaví, zhotoví se automaticky fotografie.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Sledování objektu</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuto</string>
@@ -421,6 +425,10 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="pref_camera_skinToneEnhancement_title">Vylepšení tónu pleti</string>
   <string name="pref_camera_snap_enable_summary">Při vypnutém displeji stiskněte a podržte tlačítko hlasitosti dolů. Spustí se režim rychlého pořízení fotografie. Pro pořízení fotografie stiskněte tlačítko ještě jednou.</string>
   <string name="pref_camera_snap_enable_title">Rychlé pořízení fotografie</string>
+  <string name="pref_camera_snap_entry_off">Vypnuto</string>
+  <string name="pref_camera_snap_entry_take_movie">Video: Na zamyk. obr. stiskněte hlasitost dolů</string>
+  <string name="pref_camera_snap_entry_take_picture">Fotografie: Na zamyk. obr. stiskněte tlačítko hlasitost nahoru</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nelze použít \"Rychlé zhotovení fotografie\" pokud jsou tlačítka hlasitosti nastavena na rozsvícení displeje.</string>
   <string name="pref_camera_sound_entry_off">Vypnutý</string>
   <string name="pref_camera_sound_entry_on">Zapnutý</string>
   <string name="pref_camera_sound_title">Zvuk kamery</string>
@@ -616,13 +624,4 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
-  <string name="pref_camera_snap_entry_off">Vypnuto</string>
-  <string name="pref_camera_snap_entry_take_movie">Video: Na zamyk. obr. stiskněte hlasitost dolů</string>
-  <string name="pref_camera_snap_entry_take_picture">Fotografie: Na zamyk. obr. stiskněte tlačítko hlasitost nahoru</string>
-  <string name="accessibility_audio_shutter_bg">Tlačítko spouště zvukem</string>
-  <string name="accessibility_countdown">Tlačítko odpočítávání</string>
-  <string name="accessibility_peak">Tlačítko Focus-Peak</string>
-  <string name="pref_camera_age_watermark_title">Zobrazit věk a pohlaví</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nelze použít \"Rychlé zhotovení fotografie\" pokud jsou tlačítka hlasitosti nastavena na rozsvícení displeje.</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Objekt vyberete dotykem na dva body hranice objektu. Pokud se vybraný objekt zastaví, zhotoví se automaticky fotografie.</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Folders">Složky</string>
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
@@ -110,15 +109,20 @@
   <string name="account_setup_failed_dlg_auth_message">Uživatelské jméno nebo heslo jsou nesprávné.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Přihlášení se nezdařilo.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_bar_title">Tipy na přihlášení %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Nelze se bezpečně připojit k serveru.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Nelze se bezpečně připojit k serveru.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">Vaše adresa byla zablokována zámkem zařízení</string>
   <string name="account_setup_failed_dlg_edit_details_action">Upravit podrobnosti</string>
+  <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
   <string name="account_setup_failed_dlg_server_message">Nelze se připojit k serveru.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Nelze se připojit k serveru.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Nelze dokončit</string>
+  <string name="account_setup_failed_dlg_todo1">Nastavte účet viz níže nebo se přihlaste přes Exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Nastavte účet viz níže.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Neznámá chyba</string>
   <string name="account_setup_failed_ioerror">Nelze navázat připojení k serveru.</string>
   <string name="account_setup_failed_protocol_unsupported">Zadali jste nesprávnou adresu serveru nebo server požaduje verzi protokolu, kterou aplikace E-mail nepodporuje.</string>
   <string name="account_setup_failed_security">Nelze navázat připojení k serveru z důvodu chyby zabezpečení.</string>
@@ -175,6 +179,7 @@
   <string name="account_setup_options_mail_window_auto">Automatické</string>
   <string name="account_setup_options_mail_window_default">Použít výchozí nast. účtu</string>
   <string name="account_setup_options_mail_window_label">Počet dní k synchronizaci</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechat pro</string>
   <string name="account_setup_options_notify_label">Upozornit mě na příchod e-mailu</string>
   <string name="account_setup_options_sync_calendar_label">Synchronizovat kalendář z tohoto účtu</string>
   <string name="account_setup_options_sync_contacts_label">Synchronizovat kontakty z tohoto účtu</string>
@@ -338,9 +343,11 @@
   <string name="confirm_send_title">Odeslat zprávu?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="contact_edit_set_black_list">Černá listina</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrování...</string>
   <string name="contact_edit_set_black_list_from">Vymazat všechny zprávy od tohoto odesílatele</string>
   <string name="contact_edit_set_black_list_receive">Vymazat všechny zprávy těchto příjemců (obvykle skupiny)</string>
   <string name="contact_edit_set_black_list_receive_summary">Pro/Kopie obsahuje tohoto příjemce</string>
+  <string name="contact_edit_set_black_list_title">Přidat do blokovaných</string>
   <string name="contact_edit_set_phone_contact">Upravit kontakt</string>
   <string name="contact_edit_set_pop_up_tips">Upozornění</string>
   <string name="contact_edit_set_unread_top">Zobrazit nejdříve nepřečtené zprávy</string>
@@ -392,6 +399,7 @@
   <string name="default_">VÝCHOZÍ</string>
   <string name="default_setup">VÝCHOZÍ NASTAVENÍ</string>
   <string name="default_signature">Odesláno z MIUI</string>
+  <string name="del_account_questionnair_hint">Sdělte nám prosím důvod smazání tohoto účtu.</string>
   <string name="delete">Smazat</string>
   <string name="delete_conversation_hint_message">Vymazáno %2$s (%1$d)</string>
   <string name="deleted">Smazáno</string>
@@ -404,6 +412,7 @@
   <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnuta, nelze přijímat nové zprávy.</string>
   <string name="dialog_auto_download_failed">Nelze dokončit stahování</string>
   <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnuta, nelze přijímat nové zprávy.</string>
+  <string name="dialog_change_sync_lookback">Přijaté zprávy před %s budou vymazány. Dotykem změníte.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Není dostatek volného místa pro %s.</string>
   <string name="dialog_insufficient_space_on_external">Není dostatek volného místa stáhnutí přílohy.</string>
@@ -440,6 +449,9 @@
   <string name="drawer_close">Zavřít navigační složku</string>
   <string name="drawer_open">Otevřít navigační složku</string>
   <string name="edit_quick_response_dialog">Rychlá odpověď</string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Účet nenalezen</string>
   <string name="empty_email_tip">Nelze odeslat prázdný e-mail</string>
   <string name="empty_spam">Vyprázdnit složku se spamem</string>
@@ -453,6 +465,7 @@
   <string name="exchange_name">E-mail (Firemní)</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Rozbalit podrobnosti o příjemci</string>
+  <string name="fail_get_email_message">Načítání zprávy selhalo.</string>
   <string name="failed">Fotografii nelze načíst</string>
   <string name="feedback">Odeslat názor</string>
   <string name="feedback_body">Informace o zpětné vazbě</string>
@@ -793,6 +806,15 @@ Kopie: %4$s
   <string name="push_wps_confirm_message">Žádná nainstalovaná aplikace nepodporuje tento typ souboru v příloze, doporučujeme vám nainstalovat si WPS Office</string>
   <string name="push_wps_confirm_title">WPS Office</string>
   <string name="push_wps_no_response_app">Žádná aplikace</string>
+  <string name="questionnair_body_invisibility">Zprávy nejsou zobrazeny</string>
+  <string name="questionnair_confirm_delete">Vymazat</string>
+  <string name="questionnair_instability">Nestabilní aplikace</string>
+  <string name="questionnair_not_send">Nelze odeslat zprávu</string>
+  <string name="questionnair_not_sync">Nestabilní synchronizace</string>
+  <string name="questionnair_other_reasons">Jiný důvod</string>
+  <string name="questionnair_title">Vymazání účtu</string>
+  <string name="questionnair_ui_not_pretty">Nelíbí se mi design aplikace</string>
+  <string name="questionnair_waste_resource">Vymazání může uvolnit úložiště</string>
   <string name="quick_1">Díky!</string>
   <string name="quick_2">To zní dobře!</string>
   <string name="quick_3">Přečtu si to později a ozvu se.</string>
@@ -941,6 +963,7 @@ Kopie: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Zkuste se přihlásit s Exchange</string>
   <string name="tryrefreshing">Zkuste obnovit...</string>
   <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci E-mail), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
@@ -994,28 +1017,4 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="contact_edit_set_black_list_filtering">Filtrování...</string>
-  <string name="contact_edit_set_black_list_title">Přidat do blokovaných</string>
-  <string name="fail_get_email_message">Načítání zprávy selhalo.</string>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Neznámá chyba</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechat pro</string>
-  <string name="del_account_questionnair_hint">Sdělte nám prosím důvod smazání tohoto účtu.</string>
-  <string name="dialog_change_sync_lookback">Přijaté zprávy před %s budou vymazány. Dotykem změníte.</string>
-  <string name="questionnair_body_invisibility">Zprávy nejsou zobrazeny</string>
-  <string name="questionnair_confirm_delete">Vymazat</string>
-  <string name="questionnair_instability">Nestabilní aplikace</string>
-  <string name="questionnair_not_send">Nelze odeslat zprávu</string>
-  <string name="questionnair_not_sync">Nestabilní synchronizace</string>
-  <string name="questionnair_other_reasons">Jiný důvod</string>
-  <string name="questionnair_title">Vymazání účtu</string>
-  <string name="questionnair_ui_not_pretty">Nelíbí se mi design aplikace</string>
-  <string name="questionnair_waste_resource">Vymazání může uvolnit úložiště</string>
-  <string name="account_setup_failed_dlg_bar_title">Tipy na přihlášení %s</string>
-   <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
-   <string name="account_setup_failed_dlg_todo1">Nastavte účet viz níže nebo se přihlaste přes Exchange.</string>
-   <string name="account_setup_failed_dlg_todo2">Nastavte účet viz níže.</string>
-   <string name="email_netease">NetEase Mail</string>
-   <string name="email_qq">QQ Mail</string>
-   <string name="email_sina">Sina Mail</string>
-   <string name="try_exchange_login">Zkuste se přihlásit s Exchange</string>
 </resources>

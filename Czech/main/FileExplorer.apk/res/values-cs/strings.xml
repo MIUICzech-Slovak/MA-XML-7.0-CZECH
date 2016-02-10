@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="account_bind_prompt">"Migrování uživatelských dat. 
 Váš účet bude dočasně zablokovaný, 
 čekejte prosím..."</string>
   <string name="action_mode_deselect_all">Odznačit</string>
   <string name="action_mode_select_all">Vše</string>
+  <string name="add_private">Přidat soubor</string>
   <string name="add_private_files">Přidat soubory</string>
   <string name="add_task">Přidat úlohu</string>
   <string name="adding_upload_tasks">Přidávání souborů pro nahrání.</string>
@@ -26,6 +26,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="archive_send_to">Odeslat do...</string>
   <string name="background">Stáhnout na pozadí</string>
   <string name="backup_cancel">Ne</string>
+  <string name="backup_checkbox_msg">Vždy zálohovat a zobrazit upozornění</string>
   <string name="backup_confirm">Zálohovat</string>
   <string name="backup_success_cancel">OK</string>
   <string name="backup_success_confirm">Zobrazit</string>
@@ -75,6 +76,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="close">Zavřít</string>
   <string name="colon">": "</string>
   <string name="compress_fail">Vytváření .zip souboru selhalo, již existuje!</string>
+  <string name="compress_fail_unknown">Nebylo možné zabalit. Není dostatek volného místa na úložišti nebo nastala neznámá chyba.</string>
   <string name="compress_message">Zabalit do:</string>
   <string name="compress_title">Zabalit</string>
   <string name="confirm">OK</string>
@@ -144,6 +146,7 @@ Váš účet bude dočasně zablokovaný,
   <string name="encrypt_error">Nelze vytvořit soukromé soubory, zkuste to znovu.</string>
   <string name="encrypt_prefix">SOUKROMÁ</string>
   <string name="encrypt_success">Úspěšně skryto</string>
+  <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
   <string name="encrypting">Šifrování...</string>
   <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
   <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
@@ -231,6 +234,9 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="login_reg_content">S MiDrive můžete synchronizovat soubory mezi různými zařízeními.</string>
   <string name="login_reg_content0">MiDrive je Váš Cloud</string>
   <string name="make_private">Soukromé</string>
+  <string name="make_private_msg_1">Skrýt tento soubor?</string>
+  <string name="make_private_msg_2">Skrýt tyto soubory?</string>
+  <string name="make_private_msg_3">Všechny soubory v této složce budou skryty.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Vyčistit soubory</string>
   <string name="menu_item_ftp">FTP</string>
@@ -250,7 +256,9 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Přesunutí selhalo</string>
+  <string name="move_icon_to_desktop_hint">Vytvořte odkaz na domácí ploše pro efektivnější využití aplikace Soubory.</string>
   <string name="move_to">Přesunout do...</string>
+  <string name="move_to_confirm">Vytvořit</string>
   <string name="msg_set_password">Nejprve nastavte heslo</string>
   <string name="multi_select_title">Vybrané položky: %1$s</string>
   <string name="my_app">Data apl.</string>
@@ -384,6 +392,8 @@ and never miss the cool new ones!"</string>
   <string name="port_range">Port musí být mezi 1024–65535</string>
   <string name="private_files">Soukromé</string>
   <string name="private_folder">Soukromá složka</string>
+  <string name="private_folder_no_file_hints">Žádné soukromé soubory.</string>
+  <string name="private_folder_update">Aktualizování soukromých souborů</string>
   <string name="private_toast_hint1">Dotykem přidáte do soukromých složek</string>
   <string name="private_toast_hint2">Pokud chcete skrýt soubor, podržte na něm prst a přidejte jej do soukromé složky.</string>
   <string name="private_toast_hint3">Potáhněte dolů pro přístup k soukromým složkám</string>
@@ -557,15 +567,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="add_private">Přidat soubor</string>
-  <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
-  <string name="private_folder_no_file_hints">Žádné soukromé soubory.</string>
-  <string name="private_folder_update">Aktualizování soukromých souborů</string>
-  <string name="backup_checkbox_msg">Vždy zálohovat a zobrazit upozornění</string>
-  <string name="make_private_msg_1">Skrýt tento soubor?</string>
-  <string name="make_private_msg_2">Skrýt tyto soubory?</string>
-  <string name="make_private_msg_3">Všechny soubory v této složce budou skryty.</string>
-  <string name="compress_fail_unknown">Nebylo možné zabalit. Není dostatek volného místa na úložišti nebo nastala neznámá chyba.</string>
-  <string name="move_icon_to_desktop_hint">Vytvořte odkaz na domácí ploše pro efektivnější využití aplikace Soubory.</string>
-  <string name="move_to_confirm">Vytvořit</string>
 </resources>
