@@ -342,7 +342,6 @@ Kamera se automaticky restartuje na výchozí heslo
   <string name="open_camera2_wifi1">Zapnout</string>
   <string name="open_camera2_wifi2">Zapnout Wi-Fi</string>
   <string name="open_camera2_wifi3">Stiskněte červené tlačítko</string>
-  <string name="open_camera_message">Stiskněte ON/OFF tlačítko</string>
   <string name="open_wifi">Zapněte Wi-Fi</string>
   <string name="open_wifi2">Tapněte na červené tlačítko</string>
   <string name="open_wifi3">Zobrazit dostupné kamery</string>
