@@ -49,7 +49,7 @@
     <string name="umeng_common_start_patch_notification">Ověřit.</string>
     <string name="IndexCarouselInfo_tag">Získat informace</string>
     <string name="UMUpdateCheck">2.6.0.1.20150312</string>
-    <string name="about">na</string>
+    <string name="about">informace o zařízení</string>
     <string name="action_settings">Nastavení</string>
     <string name="adas_change_video_quality">Za účelem lepšího využítí ADAS byla automaticky změněna kvalita obrazu</string>
     <string name="adas_comment">ADAS lépe funguje ve videu s vyšším počtem snímků</string>
@@ -61,12 +61,12 @@
     <string name="album_choose_num">vybráno %1$d video</string>
     <string name="album_choose_num_local">vybrán %1$d soubor</string>
     <string name="album_edit_title">vyberte položky</string>
-    <string name="album_tab_emr">důležité</string>
-    <string name="album_tab_local">místní</string>
-    <string name="album_tab_recycle">mrtvý</string>
+    <string name="album_tab_emr">vážné</string>
+    <string name="album_tab_local">uložené</string>
+    <string name="album_tab_recycle">odpad</string>
     <string name="apk_is_downloading">Stahování instalačního balíku...</string>
     <string name="app_name">Kamera do auta</string>
-    <string name="app_version">verze aplikace</string>
+    <string name="app_version">Verze aplikace</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="back_home">Zpět</string>
     <string name="back_reminder">Stahování videa, opustit aktuální úlohu？</string>
@@ -89,21 +89,21 @@
     <string name="click_yi_shot">Nastavení ikony pro připojení</string>
     <string name="company_name">XiaoYi dvr kamera</string>
     <string name="composite_share_failed">Sdílení se nezdařilo</string>
-    <string name="confirm_wifi_open">Opravdu zapnout WIFI?</string>
+    <string name="confirm_wifi_open">Je WIFI zapnuta?</string>
     <string name="conn_page_connecting">připojuji...</string>
     <string name="conn_page_error_no_connect">Připojení se nezdařilo</string>
     <string name="conn_page_error_no_search">Kamera nenalezena</string>
     <string name="conn_page_error_stop_search">Hledat kameru</string>
-    <string name="conn_page_error_tips">"Zapni kameru
+    <string name="conn_page_error_tips">"Zapni kameru,
 povol WIFI v nastavení"</string>
-    <string name="conn_page_jiaocheng">připojuji</string>
+    <string name="conn_page_jiaocheng">jak připojit?</string>
     <string name="conn_page_searching">hledám kameru...</string>
-    <string name="connect_car_camera">připojit kameru</string>
+    <string name="connect_car_camera">Připojit kameru a zadat heslo.</string>
     <string name="connect_config_change_error">nastavení WIFI, zrušit nutnost uložení aktuálního připojení WIFI</string>
     <string name="content_delete">Opravdu vymazat toto video?</string>
     <string name="content_delete_some">Potvrdit odstranění %1$d videa?</string>
     <string name="content_delete_some_local">Potvrdit odstranění %1$d souboru？</string>
-    <string name="copyright">上海小蚁科技公司 版权所有</string>
+    <string name="copyright">Shanghai XiaoYi Technologies, Inc.</string>
     <string name="copyright_date">Copyright © 2015-2016 XiaoYi.All Rights Reserved</string>
     <string name="delete">vymazat</string>
     <string name="delete_failure">Vymazávání selhalo!</string>
@@ -111,7 +111,7 @@ povol WIFI v nastavení"</string>
     <string name="delete_success">úspěšně smazáno!</string>
     <string name="device_setting">Nastavení kamery</string>
     <string name="device_sn">sériové číslo</string>
-    <string name="direction">instrukce</string>
+    <string name="direction">zprovoznění kamery</string>
     <string name="disconnect_car_camera_prompt">"Odpojit kameru
 Opravdu pokračovat？"</string>
     <string name="disconnected_camera">Není připojena kamera</string>
@@ -139,11 +139,11 @@ Opravdu pokračovat？"</string>
     <string name="feebback_title">Zpětná vazba</string>
     <string name="feedback_back">zpět</string>
     <string name="feedback_content">Popis problému</string>
-    <string name="feedback_content_hint">Děkujeme za váš názor, budeme se snažit každému pomoci.</string>
-    <string name="feedback_prompt">problémy se zpětnou vazbou</string>
+    <string name="feedback_content_hint">Děkujeme za váš názor, budeme se snažit odpovědět co nejdříve.</string>
+    <string name="feedback_prompt">zpětná vazba</string>
     <string name="feedback_require_advice">Zadejte navrhovaný obsah</string>
     <string name="feedback_require_contact">Zadejte kontakt</string>
-    <string name="feedback_sent">odesláno</string>
+    <string name="feedback_sent">odeslat</string>
     <string name="feedback_upload_failure">odesílání selhalo</string>
     <string name="feedback_upload_success">Váš názor byl odeslán</string>
     <string name="feedback_user_name">Název problému</string>
@@ -155,14 +155,14 @@ Opravdu pokračovat？"</string>
     <string name="firmware_download">Stáhnout firmware</string>
     <string name="firmware_downloading">Staženo XXX</string>
     <string name="firmware_has_update">Již máte nejnovější firmware.</string>
-    <string name="forum">fórum</string>
+    <string name="forum">Fórum</string>
     <string name="fw_deleted">Soubor byl smazán, prosím opakujte stažení.</string>
     <string name="fw_upload">Firmware byl nahrán.</string>
     <string name="fw_uploading">Nahrávání</string>
     <string name="fw_version">číslo verze：XXX</string>
     <string name="hello_blank_fragment">Vítejte</string>
     <string name="hello_world">Zdravím Vás</string>
-    <string name="i_know">To vím</string>
+    <string name="i_know">KONEC</string>
     <string name="img_content_delete">Opravdu si přejete smazat tento obrázek?</string>
     <string name="in_album_loading">Prosím čekejte, načítám album!</string>
     <string name="in_recording">Nouzový záznam</string>
@@ -198,12 +198,12 @@ prosím čekejte..."</string>
     <string name="new_firmware_title">Nalezena nová verze firmwaru.</string>
     <string name="next_step">další krok</string>
     <string name="ok">souhlasím</string>
-    <string name="one_key_start">Klíč ke spuštění kamery.</string>
+    <string name="one_key_start">Jak spustit kameru?</string>
     <string name="open_adas_tip">"Po připojení k telefonu budou synchronizovány informace GPS pro lepší užívání funkce ADAS
 
  · Ujistěte se že GPS je na telefonu zapnuta
  · Pokud je rychlost více jak 50km/h, je ADAS aktivní"</string>
-    <string name="open_course">otevít návod</string>
+    <string name="open_course">Jak připojit kameru</string>
     <string name="open_online_video_failed">Nelze otevřít video</string>
     <string name="open_stream_failure_msg">Připojení selhalo, zkuste to znovu</string>
     <string name="open_stream_failure_title">Připojení selhalo</string>
@@ -295,7 +295,7 @@ Kliknutím na OK vyřadíte část ze zpětné vazby?"</string>
     <string name="sns_home_more">více</string>
     <string name="splash_skip">přeskočit</string>
     <string name="square_tab_new">nejnovější</string>
-    <string name="square_tab_recom">doporučení</string>
+    <string name="square_tab_recom">doporučená</string>
     <string name="ssid_not_pat">název WIFI o 1-32 číslic nebo znaků</string>
     <string name="start_session_error">Připojení se nezdařilo, restartujte zařízení</string>
     <string name="sure_to_delete">Opravdu chcete smazat?</string>
@@ -303,13 +303,13 @@ Kliknutím na OK vyřadíte část ze zpětné vazby?"</string>
     <string name="switch_wifi_failed">přepnutí WIFI selhalo, přepněte ručně</string>
     <string name="sync_log">synchronizace</string>
     <string name="system_busy">Systém je zaneprázdněn</string>
-    <string name="tab_album">Fotogalerie</string>
+    <string name="tab_album">fotogalerie</string>
     <string name="tab_camera">YI kamera</string>
     <string name="tab_profile">osobní profil</string>
     <string name="tab_roadmap">moje cesty</string>
     <string name="tab_setting">nastavení</string>
-    <string name="tab_shoping">prodej</string>
-    <string name="tab_sns">centrum</string>
+    <string name="tab_shoping">obchod</string>
+    <string name="tab_sns">videa</string>
     <string name="tab_yishot">Nouzové nahrávání</string>
     <string name="tb_munion_tip_download_prefix">stahování:</string>
     <string name="text_i_know">text co znám</string>
@@ -327,12 +327,12 @@ Kliknutím na OK vyřadíte část ze zpětné vazby?"</string>
     <string name="title_firmware">verze firmwaru：</string>
     <string name="title_firmware_upgrade">upgrade frimwaru</string>
     <string name="title_setting">nastavení</string>
-    <string name="title_yishot">YI rychlí snímek</string>
+    <string name="title_yishot">Rychlé připojení</string>
     <string name="umeng_common_icon">ikona</string>
     <string name="unknown_device">neznámé zařízení</string>
     <string name="up_to_date">nejnovější verze aplikace</string>
     <string name="update_now">upgradovat nyní</string>
-    <string name="upgrade_failure">Aktualizace firmwaru se nezdarila</string>
+    <string name="upgrade_failure">aktualizace firmwaru se nezdarila</string>
     <string name="upload_failure">nahrávání selhalo</string>
     <string name="upload_failure_message">Pokud máte problémy s aktualizací firmwaru, můžete použít ruční aktualizace přes SD kartu.</string>
     <string name="upload_failure_right_1">Opakovat</string>
@@ -372,10 +372,10 @@ Kliknutím na OK vyřadíte část ze zpětné vazby?"</string>
     <string name="wifi_set_failure">Nastavení WIFI selhalo</string>
     <string name="wifi_set_success">Nastavení WIFI bylo úspěšné.</string>
     <string name="wifi_ssid">WIFI SSID název</string>
-    <string name="wx_service">WeChat zákaznický servis</string>
-    <string name="wx_service_tip1">K připojení WeChat, pokračujte v pravo nahoře, přidat přítele.</string>
-    <string name="wx_service_tip2">Hledám zařízení</string>
-    <string name="wx_service_tip3">Klikněte pro komunikaci s námi.</string>
+    <string name="wx_service">WeChat aplikace</string>
+    <string name="wx_service_tip1">K připojení WeChat pokračujte v pravo nahoře, přidat přítele.</string>
+    <string name="wx_service_tip2">Vyhledat YI produkt</string>
+    <string name="wx_service_tip3">Potvrďte.</string>
     <string name="yiclip_new_tip">Klikněte na ikonu klíče pro spuštění zařízení.</string>
     <string name="yiclip_page_error">Zařízení selhalo, zkuste to znovu.</string>
 </resources>
