@@ -17,7 +17,6 @@
   <string name="AD_TITLE_COUNT">Aplikací s adware: %d</string>
   <string name="AD_TITLE_NON_COUNT">Žádná aplikace s adware nebyla nalezena</string>
   <string name="AD_Unistall">Odinstalovat</string>
-  <string name="APKTOOL_DUMMY_0130">false</string>
   <string name="Call_ADRESS">Hovory z regionu</string>
   <string name="Call_BLACKLIST">Blokované Hovory</string>
   <string name="Call_DEFAULT">Inteligentní blokování</string>

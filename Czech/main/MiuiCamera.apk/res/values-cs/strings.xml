@@ -624,4 +624,7 @@ ve fotografii. Chcete polohu ukládat?</string>
   <string name="wifi_security">Zabezpečení:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
+  <string name="pref_camera_face_info_watermark_title">Zobrazit info o tváři na fotografii</string>
+   <string name="pref_camera_magic_mirror_title">Magické zrcadlo</string>
+   <string name="simple_mode_button_text_magic_mirror">Vypnout</string>
 </resources>

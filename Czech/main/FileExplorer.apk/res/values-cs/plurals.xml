@@ -136,5 +136,13 @@
         <item quantity="two">(%1$d)</item>
         <item quantity="few">(%1$d)</item>
         <item quantity="many">(%1$d)</item>
-    </plurals>	
+    </plurals>
+    <plurals name="remote_video_update">
+         <item quantity="other">Nalezena videa: %1$d</item>
+         <item quantity="zero">Nalezena videa: %1$d</item>
+         <item quantity="one">Nalezena videa: %1$d</item>
+         <item quantity="two">Nalezena videa: %1$d</item>
+         <item quantity="few">Nalezena videa: %1$d</item>
+         <item quantity="many">Nalezena videa: %1$d</item>
+     </plurals>	
 </resources>
