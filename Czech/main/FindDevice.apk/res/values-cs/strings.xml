@@ -47,4 +47,13 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
   <string name="unlocking">Aktivování...</string>
   <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
+  <string name="unlock_help">"Neodpojujte se od sítě
+ Ujistěte se, že je vložena správná SIM karta a jste připojeni ke stabilní Wi-Fi síti
+ 
+ Zapomenuté heslo?
+ Jděte na id.mi.com pro obnovení hesla
+ 
+ Jiné důvody:
+ Přihlaste se na i.mi.com a zkuste odblokovat Vaše zařízení odsud"</string>
+ <string name="unlock_help_title">Pomoc s odblokováním:</string>
 </resources>

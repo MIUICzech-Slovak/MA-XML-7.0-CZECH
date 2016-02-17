@@ -3820,4 +3820,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="crypt_keeper_conditions">Šifrování může trvat déle než hodinu. Musíte začít s plně nabitou baterií a připojenou nabíječkou během celého procesu. Pokud tento proces přerušíte, přijdete o svá data.</string>
+   <string name="crypt_keeper_conditions_title">O zašifrování Vašeho začízení</string>
+   <string name="crypt_keeper_content">Můžete šifrovat účty, nastavení, stažené aplikace a jejich data, média, a ostatní soubory.</string>
+   <string name="crypt_keeper_content_title">Šifrovat zařízení</string>
+   <string name="crypt_keeper_decrypt_methods">V případě aktivního nastavení zámku gestem nebo heslem, budete muset při každém spuštění zařízení nejprve odemknout. Jiný způsob dešifrování zařízení je pouze pomocí Factory reset, kdy budou vymazána všechna data.</string>
+   <string name="crypt_keeper_decrypt_methods_title">Dešifrování zařízení</string>
 </resources>
