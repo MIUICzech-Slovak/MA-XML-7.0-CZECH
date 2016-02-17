@@ -391,7 +391,7 @@ and never miss the cool new ones!"</string>
   <string name="pick_folder">Vybrat složku</string>
   <string name="port_range">Port musí být mezi 1024–65535</string>
   <string name="private_files">Soukromé</string>
-  <string name="private_folder">Soukromá složka</string>
+  <string name="private_folder">Soukromé</string>
   <string name="private_folder_no_file_hints">Žádné soukromé soubory.</string>
   <string name="private_folder_update">Aktualizování soukromých souborů</string>
   <string name="private_toast_hint1">Dotykem přidáte do soukromých složek</string>
