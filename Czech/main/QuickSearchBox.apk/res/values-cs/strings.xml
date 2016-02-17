@@ -43,7 +43,7 @@
   <string name="search_history">Historie vyhledávání</string>
   <string name="search_in_app_store">Vyhledat v Google Play</string>
   <string name="search_in_web">Vyhledat online</string>
-  <string name="search_settings">Nastavení hledání</string>
+  <string name="search_settings">Hledání v nastavení</string>
   <string name="search_sources">Vyhledatelné položky</string>
   <string name="search_sources_summary">Vyberte si, co hledat na telefonu</string>
   <string name="search_widget">Hledat</string>

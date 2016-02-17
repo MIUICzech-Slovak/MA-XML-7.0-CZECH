@@ -58,14 +58,14 @@
   <string name="account_settings_name_label">Vaše jméno</string>
   <string name="account_settings_notifications">Nastavení oznámení</string>
   <string name="account_settings_notify_label">E-mailová upozornění</string>
-  <string name="account_settings_notify_summary">Zaslat oznámení, když přijde e-mail</string>
+  <string name="account_settings_notify_summary">Zobrazit oznámení, když přijde e-mail</string>
   <string name="account_settings_outgoing_label">Nastavení odchozí pošty</string>
   <string name="account_settings_outgoing_summary">Uživatelské jméno, heslo a jiná nastavení serveru odchozí pošty</string>
   <string name="account_settings_param">Nastavení účtu</string>
   <string name="account_settings_policies">Zásady zabezpečení</string>
   <string name="account_settings_retry_label">Pokusit se synchronizovat</string>
   <string name="account_settings_retry_summary">Pokud chcete účet synchronizovat, dotkněte se tohoto tlačítka</string>
-  <string name="account_settings_ringtone">Vybrat vyzvánění</string>
+  <string name="account_settings_ringtone">Zvuk oznámení</string>
   <string name="account_settings_servers">Nastavení serveru</string>
   <string name="account_settings_summary">Frekvence synchronizace, oznámení apod.</string>
   <string name="account_settings_sync_calendar_enable">Synchronizovat kalendář</string>
@@ -76,7 +76,7 @@
   <string name="account_settings_sync_email_summary">Synchronizovat e-maily pro tento účet</string>
   <string name="account_settings_unsupported_label">Zásady, které nejsou podporované</string>
   <string name="account_settings_unsupported_summary">Žádné</string>
-  <string name="account_settings_using_ringtone">Zvonění</string>
+  <string name="account_settings_using_ringtone">Přehrát zvuk</string>
   <string name="account_settings_vibrate_when_label">Vibrace</string>
   <string name="account_setup_account_type_headline">Typ účtu</string>
   <string name="account_setup_account_type_instructions">O jaký typ účtu se jedná?</string>
@@ -426,7 +426,7 @@
   <string name="done_action">Hotovo</string>
   <string name="donot_disturb_endtime_title">Konec</string>
   <string name="donot_disturb_starttime_title">Začátek</string>
-  <string name="donot_disturb_summary">Vaše zařízení nebude přijímat žádné zprávy v nastavené čase</string>
+  <string name="donot_disturb_summary">Vaše zařízení nebude přijímat žádné zprávy v nastaveném čase</string>
   <string name="donot_disturb_title">Nerušit v noci</string>
   <string name="downlaod_cancel_confirm_download">Zrušit stahování</string>
   <string name="downlaod_cancel_continue_download">Zrušit</string>
