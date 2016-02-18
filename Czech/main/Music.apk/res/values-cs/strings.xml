@@ -326,7 +326,7 @@
   <string name="not_login">Nepřihlášen</string>
   <string name="not_selected">Vyberte skladbu</string>
   <string name="not_vip">Promiňte, nejste VIP uživatel.</string>
-  <string name="notification_des_next_song">Další skladba: %s</string>
+  <string name="notification_des_next_song">Následuje: %s</string>
   <string name="notification_des_no_song">Pusťte si nějakou hudbu.</string>
   <string name="notification_headset_custom">Zrušit</string>
   <string name="notification_headset_info">Zobrazit nastavení.</string>
