@@ -507,7 +507,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="toast_file_not_can_read">Soubor je poškozený.</string>
   <string name="tools">Nástroje</string>
   <string name="trans_task">Přenos po síti</string>
-  <string name="trans_task_delete_confirm_message"Odstranit zvolené %1$d úkoly?</string>
+  <string name="trans_task_delete_confirm_message">Odstranit zvolené %1$d úkoly?</string>
   <string name="transfer_done">Soubory přesunuty.</string>
   <string name="transfer_private_data">Přesouvání soukromých souborů z SD karty...</string>
   <string name="transing">Přenos dat...</string>
