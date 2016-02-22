@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
     <string-array name="emailAddressTypes">
         <item>Domů</item>
@@ -27,61 +25,26 @@
         <item>Domů</item>
         <item>Mobil</item>
         <item>Práce</item>
-        <item>Pracovní fax</item>
+        <item>Fax práce</item>
         <item>Fax domů</item>
         <item>Pager</item>
         <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Domů</item>
+        <item>Domov</item>
         <item>Práce</item>
         <item>Ostatní</item>
         <item>Vlastní</item>
     </string-array>
+    <array name="wfcOperatorErrorAlertMessages" />
+    <array name="wfcOperatorErrorNotificationMessages" />
+    <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Domů</item>
         <item>Práce</item>
         <item>Ostatní</item>
         <item>Vlastní</item>
-    </string-array>
-    <string-array name="app_ops_labels">
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o použití vibrací</item>
-        <item>Pokus o čtení kontaktů</item>
-        <item>Pokus o úpravu kontaktů</item>
-        <item>Pokus o čtení záznamu o volání</item>
-        <item>Pokus o úpravu záznamu o volání</item>
-        <item>Pokus o čtení kalendáře</item>
-        <item>Pokus o úpravu kalendáře</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o notifikace</item>
-        <item>Pokus o přístup k poloze</item>
-        <item>Pokus o hovor</item>
-        <item>Pokus o čtení SMS</item>
-        <item>Pokus o psaní/úpravu SMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o přijetí MMS</item>
-        <item>Pokus o přijetí SMS</item>
-        <item>Pokus o odeslání SMS</item>
-        <item>Pokus o čtení SMS</item>
-        <item>Pokus o psaní/úpravu SMS</item>
-        <item>Pokus o změnu nastavení</item>
-        <item>Pokus o draw on top</item>
-        <item>Pokus o přístup k notifikacím</item>
-        <item>Pokus o přístup k fotoaparátu</item>
-        <item>Pokus o nahrávání zvuku</item>
-        <item>Pokus o přehrání zvuku</item>
-        <item>Pokus o čtení schránky</item>
-        <item>Pokus o úpravu schránky</item>
-        <item>Pokus o zap./vyp. Wi-Fi</item>
-        <item>Pokus o zap./vyp. bluetooth</item>
-        <item>Pokus o zap./vyp. mobilních dat</item>
-        <item>Pokus o odeslání MMS</item>
-        <item>Pokus o čtení MMS</item>
-        <item>Pokus o psaní MMS</item>
     </string-array>
 </resources>
