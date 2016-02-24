@@ -3826,4 +3826,17 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="crypt_keeper_content_title">Šifrovat zařízení</string>
    <string name="crypt_keeper_decrypt_methods">V případě aktivního nastavení zámku gestem nebo heslem, budete muset při každém spuštění zařízení nejprve odemknout. Jiný způsob dešifrování zařízení je pouze pomocí Factory reset, kdy budou vymazána všechna data.</string>
    <string name="crypt_keeper_decrypt_methods_title">Dešifrování zařízení</string>
+   <string name="bootloader">Fastboot režim</string>
+   <string name="bootloader_apply_step_1">Spustit Fastboot režim?</string>
+   <string name="bootloader_apply_step_2">Pokud je vaše zařízení v režimu Fastboot a připojené k PC</string>
+   <string name="bootloader_apply_step_3">vaše data (např. hesla, zprávy) mohou být dostupná bez vašeho souhlasu.</string>
+   <string name="bootloader_apply_step_4">Může to způsobit ztrátu dat nebo nenávratné poškození vašeho zařízení.</string>
+   <string name="bootloader_apply_step_5">Ujistěte se, že víte vše o používání režimu Fastboot.</string>
+   <string name="bootloader_apply_title">Důležité upozornění</string>
+   <string name="bootloader_summary">Instalace přes USB (Fastboot)</string>
+   <string name="button_text_accept">Přijmout</string>
+   <string name="button_text_accept_timer">Přijmout (%d)</string>
+   <string name="button_text_next_step">Další</string>
+   <string name="button_text_next_step_timer">Další (%d)</string>
+   <string name="button_text_reject">Odmítnout</string>
 </resources>
