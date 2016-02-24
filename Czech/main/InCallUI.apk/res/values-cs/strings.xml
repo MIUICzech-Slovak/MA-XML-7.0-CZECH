@@ -743,4 +743,6 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
+  <string name="call_contacts_deny_permission_msg">Zakázali jste přístup ke kontaktům, nelze zobrazit informace o kontaktu.</string>
+   <string name="call_recording_deny_permission_msg">Zakázali jste oprávnění nahrávat.</string>
 </resources>
