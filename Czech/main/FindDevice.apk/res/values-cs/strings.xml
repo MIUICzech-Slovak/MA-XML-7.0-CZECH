@@ -16,8 +16,8 @@
   <string name="find_device_error_account_sys_timeout">Nelze se připojit ke Xiaomi účtu.</string>
   <string name="find_device_error_network">Zkontrolujte datové připojení a zkuste to znovu.</string>
   <string name="find_device_error_password_changed">Heslo k vašemu účtu bylo změněno.</string>
-  <string name="find_device_error_server">Chyba serveru</string>
-  <string name="find_device_error_unknown">Neznámá chyba.</string>
+  <string name="find_device_error_server">Chyba serveru (%s)</string>
+  <string name="find_device_error_unknown">Neznámá chyba (%s)</string>
   <string name="find_device_noise_title">Vyhledání zařízení zvukem</string>
   <string name="find_device_notice_p1">Jděte na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -56,4 +56,5 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
  Jiné důvody:
  Přihlaste se na i.mi.com a zkuste odblokovat Vaše zařízení odsud"</string>
  <string name="unlock_help_title">Pomoc s odblokováním:</string>
+  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
 </resources>

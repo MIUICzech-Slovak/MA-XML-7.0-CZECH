@@ -102,7 +102,7 @@
   <string name="edit_hint">Zadejte URL (http, torrent, eMule)</string>
   <string name="editmode_menu_delete">Vymazat</string>
   <string name="editmode_menu_share">Sdílet</string>
-  <string name="engine_open">Povolit</string>
+  <string name="engine_open">Stáhnout</string>
   <string name="experience_xunlei_account_speed">Členové Xunlei stahují vysokou rychlostí</string>
   <string name="extract_file">Rozbalování souboru...</string>
   <string name="file_exist_hint">Tento soubor už je v pořadí na stažení</string>
@@ -232,7 +232,10 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_gaosu">Xunlei Highspeed service</string>
   <string name="xunlei_member_annual_fee">Xunlei na jeden rok (platinum)</string>
   <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
-  <string name="xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="third_web_title">Stáhnout</string>
+  <string name="web_dialog_cancel">Zrušit</string>
+  <string name="web_dialog_confirm">OK</string>  
 </resources>
