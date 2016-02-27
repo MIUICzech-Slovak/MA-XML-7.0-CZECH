@@ -394,7 +394,7 @@ Step 2. Press the QR Code icon in the upper right corner and have your friends s
   <string name="guide_sub_title4">na micro SD kartě</string>
   <string name="guide_sub_title5">s 2-cestným zvukem</string>
   <string name="guide_title1">Vítejte v YiCamera</string>
-  <string name="guide_title2">Používejte časovou os</string>
+  <string name="guide_title2">Používejte časovou osu</string>
   <string name="guide_title3">Přijímejte upozornění</string>
   <string name="guide_title4">Zabezpečte nahrávky</string>
   <string name="guide_title5">Hovořte a poslouchejte</string>
@@ -709,4 +709,14 @@ a čekejte na jeho načtení"</string>
   <string name="yi_user_sign_in">Přihlásit se</string>
   <string name="yi_user_sign_up">Registrovat se</string>
   <string name="yi_user_sign_up_title">Registrovat se v YI</string>
+  <string name="alert_calendar_friday">Pá</string>
+   <string name="alert_calendar_monday">Po</string>
+   <string name="alert_calendar_saturday">So</string>
+   <string name="alert_calendar_sunday">Ne</string>
+   <string name="alert_calendar_thursday">Čt</string>
+   <string name="alert_calendar_tuesday">Út</string>
+   <string name="alert_calendar_wednesday">St</string>
+   <string name="camera_setting_beep_mode_fail">Uložení nastavení selhalo, zkuste to znovu.</string>
+   <string name="camera_setting_speaker_adjust_fail">Uložení nastavení selhalo, zkuste to znovu.</string>
+   <string name="my_camera_H21">YI Home Camera 1080P</string>
 </resources>
