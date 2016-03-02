@@ -1017,4 +1017,24 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="click_to_reload">Dotkněte se displeje pro obnovení</string>
+   <string name="info_actionbar_normal_detail">Podrobnosti</string>
+   <string name="info_actionbar_subscribe">Subscribe line</string>
+   <string name="info_item_from">Od: </string>
+   <string name="info_item_hide">Skrýt</string>
+   <string name="info_loading">Načítání...</string>
+   <string name="info_name_title">Novinky</string>
+   <string name="info_no_message">Žádné zprávy!</string>
+   <string name="info_no_more_message">Více nemáme</string>
+   <string name="info_switch_summary">Open Inbox top NEWS</string>
+   <string name="info_switch_title">Inbox NEWS</string>
+   <string name="info_sync_error">Chyba synchr., zkuste to znovu.</string>
+   <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
+   <string name="menu_discovery">Discovery</string>
+   <string name="net_check_title">Nelze se připojit k síti. Zkontrolujte nastavení sítě.</string>
+   <string name="network_try_again">Zkontrolujte nastavení sítě</string>
+   <string name="network_unavailable">Síť není dostupná</string>
+   <string name="pull_up_to_load_more">Load on get more</string>
+   <string name="selected_lable">Vybráno</string>
+   <string name="unselected_lable">Více</string>
 </resources>

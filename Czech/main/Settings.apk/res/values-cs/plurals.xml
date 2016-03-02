@@ -77,4 +77,12 @@
         <item quantity="other">%s apl. může zobrazit upozornění</item>
         <item quantity="one">1 apl. může zobrazit upozornění</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+         <item quantity="other">Vždy vypnout pro %d apl.</item>
+         <item quantity="one">Vždy vypnout pro 1 apl.</item>
+     </plurals>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+         <item quantity="other">Nikdy nevypínat pro %d apl.</item>
+         <item quantity="one">Nikdy nevypínat pro 1 apl.</item>
+     </plurals>	
 </resources>
