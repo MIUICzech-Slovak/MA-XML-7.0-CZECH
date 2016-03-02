@@ -1013,4 +1013,5 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="pref_accessibility">Přizpůsobení</string>
 </resources>

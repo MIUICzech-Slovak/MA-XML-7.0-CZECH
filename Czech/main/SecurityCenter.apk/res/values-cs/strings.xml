@@ -808,4 +808,10 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="pm_auto_start_basic_services_lock">Zamknout</string>
+   <string name="pm_auto_start_basic_services_unlock">Odemknout</string>
+   <string name="pm_auto_start_by_basic_services">Základní služby</string>
+   <string name="pm_auto_start_by_other_services">Zkuste vypnout tyto služby</string>
+   <string name="pm_auto_start_by_system">Spuštění apl.</string>
+   <string name="pm_auto_start_proc_is_running">Spuštěno</string>
 </resources>
