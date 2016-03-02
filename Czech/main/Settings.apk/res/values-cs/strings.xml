@@ -3839,4 +3839,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="button_text_next_step">Další</string>
    <string name="button_text_next_step_timer">Další (%d)</string>
    <string name="button_text_reject">Odmítnout</string>
+   <string name="settings_forbidden_message">Toto nastavení je deaktivováno</string>
 </resources>

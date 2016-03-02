@@ -317,4 +317,17 @@ a Přenos je povolen"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
+  <string name="trans_calculating">Výpočet...</string>
+   <string name="trans_calculating_app_sd_size">Výpočet velikosti dat na odeslání, %s skenovaných</string>
+   <string name="trans_calculating_base_size">Výpočet velikosti aplikací</string>
+   <string name="trans_connect_failed_message">Připojení selhalo, zkuste to znovu nebo restartujte. Na druhém zařízení jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení, Stiskněte [Jsem odesílatel], nebo spusťte přesun znovu po restartu</string>
+   <string name="trans_connect_failed_title">Připojení selhalo</string>
+   <string name="trans_native_no_space">"Toto zařízení nemá dostatek volného místa
+ Uvolněte minimálně %s"</string>
+   <string name="trans_please_waiting">Čekejte prosím...</string>
+   <string name="trans_progress_subdescript_transingsddata_receiver">Přijímání dat z SD karty %1$s, %2$s dokončeno</string>
+   <string name="trans_progress_subdescript_transingsddata_sender">Odesílání dat z SD karty %1$s, %2$s dokončeno</string>
+   <string name="trans_retry">Znovu</string>
+   <string name="trans_start_failed_message">Spuštění selhalo, zkuste to znovu nebo restartujte</string>
+   <string name="trans_start_failed_title">Spuštění selhalo</string>
 </resources>

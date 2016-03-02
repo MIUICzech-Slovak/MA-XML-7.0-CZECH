@@ -626,4 +626,5 @@ Bylo přičteno dalších %1$s"</string>
   <string name="video_releasing">Nahrávání...</string>
   <string name="video_replay">Přehrát znovu</string>
   <string name="need_read_storage_permission">Aplikace Soubory vyžaduje povolení pro přístup k úložišti.</string>
+  <string name="otg_file_can_not_open">Nie je možné otvoriť súbor na USB. Najskôr skopírujte súbor na interné úložisko.</string>
 </resources>
