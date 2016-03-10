@@ -3846,4 +3846,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="auto_disable_screenbuttons_no">Nikdy nevypínat</string>
    <string name="auto_disable_screenbuttons_summary">Automaticky vypnout navigační tlačítka pod displejem, když jsou spuštěny vybrané aplikace. Dvojitým poklepaním na jakékoliv tlačítko je aktivuteje zpět.</string>
    <string name="auto_disable_screenbuttons_title">Automaticky vypnout navigační tlačítka</string>
+   <string name="screen_color_and_optimize_disabled">Nelze upravit teplotu barev v režimu čtení.</string>
 </resources>

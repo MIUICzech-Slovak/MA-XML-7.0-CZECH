@@ -279,4 +279,5 @@ d. MMMM"</string>
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
+   <string name="notification_hidden_text">Obsah je skrytý</string>
 </resources>

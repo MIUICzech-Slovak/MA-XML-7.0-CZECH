@@ -31,4 +31,6 @@
    <string name="ok_international">OK</string>
    <string name="cancel_international">Zrušit</string>
    <string name="wlan_download_cn">Stáhnout pouze přes Wi-Fi</string>
+   <string name="auto_interval">Auto</string>
+  <string name="minutes_15">15 minut</string>
 </resources>

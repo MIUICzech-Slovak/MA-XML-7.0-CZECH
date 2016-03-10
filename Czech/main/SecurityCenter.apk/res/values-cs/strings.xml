@@ -814,4 +814,17 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
    <string name="pm_auto_start_by_other_services">Zkuste vypnout tyto služby</string>
    <string name="pm_auto_start_by_system">Spuštění apl.</string>
    <string name="pm_auto_start_proc_is_running">Spuštěno</string>
+   <string name="app_install_intercept">Blokovat instalaci</string>
+   <string name="continue_install">Instalovat</string>
+   <string name="empty_app">Žádné aplikace</string>
+   <string name="install_title">Instalovat pomocí PC</string>
+   <string name="monitor_requests_from_pc">Spravovat instalaci aplikací přes PC</string>
+   <string name="pc_install_manager">Správce instalací</string>
+   <string name="pc_to_phone_install">Blokována instalace apl. %s z PC</string>
+   <string name="pm_remember_choice">Znovu nezobrazovat</string>
+   <string name="recently_reject_message">Zakázána instalace %1$s a %2$d dalších apl.</string>
+   <string name="recently_reject_message_one">Zakázáno %1$s instalací</string>
+   <string name="usb_install_desc">Instalovat tuto aplikaci přes PC?</string>
+   <string name="reject_countdown">Zakázat (%d)</string>
+   <string name="reject_usb_install">Zakázán přístup k instalaci těchto apl. přes PC</string>
 </resources>

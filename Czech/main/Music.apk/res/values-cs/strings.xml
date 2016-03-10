@@ -493,5 +493,10 @@
   <string name="vip_expiration_message">"Po uplynutí vašeho VIP členství budete moci streamovat hudbu rychlostí pouze 128Kbps. Kvůli právním omezením nejsou některé skladby dostupné ke stažení."</string>
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
-  <string name="vip_required">Promiňte, je vyžadováno VIP členství</string>
+  <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
+  <string name="add_to_last_of_playlist">Přidat na konec playlistu.</string>
+  <string name="latest_song">Historie přehrávání (%d).</string>
+  <string name="play_next">Přehrát další</string>
+  <string name="remove_from_nowplaying">Odebrat z playlistu.</string>
+  <string name="save_to_playlist">Uložit jako playlist.</string>
 </resources>
