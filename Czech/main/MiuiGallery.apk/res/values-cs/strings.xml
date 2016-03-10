@@ -66,7 +66,7 @@
   <string name="album_others_share_info_format">Od %s</string>
   <string name="album_owner_share">Moje sdílení</string>
   <string name="album_page_empty">Prázdné</string>
-  <string name="album_page_label">Album</string>
+  <string name="album_page_label">Alba</string>
   <string name="album_quota_fulfiled">"Nelze vytvořit album. Počet alb přesáhnul limit."</string>
   <string name="album_screenshot_name">Screenshot</string>
   <string name="album_setting_show_in_photo_tab_success">Toto album již je na domovské obrazovce</string>
@@ -247,7 +247,7 @@ společně!"</string>
   <string name="cloudfolder_loading_data">(Načítání...)</string>
   <string name="cloudfolder_name_cannot_empty">Zadejte název složky.</string>
   <string name="cloudfolder_name_reserved">Tento název složky už nelze použít.</string>
-  <string name="collaps_people">Skládání více lidí</string>
+  <string name="collaps_people">Méně lidí</string>
   <string name="comfirm_delete_current_album">Vymazat toto album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
@@ -340,6 +340,7 @@ společně!"</string>
   <string name="deny">Odmítnout</string>
   <string name="description">Popis</string>
   <string name="deselect_all">Odznačit</string>
+  <string name="detail_title">Podrobnosti</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Sdílené od</string>
   <string name="details_title">%1$d z %2$d:</string>
@@ -394,7 +395,7 @@ společně!"</string>
   <string name="exit_share_in_process">Ukončování...</string>
   <string name="exit_share_successfully">Úspěšně ukončeno album %1$s</string>
   <string name="exit_video_play">Ukončit</string>
-  <string name="expand_people">Rozšiřuji více lidí</string>
+  <string name="expand_people">Více lidí</string>
   <string name="exposure_time">Expoziční čas</string>
   <string name="external_sd_card">SD karta</string>
   <string name="external_sdcard_root">Hlavní složka externí SD karty</string>
@@ -650,7 +651,7 @@ společně!"</string>
   <string name="open_sync_title">Vyžaduje se Synchronizace</string>
   <string name="operation_add_album">Přidat do alba</string>
   <string name="operation_add_picture">Vybrat obrázky</string>
-  <string name="operation_add_secret">Přidat do tajného alba</string>
+  <string name="operation_add_secret">Tajné album</string>
   <string name="operation_add_secret_button">Skrýt</string>
   <string name="operation_delete">Vymazat</string>
   <string name="operation_delete_confirm_message_folder">"Složky a soubory v nich budou vymazány.
@@ -830,7 +831,7 @@ společně!"</string>
   <string name="script">skript</string>
   <string name="sd_not_available">SD karta není vložená anebo je nedostupná</string>
   <string name="sdcard_root">Hlavní složka SD karty</string>
-  <string name="seconds">sekund</string>
+  <string name="seconds">s</string>
   <string name="secret_album_display_name">Vybrat album</string>
   <string name="secret_reason_space_full">Album v MiCloud je plné</string>
   <string name="secret_reason_too_large">Soubor je příliš velký</string>
@@ -1027,4 +1028,6 @@ společně!"</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
+  <string name="show_hidden_album_title">Zobrazit skrytá alba</string>
+  <string name="browse_category_title">Prohledat</string>
 </resources>
