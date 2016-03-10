@@ -473,4 +473,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_notif_content_clipboard_push">Můžete to vložit kdekoliv</string>
+  <string name="micloud_notif_title_clipboard_push">Obsah byl zkopírován do schránky</string>
 </resources>

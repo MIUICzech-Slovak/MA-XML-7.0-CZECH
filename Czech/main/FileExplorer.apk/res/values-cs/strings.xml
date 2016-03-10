@@ -204,8 +204,8 @@
   <string name="kp_category_txt">Text</string>
   <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
   <string name="kuaipan_create_shortcut_success">Odkaz vytvořen</string>
-  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
-  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_data_formater_with_year">dd.MM.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">dd.MM.</string>
   <string name="kuaipan_delete_guide_des">Odstranit uživatelský manuál?</string>
   <string name="kuaipan_delete_success">Odstraněno</string>
   <string name="kuaipan_info">Soubory v Cloudu</string>
@@ -411,7 +411,7 @@ and never miss the cool new ones!"</string>
   <string name="sdcard_available">Dostupné %1$s</string>
   <string name="sdcard_total">Celkem %1$s</string>
   <string name="search_activity_hint">Zadejte slovo</string>
-  <string name="search_app">Zdroj</string>
+  <string name="search_app">Apl. a složky</string>
   <string name="search_app_more">Více</string>
   <string name="search_category">Typ</string>
   <string name="search_description">Vyhledat všechny soubory v zařízení</string>
@@ -428,7 +428,7 @@ and never miss the cool new ones!"</string>
   <string name="search_keyword_buy">Nákup</string>
   <string name="search_keyword_game">Hra</string>
   <string name="search_keyword_im">Chat</string>
-  <string name="search_keyword_messge">Express</string>
+  <string name="search_keyword_messge">Zorávy</string>
   <string name="search_keyword_news">Zprávy</string>
   <string name="search_keyword_wallet">Peněženka</string>
   <string name="search_result">Výsledky</string>
@@ -503,7 +503,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="title_expire_video">Brzy vyprší platnost</string>
   <string name="title_more_source">Více aplikací</string>
   <string name="title_recent">Nedávné</string>
-  <string name="title_select_volume">Vybrat</string>
+  <string name="title_select_volume">Vybrat složku</string>
   <string name="toast_file_not_can_read">Soubor je poškozený.</string>
   <string name="tools">Nástroje</string>
   <string name="trans_task">Přenos po síti</string>
@@ -559,7 +559,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
   <string name="private_folder_no_file_hints">Žádné soukromé soubory.</string>
   <string name="private_folder_update">Aktualizace soukromých souborů</string>
-  <string name="backup_checkbox_msg">Vždy zálohovat a zobrazit upozornění</string>
+  <string name="backup_checkbox_msg">Automaticky zálohovat</string>
   <string name="make_private_msg_1">Skrýt tento soubor?</string>
   <string name="make_private_msg_2">Skrýt tyto soubory?</string>
   <string name="make_private_msg_3">Všechny soubory v této složce budou skryty.</string>
@@ -571,7 +571,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="category_midrive">MiDrive</string>
   <string name="click_to_switch_volume">Dotykem sem přepnete mezi interním úložištěm a SD kartou</string>
   <string name="copy_to">Kopírovat do...</string>
-  <string name="decrypt_to">Dešifrovat a uložit do...</string>
+  <string name="decrypt_to">Dešifrovat</string>
   <string name="disk_available">"Dostupné: "</string>
   <string name="disk_total">"Celkem: "</string>
   <string name="email_platform">E-mail</string>
@@ -580,7 +580,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="found_usb">USB úložiště je připojeno</string>
   <string name="good_tip">Výborně!</string>
   <string name="homepage_tab_category">Kategorie</string>
-  <string name="homepage_tab_file_view">Telefon</string>
+  <string name="homepage_tab_file_view">Úložiště</string>
   <string name="homepage_tab_recent">Nedávné</string>
   <string name="kuaipan_logged_in">Přihlášen</string>
   <string name="kuaipan_not_logged_in">Není přihlášen</string>
@@ -614,7 +614,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="rlv_last_loading_time">Naposledy obnoveno: %1$s</string>
   <string name="share_to">Sdílet...</string>
   <string name="subtitle_report_video">Od %1$s</string>
-  <string name="tab_common_app">Aplikace</string>
+  <string name="tab_common_app">Aplikace a složky</string>
   <string name="tab_local_video">Lokální</string>
   <string name="tab_remote_video">Populární</string>
   <string name="tag_weixin_video">Malá videa</string>
