@@ -20,4 +20,13 @@
         <item>Dědeček z matčiny strany</item>
         <item>Babička z matčiny strany</item>
     </string-array>
+    <string-array name="relation_with_me">
+        <item>já</item>
+        <item>dítě</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužák</item>
+        <item>kamarád</item>
+        <item>neznámý</item>
+    </string-array>
 </resources>

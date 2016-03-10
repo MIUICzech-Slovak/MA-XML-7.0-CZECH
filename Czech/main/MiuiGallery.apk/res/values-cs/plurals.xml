@@ -86,8 +86,8 @@
         <item quantity="one">1 s</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Nezobrazovat tyto tváře?"</item>
-        <item quantity="one">"Nezobrazovat tuto tvář?"</item>
+        <item quantity="other">Nezobrazovat tyto tváře?</item>
+        <item quantity="one">Nezobrazovat tuto tvář?</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d z %2$s</item>
@@ -165,4 +165,28 @@
         <item quantity="other">Sleduje: %1$d</item>
         <item quantity="one">Sleduje: %1$d</item>
     </plurals>	
+    <plurals name="age_year">
+        <item quantity="other">%d let</item>
+        <item quantity="one">%d rok</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d měsíců</item>
+        <item quantity="one">%d měsíc</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d den</item>
+      </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d celkem)</item>
+        <item quantity="one">(%d celkem)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d fotografií</item>
+        <item quantity="one">%d fotografií</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Vymazat %1$d položek %2$s?</item>
+        <item quantity="one">Vymazat %1$d položek %2$s?</item>
+    </plurals>
 </resources>
