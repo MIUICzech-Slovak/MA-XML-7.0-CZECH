@@ -381,4 +381,6 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="event_info_from">z</string>
+  <string name="event_title">Název</string>
 </resources>

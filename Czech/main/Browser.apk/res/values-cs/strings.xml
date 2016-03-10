@@ -1014,4 +1014,8 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
   <string name="pref_accessibility">Přizpůsobení</string>
+  <string name="autofill_popup_content_description">Zobrazit automatické vyplňování</string>
+   <string name="password_generation_popup_content_description">Zobrazit generovaná hesla</string>
+   <string name="video_buffering_percent">"Načítání "</string>
+   <string name="video_play_error">Chyba přehrávání videa</string>
 </resources>
