@@ -21,6 +21,7 @@
   <string name="action_item_send">Odeslat</string>
   <string name="action_item_share">Sdílet</string>
   <string name="add_music">Přidat skladby</string>
+  <string name="add_to_last_of_playlist">Přidat na konec playlistu.</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
   <string name="all_artist">Všichni interpreti</string>
@@ -228,6 +229,7 @@
   <string name="japan_korea_group">Japonské a Kórejské skupiny</string>
   <string name="japan_korea_male">Japonští a Korejští zpěváci</string>
   <string name="ktv_playlist">Moje KTV</string>
+  <string name="latest_song">Historie přehrávání (%d).</string>
   <string name="like">Líbí se</string>
   <string name="list_detail_title">Detaily</string>
   <string name="list_item_play_FM_radio">Dotykem spustíte FM rádio</string>
@@ -349,6 +351,7 @@
   <string name="payment_fail">Platba selhala</string>
   <string name="payment_success">Zaplaceno</string>
   <string name="play_all_song">Přehrát vše</string>
+  <string name="play_next">Přehrát další</string>
   <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
   <string name="playlist_deleted_message">Playlist vymazán</string>
   <string name="playlist_renamed_message">Playlist přejmenován</string>
@@ -368,6 +371,7 @@
   <string name="recommend_fragment_title">Hity</string>
   <string name="remaining">Zůstatek tento měsíc:</string>
   <string name="remove">Odstranit</string>
+  <string name="remove_from_nowplaying">Odebrat z playlistu.</string>
   <string name="renew">Obnovit:</string>
   <string name="renew_1">Obnovit</string>
   <string name="renew_period">Období na obnovení:</string>
@@ -375,6 +379,7 @@
   <string name="repeat_current_notif">Opakuje se aktuální skladba.</string>
   <string name="retry">Zkusit znovu</string>
   <string name="ringtone_not_support">Formát není podporován.</string>
+  <string name="save_to_playlist">Uložit jako playlist.</string>
   <string name="search_album">Vyhledat album online</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Umělec</string>
@@ -494,9 +499,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
-  <string name="add_to_last_of_playlist">Přidat na konec playlistu.</string>
-  <string name="latest_song">Historie přehrávání (%d).</string>
-  <string name="play_next">Přehrát další</string>
-  <string name="remove_from_nowplaying">Odebrat z playlistu.</string>
-  <string name="save_to_playlist">Uložit jako playlist.</string>
 </resources>

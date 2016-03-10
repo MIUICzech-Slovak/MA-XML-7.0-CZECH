@@ -4,6 +4,13 @@
   <string name="apply_password_action">Nastavit heslo</string>
   <string name="apply_password_confirm_dlg_msg">Vyžadovat heslo pro %s​?</string>
   <string name="apply_password_confirm_dlg_title">Toto heslo bude použito pro %s</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Tlačítka pod displejem jsou vypnuta. Dvojitým poklepáním na jakékoliv tlačítko je aktivujete zpět.</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Tlačítka pod displejem jsou zapnuta</string>
+  <string name="auto_disable_screenbuttons_float_text">Dotkněte se pro vypnutí tlačítek</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Dvojitým poklepáním na tlačítko jej aktivujete.</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Znovu nezobrazovat</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Automaticky vypnout tlačítka pod displejem</string>
   <string name="auto_start_warning_allow">Povolit</string>
   <string name="auto_start_warning_deny">Odmítnout</string>
   <string name="auto_start_warning_title">Povolit aplikaci %s spouštět se automaticky?</string>
@@ -106,11 +113,4 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Tlačítka pod displejem jsou vypnuta. Dvojitým poklepáním na jakékoliv tlačítko je aktivujete zpět.</string>
-   <string name="auto_disable_screenbuttons_enable_toast_text">Tlačítka pod displejem jsou zapnuta</string>
-   <string name="auto_disable_screenbuttons_float_text">Dotkněte se pro vypnutí tlačítek</string>
-   <string name="auto_disable_screenbuttons_prompts_message">Dvojitým poklepáním na tlačítko jej aktivujete.</string>
-   <string name="auto_disable_screenbuttons_prompts_not_show_again">Znovu nezobrazovat</string>
-   <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
-   <string name="auto_disable_screenbuttons_prompts_title">Automaticky vypnout tlačítka pod displejem</string>
 </resources>

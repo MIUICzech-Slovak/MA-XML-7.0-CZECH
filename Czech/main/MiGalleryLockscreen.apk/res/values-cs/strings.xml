@@ -2,7 +2,9 @@
 <resources>
   <string name="app_name">Denní tapeta</string>
   <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
+  <string name="auto_interval">Auto</string>
   <string name="cancel">Ukončit</string>
+  <string name="cancel_international">Zrušit</string>
   <string name="change_time">Změnit interval</string>
   <string name="day">1 den</string>
   <string name="declaration"/>
@@ -15,22 +17,20 @@
   <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Výchozí</string>
   <string name="lockscreen_magazine_title">Denní tapeta zamykací obrazovky</string>
+  <string name="minutes_15">15 minut</string>
   <string name="no_long_show">Znovu nezobrazovat</string>
   <string name="ok">OK</string>
+  <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Souhlasím</string>
   <string name="resource_apply">Použít</string>
   <string name="resource_no_network_text">Nelze se připojit k síti.</string>
   <string name="setting_head">Nastavení</string>
   <string name="summary">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Tato služba vyžaduje připojení k internetu."</string>
+  <string name="summary_international">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Aplikace využívá datové připojení."</string>
   <string name="theme_apply_failured">Nelze použít tapetu zamykací obrazovky</string>
   <string name="theme_apply_success">Tapeta nastavena</string>
   <string name="theme_applying">Nastavování...</string>
   <string name="wlan_download">Stáhnout pouze přes Wi-Fi</string>
-  <string name="summary_international">"Používáním této služby souhlasíte s Podmínkami používání a Ochranou soukromí. Aplikace využívá datové připojení."</string>
-   <string name="ok_international">OK</string>
-   <string name="cancel_international">Zrušit</string>
-   <string name="wlan_download_cn">Stáhnout pouze přes Wi-Fi</string>
-   <string name="auto_interval">Auto</string>
-  <string name="minutes_15">15 minut</string>
+  <string name="wlan_download_cn">Stáhnout pouze přes Wi-Fi</string>
 </resources>

@@ -63,6 +63,7 @@
   <string name="apk_status_install">Nainstalovaná</string>
   <string name="apk_status_installed_old">Stará verze</string>
   <string name="apk_status_uninstalled">Není nainstalována</string>
+  <string name="app_install_intercept">Blokovat instalaci</string>
   <string name="app_name_securitycenter">Optimalizace</string>
   <string name="app_not_installed_toast">Aplikace není nainstalována.</string>
   <string name="apps_sort_type_item_size">Velikost</string>
@@ -172,6 +173,7 @@
   <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
   <string name="confirm_auto_cleaner">Ok</string>
   <string name="confirm_reject_all_permission">Zakázat všem aplikacím používat tuto funkci?</string>
+  <string name="continue_install">Instalovat</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušit</string>
   <string name="cta_checkbox_title">Znovu se neptat</string>
@@ -211,6 +213,7 @@
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
   <string name="dialog_title_stop_virus_scan">Zastavit</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
+  <string name="empty_app">Žádné aplikace</string>
   <string name="empty_title_ad">Žádné reklamní soubory</string>
   <string name="empty_title_apk">Žádné instalační .apk soubory</string>
   <string name="empty_title_auto_start_list">Žádné aplikace</string>
@@ -321,6 +324,7 @@
   <string name="hints_virus_scan_result_descx">tato aplikace je riziková pro vaši bezpečnost</string>
   <string name="history_details_title">Podrobnosti historie</string>
   <string name="info_and_call">Hovory a zprávy</string>
+  <string name="install_title">Instalovat pomocí PC</string>
   <string name="item_app_permission">Povolení aplikací</string>
   <string name="item_dev_mode">Možnosti pro vývojáře</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -390,6 +394,7 @@
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterie %s</string>
+  <string name="monitor_requests_from_pc">Spravovat instalaci aplikací přes PC</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizováno: neznámo</string>
   <string name="msg_update_error_code_already_running">Aktualizace</string>
@@ -412,6 +417,8 @@
   <string name="ok">OK</string>
   <string name="optimizecenter_data_support"/>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
+  <string name="pc_install_manager">Správce instalací</string>
+  <string name="pc_to_phone_install">Blokována instalace apl. %s z PC</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Povolit</string>
   <string name="permission_action_prompt">Zeptat se</string>
@@ -428,6 +435,13 @@
   <string name="permission_send_sms_descx">Odeslat SMS a MMS zprávy</string>
   <string name="permission_with_SMS_and_MMS">Povolení pro SMS a MMS</string>
   <string name="permission_with_call_and_contact">Povolení týkající se hovorů, kontaktů a seznamu hovorů.</string>
+  <string name="pm_auto_start_basic_services_lock">Zamknout</string>
+  <string name="pm_auto_start_basic_services_unlock">Odemknout</string>
+  <string name="pm_auto_start_by_basic_services">Základní služby</string>
+  <string name="pm_auto_start_by_other_services">Zkuste vypnout tyto služby</string>
+  <string name="pm_auto_start_by_system">Spuštění apl.</string>
+  <string name="pm_auto_start_proc_is_running">Spuštěno</string>
+  <string name="pm_remember_choice">Znovu nezobrazovat</string>
   <string name="pm_root_success_notification_title">ROOT práva povolena</string>
   <string name="positive_confirm">Ok</string>
   <string name="power_20s_enter_mode">Režim %2$s za %1$d sekund</string>
@@ -643,7 +657,11 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="protection_category_dangerous_title">Rizika (%d)</string>
   <string name="protection_category_recommend_title">Doporučuje se optimalizace (%d)</string>
   <string name="protection_category_security_title">Bezpečné (%d)</string>
+  <string name="recently_reject_message">Zakázána instalace %1$s a %2$d dalších apl.</string>
+  <string name="recently_reject_message_one">Zakázáno %1$s instalací</string>
   <string name="reject_all">Zakázat vše</string>
+  <string name="reject_countdown">Zakázat (%d)</string>
+  <string name="reject_usb_install">Zakázán přístup k instalaci těchto apl. přes PC</string>
   <string name="risk_list_header_title">Podezřelá aplikace: %d</string>
   <string name="root_apply_step_1">Povolit %s práva ROOT?</string>
   <string name="root_apply_step_2">Povolení práv ROOT může způsobit nestabilitu vašeho zařízení.</string>
@@ -801,6 +819,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázat režim spánku</string>
   <string name="usage_type_wifi_running">Wi-Fi je aktivní</string>
+  <string name="usb_install_desc">Instalovat tuto aplikaci přes PC?</string>
   <string name="virus_list_header_title">Nalezen vir: %d!</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instalační apk: %d</string>
@@ -808,23 +827,4 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="white_list_large_file_header">Velké soubory: %d</string>
   <string name="white_list_residual_header">Staré soub.: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="pm_auto_start_basic_services_lock">Zamknout</string>
-   <string name="pm_auto_start_basic_services_unlock">Odemknout</string>
-   <string name="pm_auto_start_by_basic_services">Základní služby</string>
-   <string name="pm_auto_start_by_other_services">Zkuste vypnout tyto služby</string>
-   <string name="pm_auto_start_by_system">Spuštění apl.</string>
-   <string name="pm_auto_start_proc_is_running">Spuštěno</string>
-   <string name="app_install_intercept">Blokovat instalaci</string>
-   <string name="continue_install">Instalovat</string>
-   <string name="empty_app">Žádné aplikace</string>
-   <string name="install_title">Instalovat pomocí PC</string>
-   <string name="monitor_requests_from_pc">Spravovat instalaci aplikací přes PC</string>
-   <string name="pc_install_manager">Správce instalací</string>
-   <string name="pc_to_phone_install">Blokována instalace apl. %s z PC</string>
-   <string name="pm_remember_choice">Znovu nezobrazovat</string>
-   <string name="recently_reject_message">Zakázána instalace %1$s a %2$d dalších apl.</string>
-   <string name="recently_reject_message_one">Zakázáno %1$s instalací</string>
-   <string name="usb_install_desc">Instalovat tuto aplikaci přes PC?</string>
-   <string name="reject_countdown">Zakázat (%d)</string>
-   <string name="reject_usb_install">Zakázán přístup k instalaci těchto apl. přes PC</string>
 </resources>

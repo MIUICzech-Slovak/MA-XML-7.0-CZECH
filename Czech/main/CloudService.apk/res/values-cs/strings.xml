@@ -296,11 +296,13 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_member_webload_fail_toast_5xx">Chyba serveru</string>
   <string name="micloud_more">Zjistit více</string>
   <string name="micloud_notif_content_battery_low">Baterie je téměř vybitá.</string>
+  <string name="micloud_notif_content_clipboard_push">Můžete to vložit kdekoliv</string>
   <string name="micloud_notif_content_depend_wifi">Připojte se k Wi-Fi pro synchr.</string>
   <string name="micloud_notif_content_master_depend_wifi">Připojte se na Wi-Fi síť.</string>
   <string name="micloud_notif_content_memory_low">Není dostatek místa na úložišti.</string>
   <string name="micloud_notif_content_sync_with_off">Dotykem synchr. vaše zařízení.</string>
   <string name="micloud_notif_title_battery_low">Nelze synchr. s MiCloud</string>
+  <string name="micloud_notif_title_clipboard_push">Obsah byl zkopírován do schránky</string>
   <string name="micloud_notif_title_depend_wifi">%d čeká na synchr.</string>
   <string name="micloud_notif_title_master_depend_wifi">Nelze synchr. s MiCloud</string>
   <string name="micloud_notif_title_memory_low">Nelze synchr. s MiCloud</string>
@@ -473,6 +475,4 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="micloud_notif_content_clipboard_push">Můžete to vložit kdekoliv</string>
-  <string name="micloud_notif_title_clipboard_push">Obsah byl zkopírován do schránky</string>
 </resources>

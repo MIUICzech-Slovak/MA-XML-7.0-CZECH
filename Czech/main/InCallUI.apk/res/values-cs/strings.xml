@@ -74,12 +74,14 @@
   <string name="callFailed_unobtainable_number">Chybné číslo</string>
   <string name="callFailed_userBusy">Linka je obsazená.</string>
   <string name="callUnanswered_forwarded">Hovor je přesměrovaný</string>
+  <string name="call_contacts_deny_permission_msg">Zakázali jste přístup ke kontaktům, nelze zobrazit informace o kontaktu.</string>
   <string name="call_description_recording">Nahrávání...</string>
   <string name="call_extension_conference_mode">Konference</string>
   <string name="call_forwarding_settings">Přesměrování hovorů</string>
   <string name="call_lost">Hovor byl ztracen.</string>
   <string name="call_record_button_label">Nahrávání %s</string>
   <string name="call_record_wait_label">Čekání</string>
+  <string name="call_recording_deny_permission_msg">Zakázali jste oprávnění nahrávat.</string>
   <string name="call_recording_error_low_storage">Není dostatek místa: vaše SD karta je plná</string>
   <string name="call_recording_error_privacy">Nelze nahrávat v režimu Návštěvník</string>
   <string name="call_recording_error_sd_access">Není přístup na SD kartu</string>
@@ -743,6 +745,4 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
-  <string name="call_contacts_deny_permission_msg">Zakázali jste přístup ke kontaktům, nelze zobrazit informace o kontaktu.</string>
-   <string name="call_recording_deny_permission_msg">Zakázali jste oprávnění nahrávat.</string>
 </resources>

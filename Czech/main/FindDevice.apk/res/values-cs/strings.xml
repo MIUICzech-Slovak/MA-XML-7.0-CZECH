@@ -14,6 +14,7 @@
   <string name="find_device">Vyhledat zařízení</string>
   <string name="find_device_crash">Vyhledávání bylo neočekávaně ukončeno</string>
   <string name="find_device_error_account_sys_timeout">Nelze se připojit ke Xiaomi účtu.</string>
+  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
   <string name="find_device_error_network">Zkontrolujte datové připojení a zkuste to znovu.</string>
   <string name="find_device_error_password_changed">Heslo k vašemu účtu bylo změněno.</string>
   <string name="find_device_error_server">Chyba serveru (%s)</string>
@@ -44,9 +45,6 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlock_error_ssl_hand_shake">Nelze se připojit k serveru, zkuste nastavit čas a datum manuálně.</string>
   <string name="unlock_error_unknown">Nelze se přihlásit</string>
   <string name="unlock_error_user_name">Nesprávné uživatelské jméno</string>
-  <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
-  <string name="unlocking">Aktivování...</string>
-  <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
   <string name="unlock_help">"Neodpojujte se od sítě
  Ujistěte se, že je vložena správná SIM karta a jste připojeni ke stabilní Wi-Fi síti
  
@@ -55,6 +53,8 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
  
  Jiné důvody:
  Přihlaste se na i.mi.com a zkuste odblokovat Vaše zařízení odsud"</string>
- <string name="unlock_help_title">Pomoc s odblokováním:</string>
-  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
+  <string name="unlock_help_title">Pomoc s odblokováním:</string>
+  <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
+  <string name="unlocking">Aktivování...</string>
+  <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
 </resources>

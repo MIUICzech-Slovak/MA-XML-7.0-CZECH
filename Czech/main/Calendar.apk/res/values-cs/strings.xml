@@ -135,6 +135,7 @@
   <string name="event_hide_more">Skrýt</string>
   <string name="event_info_descrip">"Poznámka: "</string>
   <string name="event_info_end">"Konec: "</string>
+  <string name="event_info_from">z</string>
   <string name="event_info_organizer">Organizátor:</string>
   <string name="event_info_reminders_label">Připomenutí</string>
   <string name="event_info_reminders_label_1">Upozornění</string>
@@ -147,6 +148,7 @@
   <string name="event_lunar_month"/>
   <string name="event_not_found">Událost nenalezena.</string>
   <string name="event_show_more">Více</string>
+  <string name="event_title">Název</string>
   <string name="event_view">Zobrazit událost</string>
   <string name="every_weekday">Každý pracovní den (po–pá)</string>
   <string name="exist_calendar">Kalendář již existuje</string>
@@ -381,6 +383,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="event_info_from">z</string>
-  <string name="event_title">Název</string>
 </resources>

@@ -137,6 +137,7 @@
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Žádné notifikace</string>
   <string name="notification_header_title">Upozornění</string>
+  <string name="notification_hidden_text">Obsah je skrytý</string>
   <string name="notification_otg_gamestick_in">Herní ovladač je připojený</string>
   <string name="notification_otg_gamestick_out">Herní ovladač je odpojený</string>
   <string name="notification_otg_keyboard_in">Klávesnice je připojená</string>
@@ -279,5 +280,4 @@ d. MMMM"</string>
   <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
-   <string name="notification_hidden_text">Obsah je skrytý</string>
 </resources>

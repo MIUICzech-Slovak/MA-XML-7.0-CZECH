@@ -119,11 +119,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohování a odinstalování aplikací</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen. Je nutné přeinstalovat ROM!</string>
+  <string name="dialog_msg_stop_scan">Zastavit kontrolu před dokončením?</string>
   <string name="dialog_msg_uninstall_apps">Odinstalovat tyto aplikace?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Zálohovat a odinstalovat</string>
   <string name="dialog_title_check_all">Vybrat vše</string>
   <string name="dialog_title_delete_image">Vymazat vybrané fotografie</string>
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+  <string name="dialog_title_stop_scan">Zastavit kontrolu</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
   <string name="download">Stáhnout</string>
   <string name="downloading">Stahování...</string>
@@ -379,6 +381,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="dialog_msg_stop_scan">Zastavit kontrolu před dokončením?</string>
-  <string name="dialog_title_stop_scan">Zastavit kontrolu</string>
 </resources>

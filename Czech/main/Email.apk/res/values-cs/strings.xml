@@ -321,6 +321,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Zrušit schválení obrázků?</string>
   <string name="clear_display_images_whitelist_title">Zrušit schválení obrázků</string>
   <string name="click_download_all_content">[ Dotykem načtete zprávu ]</string>
+  <string name="click_to_reload">Dotkněte se displeje pro obnovení</string>
   <string name="collapse_recipient_details">Sbalit podrobnosti o příjemci</string>
   <string name="colon">:</string>
   <string name="compose">Napsat</string>
@@ -534,6 +535,18 @@
   <string name="imap_password_error">Heslo pro server příchozí pošty není správné</string>
   <string name="inbox_folders_heading">Doručená pošta</string>
   <string name="info">Informace</string>
+  <string name="info_actionbar_normal_detail">Podrobnosti</string>
+  <string name="info_actionbar_subscribe">Subscribe line</string>
+  <string name="info_item_from">Od: </string>
+  <string name="info_item_hide">Skrýt</string>
+  <string name="info_loading">Načítání...</string>
+  <string name="info_name_title">Novinky</string>
+  <string name="info_no_message">Žádné zprávy!</string>
+  <string name="info_no_more_message">Více nemáme</string>
+  <string name="info_switch_summary">Open Inbox top NEWS</string>
+  <string name="info_switch_title">Inbox NEWS</string>
+  <string name="info_sync_error">Chyba synchr., zkuste to znovu.</string>
+  <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
   <string name="inline_picture_deleted">Probíhá stahování obrázku...</string>
   <string name="inline_picture_download_complete">Vložený obrázek stažen</string>
   <string name="input_password_prompt">Zadejte heslo:</string>
@@ -601,6 +614,7 @@
   <string name="menu_att_mgr_order_size">Podle velikosti</string>
   <string name="menu_change_folders">Změnit složky</string>
   <string name="menu_compose">Nová zpráva</string>
+  <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Možnosti synchronizace</string>
   <string name="menu_manage_folders">Nastavení složek</string>
   <string name="menu_move_to">Přesunout</string>
@@ -655,8 +669,11 @@ Kopie: %4$s
   <string name="multiple_new_message_notification_item">%1$s %2$s</string>
   <string name="mute">Ignorovat</string>
   <string name="name_or_number_is_error">Nesprávné jméno nebo heslo</string>
+  <string name="net_check_title">Nelze se připojit k síti. Zkontrolujte nastavení sítě.</string>
   <string name="network_error">Žádné připojení</string>
   <string name="network_not_available">Síť není dostupná, zkuste to později.</string>
+  <string name="network_try_again">Zkontrolujte nastavení sítě</string>
+  <string name="network_unavailable">Síť není dostupná</string>
   <string name="new_incoming_messages_one">Nová zpráva od %s. Zobrazit.</string>
   <string name="new_messages">Nové zprávy: %1$d</string>
   <string name="next_action">Další</string>
@@ -796,6 +813,7 @@ Kopie: %4$s
   <string name="provider_note_live">Přístup POP, který umožňuje připojení pomocí tohoto programu, zahrnují pouze některé účty typu Plus. Pokud zadáváte správnou e-mailovou adresu a heslo, ale nemůžete se přihlásit, pravděpodobně nemáte placený účet Plus. K těmto e-mailovým účtům můžete přistupovat prostřednictvím webového prohlížeče.</string>
   <string name="provider_note_t_online">Před nastavením tohoto e-mailového účtu navštivte stránky T-Online a vytvořte heslo pro přístup k e-mailu prostřednictvím protokolu POP3.</string>
   <string name="pull_to_refresh">Tažením obnovíte</string>
+  <string name="pull_up_to_load_more">Load on get more</string>
   <string name="push_wps_better_confirm_download">Stáhnout</string>
   <string name="push_wps_better_confirm_exit">Otevřít jinou aplikací</string>
   <string name="push_wps_better_confirm_message">WPS Office má lepší podporu pro tento typ dokumentu v příloze</string>
@@ -890,6 +908,7 @@ Kopie: %4$s
   <string name="security_unsupported_ticker_fmt">Účet „%s“ nelze synchronizovat z důvodu požadavků na zabezpečení.</string>
   <string name="select_attachment_type">Vyberte přílohu</string>
   <string name="select_no_file">Není vybrána příloha pro sdílení</string>
+  <string name="selected_lable">Vybráno</string>
   <string name="send">Odeslat</string>
   <string name="send_att_title">Upozornění</string>
   <string name="send_failed">Zpráva nebyla odeslána.</string>
@@ -971,6 +990,7 @@ Kopie: %4$s
   <string name="undo"/>
   <string name="unread_from_someone">Od [%s]</string>
   <string name="unread_string">Konverzace nebyla přečtena.</string>
+  <string name="unselected_lable">Více</string>
   <string name="unsent_messages_in_outbox">Neodeslané zprávy ve složce %2$s: %1$s</string>
   <string name="unzip_file_failed">Rozbalení souboru selhalo!</string>
   <string name="updated_at">Naposledy: %1$s</string>
@@ -1017,24 +1037,4 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="click_to_reload">Dotkněte se displeje pro obnovení</string>
-   <string name="info_actionbar_normal_detail">Podrobnosti</string>
-   <string name="info_actionbar_subscribe">Subscribe line</string>
-   <string name="info_item_from">Od: </string>
-   <string name="info_item_hide">Skrýt</string>
-   <string name="info_loading">Načítání...</string>
-   <string name="info_name_title">Novinky</string>
-   <string name="info_no_message">Žádné zprávy!</string>
-   <string name="info_no_more_message">Více nemáme</string>
-   <string name="info_switch_summary">Open Inbox top NEWS</string>
-   <string name="info_switch_title">Inbox NEWS</string>
-   <string name="info_sync_error">Chyba synchr., zkuste to znovu.</string>
-   <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
-   <string name="menu_discovery">Discovery</string>
-   <string name="net_check_title">Nelze se připojit k síti. Zkontrolujte nastavení sítě.</string>
-   <string name="network_try_again">Zkontrolujte nastavení sítě</string>
-   <string name="network_unavailable">Síť není dostupná</string>
-   <string name="pull_up_to_load_more">Load on get more</string>
-   <string name="selected_lable">Vybráno</string>
-   <string name="unselected_lable">Více</string>
 </resources>

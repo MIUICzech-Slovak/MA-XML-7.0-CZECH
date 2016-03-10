@@ -336,12 +336,12 @@ Kamera se automaticky restartuje na výchozí heslo
   <string name="notifi_operation_like">označil, že se mu líbíte</string>
   <string name="ok">OK</string>
   <string name="open_camera">Zapněte kameru</string>
-  <string name="open_camera_message">Stiskněte ON/OFF tlačítko pro zapnutí</string>
   <string name="open_camera2_message2">Povolit Wi-Fi přes dotykové rozhraní</string>
   <string name="open_camera2_message3">Stiskněte červené tlačítko pro zapnutí vyhledávání</string>
   <string name="open_camera2_wifi1">Zapnout</string>
   <string name="open_camera2_wifi2">Zapnout Wi-Fi</string>
   <string name="open_camera2_wifi3">Stiskněte červené tlačítko</string>
+  <string name="open_camera_message">Stiskněte ON/OFF tlačítko pro zapnutí</string>
   <string name="open_wifi">Zapněte Wi-Fi</string>
   <string name="open_wifi2">Tapněte na červené tlačítko</string>
   <string name="open_wifi3">Zobrazit dostupné kamery</string>
@@ -643,8 +643,8 @@ telefonu"</string>
   <string name="video_edit_music">Hudba</string>
   <string name="video_edit_name">Název videa</string>
   <string name="video_edit_next_description">Další</string>
-  <string name="video_edit_share_description">Sdílet</string>
   <string name="video_edit_save_progress">Video se ukládá…</string>
+  <string name="video_edit_share_description">Sdílet</string>
   <string name="video_edit_shared">Sdílet</string>
   <string name="video_edit_success">Video úspěšně sestříhané</string>
   <string name="video_edit_template">Šablona</string>

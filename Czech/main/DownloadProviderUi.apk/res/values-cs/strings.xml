@@ -210,6 +210,7 @@
   <string name="subbt_wait">ˇV pořadí...</string>
   <string name="task_detail">Úlohy</string>
   <string name="task_detail_notfound_confirm">OK</string>
+  <string name="third_web_title">Stáhnout</string>
   <string name="title_tips">Upozornění</string>
   <string name="title_unbind_xunlei">Odebrat Xunlei účet</string>
   <string name="toast_xunlei_engine_open">"Xunlei stahování je aktivováno.
@@ -222,6 +223,8 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="valid_in_this_month">Platné pouze pro tento měsíc</string>
   <string name="version">Verze %s</string>
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
+  <string name="web_dialog_cancel">Zrušit</string>
+  <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">Tento Xiaomi účet neexistuje</string>
   <string name="xunlei_account_has_unbind_message">Xunlei účet odebrán</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
@@ -235,7 +238,4 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="third_web_title">Stáhnout</string>
-  <string name="web_dialog_cancel">Zrušit</string>
-  <string name="web_dialog_confirm">OK</string>  
 </resources>
