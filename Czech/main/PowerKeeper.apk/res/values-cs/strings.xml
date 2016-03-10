@@ -22,9 +22,6 @@
   <string name="background">Aplikace je na pozadí</string>
   <string name="config_custom_description">Nastavení vlastních pravidel pro aplikaci</string>
   <string name="config_custom_title">Vlastní pravidla</string>
-  <string name="config_mode_title">Pravidla</string>
-  <string name="config_suggest_description">Použít doporučená pravidla pro úsporu baterie</string>
-  <string name="config_suggest_title">Doporučená pravidla</string>
   <string name="disabled">Vyp</string>
   <string name="empty_title_apps_container_list">Žádné aplikace</string>
   <string name="error_filename_too_long">Zadaný název je příliš dlouhý.</string>
