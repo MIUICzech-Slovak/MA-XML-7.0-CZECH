@@ -147,4 +147,25 @@
   <string name="still">Obrázky</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Název</string>
+  <string name="config_restrict_function_title">Zakázat aplikace na pozadí</string>
+   <string name="config_restrict_running_description">Aplikace budou ukončeny pro úsporu baterie</string>
+   <string name="config_restrict_running_title">Zakázat činnost na pozadí</string>
+   <string name="config_suggest_description">Identifikovat aplikace a aktivity pro ponechání spuštěných důležitých procesů.</string>
+   <string name="config_suggest_suffix_title">MIUI úspora (doporučeno)</string>
+   <string name="config_suggest_title">MIUI úspora baterie</string>
+   <string name="config_description">MIUI může identifikovat aplikace se specifickými procesy na pozadí (např.: navigace, WhatsApp, Hangouts, Viber...) a použít úsporu baterie způsobem, který neovlivní jejich činnost."</string>
+   <string name="config_mode_title">Nastavení na pozadí</string>
+   <string name="config_no_restrict_description">Úspora baterie neomezuje aktivity aplikací</string>
+   <string name="config_no_restrict_title">Žádné omezení</string>
+   <string name="config_restrict_function_description">Některé funkce (např.: push zprávy a oznámení) mohou být ovlivněny, ale aplikace nebudou ukončeny.</string>
+   <string name="fragment_nonesys_listempty">Žádné aplikace</string>
+   <string name="fragment_tab_title_nonsys">Nainstalované apl.</string>
+   <string name="fragment_tab_title_sys">Systémové apl.</string>
+   <string name="hide_mode_ultimate_desc">Ultimate režim je aktivní. Aplikace na pozadí budou zmrazeny. Deaktivujte úsporu baterie pro ukončení Ultimate režimu.</string>
+   <string name="power_config_bg_data_delay_time_dialog_title">Vyberte čas pro omezení dat na pozadí</string>
+   <string name="power_config_bg_data_delay_time_title">Omezit data na pozadí</string>
+   <string name="power_config_ultimate_off_already">Ultimate režim vypnutý</string>
+   <string name="power_config_ultimate_on_already">Ultimate režim zapnutý</string>
+   <string name="power_config_ultimate_unlock_already">Všechny položky odemknuty</string>
+   <string name="ragment_sys_listempty">Žádné aplikace</string>
 </resources>

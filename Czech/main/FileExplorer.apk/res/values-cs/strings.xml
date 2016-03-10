@@ -627,4 +627,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="enable_documentsui">Nejprve povolte %s v Nastavení - Nainstalované aplikace</string>
+  <string name="not_installed_documentsui">Nemáte nainstalovanou aplikaci DocumentsUI (Dokumenty)</string>
+  <string name="title_enable_documentsui">Povolte Dokumenty</string>
 </resources>

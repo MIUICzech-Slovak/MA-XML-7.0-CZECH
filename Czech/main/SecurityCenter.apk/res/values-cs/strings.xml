@@ -324,7 +324,7 @@
   <string name="hints_virus_scan_result_descx">tato aplikace je riziková pro vaši bezpečnost</string>
   <string name="history_details_title">Podrobnosti historie</string>
   <string name="info_and_call">Hovory a zprávy</string>
-  <string name="install_title">Instalovat pomocí PC</string>
+  <string name="install_title">Instalovat pomocí USB</string>
   <string name="item_app_permission">Povolení aplikací</string>
   <string name="item_dev_mode">Možnosti pro vývojáře</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -394,7 +394,7 @@
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterie %s</string>
-  <string name="monitor_requests_from_pc">Spravovat instalaci aplikací přes PC</string>
+  <string name="monitor_requests_from_pc">Spravovat instalaci aplikací přes USB</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizováno: neznámo</string>
   <string name="msg_update_error_code_already_running">Aktualizace</string>
@@ -418,7 +418,7 @@
   <string name="optimizecenter_data_support"/>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="pc_install_manager">Správce instalací</string>
-  <string name="pc_to_phone_install">Blokována instalace apl. %s z PC</string>
+  <string name="pc_to_phone_install">Blokována instalace apl. %s z USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Povolit</string>
   <string name="permission_action_prompt">Zeptat se</string>
@@ -661,7 +661,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="recently_reject_message_one">Zakázáno %1$s instalací</string>
   <string name="reject_all">Zakázat vše</string>
   <string name="reject_countdown">Zakázat (%d)</string>
-  <string name="reject_usb_install">Zakázán přístup k instalaci těchto apl. přes PC</string>
+  <string name="reject_usb_install">Zakázán přístup k instalaci těchto apl. přes USB</string>
   <string name="risk_list_header_title">Podezřelá aplikace: %d</string>
   <string name="root_apply_step_1">Povolit %s práva ROOT?</string>
   <string name="root_apply_step_2">Povolení práv ROOT může způsobit nestabilitu vašeho zařízení.</string>
@@ -819,7 +819,7 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázat režim spánku</string>
   <string name="usage_type_wifi_running">Wi-Fi je aktivní</string>
-  <string name="usb_install_desc">Instalovat tuto aplikaci přes PC?</string>
+  <string name="usb_install_desc">Instalovat tuto aplikaci přes USB?</string>
   <string name="virus_list_header_title">Nalezen vir: %d!</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instalační apk: %d</string>
