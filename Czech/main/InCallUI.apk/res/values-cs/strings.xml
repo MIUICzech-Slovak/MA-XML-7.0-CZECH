@@ -745,4 +745,11 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="wild_prompt_str">Nahradit zástupný znak znakem</string>
+  <string name="areacode_set_default">Nastavit jako výchozí</string>
+   <string name="can_not_call_oneself">Nelze uskutečnit hovor na toto číslo</string>
+   <string name="default_area_code_setting">Výchozí předvolba</string>
+   <string name="dialog_activate_livetalk">Ověřit číslo</string>
+   <string name="dialog_call_ordinary_telephone">Běžný hovor</string>
+   <string name="dialog_purchase">Navýšit</string>
+   <string name="do_not_ask">Znovu nezobrazovat</string>
 </resources>

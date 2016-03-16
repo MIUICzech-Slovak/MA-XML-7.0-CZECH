@@ -144,5 +144,13 @@
          <item quantity="two">Nalezena videa: %1$d</item>
          <item quantity="few">Nalezena videa: %1$d</item>
          <item quantity="many">Nalezena videa: %1$d</item>
-     </plurals>	
+     </plurals>
+      <plurals name="video_ad_download_tip">
+         <item quantity="other"> Stažení</item>
+         <item quantity="zero"> Stažení</item>
+         <item quantity="one"> Stažení</item>
+         <item quantity="two"> Stažení</item>
+         <item quantity="few"> Stažení</item>
+         <item quantity="many"> Stažení</item>
+      </plurals>	
 </resources>

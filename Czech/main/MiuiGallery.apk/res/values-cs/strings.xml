@@ -276,9 +276,9 @@ společně!"</string>
   <string name="confirm_merge_many_face_albums">" "Spojit toto album s %s?" "</string>
   <string name="confirm_not_face">Tato osoba ne</string>
   <string name="confirm_recommandation_face_is">Opravdu je to %1$s? Tato osoba bude přesunuta do alba \"%2$s\".</string>
-  <string name="confirm_recommandation_face_not">Opravdu to není %1$s? Tato osoba bude přesunuta do alba \"%2$s\".</string>
+  <string name="confirm_recommandation_face_not">Opravdu to není %1$s?</string>
   <string name="confirm_recommandation_multiple_faces_are">Opravdu jsou to to %1$s? Tyto osoby budou přesunuty do alba \"%2$s\".</string>
-  <string name="confirm_recommandation_multiple_faces_not">Opravdu to nejsou %1$s? Tyto osoby budou přesunuty do alba \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_not">Opravdu to nejsou %1$s?</string>
   <string name="contact_photo">Obrázek kontaktu</string>
   <string name="contact_tip">Kontakty</string>
   <string name="context_menu_add_contact">Přidat do kontaktů</string>
@@ -1030,4 +1030,16 @@ společně!"</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="show_hidden_album_title">Zobrazit skrytá alba</string>
   <string name="browse_category_title">Prohledat</string>
+   <string name="baby_album_needs_auto_backup_tip">U dětského alba nemůžete deaktivovat aktuomatickou zálohu</string>
+   <string name="camera_needs_auto_backup_tip">Album fotografií by mělo bý zálohováno</string>
+   <string name="cloud_guide_auto_backup_title">Vyberte album, které má být zálohováno na MiCloud</string>
+   <string name="cloud_guide_welcome_title">MiCloud</string>
+   <string name="enable_face_album_title">Seřadit podle lidí</string>
+   <string name="enable_micloud_service">Začněte používat MiCloud</string>
+   <string name="gallery_sync_disable_toast">Synchr. galerie není povolena</string>
+   <string name="introduce">Zálohujte fotografie a videa automaticky</string>
+   <string name="next">Další</string>
+   <string name="slim_after_backuped_summary_with_size">Nahradit fotografie v plném rozlišení v zařízení optimalizovanými náhledy po zálohování na MiCloud. Fotografie v plném rozlišení jsou uložena v MiCloud. Může to ušetřit až %1$s.</string>
+   <string name="to_enable_gallery_sync_dialog_message">Nejprve povolte synchr. galerie</string>
+   <string name="welcome">Vítejte v MiCloud</string>
 </resources>

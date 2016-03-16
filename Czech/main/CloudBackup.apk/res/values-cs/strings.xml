@@ -56,6 +56,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="cloud_backup_detail_time">, čas zálohy: %1$s</string>
   <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
   <string name="cloud_backup_select_recover">Vybrat zálohu z MiCloud</string>
+  <string name="backup_finished_notification_content">Zálohované aplikace, nastavení, atd.</string>
   <string name="cloud_restore_from_other_device">probíhá obnovení z %s, Vymazání zálohy zruší obnovení jiného zařízení. Chcete ji vymazat?</string>
   <string name="cloud_restore_task">Obnovování...</string>
   <string name="cloud_task_in_process">Probíhá %s! Vymazání zálohy tohoto zařízení zruší obnovení jiného zařízení. Chcete ji vymazat?</string>

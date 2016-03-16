@@ -40,4 +40,48 @@
         <item quantity="other">%d apl. nemá práva ROOT</item>
         <item quantity="one">%d apl. nemá práva ROOT</item>
     </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Použito před %d dny</item>
+        <item quantity="one">Použito včera</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Vyhledat %d apl.</item>
+        <item quantity="one">Vyhledat %d apl.</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Aplikace (%d) mohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) mohou použít mobilní data</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Aplikace (%d) nemohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) nemohou použít mobilní data</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Nalezeno: %d</item>
+        <item quantity="one">Nalezeno: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Spotřeba dat není sledována pro %d apl.</item>
+        <item quantity="one">Spotřeba dat není sledována pro %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Spotřeba dat je sledována pro %d apl.</item>
+        <item quantity="one">Spotřeba dat je sledována pro %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apl. používá úsporu dat</item>
+        <item quantity="one">%d apl. používá úsporu dat</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apl. nepoužívá úsporu dat</item>
+        <item quantity="one">%d apl. nepoužívá úsporu dat</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
 </resources>

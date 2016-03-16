@@ -709,6 +709,7 @@ Postupujte dle pokynů"</item>
         <item>Zámek displeje</item>
         <item>Dětský režim</item>
         <item>Soukromé soubory</item>
+        <item>Zámek aplikací</item>
     </string-array>
     <string-array name="broadcast_locales">
          <item>SK</item> 	

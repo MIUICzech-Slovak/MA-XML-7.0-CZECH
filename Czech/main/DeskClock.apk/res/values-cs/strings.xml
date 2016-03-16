@@ -131,4 +131,7 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="legal_off_day">Dny volna</string>
+   <string name="legal_off_day_message">" (Budík je vypnutý během volných dní)"</string>
+   <string name="oneshot_alarm">Vymazat budík po vypnutí</string>
 </resources>

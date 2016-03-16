@@ -1359,4 +1359,5 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="unable_get_device_id">Nelze získat IMEI</string>
 </resources>
