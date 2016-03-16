@@ -84,4 +84,49 @@
         <item quantity="other">%d apl. může být optimalizováno</item>
         <item quantity="one">%d apl. může být optimalizována</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+        <item quantity="one">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Požadovaný minimální počet velkých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno velké písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Požadovaný minimální počet číslic v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Požadovaný minimální počet zvláštních symbolů v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden zvláštní symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
+    </plurals>
+    <plurals name="number_locked">
+         <item quantity="other">Zamknutých apl.: %d</item>
+         <item quantity="one">Zamknutých apl.: %d</item>
+     </plurals>
+     <plurals name="number_to_lock">
+         <item quantity="other">Nezamknutých apl.: %d</item>
+         <item quantity="one">Nezamknutých apl.: %d</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Vyhledat mezi %d apl.</item>
+         <item quantity="one">Vyhledat mezi %d apl.</item>
+     </plurals>
+     <plurals name="found_apps_title">
+         <item quantity="other">Nalezeno: %d</item>
+         <item quantity="zero">>Nalezeno: 0</item>
+         <item quantity="one">>Nalezeno: %d</item>
+     </plurals>	
 </resources>
