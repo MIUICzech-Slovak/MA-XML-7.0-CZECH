@@ -843,7 +843,6 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="apn_exception_title">Zkontrolujte nastavení APN</string>
   <string name="app_detail">Podrobnosti</string>
   <string name="app_mobile">2G/3G</string>
-  <string name="app_name">Spotřeba dat</string>
   <string name="app_version">"Verze "</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top-up now"</string>
@@ -955,8 +954,6 @@ For more info check the message you received from your service provider"</string
   <string name="gateway_exception_summary2">Připojení k serveru selhalo</string>
   <string name="gateway_exception_title">Kontrola routeru</string>
   <string name="hints_input_roaming_daily_limit">Zadejte denní limit mobilních dat</string>
-  <string name="hints_install_apps_new">Nikdy nepoužito</string>
-  <string name="hints_install_apps_today">Použito dnes</string>
   <string name="input_aviable_traffic">Nastavit limit spotřeby dat</string>
   <string name="input_traffic_pkg">Zadejte využitá data</string>
   <string name="input_used_hint">Zadejte využitá data</string>
@@ -1115,8 +1112,6 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="permit_running_network">Povolit data na pozadí</string>
   <string name="person_hotpot">Mobilní hot-spoty</string>
   <string name="pkg_traffic">Nastavit limit mobilních dat</string>
-  <string name="power_save_on_time_end_time_summary">Do</string>
-  <string name="power_save_on_time_start_time_summary">Od</string>
   <string name="pref_about">O aplikaci</string>
   <string name="pref_about_traffic_title">Nastavení spotřeby dat</string>
   <string name="pref_add_traffic_pkg">Dodatečně zakoupená data</string>
