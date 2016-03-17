@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_xiaomi_account">AKtivovat toto zařízení</string>
+  <string name="activate_xiaomi_account">Aktivovat toto zařízení</string>
   <string name="app_name">Vyhledat zařízení</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Nelze odblokovat. %s.</string>
