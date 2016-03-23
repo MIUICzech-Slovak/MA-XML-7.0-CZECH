@@ -328,4 +328,18 @@ a Přenos je povolen"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
+  <string name="notif_trans_receiving_completed">Data úspěšně přijata</string>
+   <string name="notif_trans_sending_completed">Data úspěšně odeslána</string>
+   <string name="trans_progress_subdescript_br_sender_finish">Zálohováno %s, čeká na odeslání...</string>
+   <string name="trans_progress_subdescript_transing_receiver_finish">Přijato %s, čeká na obnovení...</string>
+   <string name="xiaomi_bytes_unit">%1$sB</string>
+   <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+   <string name="xiaomi_external_storage_unavailable">Úložiště je nedostupné, zkontrolujte SD kartu.</string>
+   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+   <string name="xiaomi_megabytes_unit">%1$sMB</string>
+   <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+ Size: %2$s"</string>
+   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+ Delta update size: %2$s"</string>
+   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
 </resources>

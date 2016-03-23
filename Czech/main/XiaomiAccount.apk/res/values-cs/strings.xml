@@ -615,4 +615,32 @@ s "</string>
   <string name="wrong_vcode">Nesprávný kód</string>
   <string name="passport_imei_permission_denied_message">"Vyžadujeme přístup k IMEI vašeho zařízení. Xiaomi účet využívá IMEI pro identifikaci zařízení na které jste přihlášeni pro zabezpečení vašeho účtu."</string>
   <string name="passport_imei_permission_denied_title">Přístup k IMEI</string>
+  <string name="account_has_been_set">Změnit</string>
+   <string name="account_security_question">Bezpečnostní otázka</string>
+   <string name="account_user_education">Vzdělání</string>
+   <string name="account_user_income">Příjem</string>
+   <string name="account_user_location">Poloha</string>
+   <string name="account_user_location_title">Vyberte aktuální polohu</string>
+   <string name="account_user_other_info">Více</string>
+   <string name="account_user_region">Region</string>
+   <string name="error_duplicate_answers">Pro vaši bezpečnost, nepoužívejte stejné odpovědi.</string>
+   <string name="error_incomplete_question_or_answer">Vyberte 4 otázky a zadejte odpovědi</string>
+   <string name="error_longer_answer_length">Odpověď může být delší jak 128 znaků</string>
+   <string name="error_shorter_answer_length">Minimum jsou 2 znaky</string>
+   <string name="forward_to_bind">Připojit</string>
+   <string name="ignore">Nyní ne</string>
+   <string name="reset_security_question_message">Musíte ověřit svou identitu před tím, než změníte bezpečnostní otázky</string>
+   <string name="reset_security_question_title">Resetovat bezpečnostní otázky</string>
+   <string name="security_question">Vyberte otázku</string>
+   <string name="security_question_answer">Zadejte odpověď</string>
+   <string name="security_question_notice_message">Nastavte bezpečnostní otázky až po propojení vašeho telefonu s účtem, aby jste je mohli obnovit v případě, že že je zapomenete.</string>
+   <string name="security_question_notice_title">Propojit telefon</string>
+   <string name="security_question_prompt">"Bezpečnostní otázky mohou být použity v případě, že zapomenete své heslo.
+ Ujistěte se, že nezapomenete odpovědi na otázky."</string>
+   <string name="set_security_question_title">Nastavit bezpečnostní otázky</string>
+   <string name="submit_answers">Odeslat</string>
+   <string name="success">Hotovo</string>
+   <string name="update_email_address_dialog_message">Musíte ověřit svou identitu před tím, než změníte e-mail.</string>
+   <string name="update_email_address_dialog_title">Změnit e-mail</string>
+   <string name="update_phone_number_notice_message">Musíte ověřit svou identitu před tím, než změníte telefonní číslo.</string>
 </resources>

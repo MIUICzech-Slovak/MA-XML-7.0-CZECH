@@ -165,4 +165,5 @@
    <string name="power_config_ultimate_on_already">Ultimate režim zapnutý</string>
    <string name="power_config_ultimate_unlock_already">Všechny položky odemknuty</string>
    <string name="ragment_sys_listempty">Žádné aplikace</string>
+   <string name="app_invisible_title">Skrytá apl.</string>
 </resources>

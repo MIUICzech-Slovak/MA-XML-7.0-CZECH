@@ -630,4 +630,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="enable_documentsui">Nejprve povolte %s v Nastavení - Nainstalované aplikace</string>
   <string name="not_installed_documentsui">Nemáte nainstalovanou aplikaci DocumentsUI (Dokumenty)</string>
   <string name="title_enable_documentsui">Povolte Dokumenty</string>
+  <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
+  <string name="extended_storage_file_can_not_open">Nelze otevřít soubor. Zkopírujte soubor na interní úložiště.</string>
 </resources>
