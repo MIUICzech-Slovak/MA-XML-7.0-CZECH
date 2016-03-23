@@ -29,7 +29,7 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="find_device_success_title">Vyhledat zařízení</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontaktní údaje: %s</string>
-  <string name="login_failed">Nelze se přihlásit</string>
+  <string name="login_failed">Nelze se přihlásit %s</string>
   <string name="password">Heslo</string>
   <string name="phone_locked">Toto zařízení je zřejmě propojeno s jiným Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
   <string name="stop_on_empty_captcha">Captcha nesmí být prázdná</string>
@@ -57,4 +57,22 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlock_wrong_captcha">Zadaný kód není správný</string>
   <string name="unlocking">Aktivování...</string>
   <string name="verify_password_failed">Nelze ověřit Xiaomi účet. %s.</string>
+  <string name="adding_or_updating_account">Aktualizace účtu...</string>
+   <string name="doing_extra_login_steps">Ověřování přihlášení...</string>
+   <string name="login_extra_steps">Ověřené přihlášení</string>
+   <string name="passport_checking_vcode">Kontrola hesla...</string>
+   <string name="passport_error_empty_vcode">Zadejte ověřovací kód</string>
+   <string name="passport_notification_need_unlock_again">Zkuste odblokovat znovu</string>
+   <string name="passport_notification_processing">Zpracovávání...</string>
+   <string name="passport_trust_device">Důvěřovat tomuto zařízení</string>
+   <string name="passport_vcode_prompt_long">Zadejte ověřovací kód</string>
+   <string name="passport_verify">Ověřit</string>
+   <string name="time_correction_failure">Nelze upravit čas (%s)</string>
+   <string name="time_correction_failure_network">Chyba sítě</string>
+   <string name="time_correction_failure_no_ntp">NTP server je nedostupný</string>
+   <string name="time_correction_success">Čas je správný</string>
+   <string name="unlock_error_abort">Zrušeno uživatelů</string>
+   <string name="unlock_error_passport_sdk_timeout">SDK Xiaomi účtu neodpovídá</string>
+   <string name="unlock_error_wrong_vcode">Zadaný kód není správný</string>
+   <string name="verifing_account">Ověřování hesla...</string>
 </resources>

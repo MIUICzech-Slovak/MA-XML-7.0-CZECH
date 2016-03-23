@@ -502,4 +502,5 @@
   <string name="more_settings">Více nastavení</string>
   <string name="more_settings_summary">Nastavení stahování, spánku, mobilních dat atd.</string>
   <string name="settings">Nastavení</string>
+  <string name="toast_cancel_play">Přehrávání zrušeno</string>
 </resources>
