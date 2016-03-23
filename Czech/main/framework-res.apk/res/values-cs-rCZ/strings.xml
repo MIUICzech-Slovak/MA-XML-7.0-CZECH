@@ -1620,4 +1620,7 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
+  <string name="tethered_notification_multi_device_message">Připojených: %1$s</string>
+   <string name="tethered_notification_no_device_message">Nikdo není připojen</string>
+   <string name="tethered_notification_one_device_message">Připojených: %1$s</string>
 </resources>
