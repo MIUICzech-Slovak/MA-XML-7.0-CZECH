@@ -630,4 +630,9 @@ Zkontrolujte i SPAM."</string>
   <string name="wind_speed_medium">medium</string>
   <string name="wind_sweep">sweep</string>
   <string name="yes">Ano</string>
+  <string name="num_keys">Čísla</string>
+   <string name="power_off">Vypnul se</string>
+   <string name="power_on">Zapnul se</string>
+   <string name="match_power_confirm_tip_frame">%1$s reagoval?</string>
+   <string name="match_power_main_tip_frame">%1$s reagoval?</string>  
 </resources>

@@ -59,7 +59,7 @@
   <string name="album_already_forced_top">Již je nahoře</string>
   <string name="album_camera_name">Fotoaparát</string>
   <string name="album_detail_page_empty">Žádné fotky ani video</string>
-  <string name="album_faces_name">Tvář</string>
+  <string name="album_faces_name">Lidé</string>
   <string name="album_member">Osoby %s</string>
   <string name="album_name">Název alba</string>
   <string name="album_others_share_baby_info_format">Dětské album z %s</string>
@@ -552,6 +552,7 @@ společně!"</string>
   <string name="loading_gif">Stahuji gif...</string>
   <string name="loading_gif_thumbnail">Stahuji gif náhled...</string>
   <string name="loading_image">Stahování obrázku...</string>
+  <string name="loading_image_thumbnail">Stahování náhledů...</string>
   <string name="loading_members">Načítání členů...</string>
   <string name="loading_suspend">Stahování pozastaveno: Bude obnoveno po připojení na Wi-Fi.</string>
   <string name="loading_thumbnail">Stahování náhledů...</string>
