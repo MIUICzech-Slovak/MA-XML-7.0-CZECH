@@ -643,4 +643,8 @@ s "</string>
    <string name="update_email_address_dialog_message">Musíte ověřit svou identitu před tím, než změníte e-mail.</string>
    <string name="update_email_address_dialog_title">Změnit e-mail</string>
    <string name="update_phone_number_notice_message">Musíte ověřit svou identitu před tím, než změníte telefonní číslo.</string>
+   <string name="current_location_title">Aktuální poloha</string>
+   <string name="locating_current_location">Získávání polohy...</string>
+   <string name="location_service_not_working">Chyba zjištění polohy</string>
+   <string name="select_location_title">Vyberte vaši polohu</string>
 </resources>
