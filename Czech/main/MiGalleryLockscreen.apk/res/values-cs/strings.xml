@@ -36,8 +36,8 @@
   <string name="sst_favor_desc">Oblíbené tapety</string>
    <string name="sst_favor_title">Oblíbené</string>
    <string name="sst_no_favor_wallpaper_hint">Žádné oblíbené tapety</string>
-   <string name="sst_prov_enable_desc">Užijte si více skvělých tapet na zamykací obrazovce</string>
-   <string name="sst_prov_enable_title">Povolte denní tapetu</string>
+   <string name="sst_prov_enable_desc">Více skvělých tapet na zamykací obrazovce</string>
+   <string name="sst_prov_enable_title">Povolit denní tapetu</string>
    <string name="sst_require_one_category_hint">Vyberte alespoň jednu kategorii</string>
    <string name="sst_sti_desc">Nastavte interval pro změnu tapety</string>
    <string name="sst_sti_title">Interval pro změnu tapety</string>
