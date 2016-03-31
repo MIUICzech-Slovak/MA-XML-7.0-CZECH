@@ -632,4 +632,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="title_enable_documentsui">Povolte Dokumenty</string>
   <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
   <string name="extended_storage_file_can_not_open">Nelze otevřít soubor. Zkopírujte soubor na interní úložiště.</string>
+  <string name="request_timeout">Požadavek sítě neodpovídá</string>
+   <string name="server_error">Chyba serveru, zkuste to znovu. (Chyba %s)</string>
 </resources>

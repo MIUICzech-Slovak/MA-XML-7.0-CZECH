@@ -3849,4 +3849,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="ac_enable_summary">Pro otevření aplikací bude vyžadováno heslo</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Změňte pozici prstu</string>
+  <string name="device_cpu6_info">"6 jader "</string>
+  <string name="max_cpu4_info">"4 jádra "</string>
 </resources>

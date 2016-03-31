@@ -22,7 +22,7 @@
   <string name="auth_fail">Nebylo možné autorizovat</string>
   <string name="bind_xunlei_account">Připojit xunlei účet &gt;</string>
   <string name="bt_download">Stáhnout</string>
-  <string name="bt_xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="bt_xunlei_open_info">Opravdu chcete stáhnout tento soubor? Doporučujeme stahovat přes vestavěný webový prohlížeč.</string>
   <string name="button_sort_by_date">Seřadit podle data</string>
   <string name="button_sort_by_size">Seřadit podle velikosti</string>
   <string name="cancel">Zrušit</string>
@@ -238,4 +238,10 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
+  <string name="third_web_cancel">Zrušit</string>
+   <string name="third_web_confirm">OK</string>
+   <string name="third_web_default">Pamatovat si umístění</string>
+   <string name="third_web_filename_hint">Název</string>
+   <string name="third_web_filesize">Velikost</string>
+   <string name="third_web_savepath">Umístění</string>
 </resources>
