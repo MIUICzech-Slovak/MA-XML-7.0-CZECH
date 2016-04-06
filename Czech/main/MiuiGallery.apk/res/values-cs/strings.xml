@@ -1051,7 +1051,6 @@ společně!"</string>
    <string name="auto_backup_introduce">Automaticky zálohovat fotografie a videa (Xiaomi účet je nutný)</string>
    <string name="cloud_guide_slim_text">Zálohovat automaticky. Ušetříte více než 90% na úložišti pomocí zmenšení.</string>
    <string name="cloud_guide_slim_title">Povolte zmenšení alba a ušetříte %1$s</string>
-   <string name="cloud_guide_welcome_title">MiCloud</string>
    <string name="enable_slim_title">Povolit zmenšení alba</string>
    <string name="login_and_enable_service">Přihlaste se a používejte MiCloud</string>
    <string name="share">Sdílet</string>
