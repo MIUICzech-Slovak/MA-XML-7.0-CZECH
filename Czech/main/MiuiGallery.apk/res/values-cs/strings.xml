@@ -1031,8 +1031,8 @@ společně!"</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="show_hidden_album_title">Zobrazit skrytá alba</string>
   <string name="browse_category_title">Prohledat</string>
-   <string name="baby_album_needs_auto_backup_tip">U dětského alba nemůžete deaktivovat aktuomatickou zálohu</string>
-   <string name="camera_needs_auto_backup_tip">Album fotografií by mělo bý zálohováno</string>
+   <string name="baby_album_needs_auto_backup_tip">U dětského alba nemůžete deaktivovat automatickou zálohu</string>
+   <string name="camera_needs_auto_backup_tip">Album fotografií by mělo být zálohováno</string>
    <string name="cloud_guide_auto_backup_title">Vyberte album, které má být zálohováno na MiCloud</string>
    <string name="cloud_guide_welcome_title">MiCloud</string>
    <string name="enable_face_album_title">Seřadit podle lidí</string>
@@ -1048,4 +1048,21 @@ společně!"</string>
    <string name="orientation_lock_tip">Rotace uzamčena</string>
    <string name="orientation_unlock_tip">Autom. rotace povolena</string>
    <string name="set_face_image">Nastavit novou osobu</string>
+   <string name="auto_backup_introduce">Automaticky zálohovat fotografie a videa (Xiaomi účet je nutný)</string>
+   <string name="cloud_guide_slim_text">Zálohovat automaticky. Ušetříte více než 90% na úložišti pomocí zmenšení.</string>
+   <string name="cloud_guide_slim_title">Povolte zmenšení alba a ušetříte %1$s</string>
+   <string name="cloud_guide_welcome_title">MiCloud</string>
+   <string name="enable_slim_title">Povolit zmenšení alba</string>
+   <string name="login_and_enable_service">Přihlaste se a používejte MiCloud</string>
+   <string name="share">Sdílet</string>
+   <string name="slim_introduce">Nahradit fotografie a videa na internetovém úložišti v plném rozlišení za náhledy po jejich zálohování na MiCloud. V plném rozlišení budou i nadále dostupné na MiCloud. Ušetříte tak více než 90% místa na interním úložišti.</string>
+   <string name="slim_introduce_with_specific_size">Nahradit fotografie a videa na interním úložišti v plném rozlišení za náhledy po jejich zálohování na MiCloud. V plném rozlišení budou i nadále dostupné na MiCloud. Ušetříte tak více než %1$s místa na interním úložišti.</string>
+   <string name="slim_now">Zmenšit nyní</string>
+   <string name="slim_result_size">ušetřeno %1$s</string>
+   <string name="slim_result_title">Úspěšně zmenšeno</string>
+   <string name="slim_tip_msg">Alba budou zmenšena automaticky po připojení na Wi-Fi. Fotografie a videa v plném rozlišení stáhnete kliknutím na \"Stáhnout\" v menu.</string>
+   <string name="slim_tip_title">Zmenšení</string>
+   <string name="slimming">Zmenšení...</string>
+   <string name="welcome_to_micloud">Vítejte v MiCloud</string>
+   <string name="welcome_to_slim">Vítejte v Zmenšení alba</string>
 </resources>

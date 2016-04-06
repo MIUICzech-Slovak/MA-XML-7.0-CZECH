@@ -1496,4 +1496,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="lockscreen_access_pattern_cleared">Vzor vymazán</string>
    <string name="lockscreen_access_pattern_detected">Vzor dokončen</string>
    <string name="lockscreen_access_pattern_start">Vzor začíná</string>
+   <string name="pm_auto_start_by_other">Vyvolaný start</string>
+   <string name="pm_auto_start_by_other_app">Povolit aplikaci spuštění jinou aplikací</string>
+   <string name="pm_auto_start_by_system_event">Povolit apl. automatické spuštění</string>
 </resources>
