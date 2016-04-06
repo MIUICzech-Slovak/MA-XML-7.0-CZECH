@@ -345,4 +345,8 @@ a Přenos je povolen"</string>
    <string name="user_notice_declaration_ignore">Znovu nezobrazovat</string>
    <string name="user_notice_message">Některé funkce vyžadují připojení k internetu.</string>
    <string name="user_notice_title">Upozornění</string>
+   <string name="guarded_mode_dialog_backup_message">Záloha není povolena v režimu Návštěvník.</string>
+   <string name="guarded_mode_dialog_transfer_message">Přenos není povolen v režimu Návštěvník.</string>
+   <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
 </resources>

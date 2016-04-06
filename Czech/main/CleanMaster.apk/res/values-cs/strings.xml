@@ -260,7 +260,6 @@
   <string name="pref_category_title_other_clean_settings">Více nastavení čištění</string>
   <string name="pref_content_cleanup_white_list_none">Žádné</string>
   <string name="pref_summary_auto_clean_and_alert">Automaticky vyčistit odpad nebo upozornit po dosažení zadané velikosti</string>
-  <string name="pref_summary_auto_deepclean_and_alert">Zobrazit upozornění, když je méně, než 1 GB volného místa na úložišti (500 MB je limit pro funkci Androidu)</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizováno: %s</string>
   <string name="pref_summary_cleanup_white_list">Soubory v seznamu budou ignorovány při čištění</string>
   <string name="pref_summary_expand_cache_group">Skupiny v seznamu cache budou rozbaleny</string>
@@ -383,4 +382,11 @@
   <string name="yesterday">Včera</string>
    <string name="recommend_news">Recommended sources</string>
    <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
+    <string name="long_click_dialog_summary">Dlouhým podržením přidáte do výjimek.</string>
+   <string name="long_click_dialog_title">Oznámení</string>
+   <string name="news_change">Změnit</string>
+   <string name="pref_section_auto_clean_and_alert">Vyčistit automaticky</string>
+   <string name="pref_summary_auto_deepclean_and_alert">Upozornění nepoužívaných apl.</string>
+   <string name="tips_of_app_manage">Odinstalujte nepoužívané aplikace a ušetříte tak místo na úložišti</string>
+   <string name="title_of_app_manage">Apl.</string>
 </resources>

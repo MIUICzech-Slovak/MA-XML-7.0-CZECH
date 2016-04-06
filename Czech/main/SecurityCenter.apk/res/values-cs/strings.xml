@@ -1492,4 +1492,8 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="text_lock_info">Zadejte vzor odblokování</string>
    <string name="third_application">Nainstalované aplikace</string>
    <string name="toast_lockscreen_glogin_empty_password">Je vyžadováno heslo</string>
+   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
+   <string name="lockscreen_access_pattern_cleared">Vzor vymazán</string>
+   <string name="lockscreen_access_pattern_detected">Vzor dokončen</string>
+   <string name="lockscreen_access_pattern_start">Vzor začíná</string>
 </resources>

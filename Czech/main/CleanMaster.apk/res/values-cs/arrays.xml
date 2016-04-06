@@ -25,8 +25,6 @@
     <string-array name="cache_clean_menu">
         <item>Vyčistit tento soubor</item>
         <item>Zobrazit umístění souboru</item>
-        <item>Přidat soubor do výjimek</item>
-        <item>Přidat apl. do výjimek</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Vyčistit</item>
@@ -51,11 +49,15 @@
     <string-array name="trash_clean_menu">
         <item>Vyčistit tento soubor</item>
         <item>Zobrazit umístění souboru</item>
-        <item>Přidat soubor do výjimek</item>
      </string-array>
      <string-array name="video_clean_menu">
          <item>Vyčistit tento soubor</item>
          <item>Otevřít</item>
-         <item>Přidat soubor do výjimek</item>
      </string-array>
+     <string-array name="long_add_menu">
+          <item>Přidat do výjimek</item>
+      </string-array>
+     <string-array name="long_add_app_menu">
+         <item>Přidat apl. do výjimek</item>
+      </string-array>
 </resources>
