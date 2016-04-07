@@ -44,4 +44,6 @@
    <string name="sst_subscribe_title">Kategorie</string>
    <string name="sst_wifi_only_desc">Může navýšit Vaše poplatky</string>
    <string name="sst_wifi_only_title">Stáhnout přes mobilní data</string>
+    <string name="sst_grid_view_select_all">Vše</string>
+ +  <string name="sst_grid_view_unselect_all">Odznačit vše</string>
 </resources>
