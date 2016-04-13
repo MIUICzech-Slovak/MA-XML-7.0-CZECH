@@ -1018,4 +1018,20 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="action_menu_account_not_login">Nepřihlášen</string>
+   <string name="action_menu_account_not_login_hint">Použít nastavení MiCloud pro přihlášení</string>
+   <string name="action_menu_bookshelf">Bookshelf</string>
+   <string name="action_menu_toolbox">Nástroje</string>
+   <string name="action_menu_useful_page">Přidat užitečné</string>
+   <string name="action_menu_useful_page_added">Přidáno</string>
+   <string name="comment_app_menu">Komentář</string>
+   <string name="comment_menu">Komentář</string>
+   <string name="custom_head_card_text">"Always believe that something wonderful
+ is about to happen"</string>
+   <string name="custom_head_card_text_incognito">"Only God and you know that
+ privacy window​"</string>
+  <string name="login_failed_toast">Přihlášení selhalo.</string>
+  <string name="reply_comment_title">Odpověď: %s</string>
+  <string name="send_comment_button">Odeslat</string>
+  <string name="send_comment_title">Komentář</string>
 </resources>
