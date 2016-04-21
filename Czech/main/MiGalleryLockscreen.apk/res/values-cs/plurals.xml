@@ -5,7 +5,7 @@
         <item quantity="one">Sleduje: %1$s</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
-        <item quantity="other">Tapet: %1$s</item>
-        <item quantity="one">Tapet: %1$s</item>
+        <item quantity="other">Tapety: %1$s</item>
+        <item quantity="one">Tapety: %1$s</item>
     </plurals>
 </resources>
