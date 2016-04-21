@@ -652,7 +652,6 @@ s "</string>
    <string name="cta_declaration_ignore">Odmítnout</string>
    <string name="cta_declaration_message">"Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledání vašeho zařízení a povolení MiCloud. Pro zálohu vašich dat, tato aplikace vyžaduje přístup k vašim kontaktům, SMS a MMS zprávám, historii hovorů a nahrávkám. Tato data nepoužíváme k žádným komerčním účelům a nejsou poskytována třetí straně."</string>
    <string name="cta_declaration_title">Podmínky používání</string>
-   <string name="i_know">Rozumím</string>
    <string name="passport_auto_generate_pwd">Vygenerujte bezpečné heslo</string>
    <string name="passport_back">Zpět</string>
    <string name="passport_downlink_reg">Vytvořit účet pomocí telefonního čísla</string>
