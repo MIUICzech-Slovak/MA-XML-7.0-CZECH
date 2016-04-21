@@ -673,12 +673,18 @@ Postupujte dle pokynů"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Okamžitě</item>
+        <item>30 sek.</item>
         <item>1 min.</item>
         <item>2 min.</item>
         <item>5 min.</item>
-        <item>15 min.</item>
-        <item>30 min.</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+         <item>0</item>
+         <item>30000</item>
+         <item>60000</item>
+         <item>120000</item>
+         <item>300000</item>
+     </string-array>    
     <string-array name="fluency_mode_entries">
         <item>Vypnout animace systému</item>
         <item>Povolit animace systému</item>

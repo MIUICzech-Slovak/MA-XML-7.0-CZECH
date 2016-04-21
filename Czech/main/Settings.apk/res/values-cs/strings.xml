@@ -3860,4 +3860,24 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="confirm_reset_aaid">OK</string>
    <string name="reset_aaid">Reset advertising identifier</string>
    <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="fingerprint_removal_failed">Nelze odstranit otisk prstu, zkuste to znovu.</string>
+  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi Asistent</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Přepnout na mobilní data, když nemá Wi-Fi přístup k internetu.</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Změnit</string>
+  <string name="security_encryption_alert_dialog_info_first">"Nastavte heslo pro povolení této funkce. Při každém spuštění bude nutné zadat heslo zamykací obrazovky pro dešifrování zařízení."</string>
+  <string name="security_encryption_alert_dialog_title_first">Nejprve nastavte heslo</string>
+  <string name="security_encryption_attention_1">Budík nespustí zařízení, pokud bude vypnuté.</string>
+  <string name="security_encryption_attention_2">Při každém spuštění bude nutné zadat heslo zamykací obrazovky pro dešifrování zařízení. Restart bude trvat déle, než je zvykem..</string>
+  <string name="security_encryption_attention_3">Bude nutné zadat nové heslo.</string>
+  <string name="security_encryption_attention_4">Ujistěte se, že si budete pamatovat své heslo, jinak bude nutné kompletní vymazání zařízení.</string>
+  <string name="security_encryption_attention_info">Můžete zašifrovat účty, nastavení, stažené aplikace a jejich data, média, a ostatní soubory.</string>
+  <string name="security_encryption_attention_symbol">•</string>
+  <string name="security_encryption_attention_title">Důležité upozornění</string>
+  <string name="security_encryption_close_dialog_info">Pokud nebude vaše zařízení zašifrováno, některé Google služby mohou být nedostupné (např. Google NFC Platby).</string>
+  <string name="security_encryption_close_dialog_title">Vrátit na výchozí zabezpečení</string>
+  <string name="security_encryption_diaglog_continue">Další</string>
+  <string name="security_encryption_is_used">Zap.</string>
+  <string name="security_encryption_title">Zašifrovat zařízení</string>
+  <string name="erase_sd_data">Formátovat SD kartu</string>
+  <string name="erase_sd_data_description">Formátování vymaže všechny soubory na SD kartě</string>  
 </resources>
