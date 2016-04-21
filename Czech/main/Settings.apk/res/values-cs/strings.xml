@@ -977,6 +977,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_cpu2_info">"2 jádra "</string>
   <string name="device_cpu4_info">"4 jádra "</string>
   <string name="device_cpu8_info">"8 jader "</string>
+  <string name="device_cpu10_info">"10 jader "</string>
   <string name="device_edit_title">Změnit název zařízení</string>
   <string name="device_feedback">Odeslat zpětnou vazbu o tomto zařízení</string>
   <string name="device_info_default">Neznámé</string>

@@ -84,5 +84,9 @@
      <plurals name="auto_disable_screenbuttons_disabled_header_title">
          <item quantity="other">Nikdy nevypínat pro %d apl.</item>
          <item quantity="one">Nikdy nevypínat pro 1 apl.</item>
+     </plurals>
+     <plurals name="notification_apps">
+         <item quantity="other">%d apl. obsahuje ohrožení soukromí</item>
+         <item quantity="one">%d apl. obsahuje ohrožení soukromí</item>
      </plurals>	
 </resources>
