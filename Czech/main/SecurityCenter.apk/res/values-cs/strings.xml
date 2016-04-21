@@ -1503,4 +1503,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="summary_app_lock_disable">Zamkněte aplikace pro ochranu vašeho soukromí</string>
     <string name="title_app_lock_disable">Zámek apl.</string>
    <string name="notification_item">Nastavit zámek apl.</string>
+   <string name="lockpattern_retry_button_text">Zadat znovu</string>
+   <string name="lockpattern_settings_help_how_to_record">Jak nakreslit zamykací vzor</string>
 </resources>
