@@ -817,6 +817,6 @@ Postupujte dle pokynů"</item>
      </string-array>
     <string-array name="screen_key_position_action">
          <item>Menu tlačítko vlevo, Zpět vpravo</item>
-         <item>Zpět tlačítko vlevo , Menu vpravo</item>
+         <item>Zpět tlačítko vlevo, Menu vpravo</item>
     </string-array>     
 </resources>
