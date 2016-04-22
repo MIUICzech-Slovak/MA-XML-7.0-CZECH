@@ -3881,4 +3881,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="security_encryption_title">Zašifrovat zařízení</string>
   <string name="erase_sd_data">Formátovat SD kartu</string>
   <string name="erase_sd_data_description">Formátování vymaže všechny soubory na SD kartě</string>  
+  <string name="screen_key_position">Navigační tlačítka</string>
+  <string name="key_position_cat">Rozložení tlačítek</string>
 </resources>
