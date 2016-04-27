@@ -633,4 +633,6 @@ Pokus: %s."</string>
   <string name="call_sender">Volat odesílatele</string>
   <string name="show_sender">Zobrazit info o odesílateli</string>
   <string name="pref_cell_broadcast">Cell Broadcasts</string>
+  <string name="add_to_browser_favorite_failed">selhalo</string>
+  <string name="add_to_browser_favorite_success">úspěšné</string>
 </resources>
