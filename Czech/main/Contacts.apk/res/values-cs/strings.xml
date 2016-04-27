@@ -1360,4 +1360,10 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
   <string name="unable_get_device_id">Nelze získat IMEI</string>
+  <string name="missing_required_permission">Deaktivovali jste potřebné povolení.</string>
+   <string name="export_to_storage">Exportovat na úložiště</string>
+   <string name="storage_internal_description">Interní úložiště</string>
+   <string name="storage_sd_card">SD karta</string>
+   <string name="storage_sd_card_description">SD karta</string>
+   <string name="storage_usb_description">USB úložiště</string>
 </resources>
