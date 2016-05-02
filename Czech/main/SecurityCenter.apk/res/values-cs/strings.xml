@@ -1427,7 +1427,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="access_control_need_password">"%s zámek přidán
   "</string>
    <string name="access_control_need_to_unlock">"Odblokujte otiskem prstu
- +nebo zadejte heslo"</string>
+ nebo zadejte heslo"</string>
    <string name="access_control_need_to_unlock_nofingerprint">Zadejte heslo</string>
    <string name="access_control_recording_intro_header">Nakreslete vzor pro uzamknutí aplikací</string>
    <string name="access_control_reset_by_account">Přihlásit se na Xiaomi účet pro deaktivování zámku aplikací</string>
