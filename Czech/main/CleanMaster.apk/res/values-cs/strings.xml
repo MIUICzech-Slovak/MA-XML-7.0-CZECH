@@ -398,4 +398,5 @@
   <string name="dialog_msg_add_white_list_error">Soubor nepodporuje přidání do výjimek</string>
   <string name="dialog_ok_add_white_list_error">Rozumím</string>
   <string name="dialog_title_add_white_list_error">Upozornění</string>
+  <string name="function_app_lock_title">%d apl. může ohrozit vaše soukromí​</string>
 </resources>
