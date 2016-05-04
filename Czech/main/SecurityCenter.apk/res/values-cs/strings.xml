@@ -1459,7 +1459,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="lockpattern_need_to_confirm">Utvořte gesto znovu pro potvrzení:</string>
    <string name="lockpattern_need_to_confirm_wrong">Neshoduje se, zadejte jej znovu:</string>
    <string name="lockpattern_need_to_unlock_footer"/>
-   <string name="lockpattern_need_to_unlock_wrong">Heslo není správné. Můžete jej zadat ještě %d krát</string>
+   <string name="lockpattern_need_to_unlock_wrong">Heslo není správné.</string>
    <string name="lockpattern_need_to_unlock_wrong_footer"/>
    <string name="lockpattern_pattern_confirmed_header">Nový odemykací vzor:</string>
    <string name="lockpattern_pattern_entered_header">Vzor uložen.</string>
