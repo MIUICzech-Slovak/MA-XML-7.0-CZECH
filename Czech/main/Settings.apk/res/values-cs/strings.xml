@@ -2776,7 +2776,7 @@ Zbývá:"</string>
   <string name="sim_setup_wizard_title">SIM karty</string>
   <string name="sim_slot_empty">Prázdná SIM</string>
   <string name="sim_status_summary">Údaje související se SIM kartou</string>
-  <string name="sim_status_title">stav SIM</string>
+  <string name="sim_status_title">Stav SIM</string>
   <string name="simulate_color_space">Simulovat barevný prostor</string>
   <string name="skip_label">Dále</string>
   <string name="skip_lock_screen_confirm_msg">Pro zamykací obrazovku nebudou dostupná: Upozornění, fotoaparát posunem doprava a číselník posunem doleva.</string>

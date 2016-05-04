@@ -169,4 +169,9 @@
          <item>Pouze pro výjimky</item>
          <item>Nikdy</item>
      </string-array>
+     <string-array name="lock_mode">
+          <item>Zamknout, když se uzamkne telefon</item>
+          <item>Zamknout po zavření aplikace</item>
+          <item>Zamknout 1 min. po zavření aplikace</item>
+      </string-array>
 </resources>

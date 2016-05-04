@@ -1504,4 +1504,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="title_app_lock_disable">Zámek apl.</string>
    <string name="notification_item">Nastavit zámek apl.</string>
    <string name="lockpattern_retry_button_text">Zadat znovu</string>
+   <string name="ac_enable_title">Povoliť zámok apl.</string>
+   <string name="after_the_lock_screen">Aplikace je zamknuta spolu s telefonem. Můžete změnit způsob uzamknutí v nastavení zámku apl.</string>
+   <string name="lock_mode_title">Nastavení uzamknutí</string>
 </resources>

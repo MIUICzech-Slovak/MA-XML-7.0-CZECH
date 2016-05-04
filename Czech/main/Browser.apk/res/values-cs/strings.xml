@@ -785,7 +785,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
-  <string name="search_hint">Hledat nebo zadat adresu</string>
+  <string name="search_hint">Vyhledat nebo zadejte URL adresu</string>
   <string name="search_label">Prohlížeč</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Záložky a historie</string>
@@ -888,7 +888,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="url_copy_done">Adresa je zkopírovaná</string>
   <string name="url_find_on_page_result">Zobrazit v prohlížeči</string>
   <string name="url_find_on_page_result_item">Zobrazit celý text pro \"%s\"</string>
-  <string name="url_hint">Hledat nebo zadat URL</string>
+  <string name="url_hint">Vyhledat nebo zadejte URL adresu</string>
   <string name="url_hint_from_search">Zadejte klíčové slovo</string>
   <string name="url_opened_in_background">Otevřít v kartě na pozadí</string>
   <string name="url_suggest_indicator_bookmark">Záložky/Historie</string>

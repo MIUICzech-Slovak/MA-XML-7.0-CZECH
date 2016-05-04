@@ -1190,4 +1190,9 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="telocation_country_code_enabled_message">Přidat kód země při volání pro pohodlnější volání domů.</string>
    <string name="telocation_country_code_enabled_title">Přidat kód země při volání</string>  
    <string name="call_record_loading_content">Načítání...</string>
+   <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
+   <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
+   <string name="cdma_alert_title">SIM karta musí být výchozí</string>
+   <string name="config_default_data_sim">Nastavení</string>
+   <string name="got_it">OK</string>
 </resources>
