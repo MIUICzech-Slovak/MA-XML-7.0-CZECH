@@ -503,4 +503,9 @@
   <string name="more_settings_summary">Nastavení stahování, spánku, mobilních dat atd.</string>
   <string name="settings">Nastavení</string>
   <string name="toast_cancel_play">Přehrávání zrušeno</string>
+  <string name="desktop_lyric_lock_toast">Uzamčeno. Použijte Mini Přehrávač v liště pro odblokování</string>
+   <string name="permission_declaration_message">Povolte přístup k úložišti v aplikaci Optimalizace &gt; Povolení &gt; Správa povolení &gt; Úložiště &gt; Hudba pro správné fungování aplikace.</string>
+   <string name="permission_declaration_negative_text">Později</string>
+   <string name="permission_declaration_positive_text">Přejít do aplikace Optimalizace</string>
+   <string name="permission_declaration_title">Povolit</string>
 </resources>

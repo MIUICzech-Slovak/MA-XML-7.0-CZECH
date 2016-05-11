@@ -671,4 +671,5 @@ s "</string>
    <string name="passport_uplink_slot2_reg">Použít SIM 2</string>
    <string name="passport_use_generated_pwd_message">Ujistěte se, že si pamatujete své heslo. Můžete se s ním přihlásit na jiném Xiaomi zařízení.</string>
    <string name="passport_use_generated_pwd_title">Pamatujte si své heslo!</string>
+   <string name="passport_find_device_display_id">Odblokovat číslo: %s</string>
 </resources>
