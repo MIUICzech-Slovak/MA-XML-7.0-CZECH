@@ -1457,6 +1457,9 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sync_undo_deletes">Vrátit mazání zpět</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotykem nastavíte.</string>
+  <string name="tethered_notification_multi_device_message">Připojených: %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikdo není připojen</string>
+  <string name="tethered_notification_one_device_message">Připojených: %1$s</string>
   <string name="tethered_notification_title">Je aktivní tethering nebo hotspot</string>
   <string name="textSelectionCABTitle">Výběr textu</string>
   <string name="text_copied">Text byl zkopírován do schránky.</string>

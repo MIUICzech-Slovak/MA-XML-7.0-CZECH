@@ -3883,4 +3883,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="erase_sd_data_description">Formátování vymaže všechny soubory na SD kartě</string>  
   <string name="screen_key_position">Navigační tlačítka</string>
   <string name="key_position_cat">Rozložení tlačítek</string>
+  <string name="dial_application_title">Volání</string>
 </resources>

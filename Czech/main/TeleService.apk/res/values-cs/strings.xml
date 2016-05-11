@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM kartě</string>
-  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
-  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
-  <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="active_phone_success_nochoice">SIM card verified</string>
+  <string name="active_phone_fail_nochoice">"Nelze ověřit SIM kartu"</string>
+  <string name="active_phone_fail_toast">"Nelze ověřit SIM kartu %1$s"</string>
+  <string name="active_phone_sim_absent">Vložte SIM kartu</string>
+  <string name="active_phone_success_nochoice">SIM karta ověčena</string>
   <string name="active_phone_success_toast">SIM card %1$s verified</string>
-  <string name="activing_simcard">Verifying SIM %1$d</string>
-  <string name="activing_simcard_alone">Verifying SIM</string>
+  <string name="activing_simcard">Ověřování SIM %1$d</string>
+  <string name="activing_simcard_alone">Ověřování SIM</string>
   <string name="add">Přidat</string>
   <string name="addSimEntries">Přidat kontakt na SIM</string>
   <string name="add_fdn_contact">Přidat kontakt na seznam povolených čísel</string>
@@ -228,6 +228,8 @@
   <string name="change_default_data">Změnit</string>
   <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
   <string name="change_default_data_alert_title">Karta UIM musí být výchozí</string>
+  <string name="change_default_data_card">Výchozí SIM pro data</string>
+  <string name="change_default_data_card_summary">Byla změněna SIM karta. Chcete nastavit tuto SIM jako výchozí pro mobilní data?</string>
   <string name="change_num">Aktualizovat</string>
   <string name="change_password">Změnit heslo blokování hovorů</string>
   <string name="change_pin">Změnit kód PIN karty SIM</string>

@@ -48,12 +48,12 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="cloud_back_up_share_activity_title">Navýšit Xiaomi účet</string>
   <string name="cloud_back_up_task">Zálohování...</string>
   <string name="cloud_backup_detail_frequence">Plánování zálohy</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Záloha pouze jednou</string>
+  <string name="cloud_backup_detail_frequence_day">Zálohovat jednou %1$s</string>
   <string name="cloud_backup_detail_manage">Spravovat zálohu</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Záloha, velikost: %2$s</string>
   <string name="cloud_backup_detail_state">MiCloud záloha</string>
   <string name="cloud_backup_detail_state_summary">Apl, Nastavení plochy a systému</string>
-  <string name="cloud_backup_detail_time">, čas zálohy: %1$s</string>
+  <string name="cloud_backup_detail_time">Zálohováno: %1$s</string>
   <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
   <string name="cloud_backup_select_recover">Vybrat zálohu z MiCloud</string>
   <string name="backup_finished_notification_content">Zálohované aplikace, nastavení, atd.</string>
@@ -113,4 +113,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="start_recover">Obnovit %s</string>
   <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
+  <string name="backup_now">Zálohovat nyní</string>
+  <string name="backup_successfully">Úspěšně zálohováno</string>
+  <string name="restore_task_unfinished">Obnovení aplikací, zkuste to později.</string>
 </resources>
