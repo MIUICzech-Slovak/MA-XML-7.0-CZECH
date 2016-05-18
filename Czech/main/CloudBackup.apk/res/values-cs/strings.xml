@@ -48,7 +48,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="cloud_back_up_share_activity_title">Navýšit Xiaomi účet</string>
   <string name="cloud_back_up_task">Zálohování...</string>
   <string name="cloud_backup_detail_frequence">Plánování zálohy</string>
-  <string name="cloud_backup_detail_frequence_day">Zálohovat jednou %1$s</string>
+  <string name="cloud_backup_detail_frequence_day">Zálohovat každý %1$s</string>
   <string name="cloud_backup_detail_manage">Spravovat zálohu</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Záloha, velikost: %2$s</string>
   <string name="cloud_backup_detail_state">MiCloud záloha</string>

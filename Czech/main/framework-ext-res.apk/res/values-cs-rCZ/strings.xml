@@ -113,4 +113,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznámé číslo</string>
+   <string name="turn_off">Vypnout</string>
+   <string name="add_frequent_phrases">Přidat časté fráze</string>
+   <string name="frequent_phrases">Časté fráze</string>
 </resources>

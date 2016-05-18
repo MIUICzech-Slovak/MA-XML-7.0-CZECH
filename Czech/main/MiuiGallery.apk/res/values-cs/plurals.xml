@@ -193,4 +193,12 @@
          <item quantity="other">%1$d položek | %2$s</item>
          <item quantity="one">%1$d položek | %2$s</item>
      </plurals>
+     <plurals name="download_error">
+         <item quantity="other">Stahování selhalo: %1$d</item>
+         <item quantity="one">Stahování selhalo: %1$d</item>
+     </plurals>
+     <plurals name="custom_select_title_items_selected">
+         <item quantity="other">Vybráno: %d</item>
+         <item quantity="one">Vybráno: %d</item>
+     </plurals>	
 </resources>

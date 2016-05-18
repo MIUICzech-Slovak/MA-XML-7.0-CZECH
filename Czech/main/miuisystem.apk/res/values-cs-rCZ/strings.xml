@@ -195,4 +195,13 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
+   <string name="add_frequent_phrases">Přidat časté fráze</string>
+   <string name="delete_frequent_phrases">Vymazat časté fráze</string>
+   <string name="delete_frequent_phrases_confirm">Vymazat vybrané fráze?</string>
+   <string name="edit_frequent_phrases">Upravit časté fráze</string>
+   <string name="frequent_phrases_des">Vložte často používané fráze rychle během psaní</string>
+   <string name="frequent_phrases_size_exceeded">Nelze přidat více, než 10 frází.</string>
+   <string name="menu_add_frequent_phrases">Přidat</string>
+   <string name="menu_delete">Vymazat</string>
+   <string name="menu_edit">Upravit</string>
 </resources>

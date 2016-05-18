@@ -688,4 +688,5 @@ s "</string>
    <string name="find_device_unknown_error">Nelze načíst stav zařízení, zkuste to později.</string>
    <string name="turn_off_find_device_failed_title">Nelze deaktivovat vyhledávání zařízení</string>
    <string name="turning_off_find_device">Deaktivování vyhledávání zařízení...</string>
+   <string name="account_error_all_space_user_name">Jméno se nesmí skládat z mezer</string>
 </resources>
