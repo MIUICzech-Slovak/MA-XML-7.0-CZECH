@@ -82,4 +82,5 @@
   <string name="sender_wait_queue">Čekání</string>
   <string name="transfer_interrupt">Přenos přerušen</string>
   <string name="transmission_connect">Příjemce nenalezen</string>
+   <string name="runtime_permission_ungranted">Nelze použít MiDrop kvůli zakázanému povolení</string>
 </resources>

@@ -387,4 +387,18 @@
    <string name="data_notice_online_large_image">Stahovat fotografie do kalendáře pouze s Wi-Fi</string>
    <string name="data_notice_change_settings">Nastavení</string>
    <string name="data_notice_continue_confirm">Pokračovat</string>
+   <string name="event_info_jump_to_email">Otevřít E-mail</string>
+   <string name="festival_detail_title">Festival</string>
+   <string name="insert_event_dialog_btn_negative">Ne</string>
+   <string name="insert_event_dialog_btn_positive">Ano</string>
+   <string name="insert_event_dialog_message">Přidat tuto událost do kalendáře?</string>
+   <string name="insert_event_dialog_title">Upozornění</string>
+   <string name="insert_event_toast_add_failed">Přidání selhalo</string>
+   <string name="insert_event_toast_add_success">Událost vytvořena</string>
+   <string name="menu_reminder_preferences">Nastavení upozornění</string>
+   <string name="preferences_history_events">Show history events</string>
+   <string name="preferences_holidays">Show holidays</string>
+   <string name="preferences_solar_terms">Show solar days</string>
+   <string name="setting_holiday">Holidays</string>
+   <string name="setting_others">Ostatní</string>
 </resources>

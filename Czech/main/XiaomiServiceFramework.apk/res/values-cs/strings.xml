@@ -118,4 +118,8 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="activate_feature_default_name">Mi Služby</string>
+   <string name="explain_send_sms_permission_button">Ověřit</string>
+   <string name="explain_send_sms_permission_msg">Pro povolení %s, Xiaomi Service Framework odešle SMS pro ověření vašeho telefonního čísla. Tato SMS bude zpoplatněna dle vašeho operátora.</string>
+   <string name="explain_send_sms_permission_title">Ověření vašeho telefonního čísla</string>
 </resources>

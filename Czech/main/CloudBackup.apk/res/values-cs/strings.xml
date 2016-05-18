@@ -116,4 +116,5 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="backup_now">Zálohovat nyní</string>
   <string name="backup_successfully">Úspěšně zálohováno</string>
   <string name="restore_task_unfinished">Obnovení aplikací, zkuste to později.</string>
+  <string name="account_error">Chyba účtu</string>
 </resources>

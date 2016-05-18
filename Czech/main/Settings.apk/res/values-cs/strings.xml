@@ -1738,6 +1738,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="master_clear_title">Obnovení továrních dat</string>
   <string name="max_cpu6_info">"6 jader "</string>
   <string name="max_cpu8_info">"8 jader "</string>
+  <string name="max_cpu8_info">"10 jader "</string>
   <string name="max_fingerprint_number_reached">Nelze uložit více, než 5 otisků prstu. Pro přidání otisku prstu musíte vymazat některý z již uložených.</string>
   <string name="media_button">Tlačítko Media</string>
   <string name="media_category">Média</string>
@@ -1998,6 +1999,8 @@ Zvolte Váš operační systém:"</string>
   <string name="no_applications">Žádné aplikace</string>
   <string name="no_condition_providers">Nejsou nainstalováni žádní poskytovatelé podmínek.</string>
   <string name="no_device_admins">Není k dispozici žádný správce zařízení</string>
+  <string name="no_internet_access_remember">V budoucnu se na tuto síť neptat</string>
+  <string name="no_internet_access_text">Síť %1$s nemá přístup k internetu. Chcete k ní zůstat připojeni?</string>
   <string name="no_media_button_receiver">Ne</string>
   <string name="no_nearby_wifi">Žádná Wi-Fi nebyla nalezena, spusťte hledání znovu nebo přidejte Wi-Fi ručně</string>
   <string name="no_notification_listeners">Nejsou nainstalovány žádné aplikace poslouchající oznámení.</string>
@@ -3884,4 +3887,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="screen_key_position">Navigační tlačítka</string>
   <string name="key_position_cat">Rozložení tlačítek</string>
   <string name="dial_application_title">Volání</string>
+  <string name="attempt_other_network">Vybrat jinou síť</string>
+  <string name="use_this_wlan">Použít tuto Wi-Fi</string>
+  <string name="touch_assistant">Dotykový asistent</string>
 </resources>

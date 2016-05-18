@@ -60,7 +60,7 @@ Přihlaste se na www.miuios.cz :)</string>
   <string name="welcome">Vítejte</string>
   <string name="desc_international_fingerprint">Použijte otisk prstu pro odemknutí vašeho zařízení nebo přihlášení.</string>
   <string name="alert_dialog_btn_close">Zakázat</string>
-   <string name="alert_dialog_btn_open">Zrušit</string>
+   <string name="alert_dialog_btn_open">Povolit</string>
    <string name="alert_dialog_msg">Některé důležité funkcee a služby MIUI nebudou fungovat správně bez těchto povolení (např. nebude možné zobrazit informace o kontaktu při hovoru). Pokud zakážete tato povolení, MIUI aplikace se budou dožadovat o jednotlivé povolení, když bude potřeba."</string>
    <string name="alert_dialog_title">Některé služby nebudou fungovat správně...</string>
    <string name="other_settings_permission">Povolení pro MIUI služby</string>
