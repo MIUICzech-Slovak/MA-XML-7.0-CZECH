@@ -56,7 +56,7 @@
   <string name="adding_to_album">Přidávání fotografií...</string>
   <string name="adjust">Přizpůsobit</string>
   <string name="album_already_exists">Totožné album již existuje</string>
-  <string name="album_already_forced_top">Již je nahoře</string>
+  <string name="album_already_forced_top">Připnuto</string>
   <string name="album_camera_name">Fotoaparát</string>
   <string name="album_detail_page_empty">Žádné fotky ani video</string>
   <string name="album_faces_name">Lidé</string>
