@@ -1513,4 +1513,5 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="ac_enter_applock">Zadejte Zámek apl.</string>
    <string name="ac_summaryOff">Vypnuto, není vyžadováno heslo pro otevření aplikací</string>
    <string name="ac_summaryOn">Zapnuté, je vyžadováno heslo pro otevření aplikací</string>
+  <string name="activity_title_other_permission_manager">Ostatní oprávnění</string>
 </resources>
