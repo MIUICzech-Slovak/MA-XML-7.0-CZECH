@@ -197,4 +197,5 @@ Zkuste to znovu během %d sekund."</string>
   <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Připojením k bezdrátovému zobrazovacímu zařízení bude odpojeno aktuální připojení Wi-Fi Direct. Chcete pokračovat?</string>
   <string name="wifi_p2p_frequency_conflict_message">Telefon bude dočasně odpojen od sítě Wi-Fi, zatímco bude připojen k %1$s (pouze pří změně kanálového pásma a ID aktuálních přístupových bodů Wi-Fi na %2$s)</string>
   <string name="wifi_wps_failed_overlap">Byla zjištěna další relace WPS. Zkuste prosím to znovu za několik minut.</string>
+  <string name="status_bar_toggle_cast">Přenos</string>
 </resources>
