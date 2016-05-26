@@ -480,7 +480,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
    <string name="connect_network">Připojte se k Wi-Fi nebo vložte SIM kartu</string>
    <string name="connect_wlan">Připojte se k Wi-Fi</string>
    <string name="detect_sim_card">Vyhledat SIM kartu</string>
-   <string name="master_alert_notif_content">%d dát se nesynchr.</string>
+   <string name="master_alert_notif_content">Není možné synchr.</string>
    <string name="micloud_detail_battery_low_message">Slabá baterie. Připojte telefon k nabíječce a synchr.</string>
    <string name="micloud_detail_battery_low_title">Slabá baterie</string>
    <string name="micloud_detail_depend_wifi_message">Připojte se k Wi-Fi nebo zkontrolujte nastavení synchr.</string>
