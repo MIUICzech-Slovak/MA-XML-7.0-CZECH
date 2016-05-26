@@ -201,4 +201,28 @@
          <item quantity="other">Vybráno: %d</item>
          <item quantity="one">Vybráno: %d</item>
      </plurals>	
+     <plurals name="backuped">
+         <item quantity="other">Zálohováno: %1$d</item>
+         <item quantity="one">Zálohováno: %1$d</item>
+     </plurals>
+     <plurals name="backup_waiting">
+         <item quantity="other">Čeká na zálohování: %1$d</item>
+         <item quantity="one">Čeká na zálohování: %1$d</item>
+     </plurals>
+     <plurals name="network_unsatisfied">
+         <item quantity="other">Chyba sítě. Čeká na zálohování: %1$d</item>
+         <item quantity="one">Chyba sítě. Čeká na zálohování: %1$d</item>
+     </plurals>
+     <plurals name="sync_off">
+         <item quantity="other">Synchr. je vypnuta. Čeká na zálohování: %1$d</item>
+         <item quantity="one">Synchr. je vypnuta. Čeká na zálohování: %1$d</item>
+     </plurals>
+     <plurals name="cloud_space_full">
+         <item quantity="other">MiCloud je plný. Čeká na zálohování: %1$d</item>
+         <item quantity="one">MiCloud je plný. Čeká na zálohování: %1$d</item>
+     </plurals>
+     <plurals name="local_space_full">
+         <item quantity="other">Nedostatek místa na úložišti. Čeká na zálohování: %1$d</item>
+         <item quantity="one">Nedostatek místa na úložišti. Čeká na zálohování: %1$d</item>
+     </plurals>	
 </resources>

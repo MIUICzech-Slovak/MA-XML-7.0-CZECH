@@ -502,6 +502,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
    <string name="micloud_notif_title_sync_finish">Synchr.</string>
    <string name="micloud_notif_title_sync_not_finish">Nesynchr.</string>
    <string name="micloud_notif_title_sync_progress">Synchr...</string>
-   <string name="micloud_website">Cloud data</string>
+   <string name="micloud_website">MiCloud</string>
    <string name="sub_alert_notif_content">Povolte MiCloud</string>
 </resources>

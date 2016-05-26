@@ -1037,4 +1037,11 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="failed_read_phone_state_permission">Nemá povolení pro přístup ke stavu zařízení</string>
+   <string name="failed_read_write_calendar_permission">Nemá povolení pro přístup ke kalendáři</string>
+   <string name="failed_read_write_contacts_permission">Nemá povolení pro přístup ke kontaktům</string>
+   <string name="contact_permission_error">Přístup ke kontaktům zamítnut</string>
+   <string name="request_permission_activity">Je nutné povolení</string>
+   <string name="wipe_account_fail_description">Dotykem udělíte povolení</string>
+   <string name="wipe_account_fail_title">Vymazání osobních údajů selhalo</string>
 </resources>
