@@ -426,7 +426,7 @@ společně!"</string>
   <string name="fail_to_sync_album">Nastala chyba při synchronizaci se serverem. Zkontrolujte nastavení sítě.</string>
   <string name="family_member_invitation_text">Jiný člen rodiny</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
-  <string name="file_finish">Synch. na MiCloud</string>
+  <string name="file_finish">Synchr. na MiCloud</string>
   <string name="file_not_exist_message">Soubor neexistuje</string>
   <string name="file_size">Velikost souboru</string>
   <string name="file_uploading">Synchronizuje se...</string>

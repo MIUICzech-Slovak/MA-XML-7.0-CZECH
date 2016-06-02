@@ -2701,7 +2701,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="summary_virus_update">Aktualizace virové databáze automaticky po připojení k Wi-Fi</string>
   <string name="supplicant_state_label">Stav žádosti:</string>
   <string name="sync_active">Synchronizace je aktivní</string>
-  <string name="sync_automatically">Autom. synch. data aplikací</string>
+  <string name="sync_automatically">Autom. synchr. data aplikací</string>
   <string name="sync_calendar">Kalendář</string>
   <string name="sync_contacts">Kontakty</string>
   <string name="sync_disabled">Synchronizace vypnuta</string>

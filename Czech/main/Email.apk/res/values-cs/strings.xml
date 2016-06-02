@@ -711,14 +711,14 @@ Kopie: %4$s
   <string name="outbox_alert_button_no_resend">"Neodeslat"</string>
   <string name="outbox_alert_button_resend">Odeslat</string>
   <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovat.</string>
-  <string name="outbox_alert_description_auth_error">Příčina: Chyba přihlášení serveru během synch. odchozí pošty</string>
+  <string name="outbox_alert_description_auth_error">Příčina: Chyba přihlášení serveru během synchr. odchozí pošty</string>
   <string name="outbox_alert_description_cannot_authenticate">Chyba přihlášení na %s</string>
   <string name="outbox_alert_description_email_size_error">Dosaženo maximální velikosti zprávy.</string>
   <string name="outbox_alert_description_fail_authentication">Jméno nebo heslo není správné</string>
   <string name="outbox_alert_description_fail_network">Chyba sítě.</string>
-  <string name="outbox_alert_description_http_error">Příčina: HTTP chyba serveru během synch. odchozí pošty</string>
+  <string name="outbox_alert_description_http_error">Příčina: HTTP chyba serveru během synchr. odchozí pošty</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatek volného místa na serveru</string>
-  <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synch. odchozí pošty</string>
+  <string name="outbox_alert_description_provision_error">Příčina: chyba serveru během synchr. odchozí pošty</string>
   <string name="outbox_alert_description_reject_by_server">Odmítnuto %s</string>
   <string name="outbox_alert_description_sent_failed">Velikost přílohy přesahuje limit serveru</string>
   <string name="outbox_alert_description_time_out">Chyba připojení</string>
@@ -779,7 +779,7 @@ Kopie: %4$s
   <string name="policy_password_expiration">Požadovat omezenou platnost hesel</string>
   <string name="policy_password_history">Omezit opětovné použití nedávných hesel</string>
   <string name="policy_require_encryption">Požadovat šifrování zařízení</string>
-  <string name="policy_require_manual_sync_roaming">Při roamingu povolit jen ruční synch.</string>
+  <string name="policy_require_manual_sync_roaming">Při roamingu povolit jen ruční synchr.</string>
   <string name="policy_require_password">Požadovat heslo zařízení</string>
   <string name="policy_require_sd_encryption">Požadovat šifrování karty SD</string>
   <string name="policy_require_smime">Požadovat zprávy ve formátu SMIME</string>

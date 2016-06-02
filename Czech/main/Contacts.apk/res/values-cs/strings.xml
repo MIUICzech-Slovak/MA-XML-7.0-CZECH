@@ -163,7 +163,7 @@
   <string name="close_dial_pad">Zavřít číselník</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
-  <string name="cloud_recommend_msg">Dotykem synch. kontakty s MiCloud.</string>
+  <string name="cloud_recommend_msg">Dotykem synchr. kontakty s MiCloud.</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
   <string name="cloud_state_loading">Načítání...</string>
   <string name="cloud_state_sync_finished">Synchr. s Mi Cloud</string>

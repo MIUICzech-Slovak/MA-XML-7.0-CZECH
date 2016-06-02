@@ -384,7 +384,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="photo">Fotografií</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
   <string name="pref_summary_sync_video_on_wifi_only">Synchronizovat video profil kontaktů pouze na Wi-Fi</string>
-  <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
+  <string name="pref_title_sync_contacts_title">Synchr. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
   <string name="pref_title_sync_my_profile_title">Synchr. můj profil</string>
   <string name="pref_title_sync_video_on_wifi_only">Synchr. video pouze přes Wi-Fi</string>
@@ -416,7 +416,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sub_alert_notif_dspt_no">Vše je aktuální.</string>
   <string name="sub_alert_notif_title">Synchr. s MiCloud</string>
   <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synch. MMS / SMS</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synchr. MMS / SMS</string>
   <string name="success_upgraded_space">%s přidáno</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
@@ -427,7 +427,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Použít MiCloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívat MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Přeskočit</string>
-  <string name="sync_dspt_provision">"Synch. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "</string>
+  <string name="sync_dspt_provision">"Synchr. vaše fotografie, kontakty, poznámky mezi vícero zařízení nebo na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">" . Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="sync_dspt_provision_header">Synchr.</string>
@@ -435,7 +435,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_item_calllog_summary">Synchr. seznam hovorů z tohoto zařízení</string>
   <string name="sync_item_calllog_title">Seznam hovorů</string>
   <string name="sync_item_sms_summary">Přečtené SMS budou automaticky synchronizované</string>
-  <string name="sync_item_sms_title">Synch. SMS</string>
+  <string name="sync_item_sms_title">Synchr. SMS</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
   <string name="sync_resend_sms_dspt_provision">. Pokud změníte SIM kartu, bude odeslána mezinárodní SMS pro její aktivaci.</string>
@@ -480,7 +480,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
    <string name="connect_network">Připojte se k Wi-Fi nebo vložte SIM kartu</string>
    <string name="connect_wlan">Připojte se k Wi-Fi</string>
    <string name="detect_sim_card">Vyhledat SIM kartu</string>
-   <string name="master_alert_notif_content">Není možné synchr.</string>
+   <string name="master_alert_notif_content">Nelze synchr.</string>
    <string name="micloud_detail_battery_low_message">Slabá baterie. Připojte telefon k nabíječce a synchr.</string>
    <string name="micloud_detail_battery_low_title">Slabá baterie</string>
    <string name="micloud_detail_depend_wifi_message">Připojte se k Wi-Fi nebo zkontrolujte nastavení synchr.</string>

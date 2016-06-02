@@ -843,13 +843,13 @@ Chcete opustit tuto stránku?"</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchr. otevřené karty prohlížeče mezi různými zařízeními</string>
   <string name="sub_sync_item_browser_title_history">Synchr. historii</string>
   <string name="sub_sync_item_browser_title_history_summary">Synchr. historii prohlížeče</string>
-  <string name="sub_sync_item_browser_title_novel">Synch. novels</string>
-  <string name="sub_sync_item_browser_title_novel_summary">Synch. novels prohlížeče</string>
+  <string name="sub_sync_item_browser_title_novel">Synchr. novels</string>
+  <string name="sub_sync_item_browser_title_novel_summary">Synchr. novels prohlížeče</string>
   <string name="sub_sync_item_browser_title_useful">Synchr. užitečné</string>
   <string name="sub_sync_item_browser_title_useful_summary">Synchr. užitečné stránky</string>
   <string name="sub_sync_item_browser_title_video">Synchr. historii videa</string>
   <string name="sub_sync_item_browser_title_video_summary">Synchr. seznam přehraných videí</string>
-  <string name="sub_sync_item_browser_title_webapp">Synch. webapp</string>
+  <string name="sub_sync_item_browser_title_webapp">Synchr. webapp</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Synchr. přidané webapps a oblíbené</string>
   <string name="suggest_access_btn_install">Instalovat</string>
   <string name="suggest_access_btn_open">Otevřít</string>

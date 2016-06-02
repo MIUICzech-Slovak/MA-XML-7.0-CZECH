@@ -77,8 +77,8 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="account_list">Vše</string>
   <string name="account_settings">Účty</string>
   <string name="account_settings_menu_auto_sync">Autom. synchronizovat data</string>
-  <string name="account_settings_menu_auto_sync_personal">Autom. synch. osobní data</string>
-  <string name="account_settings_menu_auto_sync_work">Autom. synch. pracovní data</string>
+  <string name="account_settings_menu_auto_sync_personal">Autom. synchr. osobní data</string>
+  <string name="account_settings_menu_auto_sync_work">Autom. synchr. pracovní data</string>
   <string name="account_settings_title">Účty</string>
   <string name="account_sync_settings_title">Synchronizace</string>
   <string name="activate_miui_screensaver">Spořič displeje během spánku</string>
@@ -2949,7 +2949,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="switch_on_text">Zapnuto</string>
   <string name="symbols_not_allowed_for_password">Heslo nesmí obsahovat symboly</string>
   <string name="sync_active">Synchronizace je aktivní</string>
-  <string name="sync_automatically">Autom. synch. data aplikací</string>
+  <string name="sync_automatically">Autom. synchr. data aplikací</string>
   <string name="sync_calendar">Kalendář</string>
   <string name="sync_contacts">Kontakty</string>
   <string name="sync_disabled">Synchronizace vypnuta</string>
